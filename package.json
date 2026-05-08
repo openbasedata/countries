@@ -1,0 +1,24 @@
+{
+  "name": "@openbasedata/countries",
+  "version": "1.0.0",
+  "description": "Open base data for all countries and regions in the world",
+  "main": "data.json",
+  "keywords": [
+    "countries",
+    "regions",
+    "world",
+    "data",
+    "iso",
+    "flags"
+  ],
+  "author": "openbasedata",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/openbasedata/countries.git"
+  },
+  "bugs": {
+    "url": "https://github.com/openbasedata/countries/issues"
+  },
+  "homepage": "https://github.com/openbasedata/countries#readme"
+}
