@@ -82,7 +82,8 @@
       "ur": "افغانستان",
       "uz": "Afgʻoniston",
       "vi": "Afghanistan",
-      "zh-CN": "阿富汗"
+      "zh-CN": "阿富汗",
+      "zh-TW": "阿富汗"
     },
     "fullName": {
       "native": "د افغانستان اسلامي جمهوریت",
@@ -103,7 +104,8 @@
       "tr": "Afganistan",
       "uk": "Афганістан",
       "vi": "Afghanistan",
-      "zh-CN": "阿富汗伊斯兰共和国"
+      "zh-CN": "阿富汗伊斯兰共和国",
+      "zh-TW": "阿富汗伊斯蘭共和國"
     },
     "population": 40099462,
     "area": 652230,
@@ -196,7 +198,8 @@
       "ur": "البانیاہ",
       "uz": "Albaniya",
       "vi": "Albania",
-      "zh-CN": "阿尔巴尼亚"
+      "zh-CN": "阿尔巴尼亚",
+      "zh-TW": "阿爾巴尼亞"
     },
     "fullName": {
       "native": "Republika e Shqipërisë",
@@ -217,7 +220,8 @@
       "tr": "Arnavutluk",
       "uk": "Албанія",
       "vi": "Albania",
-      "zh-CN": "阿尔巴尼亚共和国"
+      "zh-CN": "阿尔巴尼亚共和国",
+      "zh-TW": "阿爾巴尼亞共和國"
     },
     "population": 2877797,
     "area": 28748,
@@ -308,7 +312,8 @@
       "ur": "الجزائر",
       "uz": "Jazoir",
       "vi": "Algeria",
-      "zh-CN": "阿尔及利亚"
+      "zh-CN": "阿尔及利亚",
+      "zh-TW": "阿爾及利亞"
     },
     "fullName": {
       "native": "الجمهورية الديمقراطية الشعبية الجزائرية",
@@ -329,7 +334,8 @@
       "tr": "Cezayir",
       "uk": "Алжир",
       "vi": "Algeria",
-      "zh-CN": "阿尔及利亚人民民主共和国"
+      "zh-CN": "阿尔及利亚人民民主共和国",
+      "zh-TW": "阿爾及利亞人民民主共和國"
     },
     "population": 44903225,
     "area": 2381741,
@@ -420,7 +426,8 @@
       "ur": "اینڈورا",
       "uz": "Andorra",
       "vi": "Andorra",
-      "zh-CN": "安道尔"
+      "zh-CN": "安道尔",
+      "zh-TW": "安道爾"
     },
     "fullName": {
       "native": "Principat d'Andorra",
@@ -441,7 +448,8 @@
       "tr": "Andorra",
       "uk": "Андорра",
       "vi": "Andorra",
-      "zh-CN": "安道尔公国"
+      "zh-CN": "安道尔公国",
+      "zh-TW": "安道爾公國"
     },
     "population": 77265,
     "area": 468,
@@ -532,7 +540,8 @@
       "ur": "انگولا",
       "uz": "Angola",
       "vi": "Angola",
-      "zh-CN": "安哥拉"
+      "zh-CN": "安哥拉",
+      "zh-TW": "安哥拉"
     },
     "fullName": {
       "native": "República de Angola",
@@ -553,7 +562,8 @@
       "tr": "Angola",
       "uk": "Ангола",
       "vi": "Angola",
-      "zh-CN": "安哥拉共和国"
+      "zh-CN": "安哥拉共和国",
+      "zh-TW": "安哥拉共和國"
     },
     "population": 34503774,
     "area": 1246700,
@@ -644,7 +654,8 @@
       "ur": "انٹیگوا اور باربودا",
       "uz": "Antigua va Barbuda",
       "vi": "Antigua và Barbuda",
-      "zh-CN": "安提瓜和巴布达"
+      "zh-CN": "安提瓜和巴布达",
+      "zh-TW": "安提瓜和巴布達"
     },
     "fullName": {
       "native": "Antigua and Barbuda",
@@ -665,7 +676,8 @@
       "tr": "Antigua ve Barbuda",
       "uk": "Антигуа і Барбуда",
       "vi": "Antigua và Barbuda",
-      "zh-CN": "安提瓜和巴布达"
+      "zh-CN": "安提瓜和巴布达",
+      "zh-TW": "安提瓜和巴布達"
     },
     "population": 93219,
     "area": 442,
@@ -756,7 +768,8 @@
       "ur": "ارجنٹینا",
       "uz": "Argentina",
       "vi": "Argentina",
-      "zh-CN": "阿根廷"
+      "zh-CN": "阿根廷",
+      "zh-TW": "阿根廷"
     },
     "fullName": {
       "native": "República Argentina",
@@ -777,7 +790,8 @@
       "tr": "Arjantin",
       "uk": "Аргентина",
       "vi": "Argentina",
-      "zh-CN": "阿根廷共和国"
+      "zh-CN": "阿根廷共和国",
+      "zh-TW": "阿根廷共和國"
     },
     "population": 45195777,
     "area": 2780400,
@@ -868,7 +882,8 @@
       "ur": "آرمینیا",
       "uz": "Armaniston",
       "vi": "Armenia",
-      "zh-CN": "亚美尼亚"
+      "zh-CN": "亚美尼亚",
+      "zh-TW": "亞美尼亞"
     },
     "fullName": {
       "native": "Հայաստանի Հանրապետություն",
@@ -889,7 +904,8 @@
       "tr": "Ermenistan",
       "uk": "Вірменія",
       "vi": "Armenia",
-      "zh-CN": "亚美尼亚共和国"
+      "zh-CN": "亚美尼亚共和国",
+      "zh-TW": "亞美尼亞共和國"
     },
     "population": 2971966,
     "area": 29743,
@@ -980,7 +996,8 @@
       "ur": "آسٹریلیا",
       "uz": "Avstraliya",
       "vi": "Australia",
-      "zh-CN": "澳大利亚"
+      "zh-CN": "澳大利亚",
+      "zh-TW": "澳大利亞"
     },
     "fullName": {
       "native": "Commonwealth of Australia",
@@ -1001,7 +1018,8 @@
       "tr": "Avustralya",
       "uk": "Австралія",
       "vi": "Australia",
-      "zh-CN": "澳大利亚联邦"
+      "zh-CN": "澳大利亚联邦",
+      "zh-TW": "澳大利亞聯邦"
     },
     "population": 25921000,
     "area": 7692024,
@@ -1092,7 +1110,8 @@
       "ur": "آسٹریا",
       "uz": "Avstriya",
       "vi": "Áo",
-      "zh-CN": "奥地利"
+      "zh-CN": "奥地利",
+      "zh-TW": "奧地利"
     },
     "fullName": {
       "native": "Republik Österreich",
@@ -1113,7 +1132,8 @@
       "tr": "Avusturya",
       "uk": "Австрія",
       "vi": "Áo",
-      "zh-CN": "奥地利共和国"
+      "zh-CN": "奥地利共和国",
+      "zh-TW": "奧地利共和國"
     },
     "population": 9043070,
     "area": 83871,
@@ -1204,7 +1224,8 @@
       "ur": "آزربائیجان",
       "uz": "Ozarbayjon",
       "vi": "Azerbaijan",
-      "zh-CN": "阿塞拜疆"
+      "zh-CN": "阿塞拜疆",
+      "zh-TW": "阿塞拜疆"
     },
     "fullName": {
       "native": "Azərbaycan Respublikası",
@@ -1225,7 +1246,8 @@
       "tr": "Azerbaycan",
       "uk": "Азербайджан",
       "vi": "Azerbaijan",
-      "zh-CN": "阿塞拜疆共和国"
+      "zh-CN": "阿塞拜疆共和国",
+      "zh-TW": "阿塞拜疆共和國"
     },
     "population": 10139177,
     "area": 86600,
@@ -1316,7 +1338,8 @@
       "ur": "بہاماس",
       "uz": "Bagama orollari",
       "vi": "Bahamas",
-      "zh-CN": "巴哈马"
+      "zh-CN": "巴哈马",
+      "zh-TW": "巴哈馬"
     },
     "fullName": {
       "native": "Commonwealth of the Bahamas",
@@ -1337,7 +1360,8 @@
       "tr": "Bahamalar",
       "uk": "Багамські Острови",
       "vi": "Bahamas",
-      "zh-CN": "巴哈马联邦"
+      "zh-CN": "巴哈马联邦",
+      "zh-TW": "巴哈馬聯邦"
     },
     "population": 393244,
     "area": 13943,
@@ -1428,7 +1452,8 @@
       "ur": "بحرین",
       "uz": "Bahrayn",
       "vi": "Bahrain",
-      "zh-CN": "巴林"
+      "zh-CN": "巴林",
+      "zh-TW": "巴林"
     },
     "fullName": {
       "native": "مملكة البحرين",
@@ -1449,7 +1474,8 @@
       "tr": "Bahreyn",
       "uk": "Бахрейн",
       "vi": "Bahrain",
-      "zh-CN": "巴林王国"
+      "zh-CN": "巴林王国",
+      "zh-TW": "巴林王國"
     },
     "population": 1472233,
     "area": 765,
@@ -1540,7 +1566,8 @@
       "ur": "بنگلہ دیش",
       "uz": "Bangladesh",
       "vi": "Bangladesh",
-      "zh-CN": "孟加拉国"
+      "zh-CN": "孟加拉国",
+      "zh-TW": "孟加拉國"
     },
     "fullName": {
       "native": "বাংলাদেশ গণপ্রজাতন্ত্রী",
@@ -1561,7 +1588,8 @@
       "tr": "Bangladeş",
       "uk": "Бангладеш",
       "vi": "Bangladesh",
-      "zh-CN": "孟加拉人民共和国"
+      "zh-CN": "孟加拉人民共和国",
+      "zh-TW": "孟加拉人民共和國"
     },
     "population": 169356251,
     "area": 147570,
@@ -1652,7 +1680,8 @@
       "ur": "بارباڈوس",
       "uz": "Barbados",
       "vi": "Barbados",
-      "zh-CN": "巴巴多斯"
+      "zh-CN": "巴巴多斯",
+      "zh-TW": "巴巴多斯"
     },
     "fullName": {
       "native": "Barbados",
@@ -1673,7 +1702,8 @@
       "tr": "Barbados",
       "uk": "Барбадос",
       "vi": "Barbados",
-      "zh-CN": "巴巴多斯"
+      "zh-CN": "巴巴多斯",
+      "zh-TW": "巴巴多斯"
     },
     "population": 287375,
     "area": 430,
@@ -1764,7 +1794,8 @@
       "ur": "بیلاروس",
       "uz": "Belarus",
       "vi": "Belarus",
-      "zh-CN": "白俄罗斯"
+      "zh-CN": "白俄罗斯",
+      "zh-TW": "白俄羅斯"
     },
     "fullName": {
       "native": "Рэспубліка Беларусь",
@@ -1785,7 +1816,8 @@
       "tr": "Belarus",
       "uk": "Білорусь",
       "vi": "Belarus",
-      "zh-CN": "白俄罗斯共和国"
+      "zh-CN": "白俄罗斯共和国",
+      "zh-TW": "白俄羅斯共和國"
     },
     "population": 9441900,
     "area": 207600,
@@ -1877,7 +1909,8 @@
       "ur": "بیلجیم",
       "uz": "Belgiya",
       "vi": "Bỉ",
-      "zh-CN": "比利时"
+      "zh-CN": "比利时",
+      "zh-TW": "比利時"
     },
     "fullName": {
       "native": "Koninkrijk België",
@@ -1898,7 +1931,8 @@
       "tr": "Belçika",
       "uk": "Бельгія",
       "vi": "Bỉ",
-      "zh-CN": "比利时王国"
+      "zh-CN": "比利时王国",
+      "zh-TW": "比利時王國"
     },
     "population": 11589623,
     "area": 30528,
@@ -1991,7 +2025,8 @@
       "ur": "بیلیز",
       "uz": "Beliz",
       "vi": "Belize",
-      "zh-CN": "伯利兹"
+      "zh-CN": "伯利兹",
+      "zh-TW": "伯利茲"
     },
     "fullName": {
       "native": "Belize",
@@ -2012,7 +2047,8 @@
       "tr": "Belize",
       "uk": "Беліз",
       "vi": "Belize",
-      "zh-CN": "伯利兹"
+      "zh-CN": "伯利兹",
+      "zh-TW": "伯利茲"
     },
     "population": 419199,
     "area": 22966,
@@ -2103,7 +2139,8 @@
       "ur": "بینن",
       "uz": "Benin",
       "vi": "Benin",
-      "zh-CN": "贝宁"
+      "zh-CN": "贝宁",
+      "zh-TW": "貝寧"
     },
     "fullName": {
       "native": "République du Bénin",
@@ -2124,7 +2161,8 @@
       "tr": "Benin",
       "uk": "Бенін",
       "vi": "Benin",
-      "zh-CN": "贝宁共和国"
+      "zh-CN": "贝宁共和国",
+      "zh-TW": "貝寧共和國"
     },
     "population": 12123200,
     "area": 112622,
@@ -2215,7 +2253,8 @@
       "ur": "بھوٹان",
       "uz": "Butan",
       "vi": "Bhutan",
-      "zh-CN": "不丹"
+      "zh-CN": "不丹",
+      "zh-TW": "不丹"
     },
     "fullName": {
       "native": "འབྲུག་རྒྱལ་ཁབ་",
@@ -2236,7 +2275,8 @@
       "tr": "Butan",
       "uk": "Бутан",
       "vi": "Bhutan",
-      "zh-CN": "不丹王国"
+      "zh-CN": "不丹王国",
+      "zh-TW": "不丹王國"
     },
     "population": 771608,
     "area": 38394,
@@ -2327,7 +2367,8 @@
       "ur": "بولیویا",
       "uz": "Boliviya",
       "vi": "Bolivia",
-      "zh-CN": "玻利维亚"
+      "zh-CN": "玻利维亚",
+      "zh-TW": "玻利維亞"
     },
     "fullName": {
       "native": "Estado Plurinacional de Bolivia",
@@ -2348,7 +2389,8 @@
       "tr": "Bolivya",
       "uk": "Болівія",
       "vi": "Bolivia",
-      "zh-CN": "玻利维亚多民族国"
+      "zh-CN": "玻利维亚多民族国",
+      "zh-TW": "玻利維亞多民族國"
     },
     "population": 11513100,
     "area": 1098581,
@@ -2441,7 +2483,8 @@
       "ur": "بوسنیا اور ہرزیگوینا",
       "uz": "Bosniya va Gertsegovina",
       "vi": "Bosnia và Herzegovina",
-      "zh-CN": "波斯尼亚和黑塞哥维那"
+      "zh-CN": "波斯尼亚和黑塞哥维那",
+      "zh-TW": "波斯尼亞和黑塞哥維那"
     },
     "fullName": {
       "native": "Bosna i Hercegovina",
@@ -2462,7 +2505,8 @@
       "tr": "Bosna-Hersek",
       "uk": "Боснія і Герцеговина",
       "vi": "Bosnia và Herzegovina",
-      "zh-CN": "波斯尼亚和黑塞哥维那"
+      "zh-CN": "波斯尼亚和黑塞哥维那",
+      "zh-TW": "波斯尼亞和黑塞哥維那"
     },
     "population": 3280819,
     "area": 51197,
@@ -2555,7 +2599,8 @@
       "ur": "بوٹسوانا",
       "uz": "Botsvana",
       "vi": "Botswana",
-      "zh-CN": "博茨瓦纳"
+      "zh-CN": "博茨瓦纳",
+      "zh-TW": "博茨瓦納"
     },
     "fullName": {
       "native": "Republic of Botswana",
@@ -2576,7 +2621,8 @@
       "tr": "Botsvana",
       "uk": "Ботсвана",
       "vi": "Botswana",
-      "zh-CN": "博茨瓦纳共和国"
+      "zh-CN": "博茨瓦纳共和国",
+      "zh-TW": "博茨瓦納共和國"
     },
     "population": 2630296,
     "area": 581730,
@@ -2668,7 +2714,8 @@
       "ur": "برازیل",
       "uz": "Braziliya",
       "vi": "Brazil",
-      "zh-CN": "巴西"
+      "zh-CN": "巴西",
+      "zh-TW": "巴西"
     },
     "fullName": {
       "native": "República Federativa do Brasil",
@@ -2689,7 +2736,8 @@
       "tr": "Brezilya",
       "uk": "Бразилія",
       "vi": "Brazil",
-      "zh-CN": "巴西联邦共和国"
+      "zh-CN": "巴西联邦共和国",
+      "zh-TW": "巴西聯邦共和國"
     },
     "population": 215313498,
     "area": 8515767,
@@ -2780,7 +2828,8 @@
       "ur": "برونائی دارالسلام",
       "uz": "Bruney",
       "vi": "Brunei",
-      "zh-CN": "文莱"
+      "zh-CN": "文莱",
+      "zh-TW": "文萊"
     },
     "fullName": {
       "native": "Nation of Brunei, Abode Damai",
@@ -2801,7 +2850,8 @@
       "tr": "Brunei",
       "uk": "Бруней",
       "vi": "Brunei",
-      "zh-CN": "文莱达鲁萨兰国"
+      "zh-CN": "文莱达鲁萨兰国",
+      "zh-TW": "文萊達魯薩蘭國"
     },
     "population": 441532,
     "area": 5765,
@@ -2892,7 +2942,8 @@
       "ur": "بلغاریہ",
       "uz": "Bolgariya",
       "vi": "Bulgaria",
-      "zh-CN": "保加利亚"
+      "zh-CN": "保加利亚",
+      "zh-TW": "保加利亞"
     },
     "fullName": {
       "native": "Република България",
@@ -2913,7 +2964,8 @@
       "tr": "Bulgaristan",
       "uk": "Болгарія",
       "vi": "Bulgaria",
-      "zh-CN": "保加利亚共和国"
+      "zh-CN": "保加利亚共和国",
+      "zh-TW": "保加利亞共和國"
     },
     "population": 6520314,
     "area": 110879,
@@ -3004,7 +3056,8 @@
       "ur": "برکینا فاسو",
       "uz": "Burkina-Faso",
       "vi": "Burkina Faso",
-      "zh-CN": "布基纳法索"
+      "zh-CN": "布基纳法索",
+      "zh-TW": "布基納法索"
     },
     "fullName": {
       "native": "République du Burkina",
@@ -3025,7 +3078,8 @@
       "tr": "Burkina Faso",
       "uk": "Буркіна-Фасо",
       "vi": "Burkina Faso",
-      "zh-CN": "布基纳法索"
+      "zh-CN": "布基纳法索",
+      "zh-TW": "布基納法索"
     },
     "population": 22102838,
     "area": 274222,
@@ -3116,7 +3170,8 @@
       "ur": "برونڈی",
       "uz": "Burundi",
       "vi": "Burundi",
-      "zh-CN": "布隆迪"
+      "zh-CN": "布隆迪",
+      "zh-TW": "布隆迪"
     },
     "fullName": {
       "native": "République du Burundi",
@@ -3137,7 +3192,8 @@
       "tr": "Burundi",
       "uk": "Бурунді",
       "vi": "Burundi",
-      "zh-CN": "布隆迪共和国"
+      "zh-CN": "布隆迪共和国",
+      "zh-TW": "布隆迪共和國"
     },
     "population": 12574571,
     "area": 27834,
@@ -3232,7 +3288,8 @@
       "ur": "کیپ وردے",
       "uz": "Kabo-Verde",
       "vi": "Cape Verde",
-      "zh-CN": "佛得角"
+      "zh-CN": "佛得角",
+      "zh-TW": "佛得角"
     },
     "fullName": {
       "native": "República de Cabo Verde",
@@ -3253,7 +3310,8 @@
       "tr": "Cape Verde",
       "uk": "Кабо-Верде",
       "vi": "Cape Verde",
-      "zh-CN": "佛得角共和国"
+      "zh-CN": "佛得角共和国",
+      "zh-TW": "佛得角共和國"
     },
     "population": 593149,
     "area": 4033,
@@ -3344,7 +3402,8 @@
       "ur": "کمبوڈیا",
       "uz": "Kambodja",
       "vi": "Campuchia",
-      "zh-CN": "柬埔寨"
+      "zh-CN": "柬埔寨",
+      "zh-TW": "柬埔寨"
     },
     "fullName": {
       "native": "ព្រះរាជាណាចក្រកម្ពុជា",
@@ -3365,7 +3424,8 @@
       "tr": "Kamboçya",
       "uk": "Камбоджа",
       "vi": "Campuchia",
-      "zh-CN": "柬埔寨王国"
+      "zh-CN": "柬埔寨王国",
+      "zh-TW": "柬埔寨王國"
     },
     "population": 16589023,
     "area": 181035,
@@ -3456,7 +3516,8 @@
       "ur": "کیمرون",
       "uz": "Kamerun",
       "vi": "Cameroon",
-      "zh-CN": "喀麦隆"
+      "zh-CN": "喀麦隆",
+      "zh-TW": "喀麥隆"
     },
     "fullName": {
       "native": "République du Cameroun",
@@ -3477,7 +3538,8 @@
       "tr": "Kamerun",
       "uk": "Камерун",
       "vi": "Cameroon",
-      "zh-CN": "喀麦隆共和国"
+      "zh-CN": "喀麦隆共和国",
+      "zh-TW": "喀麥隆共和國"
     },
     "population": 27914536,
     "area": 475442,
@@ -3569,7 +3631,8 @@
       "ur": "کینیڈا",
       "uz": "Kanada",
       "vi": "Canada",
-      "zh-CN": "加拿大"
+      "zh-CN": "加拿大",
+      "zh-TW": "加拿大"
     },
     "fullName": {
       "native": "Canada",
@@ -3590,7 +3653,8 @@
       "tr": "Kanada",
       "uk": "Канада",
       "vi": "Canada",
-      "zh-CN": "加拿大"
+      "zh-CN": "加拿大",
+      "zh-TW": "加拿大"
     },
     "population": 38246108,
     "area": 9984670,
@@ -3682,7 +3746,8 @@
       "ur": "وسطی افریقی جمہوریہ",
       "uz": "Markaziy Afrika Respublikasi",
       "vi": "Cộng hòa Trung Phi",
-      "zh-CN": "中非共和国"
+      "zh-CN": "中非共和国",
+      "zh-TW": "中非共和國"
     },
     "fullName": {
       "native": "République centrafricaine",
@@ -3703,7 +3768,8 @@
       "tr": "Orta Afrika Cumhuriyeti",
       "uk": "Центральноафриканська Республіка",
       "vi": "Cộng hòa Trung Phi",
-      "zh-CN": "中非共和国"
+      "zh-CN": "中非共和国",
+      "zh-TW": "中非共和國"
     },
     "population": 5579144,
     "area": 622984,
@@ -3795,7 +3861,8 @@
       "ur": "چاڈ",
       "uz": "Chad",
       "vi": "Chad",
-      "zh-CN": "乍得"
+      "zh-CN": "乍得",
+      "zh-TW": "乍得"
     },
     "fullName": {
       "native": "République du Tchad",
@@ -3816,7 +3883,8 @@
       "tr": "Çad",
       "uk": "Чад",
       "vi": "Chad",
-      "zh-CN": "乍得共和国"
+      "zh-CN": "乍得共和国",
+      "zh-TW": "乍得共和國"
     },
     "population": 17413580,
     "area": 1284000,
@@ -3908,7 +3976,8 @@
       "ur": "چلی",
       "uz": "Chili",
       "vi": "Chile",
-      "zh-CN": "智利"
+      "zh-CN": "智利",
+      "zh-TW": "智利"
     },
     "fullName": {
       "native": "República de Chile",
@@ -3929,7 +3998,8 @@
       "tr": "Şili",
       "uk": "Чилі",
       "vi": "Chile",
-      "zh-CN": "智利共和国"
+      "zh-CN": "智利共和国",
+      "zh-TW": "智利共和國"
     },
     "population": 19116201,
     "area": 756102,
@@ -4023,7 +4093,8 @@
       "ur": "چین",
       "uz": "Xitoy",
       "vi": "Trung Quốc",
-      "zh-CN": "中国"
+      "zh-CN": "中国",
+      "zh-TW": "中國"
     },
     "fullName": {
       "native": "中华人民共和国",
@@ -4044,7 +4115,8 @@
       "tr": "Çin",
       "uk": "Китай",
       "vi": "Trung Quốc",
-      "zh-CN": "中华人民共和国"
+      "zh-CN": "中华人民共和国",
+      "zh-TW": "中華人民共和國"
     },
     "population": 1413400000,
     "area": 9596961,
@@ -4135,7 +4207,8 @@
       "ur": "کولمبیا",
       "uz": "Kolumbiya",
       "vi": "Colombia",
-      "zh-CN": "哥伦比亚"
+      "zh-CN": "哥伦比亚",
+      "zh-TW": "哥倫比亞"
     },
     "fullName": {
       "native": "República de Colombia",
@@ -4156,7 +4229,8 @@
       "tr": "Kolombiya",
       "uk": "Колумбія",
       "vi": "Colombia",
-      "zh-CN": "哥伦比亚共和国"
+      "zh-CN": "哥伦比亚共和国",
+      "zh-TW": "哥倫比亞共和國"
     },
     "population": 51874024,
     "area": 1141748,
@@ -4247,7 +4321,8 @@
       "ur": "کوموروس",
       "uz": "Komor orollari",
       "vi": "Comoros",
-      "zh-CN": "科摩罗"
+      "zh-CN": "科摩罗",
+      "zh-TW": "科摩羅"
     },
     "fullName": {
       "native": "الاتحاد القمري",
@@ -4268,7 +4343,8 @@
       "tr": "Komorlar",
       "uk": "Комори",
       "vi": "Comoros",
-      "zh-CN": "科摩罗联盟"
+      "zh-CN": "科摩罗联盟",
+      "zh-TW": "科摩羅聯盟"
     },
     "population": 888451,
     "area": 2235,
@@ -4366,7 +4442,8 @@
       "ur": "کانگو",
       "uz": "Kongo – Brazzavil",
       "vi": "Congo - Brazzaville",
-      "zh-CN": "刚果共和国"
+      "zh-CN": "刚果共和国",
+      "zh-TW": "剛果共和國"
     },
     "fullName": {
       "native": "République du Congo",
@@ -4387,7 +4464,8 @@
       "tr": "Kongo - Brazavil",
       "uk": "Конго – Браззавіль",
       "vi": "Congo - Brazzaville",
-      "zh-CN": "刚果共和国"
+      "zh-CN": "刚果共和国",
+      "zh-TW": "剛果共和國"
     },
     "population": 5797805,
     "area": 342000,
@@ -4481,7 +4559,8 @@
       "ur": "عوامی جمہوریہِ کانگو",
       "uz": "Kongo – Kinshasa",
       "vi": "Congo - Kinshasa",
-      "zh-CN": "刚果民主共和国"
+      "zh-CN": "刚果民主共和国",
+      "zh-TW": "剛果民主共和國"
     },
     "fullName": {
       "native": "République démocratique du Congo",
@@ -4502,7 +4581,8 @@
       "tr": "Kongo - Kinşasa",
       "uk": "Конго – Кіншаса",
       "vi": "Congo - Kinshasa",
-      "zh-CN": "刚果民主共和国"
+      "zh-CN": "刚果民主共和国",
+      "zh-TW": "剛果民主共和國"
     },
     "population": 102262808,
     "area": 2344858,
@@ -4593,7 +4673,8 @@
       "ur": "کوسٹا ریکا",
       "uz": "Kosta-Rika",
       "vi": "Costa Rica",
-      "zh-CN": "哥斯达黎加"
+      "zh-CN": "哥斯达黎加",
+      "zh-TW": "哥斯達黎加"
     },
     "fullName": {
       "native": "República de Costa Rica",
@@ -4614,7 +4695,8 @@
       "tr": "Kosta Rika",
       "uk": "Коста-Рика",
       "vi": "Costa Rica",
-      "zh-CN": "哥斯达黎加共和国"
+      "zh-CN": "哥斯达黎加共和国",
+      "zh-TW": "哥斯達黎加共和國"
     },
     "population": 5153957,
     "area": 51100,
@@ -4715,7 +4797,8 @@
       "ur": "کوٹ ڈی آئیورائر",
       "uz": "Kot-d’Ivuar",
       "vi": "Côte d’Ivoire",
-      "zh-CN": "科特迪瓦"
+      "zh-CN": "科特迪瓦",
+      "zh-TW": "科特迪瓦"
     },
     "fullName": {
       "native": "République de Côte d'Ivoire",
@@ -4736,7 +4819,8 @@
       "tr": "Côte d’Ivoire",
       "uk": "Кот-дʼІвуар",
       "vi": "Côte d’Ivoire",
-      "zh-CN": "科特迪瓦共和国"
+      "zh-CN": "科特迪瓦共和国",
+      "zh-TW": "科特迪瓦共和國"
     },
     "population": 27478249,
     "area": 322463,
@@ -4827,7 +4911,8 @@
       "ur": "کروشیا",
       "uz": "Xorvatiya",
       "vi": "Croatia",
-      "zh-CN": "克罗地亚"
+      "zh-CN": "克罗地亚",
+      "zh-TW": "克羅地亞"
     },
     "fullName": {
       "native": "Republika Hrvatska",
@@ -4848,7 +4933,8 @@
       "tr": "Hırvatistan",
       "uk": "Хорватія",
       "vi": "Croatia",
-      "zh-CN": "克罗地亚共和国"
+      "zh-CN": "克罗地亚共和国",
+      "zh-TW": "克羅地亞共和國"
     },
     "population": 3899000,
     "area": 56594,
@@ -4939,7 +5025,8 @@
       "ur": "کیوبا",
       "uz": "Kuba",
       "vi": "Cuba",
-      "zh-CN": "古巴"
+      "zh-CN": "古巴",
+      "zh-TW": "古巴"
     },
     "fullName": {
       "native": "República de Cuba",
@@ -4960,7 +5047,8 @@
       "tr": "Küba",
       "uk": "Куба",
       "vi": "Cuba",
-      "zh-CN": "古巴共和国"
+      "zh-CN": "古巴共和国",
+      "zh-TW": "古巴共和國"
     },
     "population": 11317505,
     "area": 109884,
@@ -5051,7 +5139,8 @@
       "ur": "قبرص",
       "uz": "Kipr",
       "vi": "Síp",
-      "zh-CN": "塞浦路斯"
+      "zh-CN": "塞浦路斯",
+      "zh-TW": "塞浦路斯"
     },
     "fullName": {
       "native": "Δημοκρατία της Κύπρος",
@@ -5072,7 +5161,8 @@
       "tr": "Kıbrıs",
       "uk": "Кіпр",
       "vi": "Síp",
-      "zh-CN": "塞浦路斯共和国"
+      "zh-CN": "塞浦路斯共和国",
+      "zh-TW": "塞浦路斯共和國"
     },
     "population": 1207359,
     "area": 9251,
@@ -5170,7 +5260,8 @@
       "ur": "جمہوریہ چیک",
       "uz": "Chexiya",
       "vi": "Séc",
-      "zh-CN": "捷克"
+      "zh-CN": "捷克",
+      "zh-TW": "捷克"
     },
     "fullName": {
       "native": "Česká republika",
@@ -5191,7 +5282,8 @@
       "tr": "Çekya",
       "uk": "Чехія",
       "vi": "Séc",
-      "zh-CN": "捷克共和国"
+      "zh-CN": "捷克共和国",
+      "zh-TW": "捷克共和國"
     },
     "population": 10900555,
     "area": 78867,
@@ -5282,7 +5374,8 @@
       "ur": "ڈنمارک",
       "uz": "Daniya",
       "vi": "Đan Mạch",
-      "zh-CN": "丹麦"
+      "zh-CN": "丹麦",
+      "zh-TW": "丹麥"
     },
     "fullName": {
       "native": "Kongeriget Danmark",
@@ -5303,7 +5396,8 @@
       "tr": "Danimarka",
       "uk": "Данія",
       "vi": "Đan Mạch",
-      "zh-CN": "丹麦王国"
+      "zh-CN": "丹麦王国",
+      "zh-TW": "丹麥王國"
     },
     "population": 5873000,
     "area": 43094,
@@ -5394,7 +5488,8 @@
       "ur": "جبوتی",
       "uz": "Jibuti",
       "vi": "Djibouti",
-      "zh-CN": "吉布提"
+      "zh-CN": "吉布提",
+      "zh-TW": "吉布提"
     },
     "fullName": {
       "native": "République de Djibouti",
@@ -5415,7 +5510,8 @@
       "tr": "Cibuti",
       "uk": "Джибуті",
       "vi": "Djibouti",
-      "zh-CN": "吉布提共和国"
+      "zh-CN": "吉布提共和国",
+      "zh-TW": "吉布提共和國"
     },
     "population": 1000000,
     "area": 23200,
@@ -5511,7 +5607,8 @@
       "ur": "ڈومینیکا",
       "uz": "Dominika",
       "vi": "Dominica",
-      "zh-CN": "多米尼克"
+      "zh-CN": "多米尼克",
+      "zh-TW": "多米尼克"
     },
     "fullName": {
       "native": "Commonwealth of Dominica",
@@ -5532,7 +5629,8 @@
       "tr": "Dominika",
       "uk": "Домініка",
       "vi": "Dominica",
-      "zh-CN": "多米尼克国"
+      "zh-CN": "多米尼克国",
+      "zh-TW": "多米尼克國"
     },
     "population": 71986,
     "area": 751,
@@ -5623,7 +5721,8 @@
       "ur": "ڈومینیکن ریپبلک",
       "uz": "Dominikan Respublikasi",
       "vi": "Cộng hòa Dominica",
-      "zh-CN": "多米尼加共和国"
+      "zh-CN": "多米尼加共和国",
+      "zh-TW": "多米尼加共和國"
     },
     "fullName": {
       "native": "República Dominicana",
@@ -5644,7 +5743,8 @@
       "tr": "Dominik Cumhuriyeti",
       "uk": "Домініканська Республіка",
       "vi": "Cộng hòa Dominica",
-      "zh-CN": "多米尼加共和国"
+      "zh-CN": "多米尼加共和国",
+      "zh-TW": "多米尼加共和國"
     },
     "population": 10953703,
     "area": 48671,
@@ -5735,7 +5835,8 @@
       "ur": "ایکواڈور",
       "uz": "Ekvador",
       "vi": "Ecuador",
-      "zh-CN": "厄瓜多尔"
+      "zh-CN": "厄瓜多尔",
+      "zh-TW": "厄瓜多爾"
     },
     "fullName": {
       "native": "República del Ecuador",
@@ -5756,7 +5857,8 @@
       "tr": "Ekvador",
       "uk": "Еквадор",
       "vi": "Ecuador",
-      "zh-CN": "厄瓜多尔共和国"
+      "zh-CN": "厄瓜多尔共和国",
+      "zh-TW": "厄瓜多爾共和國"
     },
     "population": 18001000,
     "area": 283561,
@@ -5847,7 +5949,8 @@
       "ur": "مصر",
       "uz": "Misr",
       "vi": "Ai Cập",
-      "zh-CN": "埃及"
+      "zh-CN": "埃及",
+      "zh-TW": "埃及"
     },
     "fullName": {
       "native": "جمهورية مصر العربية",
@@ -5868,7 +5971,8 @@
       "tr": "Mısır",
       "uk": "Єгипет",
       "vi": "Ai Cập",
-      "zh-CN": "阿拉伯埃及共和国"
+      "zh-CN": "阿拉伯埃及共和国",
+      "zh-TW": "阿拉伯埃及共和國"
     },
     "population": 104258327,
     "area": 1002450,
@@ -5959,7 +6063,8 @@
       "ur": "ال سلواڈور",
       "uz": "Salvador",
       "vi": "El Salvador",
-      "zh-CN": "萨尔瓦多"
+      "zh-CN": "萨尔瓦多",
+      "zh-TW": "薩爾瓦多"
     },
     "fullName": {
       "native": "República de El Salvador",
@@ -5980,7 +6085,8 @@
       "tr": "El Salvador",
       "uk": "Сальвадор",
       "vi": "El Salvador",
-      "zh-CN": "萨尔瓦多共和国"
+      "zh-CN": "萨尔瓦多共和国",
+      "zh-TW": "薩爾瓦多共和國"
     },
     "population": 6486201,
     "area": 21041,
@@ -6071,7 +6177,8 @@
       "ur": "استوائی گنی",
       "uz": "Ekvatorial Gvineya",
       "vi": "Guinea Xích Đạo",
-      "zh-CN": "赤道几内亚"
+      "zh-CN": "赤道几内亚",
+      "zh-TW": "赤道幾內亞"
     },
     "fullName": {
       "native": "República de Guinea Ecuatorial",
@@ -6092,7 +6199,8 @@
       "tr": "Ekvator Ginesi",
       "uk": "Екваторіальна Гвінея",
       "vi": "Guinea Xích Đạo",
-      "zh-CN": "赤道几内亚共和国"
+      "zh-CN": "赤道几内亚共和国",
+      "zh-TW": "赤道幾內亞共和國"
     },
     "population": 1496662,
     "area": 28051,
@@ -6188,7 +6296,8 @@
       "ur": "ایریٹریا",
       "uz": "Eritreya",
       "vi": "Eritrea",
-      "zh-CN": "厄立特里亚"
+      "zh-CN": "厄立特里亚",
+      "zh-TW": "厄立特里亞"
     },
     "fullName": {
       "native": "ሃገረ ኤርትራ",
@@ -6209,7 +6318,8 @@
       "tr": "Eritre",
       "uk": "Еритрея",
       "vi": "Eritrea",
-      "zh-CN": "厄立特里亚国"
+      "zh-CN": "厄立特里亚国",
+      "zh-TW": "厄立特里亞國"
     },
     "population": 3601000,
     "area": 117600,
@@ -6302,7 +6412,8 @@
       "ur": "ایسٹونیا",
       "uz": "Estoniya",
       "vi": "Estonia",
-      "zh-CN": "爱沙尼亚"
+      "zh-CN": "爱沙尼亚",
+      "zh-TW": "愛沙尼亞"
     },
     "fullName": {
       "native": "Eesti Vabariik",
@@ -6323,7 +6434,8 @@
       "tr": "Estonya",
       "uk": "Естонія",
       "vi": "Estonia",
-      "zh-CN": "爱沙尼亚共和国"
+      "zh-CN": "爱沙尼亚共和国",
+      "zh-TW": "愛沙尼亞共和國"
     },
     "population": 1330068,
     "area": 45228,
@@ -6414,7 +6526,8 @@
       "ur": "سوزیلینڈ",
       "uz": "Svazilend",
       "vi": "Eswatini",
-      "zh-CN": "斯威士兰"
+      "zh-CN": "斯威士兰",
+      "zh-TW": "斯威士蘭"
     },
     "fullName": {
       "native": "Kingdom of Eswatini",
@@ -6435,7 +6548,8 @@
       "tr": "Esvatini",
       "uk": "Есватіні",
       "vi": "Eswatini",
-      "zh-CN": "斯威士兰王国"
+      "zh-CN": "斯威士兰王国",
+      "zh-TW": "斯威士蘭王國"
     },
     "population": 1172000,
     "area": 17364,
@@ -6527,7 +6641,8 @@
       "ur": "ایتھوپیا",
       "uz": "Efiopiya",
       "vi": "Ethiopia",
-      "zh-CN": "埃塞俄比亚"
+      "zh-CN": "埃塞俄比亚",
+      "zh-TW": "埃塞俄比亞"
     },
     "fullName": {
       "native": "የኢትዮጵያ ፌዴራላዊ ዲሞክራሲያዊ ሪፐብሊክ",
@@ -6548,7 +6663,8 @@
       "tr": "Etiyopya",
       "uk": "Ефіопія",
       "vi": "Ethiopia",
-      "zh-CN": "埃塞俄比亚联邦民主共和国"
+      "zh-CN": "埃塞俄比亚联邦民主共和国",
+      "zh-TW": "埃塞俄比亞聯邦民主共和國"
     },
     "population": 120283026,
     "area": 1104300,
@@ -6639,7 +6755,8 @@
       "ur": "فجی",
       "uz": "Fiji",
       "vi": "Fiji",
-      "zh-CN": "斐济"
+      "zh-CN": "斐济",
+      "zh-TW": "斐濟"
     },
     "fullName": {
       "native": "Republic of Fiji",
@@ -6660,7 +6777,8 @@
       "tr": "Fiji",
       "uk": "Фіджі",
       "vi": "Fiji",
-      "zh-CN": "斐济共和国"
+      "zh-CN": "斐济共和国",
+      "zh-TW": "斐濟共和國"
     },
     "population": 930748,
     "area": 18274,
@@ -6753,7 +6871,8 @@
       "ur": "فن لینڈ",
       "uz": "Finlandiya",
       "vi": "Phần Lan",
-      "zh-CN": "芬兰"
+      "zh-CN": "芬兰",
+      "zh-TW": "芬蘭"
     },
     "fullName": {
       "native": "Suomen tasavalta",
@@ -6774,7 +6893,8 @@
       "tr": "Finlandiya",
       "uk": "Фінляндія",
       "vi": "Phần Lan",
-      "zh-CN": "芬兰共和国"
+      "zh-CN": "芬兰共和国",
+      "zh-TW": "芬蘭共和國"
     },
     "population": 5528000,
     "area": 338424,
@@ -6866,7 +6986,8 @@
       "ur": "فرانس",
       "uz": "Fransiya",
       "vi": "Pháp",
-      "zh-CN": "法国"
+      "zh-CN": "法国",
+      "zh-TW": "法國"
     },
     "fullName": {
       "native": "République française",
@@ -6887,7 +7008,8 @@
       "tr": "Fransa",
       "uk": "Франція",
       "vi": "Pháp",
-      "zh-CN": "法兰西共和国"
+      "zh-CN": "法兰西共和国",
+      "zh-TW": "法蘭西共和國"
     },
     "population": 67897000,
     "area": 643801,
@@ -6978,7 +7100,8 @@
       "ur": "گبون",
       "uz": "Gabon",
       "vi": "Gabon",
-      "zh-CN": "加蓬"
+      "zh-CN": "加蓬",
+      "zh-TW": "加蓬"
     },
     "fullName": {
       "native": "République gabonaise",
@@ -6999,7 +7122,8 @@
       "tr": "Gabon",
       "uk": "Габон",
       "vi": "Gabon",
-      "zh-CN": "加蓬共和国"
+      "zh-CN": "加蓬共和国",
+      "zh-TW": "加蓬共和國"
     },
     "population": 2278825,
     "area": 267668,
@@ -7093,7 +7217,8 @@
       "ur": "گیمبیا",
       "uz": "Gambiya",
       "vi": "Gambia",
-      "zh-CN": "冈比亚"
+      "zh-CN": "冈比亚",
+      "zh-TW": "岡比亞"
     },
     "fullName": {
       "native": "Republic of the Gambia",
@@ -7114,7 +7239,8 @@
       "tr": "Gambiya",
       "uk": "Гамбія",
       "vi": "Gambia",
-      "zh-CN": "冈比亚共和国"
+      "zh-CN": "冈比亚共和国",
+      "zh-TW": "岡比亞共和國"
     },
     "population": 2486945,
     "area": 11295,
@@ -7208,7 +7334,8 @@
       "ur": "جارجیا",
       "uz": "Gruziya",
       "vi": "Georgia",
-      "zh-CN": "格鲁吉亚"
+      "zh-CN": "格鲁吉亚",
+      "zh-TW": "格魯吉亞"
     },
     "fullName": {
       "native": "საქართველო",
@@ -7229,7 +7356,8 @@
       "tr": "Gürcistan",
       "uk": "Грузія",
       "vi": "Georgia",
-      "zh-CN": "格鲁吉亚"
+      "zh-CN": "格鲁吉亚",
+      "zh-TW": "格魯吉亞"
     },
     "population": 3713804,
     "area": 69700,
@@ -7320,7 +7448,8 @@
       "ur": "جرمنی",
       "uz": "Germaniya",
       "vi": "Đức",
-      "zh-CN": "德国"
+      "zh-CN": "德国",
+      "zh-TW": "德國"
     },
     "fullName": {
       "native": "Bundesrepublik Deutschland",
@@ -7341,7 +7470,8 @@
       "tr": "Almanya",
       "uk": "Німеччина",
       "vi": "Đức",
-      "zh-CN": "德意志联邦共和国"
+      "zh-CN": "德意志联邦共和国",
+      "zh-TW": "德意志聯邦共和國"
     },
     "population": 84270625,
     "area": 357114,
@@ -7432,7 +7562,8 @@
       "ur": "گھانا",
       "uz": "Gana",
       "vi": "Ghana",
-      "zh-CN": "加纳"
+      "zh-CN": "加纳",
+      "zh-TW": "加納"
     },
     "fullName": {
       "native": "Republic of Ghana",
@@ -7453,7 +7584,8 @@
       "tr": "Gana",
       "uk": "Гана",
       "vi": "Ghana",
-      "zh-CN": "加纳共和国"
+      "zh-CN": "加纳共和国",
+      "zh-TW": "加納共和國"
     },
     "population": 33475870,
     "area": 238533,
@@ -7544,7 +7676,8 @@
       "ur": "یونان",
       "uz": "Gretsiya",
       "vi": "Hy Lạp",
-      "zh-CN": "希腊"
+      "zh-CN": "希腊",
+      "zh-TW": "希臘"
     },
     "fullName": {
       "native": "Ελληνική Δημοκρατία",
@@ -7565,7 +7698,8 @@
       "tr": "Yunanistan",
       "uk": "Греція",
       "vi": "Hy Lạp",
-      "zh-CN": "希腊共和国"
+      "zh-CN": "希腊共和国",
+      "zh-TW": "希臘共和國"
     },
     "population": 10678632,
     "area": 131957,
@@ -7656,7 +7790,8 @@
       "ur": "گریناڈا",
       "uz": "Grenada",
       "vi": "Grenada",
-      "zh-CN": "格林纳达"
+      "zh-CN": "格林纳达",
+      "zh-TW": "格林納達"
     },
     "fullName": {
       "native": "Grenada",
@@ -7677,7 +7812,8 @@
       "tr": "Grenada",
       "uk": "Гренада",
       "vi": "Grenada",
-      "zh-CN": "格林纳达"
+      "zh-CN": "格林纳达",
+      "zh-TW": "格林納達"
     },
     "population": 124610,
     "area": 344,
@@ -7768,7 +7904,8 @@
       "ur": "گوئٹے مالا",
       "uz": "Gvatemala",
       "vi": "Guatemala",
-      "zh-CN": "危地马拉"
+      "zh-CN": "危地马拉",
+      "zh-TW": "危地馬拉"
     },
     "fullName": {
       "native": "República de Guatemala",
@@ -7789,7 +7926,8 @@
       "tr": "Guatemala",
       "uk": "Гватемала",
       "vi": "Guatemala",
-      "zh-CN": "危地马拉共和国"
+      "zh-CN": "危地马拉共和国",
+      "zh-TW": "危地馬拉共和國"
     },
     "population": 17109746,
     "area": 108889,
@@ -7880,7 +8018,8 @@
       "ur": "گنی",
       "uz": "Gvineya",
       "vi": "Guinea",
-      "zh-CN": "几内亚"
+      "zh-CN": "几内亚",
+      "zh-TW": "幾內亞"
     },
     "fullName": {
       "native": "République de Guinée",
@@ -7901,7 +8040,8 @@
       "tr": "Gine",
       "uk": "Гвінея",
       "vi": "Guinea",
-      "zh-CN": "几内亚共和国"
+      "zh-CN": "几内亚共和国",
+      "zh-TW": "幾內亞共和國"
     },
     "population": 13497244,
     "area": 245857,
@@ -7992,7 +8132,8 @@
       "ur": "گنی بساؤ",
       "uz": "Gvineya-Bisau",
       "vi": "Guinea-Bissau",
-      "zh-CN": "几内亚比绍"
+      "zh-CN": "几内亚比绍",
+      "zh-TW": "幾內亞比紹"
     },
     "fullName": {
       "native": "República da Guiné-Bissau",
@@ -8013,7 +8154,8 @@
       "tr": "Gine-Bissau",
       "uk": "Гвінея-Бісау",
       "vi": "Guinea-Bissau",
-      "zh-CN": "几内亚比绍共和国"
+      "zh-CN": "几内亚比绍共和国",
+      "zh-TW": "幾內亞比紹共和國"
     },
     "population": 2060721,
     "area": 36125,
@@ -8104,7 +8246,8 @@
       "ur": "گیوانا",
       "uz": "Gayana",
       "vi": "Guyana",
-      "zh-CN": "圭亚那"
+      "zh-CN": "圭亚那",
+      "zh-TW": "圭亞那"
     },
     "fullName": {
       "native": "Co-operative Republic of Guyana",
@@ -8125,7 +8268,8 @@
       "tr": "Guyana",
       "uk": "Гаяна",
       "vi": "Guyana",
-      "zh-CN": "圭亚那合作共和国"
+      "zh-CN": "圭亚那合作共和国",
+      "zh-TW": "圭亞那合作共和國"
     },
     "population": 787971,
     "area": 214969,
@@ -8216,7 +8360,8 @@
       "ur": "ہیٹی",
       "uz": "Gaiti",
       "vi": "Haiti",
-      "zh-CN": "海地"
+      "zh-CN": "海地",
+      "zh-TW": "海地"
     },
     "fullName": {
       "native": "République d'Haïti",
@@ -8237,7 +8382,8 @@
       "tr": "Haiti",
       "uk": "Гаїті",
       "vi": "Haiti",
-      "zh-CN": "海地共和国"
+      "zh-CN": "海地共和国",
+      "zh-TW": "海地共和國"
     },
     "population": 11447569,
     "area": 27750,
@@ -8329,7 +8475,8 @@
       "ur": "ہنڈورس",
       "uz": "Gonduras",
       "vi": "Honduras",
-      "zh-CN": "洪都拉斯"
+      "zh-CN": "洪都拉斯",
+      "zh-TW": "洪都拉斯"
     },
     "fullName": {
       "native": "República de Honduras",
@@ -8350,7 +8497,8 @@
       "tr": "Honduras",
       "uk": "Гондурас",
       "vi": "Honduras",
-      "zh-CN": "洪都拉斯共和国"
+      "zh-CN": "洪都拉斯共和国",
+      "zh-TW": "洪都拉斯共和國"
     },
     "population": 10280345,
     "area": 112492,
@@ -8441,7 +8589,8 @@
       "ur": "ہنگری",
       "uz": "Vengriya",
       "vi": "Hungary",
-      "zh-CN": "匈牙利"
+      "zh-CN": "匈牙利",
+      "zh-TW": "匈牙利"
     },
     "fullName": {
       "native": "Magyarország",
@@ -8462,7 +8611,8 @@
       "tr": "Macaristan",
       "uk": "Угорщина",
       "vi": "Hungary",
-      "zh-CN": "匈牙利"
+      "zh-CN": "匈牙利",
+      "zh-TW": "匈牙利"
     },
     "population": 9730000,
     "area": 93028,
@@ -8553,7 +8703,8 @@
       "ur": "آئس لینڈ",
       "uz": "Islandiya",
       "vi": "Iceland",
-      "zh-CN": "冰岛"
+      "zh-CN": "冰岛",
+      "zh-TW": "冰島"
     },
     "fullName": {
       "native": "Ísland",
@@ -8574,7 +8725,8 @@
       "tr": "İzlanda",
       "uk": "Ісландія",
       "vi": "Iceland",
-      "zh-CN": "冰岛"
+      "zh-CN": "冰岛",
+      "zh-TW": "冰島"
     },
     "population": 376248,
     "area": 103000,
@@ -8665,7 +8817,8 @@
       "ur": "انڈیا",
       "uz": "Hindiston",
       "vi": "Ấn Độ",
-      "zh-CN": "印度"
+      "zh-CN": "印度",
+      "zh-TW": "印度"
     },
     "fullName": {
       "native": "भारत गणराज्य",
@@ -8686,7 +8839,8 @@
       "tr": "Hindistan",
       "uk": "Індія",
       "vi": "Ấn Độ",
-      "zh-CN": "印度共和国"
+      "zh-CN": "印度共和国",
+      "zh-TW": "印度共和國"
     },
     "population": 1392000000,
     "area": 3287263,
@@ -8778,7 +8932,8 @@
       "ur": "انڈونیشیا",
       "uz": "Indoneziya",
       "vi": "Indonesia",
-      "zh-CN": "印度尼西亚"
+      "zh-CN": "印度尼西亚",
+      "zh-TW": "印度尼西亞"
     },
     "fullName": {
       "native": "Republik Indonesia",
@@ -8799,7 +8954,8 @@
       "tr": "Endonezya",
       "uk": "Індонезія",
       "vi": "Indonesia",
-      "zh-CN": "印度尼西亚共和国"
+      "zh-CN": "印度尼西亚共和国",
+      "zh-TW": "印度尼西亞共和國"
     },
     "population": 275501000,
     "area": 1910931,
@@ -8896,7 +9052,8 @@
       "ur": "اسلامی جمہوریہ ایران",
       "uz": "Eron",
       "vi": "Iran",
-      "zh-CN": "伊朗"
+      "zh-CN": "伊朗",
+      "zh-TW": "伊朗"
     },
     "fullName": {
       "native": "جمهوری اسلامی ایران",
@@ -8917,7 +9074,8 @@
       "tr": "İran",
       "uk": "Іран",
       "vi": "Iran",
-      "zh-CN": "伊朗伊斯兰共和国"
+      "zh-CN": "伊朗伊斯兰共和国",
+      "zh-TW": "伊朗伊斯蘭共和國"
     },
     "population": 86758304,
     "area": 1648195,
@@ -9008,7 +9166,8 @@
       "ur": "عراق",
       "uz": "Iroq",
       "vi": "Iraq",
-      "zh-CN": "伊拉克"
+      "zh-CN": "伊拉克",
+      "zh-TW": "伊拉克"
     },
     "fullName": {
       "native": "جمهورية العراق",
@@ -9029,7 +9188,8 @@
       "tr": "Irak",
       "uk": "Ірак",
       "vi": "Iraq",
-      "zh-CN": "伊拉克共和国"
+      "zh-CN": "伊拉克共和国",
+      "zh-TW": "伊拉克共和國"
     },
     "population": 42164965,
     "area": 438317,
@@ -9121,7 +9281,8 @@
       "ur": "آئر لینڈ",
       "uz": "Irlandiya",
       "vi": "Ireland",
-      "zh-CN": "爱尔兰"
+      "zh-CN": "爱尔兰",
+      "zh-TW": "愛爾蘭"
     },
     "fullName": {
       "native": "Poblacht na hÉireann",
@@ -9142,7 +9303,8 @@
       "tr": "İrlanda",
       "uk": "Ірландія",
       "vi": "Ireland",
-      "zh-CN": "爱尔兰共和国"
+      "zh-CN": "爱尔兰共和国",
+      "zh-TW": "愛爾蘭共和國"
     },
     "population": 5123536,
     "area": 70273,
@@ -9234,7 +9396,8 @@
       "ur": "اسرائیل",
       "uz": "Isroil",
       "vi": "Israel",
-      "zh-CN": "以色列"
+      "zh-CN": "以色列",
+      "zh-TW": "以色列"
     },
     "fullName": {
       "native": "מדינת ישראל",
@@ -9255,7 +9418,8 @@
       "tr": "İsrail",
       "uk": "Ізраїль",
       "vi": "Israel",
-      "zh-CN": "以色列国"
+      "zh-CN": "以色列国",
+      "zh-TW": "以色列國"
     },
     "population": 9364000,
     "area": 20770,
@@ -9347,7 +9511,8 @@
       "ur": "اٹلی",
       "uz": "Italiya",
       "vi": "Italy",
-      "zh-CN": "意大利"
+      "zh-CN": "意大利",
+      "zh-TW": "意大利"
     },
     "fullName": {
       "native": "Repubblica italiana",
@@ -9368,7 +9533,8 @@
       "tr": "İtalya",
       "uk": "Італія",
       "vi": "Italy",
-      "zh-CN": "意大利共和国"
+      "zh-CN": "意大利共和国",
+      "zh-TW": "意大利共和國"
     },
     "population": 59257566,
     "area": 301340,
@@ -9459,7 +9625,8 @@
       "ur": "جمیکا",
       "uz": "Yamayka",
       "vi": "Jamaica",
-      "zh-CN": "牙买加"
+      "zh-CN": "牙买加",
+      "zh-TW": "牙買加"
     },
     "fullName": {
       "native": "Jamaica",
@@ -9480,7 +9647,8 @@
       "tr": "Jamaika",
       "uk": "Ямайка",
       "vi": "Jamaica",
-      "zh-CN": "牙买加"
+      "zh-CN": "牙买加",
+      "zh-TW": "牙買加"
     },
     "population": 2961167,
     "area": 10991,
@@ -9571,7 +9739,8 @@
       "ur": "جاپان",
       "uz": "Yaponiya",
       "vi": "Nhật Bản",
-      "zh-CN": "日本"
+      "zh-CN": "日本",
+      "zh-TW": "日本"
     },
     "fullName": {
       "native": "日本",
@@ -9592,7 +9761,8 @@
       "tr": "Japonya",
       "uk": "Японія",
       "vi": "Nhật Bản",
-      "zh-CN": "日本国"
+      "zh-CN": "日本国",
+      "zh-TW": "日本國"
     },
     "population": 125700000,
     "area": 377975,
@@ -9683,7 +9853,8 @@
       "ur": "اردن",
       "uz": "Iordaniya",
       "vi": "Jordan",
-      "zh-CN": "约旦"
+      "zh-CN": "约旦",
+      "zh-TW": "約旦"
     },
     "fullName": {
       "native": "المملكة الأردنية الهاشمية",
@@ -9704,7 +9875,8 @@
       "tr": "Ürdün",
       "uk": "Йорданія",
       "vi": "Jordan",
-      "zh-CN": "约旦哈希姆王国"
+      "zh-CN": "约旦哈希姆王国",
+      "zh-TW": "約旦哈希姆王國"
     },
     "population": 10203140,
     "area": 89342,
@@ -9795,7 +9967,8 @@
       "ur": "قازقستان",
       "uz": "Qozogʻiston",
       "vi": "Kazakhstan",
-      "zh-CN": "哈萨克斯坦"
+      "zh-CN": "哈萨克斯坦",
+      "zh-TW": "哈薩克斯坦"
     },
     "fullName": {
       "native": "Қазақстан Республикасы",
@@ -9816,7 +9989,8 @@
       "tr": "Kazakistan",
       "uk": "Казахстан",
       "vi": "Kazakhstan",
-      "zh-CN": "哈萨克斯坦共和国"
+      "zh-CN": "哈萨克斯坦共和国",
+      "zh-TW": "哈薩克斯坦共和國"
     },
     "population": 19397998,
     "area": 2724900,
@@ -9908,7 +10082,8 @@
       "ur": "کینیا",
       "uz": "Keniya",
       "vi": "Kenya",
-      "zh-CN": "肯尼亚"
+      "zh-CN": "肯尼亚",
+      "zh-TW": "肯尼亞"
     },
     "fullName": {
       "native": "Republic of Kenya",
@@ -9929,7 +10104,8 @@
       "tr": "Kenya",
       "uk": "Кенія",
       "vi": "Kenya",
-      "zh-CN": "肯尼亚共和国"
+      "zh-CN": "肯尼亚共和国",
+      "zh-TW": "肯尼亞共和國"
     },
     "population": 55864655,
     "area": 580367,
@@ -10021,7 +10197,8 @@
       "ur": "کرباتی",
       "uz": "Kiribati",
       "vi": "Kiribati",
-      "zh-CN": "基里巴斯"
+      "zh-CN": "基里巴斯",
+      "zh-TW": "基里巴斯"
     },
     "fullName": {
       "native": "Independent and Sovereign Republic of Kiribati",
@@ -10042,7 +10219,8 @@
       "tr": "Kiribati",
       "uk": "Кірибаті",
       "vi": "Kiribati",
-      "zh-CN": "基里巴斯共和国"
+      "zh-CN": "基里巴斯共和国",
+      "zh-TW": "基裡巴斯共和國"
     },
     "population": 121388,
     "area": 811,
@@ -10139,7 +10317,8 @@
       "ur": "شمالی کوریا",
       "uz": "Shimoliy Koreya",
       "vi": "Triều Tiên",
-      "zh-CN": "朝鲜"
+      "zh-CN": "朝鲜",
+      "zh-TW": "朝鮮"
     },
     "fullName": {
       "native": "조선민주주의인민공화국",
@@ -10160,7 +10339,8 @@
       "tr": "Kuzey Kore",
       "uk": "Північна Корея",
       "vi": "Triều Tiên",
-      "zh-CN": "朝鲜民主主义人民共和国"
+      "zh-CN": "朝鲜民主主义人民共和国",
+      "zh-TW": "朝鮮民主主義人民共和國"
     },
     "population": 25971909,
     "area": 120538,
@@ -10261,7 +10441,8 @@
       "ur": "جنوبی کوریا",
       "uz": "Janubiy Koreya",
       "vi": "Hàn Quốc",
-      "zh-CN": "韩国"
+      "zh-CN": "韩国",
+      "zh-TW": "韓國"
     },
     "fullName": {
       "native": "대한민국",
@@ -10282,7 +10463,8 @@
       "tr": "Güney Kore",
       "uk": "Південна Корея",
       "vi": "Hàn Quốc",
-      "zh-CN": "大韩民国"
+      "zh-CN": "大韩民国",
+      "zh-TW": "大韓民國"
     },
     "population": 51744876,
     "area": 100210,
@@ -10373,7 +10555,8 @@
       "ur": "کویت",
       "uz": "Quvayt",
       "vi": "Kuwait",
-      "zh-CN": "科威特"
+      "zh-CN": "科威特",
+      "zh-TW": "科威特"
     },
     "fullName": {
       "native": "دولة الكويت",
@@ -10394,7 +10577,8 @@
       "tr": "Kuveyt",
       "uk": "Кувейт",
       "vi": "Kuwait",
-      "zh-CN": "科威特国"
+      "zh-CN": "科威特国",
+      "zh-TW": "科威特國"
     },
     "population": 4670713,
     "area": 17818,
@@ -10485,7 +10669,8 @@
       "ur": "کرغزستان",
       "uz": "Qirgʻiziston",
       "vi": "Kyrgyzstan",
-      "zh-CN": "吉尔吉斯斯坦"
+      "zh-CN": "吉尔吉斯斯坦",
+      "zh-TW": "吉爾吉斯斯坦"
     },
     "fullName": {
       "native": "Кыргыз Республикасы",
@@ -10506,7 +10691,8 @@
       "tr": "Kırgızistan",
       "uk": "Киргизстан",
       "vi": "Kyrgyzstan",
-      "zh-CN": "吉尔吉斯共和国"
+      "zh-CN": "吉尔吉斯共和国",
+      "zh-TW": "吉爾吉斯共和國"
     },
     "population": 6663000,
     "area": 199951,
@@ -10601,7 +10787,8 @@
       "ur": "عوامی جمہوریہِ لاوء",
       "uz": "Laos",
       "vi": "Lào",
-      "zh-CN": "老挝"
+      "zh-CN": "老挝",
+      "zh-TW": "老撾"
     },
     "fullName": {
       "native": "ສາທາລະນະ ຊາທິປະໄຕ ຄົນລາວ ຂອງ",
@@ -10622,7 +10809,8 @@
       "tr": "Laos",
       "uk": "Лаос",
       "vi": "Lào",
-      "zh-CN": "老挝人民民主共和国"
+      "zh-CN": "老挝人民民主共和国",
+      "zh-TW": "老撾人民民主共和國"
     },
     "population": 7379358,
     "area": 236800,
@@ -10713,7 +10901,8 @@
       "ur": "لیٹویا",
       "uz": "Latviya",
       "vi": "Latvia",
-      "zh-CN": "拉脱维亚"
+      "zh-CN": "拉脱维亚",
+      "zh-TW": "拉脫維亞"
     },
     "fullName": {
       "native": "Latvijas Republikas",
@@ -10734,7 +10923,8 @@
       "tr": "Letonya",
       "uk": "Латвія",
       "vi": "Latvia",
-      "zh-CN": "拉脱维亚共和国"
+      "zh-CN": "拉脱维亚共和国",
+      "zh-TW": "拉脫維亞共和國"
     },
     "population": 1830211,
     "area": 64589,
@@ -10825,7 +11015,8 @@
       "ur": "لبنان",
       "uz": "Livan",
       "vi": "Li-băng",
-      "zh-CN": "黎巴嫩"
+      "zh-CN": "黎巴嫩",
+      "zh-TW": "黎巴嫩"
     },
     "fullName": {
       "native": "الجمهورية اللبنانية",
@@ -10846,7 +11037,8 @@
       "tr": "Lübnan",
       "uk": "Ліван",
       "vi": "Li-băng",
-      "zh-CN": "黎巴嫩共和国"
+      "zh-CN": "黎巴嫩共和国",
+      "zh-TW": "黎巴嫩共和國"
     },
     "population": 5592631,
     "area": 10452,
@@ -10941,7 +11133,8 @@
       "ur": "لیسوتھو",
       "uz": "Lesoto",
       "vi": "Lesotho",
-      "zh-CN": "莱索托"
+      "zh-CN": "莱索托",
+      "zh-TW": "萊索托"
     },
     "fullName": {
       "native": "Kingdom of Lesotho",
@@ -10962,7 +11155,8 @@
       "tr": "Lesotho",
       "uk": "Лесото",
       "vi": "Lesotho",
-      "zh-CN": "莱索托王国"
+      "zh-CN": "莱索托王国",
+      "zh-TW": "萊索托王國"
     },
     "population": 2159000,
     "area": 30355,
@@ -11054,7 +11248,8 @@
       "ur": "لائبیریا",
       "uz": "Liberiya",
       "vi": "Liberia",
-      "zh-CN": "利比里亚"
+      "zh-CN": "利比里亚",
+      "zh-TW": "利比里亞"
     },
     "fullName": {
       "native": "Republic of Liberia",
@@ -11075,7 +11270,8 @@
       "tr": "Liberya",
       "uk": "Ліберія",
       "vi": "Liberia",
-      "zh-CN": "利比里亚共和国"
+      "zh-CN": "利比里亚共和国",
+      "zh-TW": "利比里亞共和國"
     },
     "population": 5358483,
     "area": 111369,
@@ -11169,7 +11365,8 @@
       "ur": "لیبیا",
       "uz": "Liviya",
       "vi": "Libya",
-      "zh-CN": "利比亚"
+      "zh-CN": "利比亚",
+      "zh-TW": "利比亞"
     },
     "fullName": {
       "native": "الدولة ليبيا",
@@ -11190,7 +11387,8 @@
       "tr": "Libya",
       "uk": "Лівія",
       "vi": "Libya",
-      "zh-CN": "利比亚国"
+      "zh-CN": "利比亚国",
+      "zh-TW": "利比亞國"
     },
     "population": 7054490,
     "area": 1759541,
@@ -11284,7 +11482,8 @@
       "ur": "لیچسٹنسٹین",
       "uz": "Lixtenshteyn",
       "vi": "Liechtenstein",
-      "zh-CN": "列支敦士登"
+      "zh-CN": "列支敦士登",
+      "zh-TW": "列支敦士登"
     },
     "fullName": {
       "native": "Fürstentum Liechtenstein",
@@ -11305,7 +11504,8 @@
       "tr": "Liechtenstein",
       "uk": "Ліхтенштейн",
       "vi": "Liechtenstein",
-      "zh-CN": "列支敦士登公国"
+      "zh-CN": "列支敦士登公国",
+      "zh-TW": "列支敦士登公國"
     },
     "population": 38557,
     "area": 160,
@@ -11396,7 +11596,8 @@
       "ur": "لیتھوانیا",
       "uz": "Litva",
       "vi": "Litva",
-      "zh-CN": "立陶宛"
+      "zh-CN": "立陶宛",
+      "zh-TW": "立陶宛"
     },
     "fullName": {
       "native": "Lietuvos Respublikos",
@@ -11417,7 +11618,8 @@
       "tr": "Litvanya",
       "uk": "Литва",
       "vi": "Litva",
-      "zh-CN": "立陶宛共和国"
+      "zh-CN": "立陶宛共和国",
+      "zh-TW": "立陶宛共和國"
     },
     "population": 2831000,
     "area": 65300,
@@ -11508,7 +11710,8 @@
       "ur": "لکسمبرگ",
       "uz": "Lyuksemburg",
       "vi": "Luxembourg",
-      "zh-CN": "卢森堡"
+      "zh-CN": "卢森堡",
+      "zh-TW": "盧森堡"
     },
     "fullName": {
       "native": "Groussherzogtum Lëtzebuerg",
@@ -11529,7 +11732,8 @@
       "tr": "Lüksemburg",
       "uk": "Люксембург",
       "vi": "Luxembourg",
-      "zh-CN": "卢森堡大公国"
+      "zh-CN": "卢森堡大公国",
+      "zh-TW": "盧森堡大公國"
     },
     "population": 660809,
     "area": 2586,
@@ -11622,7 +11826,8 @@
       "ur": "مڈغاسکر",
       "uz": "Madagaskar",
       "vi": "Madagascar",
-      "zh-CN": "马达加斯加"
+      "zh-CN": "马达加斯加",
+      "zh-TW": "馬達加斯加"
     },
     "fullName": {
       "native": "Repoblikan'i Madagasikara",
@@ -11643,7 +11848,8 @@
       "tr": "Madagaskar",
       "uk": "Мадагаскар",
       "vi": "Madagascar",
-      "zh-CN": "马达加斯加共和国"
+      "zh-CN": "马达加斯加共和国",
+      "zh-TW": "馬達加斯加共和國"
     },
     "population": 28915400,
     "area": 587041,
@@ -11735,7 +11941,8 @@
       "ur": "ملاوی",
       "uz": "Malavi",
       "vi": "Malawi",
-      "zh-CN": "马拉维"
+      "zh-CN": "马拉维",
+      "zh-TW": "馬拉維"
     },
     "fullName": {
       "native": "Republic of Malawi",
@@ -11756,7 +11963,8 @@
       "tr": "Malavi",
       "uk": "Малаві",
       "vi": "Malawi",
-      "zh-CN": "马拉维共和国"
+      "zh-CN": "马拉维共和国",
+      "zh-TW": "馬拉維共和國"
     },
     "population": 20405317,
     "area": 118484,
@@ -11848,7 +12056,8 @@
       "ur": "ملائیشیا",
       "uz": "Malayziya",
       "vi": "Malaysia",
-      "zh-CN": "马来西亚"
+      "zh-CN": "马来西亚",
+      "zh-TW": "馬來西亞"
     },
     "fullName": {
       "native": "مليسيا",
@@ -11869,7 +12078,8 @@
       "tr": "Malezya",
       "uk": "Малайзія",
       "vi": "Malaysia",
-      "zh-CN": "马来西亚"
+      "zh-CN": "马来西亚",
+      "zh-TW": "馬來西亞"
     },
     "population": 33573874,
     "area": 329847,
@@ -11960,7 +12170,8 @@
       "ur": "مالدیپ",
       "uz": "Maldiv orollari",
       "vi": "Maldives",
-      "zh-CN": "马尔代夫"
+      "zh-CN": "马尔代夫",
+      "zh-TW": "馬爾代夫"
     },
     "fullName": {
       "native": "ދިވެހިރާއްޖޭގެ ޖުމްހޫރިއްޔާ",
@@ -11981,7 +12192,8 @@
       "tr": "Maldivler",
       "uk": "Мальдіви",
       "vi": "Maldives",
-      "zh-CN": "马尔代夫共和国"
+      "zh-CN": "马尔代夫共和国",
+      "zh-TW": "馬爾代夫共和國"
     },
     "population": 521457,
     "area": 298,
@@ -12072,7 +12284,8 @@
       "ur": "مالی",
       "uz": "Mali",
       "vi": "Mali",
-      "zh-CN": "马里"
+      "zh-CN": "马里",
+      "zh-TW": "馬裡"
     },
     "fullName": {
       "native": "République du Mali",
@@ -12093,7 +12306,8 @@
       "tr": "Mali",
       "uk": "Малі",
       "vi": "Mali",
-      "zh-CN": "马里共和国"
+      "zh-CN": "马里共和国",
+      "zh-TW": "馬裡共和國"
     },
     "population": 22414000,
     "area": 1240192,
@@ -12184,7 +12398,8 @@
       "ur": "مالٹا",
       "uz": "Malta",
       "vi": "Malta",
-      "zh-CN": "马耳他"
+      "zh-CN": "马耳他",
+      "zh-TW": "馬耳他"
     },
     "fullName": {
       "native": "Repubblika ta ' Malta",
@@ -12205,7 +12420,8 @@
       "tr": "Malta",
       "uk": "Мальта",
       "vi": "Malta",
-      "zh-CN": "马耳他共和国"
+      "zh-CN": "马耳他共和国",
+      "zh-TW": "馬耳他共和國"
     },
     "population": 519562,
     "area": 316,
@@ -12297,7 +12513,8 @@
       "ur": "مارشل جزائر",
       "uz": "Marshall orollari",
       "vi": "Quần đảo Marshall",
-      "zh-CN": "马绍尔群岛"
+      "zh-CN": "马绍尔群岛",
+      "zh-TW": "馬紹爾群島"
     },
     "fullName": {
       "native": "Republic of the Marshall Islands",
@@ -12318,7 +12535,8 @@
       "tr": "Marshall Adaları",
       "uk": "Маршаллові Острови",
       "vi": "Quần đảo Marshall",
-      "zh-CN": "马绍尔群岛共和国"
+      "zh-CN": "马绍尔群岛共和国",
+      "zh-TW": "馬紹爾群島共和國"
     },
     "population": 42050,
     "area": 181,
@@ -12410,7 +12628,8 @@
       "ur": "موریطانیہ",
       "uz": "Mavritaniya",
       "vi": "Mauritania",
-      "zh-CN": "毛里塔尼亚"
+      "zh-CN": "毛里塔尼亚",
+      "zh-TW": "毛里塔尼亞"
     },
     "fullName": {
       "native": "الجمهورية الإسلامية الموريتانية",
@@ -12431,7 +12650,8 @@
       "tr": "Moritanya",
       "uk": "Мавританія",
       "vi": "Mauritania",
-      "zh-CN": "毛里塔尼亚伊斯兰共和国"
+      "zh-CN": "毛里塔尼亚伊斯兰共和国",
+      "zh-TW": "毛里塔尼亞伊斯蘭共和國"
     },
     "population": 4649658,
     "area": 1030700,
@@ -12522,7 +12742,8 @@
       "ur": "ماریشس",
       "uz": "Mavrikiy",
       "vi": "Mauritius",
-      "zh-CN": "毛里求斯"
+      "zh-CN": "毛里求斯",
+      "zh-TW": "毛里求斯"
     },
     "fullName": {
       "native": "Republic of Mauritius",
@@ -12543,7 +12764,8 @@
       "tr": "Mauritius",
       "uk": "Маврикій",
       "vi": "Mauritius",
-      "zh-CN": "毛里求斯共和国"
+      "zh-CN": "毛里求斯共和国",
+      "zh-TW": "毛里求斯共和國"
     },
     "population": 1266334,
     "area": 2040,
@@ -12635,7 +12857,8 @@
       "ur": "میکسیکو",
       "uz": "Meksika",
       "vi": "Mexico",
-      "zh-CN": "墨西哥"
+      "zh-CN": "墨西哥",
+      "zh-TW": "墨西哥"
     },
     "fullName": {
       "native": "Estados Unidos Mexicanos",
@@ -12656,7 +12879,8 @@
       "tr": "Meksika",
       "uk": "Мексика",
       "vi": "Mexico",
-      "zh-CN": "墨西哥合众国"
+      "zh-CN": "墨西哥合众国",
+      "zh-TW": "墨西哥合眾國"
     },
     "population": 128455567,
     "area": 1964375,
@@ -12750,7 +12974,8 @@
       "ur": "مائیکرونیشیا",
       "uz": "Mikroneziya",
       "vi": "Micronesia",
-      "zh-CN": "密克罗尼西亚"
+      "zh-CN": "密克罗尼西亚",
+      "zh-TW": "密克羅尼西亞"
     },
     "fullName": {
       "native": "Federated States of Micronesia",
@@ -12771,7 +12996,8 @@
       "tr": "Mikronezya",
       "uk": "Мікронезія",
       "vi": "Micronesia",
-      "zh-CN": "密克罗尼西亚联邦"
+      "zh-CN": "密克罗尼西亚联邦",
+      "zh-TW": "密克羅尼西亞聯邦"
     },
     "population": 115023,
     "area": 702,
@@ -12865,7 +13091,8 @@
       "ur": "جمہوریہ مالڈووا",
       "uz": "Moldova",
       "vi": "Moldova",
-      "zh-CN": "摩尔多瓦"
+      "zh-CN": "摩尔多瓦",
+      "zh-TW": "摩爾多瓦"
     },
     "fullName": {
       "native": "Republica Moldova",
@@ -12886,7 +13113,8 @@
       "tr": "Moldova",
       "uk": "Молдова",
       "vi": "Moldova",
-      "zh-CN": "摩尔多瓦共和国"
+      "zh-CN": "摩尔多瓦共和国",
+      "zh-TW": "摩爾多瓦共和國"
     },
     "population": 2617820,
     "area": 33846,
@@ -12980,7 +13208,8 @@
       "ur": "موناکو",
       "uz": "Monako",
       "vi": "Monaco",
-      "zh-CN": "摩纳哥"
+      "zh-CN": "摩纳哥",
+      "zh-TW": "摩納哥"
     },
     "fullName": {
       "native": "Principauté de Monaco",
@@ -13001,7 +13230,8 @@
       "tr": "Monako",
       "uk": "Монако",
       "vi": "Monaco",
-      "zh-CN": "摩纳哥公国"
+      "zh-CN": "摩纳哥公国",
+      "zh-TW": "摩納哥公國"
     },
     "population": 39244,
     "area": 2,
@@ -13092,7 +13322,8 @@
       "ur": "منگولیا",
       "uz": "Mongoliya",
       "vi": "Mông Cổ",
-      "zh-CN": "蒙古"
+      "zh-CN": "蒙古",
+      "zh-TW": "蒙古"
     },
     "fullName": {
       "native": "Монгол улс",
@@ -13113,7 +13344,8 @@
       "tr": "Moğolistan",
       "uk": "Монголія",
       "vi": "Mông Cổ",
-      "zh-CN": "蒙古国"
+      "zh-CN": "蒙古国",
+      "zh-TW": "蒙古國"
     },
     "population": 3398366,
     "area": 1564116,
@@ -13204,7 +13436,8 @@
       "ur": "مونٹینیگرو",
       "uz": "Chernogoriya",
       "vi": "Montenegro",
-      "zh-CN": "黑山"
+      "zh-CN": "黑山",
+      "zh-TW": "黑山"
     },
     "fullName": {
       "native": "Црна Гора",
@@ -13225,7 +13458,8 @@
       "tr": "Karadağ",
       "uk": "Чорногорія",
       "vi": "Montenegro",
-      "zh-CN": "黑山"
+      "zh-CN": "黑山",
+      "zh-TW": "黑山"
     },
     "population": 619211,
     "area": 13812,
@@ -13319,7 +13553,8 @@
       "ur": "مراکش",
       "uz": "Marokash",
       "vi": "Ma-rốc",
-      "zh-CN": "摩洛哥"
+      "zh-CN": "摩洛哥",
+      "zh-TW": "摩洛哥"
     },
     "fullName": {
       "native": "المملكة المغربية",
@@ -13340,7 +13575,8 @@
       "tr": "Fas",
       "uk": "Марокко",
       "vi": "Ma-rốc",
-      "zh-CN": "摩洛哥王国"
+      "zh-CN": "摩洛哥王国",
+      "zh-TW": "摩洛哥王國"
     },
     "population": 37840044,
     "area": 446550,
@@ -13432,7 +13668,8 @@
       "ur": "موزمبیق",
       "uz": "Mozambik",
       "vi": "Mozambique",
-      "zh-CN": "莫桑比克"
+      "zh-CN": "莫桑比克",
+      "zh-TW": "莫桑比克"
     },
     "fullName": {
       "native": "República de Moçambique",
@@ -13453,7 +13690,8 @@
       "tr": "Mozambik",
       "uk": "Мозамбік",
       "vi": "Mozambique",
-      "zh-CN": "莫桑比克共和国"
+      "zh-CN": "莫桑比克共和国",
+      "zh-TW": "莫桑比克共和國"
     },
     "population": 32790338,
     "area": 801590,
@@ -13547,7 +13785,8 @@
       "ur": "میانمار",
       "uz": "Myanma (Birma)",
       "vi": "Myanmar (Miến Điện)",
-      "zh-CN": "缅甸"
+      "zh-CN": "缅甸",
+      "zh-TW": "緬甸"
     },
     "fullName": {
       "native": "ပြည်ထောင်စု သမ္မတ မြန်မာနိုင်ငံတော်",
@@ -13568,7 +13807,8 @@
       "tr": "Myanmar (Burma)",
       "uk": "Мʼянма (Бірма)",
       "vi": "Myanmar (Miến Điện)",
-      "zh-CN": "缅甸联邦共和国"
+      "zh-CN": "缅甸联邦共和国",
+      "zh-TW": "緬甸聯邦共和國"
     },
     "population": 54409800,
     "area": 676578,
@@ -13659,7 +13899,8 @@
       "ur": "نامیبیا",
       "uz": "Namibiya",
       "vi": "Namibia",
-      "zh-CN": "纳米比亚"
+      "zh-CN": "纳米比亚",
+      "zh-TW": "納米比亞"
     },
     "fullName": {
       "native": "Republic of Namibia",
@@ -13680,7 +13921,8 @@
       "tr": "Namibya",
       "uk": "Намібія",
       "vi": "Namibia",
-      "zh-CN": "纳米比亚共和国"
+      "zh-CN": "纳米比亚共和国",
+      "zh-TW": "納米比亞共和國"
     },
     "population": 2587801,
     "area": 825615,
@@ -13772,7 +14014,8 @@
       "ur": "نورو",
       "uz": "Nauru",
       "vi": "Nauru",
-      "zh-CN": "瑙鲁"
+      "zh-CN": "瑙鲁",
+      "zh-TW": "瑙魯"
     },
     "fullName": {
       "native": "Republic of Nauru",
@@ -13793,7 +14036,8 @@
       "tr": "Nauru",
       "uk": "Науру",
       "vi": "Nauru",
-      "zh-CN": "瑙鲁共和国"
+      "zh-CN": "瑙鲁共和国",
+      "zh-TW": "瑙魯共和國"
     },
     "population": 10876,
     "area": 21,
@@ -13885,7 +14129,8 @@
       "ur": "نیپال",
       "uz": "Nepal",
       "vi": "Nepal",
-      "zh-CN": "尼泊尔"
+      "zh-CN": "尼泊尔",
+      "zh-TW": "尼泊爾"
     },
     "fullName": {
       "native": "नेपाल संघीय लोकतान्त्रिक गणतन्त्र",
@@ -13906,7 +14151,8 @@
       "tr": "Nepal",
       "uk": "Непал",
       "vi": "Nepal",
-      "zh-CN": "尼泊尔联邦民主共和国"
+      "zh-CN": "尼泊尔联邦民主共和国",
+      "zh-TW": "尼泊爾聯邦民主共和國"
     },
     "population": 30034989,
     "area": 147181,
@@ -13997,7 +14243,8 @@
       "ur": "نیدرلینڈ",
       "uz": "Niderlandiya",
       "vi": "Hà Lan",
-      "zh-CN": "荷兰"
+      "zh-CN": "荷兰",
+      "zh-TW": "荷蘭"
     },
     "fullName": {
       "native": "Koninkrijk der Nederlanden",
@@ -14018,7 +14265,8 @@
       "tr": "Hollanda",
       "uk": "Нідерланди",
       "vi": "Hà Lan",
-      "zh-CN": "荷兰王国"
+      "zh-CN": "荷兰王国",
+      "zh-TW": "荷蘭王國"
     },
     "population": 17744406,
     "area": 41543,
@@ -14109,7 +14357,8 @@
       "ur": "نیوزی لینڈ",
       "uz": "Yangi Zelandiya",
       "vi": "New Zealand",
-      "zh-CN": "新西兰"
+      "zh-CN": "新西兰",
+      "zh-TW": "新西蘭"
     },
     "fullName": {
       "native": "New Zealand",
@@ -14130,7 +14379,8 @@
       "tr": "Yeni Zelanda",
       "uk": "Нова Зеландія",
       "vi": "New Zealand",
-      "zh-CN": "新西兰"
+      "zh-CN": "新西兰",
+      "zh-TW": "新西蘭"
     },
     "population": 5084300,
     "area": 268838,
@@ -14222,7 +14472,8 @@
       "ur": "نکاراگوا",
       "uz": "Nikaragua",
       "vi": "Nicaragua",
-      "zh-CN": "尼加拉瓜"
+      "zh-CN": "尼加拉瓜",
+      "zh-TW": "尼加拉瓜"
     },
     "fullName": {
       "native": "República de Nicaragua",
@@ -14243,7 +14494,8 @@
       "tr": "Nikaragua",
       "uk": "Нікарагуа",
       "vi": "Nicaragua",
-      "zh-CN": "尼加拉瓜共和国"
+      "zh-CN": "尼加拉瓜共和国",
+      "zh-TW": "尼加拉瓜共和國"
     },
     "population": 6850540,
     "area": 130370,
@@ -14334,7 +14586,8 @@
       "ur": "نائجر",
       "uz": "Niger",
       "vi": "Niger",
-      "zh-CN": "尼日尔"
+      "zh-CN": "尼日尔",
+      "zh-TW": "尼日爾"
     },
     "fullName": {
       "native": "République du Niger",
@@ -14355,7 +14608,8 @@
       "tr": "Nijer",
       "uk": "Нігер",
       "vi": "Niger",
-      "zh-CN": "尼日尔共和国"
+      "zh-CN": "尼日尔共和国",
+      "zh-TW": "尼日爾共和國"
     },
     "population": 25252723,
     "area": 1267000,
@@ -14446,7 +14700,8 @@
       "ur": "نائجیریا",
       "uz": "Nigeriya",
       "vi": "Nigeria",
-      "zh-CN": "尼日利亚"
+      "zh-CN": "尼日利亚",
+      "zh-TW": "尼日利亞"
     },
     "fullName": {
       "native": "Federal Republic of Nigeria",
@@ -14467,7 +14722,8 @@
       "tr": "Nijerya",
       "uk": "Нігерія",
       "vi": "Nigeria",
-      "zh-CN": "尼日利亚联邦共和国"
+      "zh-CN": "尼日利亚联邦共和国",
+      "zh-TW": "尼日利亞聯邦共和國"
     },
     "population": 218541212,
     "area": 923768,
@@ -14564,7 +14820,8 @@
       "ur": "شمالی مقدونیہ",
       "uz": "Shimoliy Makedoniya",
       "vi": "Bắc Macedonia",
-      "zh-CN": "北马其顿"
+      "zh-CN": "北马其顿",
+      "zh-TW": "北馬其頓"
     },
     "fullName": {
       "native": "Република Северна Македонија",
@@ -14585,7 +14842,8 @@
       "tr": "Kuzey Makedonya",
       "uk": "Північна Македонія",
       "vi": "Bắc Macedonia",
-      "zh-CN": "北马其顿共和国"
+      "zh-CN": "北马其顿共和国",
+      "zh-TW": "北馬其頓共和國"
     },
     "population": 2068451,
     "area": 25713,
@@ -14677,7 +14935,8 @@
       "ur": "ناروے",
       "uz": "Norvegiya",
       "vi": "Na Uy",
-      "zh-CN": "挪威"
+      "zh-CN": "挪威",
+      "zh-TW": "挪威"
     },
     "fullName": {
       "native": "Kongeriket Norge",
@@ -14698,7 +14957,8 @@
       "tr": "Norveç",
       "uk": "Норвегія",
       "vi": "Na Uy",
-      "zh-CN": "挪威王国"
+      "zh-CN": "挪威王国",
+      "zh-TW": "挪威王國"
     },
     "population": 5425270,
     "area": 323802,
@@ -14790,7 +15050,8 @@
       "ur": "عمان",
       "uz": "Ummon",
       "vi": "Oman",
-      "zh-CN": "阿曼"
+      "zh-CN": "阿曼",
+      "zh-TW": "阿曼"
     },
     "fullName": {
       "native": "سلطنة عمان",
@@ -14811,7 +15072,8 @@
       "tr": "Umman",
       "uk": "Оман",
       "vi": "Oman",
-      "zh-CN": "阿曼苏丹国"
+      "zh-CN": "阿曼苏丹国",
+      "zh-TW": "阿曼蘇丹國"
     },
     "population": 4974986,
     "area": 309500,
@@ -14902,7 +15164,8 @@
       "ur": "پاکستان",
       "uz": "Pokiston",
       "vi": "Pakistan",
-      "zh-CN": "巴基斯坦"
+      "zh-CN": "巴基斯坦",
+      "zh-TW": "巴基斯坦"
     },
     "fullName": {
       "native": "اسلامی جمہوریۂ پاكستان",
@@ -14923,7 +15186,8 @@
       "tr": "Pakistan",
       "uk": "Пакистан",
       "vi": "Pakistan",
-      "zh-CN": "巴基斯坦伊斯兰共和国"
+      "zh-CN": "巴基斯坦伊斯兰共和国",
+      "zh-TW": "巴基斯坦伊斯蘭共和國"
     },
     "population": 231402117,
     "area": 881913,
@@ -15015,7 +15279,8 @@
       "ur": "پالاؤ",
       "uz": "Palau",
       "vi": "Palau",
-      "zh-CN": "帕劳"
+      "zh-CN": "帕劳",
+      "zh-TW": "帕勞"
     },
     "fullName": {
       "native": "Republic of Palau",
@@ -15036,7 +15301,8 @@
       "tr": "Palau",
       "uk": "Палау",
       "vi": "Palau",
-      "zh-CN": "帕劳共和国"
+      "zh-CN": "帕劳共和国",
+      "zh-TW": "帕勞共和國"
     },
     "population": 18092,
     "area": 459,
@@ -15127,7 +15393,8 @@
       "ur": "پاناما",
       "uz": "Panama",
       "vi": "Panama",
-      "zh-CN": "巴拿马"
+      "zh-CN": "巴拿马",
+      "zh-TW": "巴拿馬"
     },
     "fullName": {
       "native": "República de Panamá",
@@ -15148,7 +15415,8 @@
       "tr": "Panama",
       "uk": "Панама",
       "vi": "Panama",
-      "zh-CN": "巴拿马共和国"
+      "zh-CN": "巴拿马共和国",
+      "zh-TW": "巴拿馬共和國"
     },
     "population": 4351267,
     "area": 75417,
@@ -15239,7 +15507,8 @@
       "ur": "پاپوا نیو گنی",
       "uz": "Papua – Yangi Gvineya",
       "vi": "Papua New Guinea",
-      "zh-CN": "巴布亚新几内亚"
+      "zh-CN": "巴布亚新几内亚",
+      "zh-TW": "巴布亞新幾內亞"
     },
     "fullName": {
       "native": "Independent State of Papua New Guinea",
@@ -15260,7 +15529,8 @@
       "tr": "Papua Yeni Gine",
       "uk": "Папуа-Нова Гвінея",
       "vi": "Papua New Guinea",
-      "zh-CN": "巴布亚新几内亚独立国"
+      "zh-CN": "巴布亚新几内亚独立国",
+      "zh-TW": "巴布亞新幾內亞獨立國"
     },
     "population": 10142619,
     "area": 462840,
@@ -15353,7 +15623,8 @@
       "ur": "پیراگوئے",
       "uz": "Paragvay",
       "vi": "Paraguay",
-      "zh-CN": "巴拉圭"
+      "zh-CN": "巴拉圭",
+      "zh-TW": "巴拉圭"
     },
     "fullName": {
       "native": "República de Paraguay",
@@ -15374,7 +15645,8 @@
       "tr": "Paraguay",
       "uk": "Парагвай",
       "vi": "Paraguay",
-      "zh-CN": "巴拉圭共和国"
+      "zh-CN": "巴拉圭共和国",
+      "zh-TW": "巴拉圭共和國"
     },
     "population": 7353038,
     "area": 406752,
@@ -15466,7 +15738,8 @@
       "ur": "پیرو",
       "uz": "Peru",
       "vi": "Peru",
-      "zh-CN": "秘鲁"
+      "zh-CN": "秘鲁",
+      "zh-TW": "秘魯"
     },
     "fullName": {
       "native": "República del Perú",
@@ -15487,7 +15760,8 @@
       "tr": "Peru",
       "uk": "Перу",
       "vi": "Peru",
-      "zh-CN": "秘鲁共和国"
+      "zh-CN": "秘鲁共和国",
+      "zh-TW": "秘魯共和國"
     },
     "population": 33396698,
     "area": 1285216,
@@ -15578,7 +15852,8 @@
       "ur": "فلپائن",
       "uz": "Filippin",
       "vi": "Philippines",
-      "zh-CN": "菲律宾"
+      "zh-CN": "菲律宾",
+      "zh-TW": "菲律賓"
     },
     "fullName": {
       "native": "Republic of the Philippines",
@@ -15599,7 +15874,8 @@
       "tr": "Filipinler",
       "uk": "Філіппіни",
       "vi": "Philippines",
-      "zh-CN": "菲律宾共和国"
+      "zh-CN": "菲律宾共和国",
+      "zh-TW": "菲律賓共和國"
     },
     "population": 114163719,
     "area": 343448,
@@ -15691,7 +15967,8 @@
       "ur": "پولینڈ",
       "uz": "Polsha",
       "vi": "Ba Lan",
-      "zh-CN": "波兰"
+      "zh-CN": "波兰",
+      "zh-TW": "波蘭"
     },
     "fullName": {
       "native": "Rzeczpospolita Polska",
@@ -15712,7 +15989,8 @@
       "tr": "Polonya",
       "uk": "Польща",
       "vi": "Ba Lan",
-      "zh-CN": "波兰共和国"
+      "zh-CN": "波兰共和国",
+      "zh-TW": "波蘭共和國"
     },
     "population": 38036118,
     "area": 312696,
@@ -15803,7 +16081,8 @@
       "ur": "پرتگال",
       "uz": "Portugaliya",
       "vi": "Bồ Đào Nha",
-      "zh-CN": "葡萄牙"
+      "zh-CN": "葡萄牙",
+      "zh-TW": "葡萄牙"
     },
     "fullName": {
       "native": "República Portuguesa",
@@ -15824,7 +16103,8 @@
       "tr": "Portekiz",
       "uk": "Португалія",
       "vi": "Bồ Đào Nha",
-      "zh-CN": "葡萄牙共和国"
+      "zh-CN": "葡萄牙共和国",
+      "zh-TW": "葡萄牙共和國"
     },
     "population": 10298252,
     "area": 92212,
@@ -15915,7 +16195,8 @@
       "ur": "قطر",
       "uz": "Qatar",
       "vi": "Qatar",
-      "zh-CN": "卡塔尔"
+      "zh-CN": "卡塔尔",
+      "zh-TW": "卡塔爾"
     },
     "fullName": {
       "native": "دولة قطر",
@@ -15936,7 +16217,8 @@
       "tr": "Katar",
       "uk": "Катар",
       "vi": "Qatar",
-      "zh-CN": "卡塔尔国"
+      "zh-CN": "卡塔尔国",
+      "zh-TW": "卡塔爾國"
     },
     "population": 2695122,
     "area": 11586,
@@ -16027,7 +16309,8 @@
       "ur": "رومانیہ",
       "uz": "Ruminiya",
       "vi": "Romania",
-      "zh-CN": "罗马尼亚"
+      "zh-CN": "罗马尼亚",
+      "zh-TW": "羅馬尼亞"
     },
     "fullName": {
       "native": "România",
@@ -16048,7 +16331,8 @@
       "tr": "Romanya",
       "uk": "Румунія",
       "vi": "Romania",
-      "zh-CN": "罗马尼亚"
+      "zh-CN": "罗马尼亚",
+      "zh-TW": "羅馬尼亞"
     },
     "population": 19286123,
     "area": 238397,
@@ -16151,7 +16435,8 @@
       "ur": "روس",
       "uz": "Rossiya",
       "vi": "Nga",
-      "zh-CN": "俄罗斯"
+      "zh-CN": "俄罗斯",
+      "zh-TW": "俄羅斯"
     },
     "fullName": {
       "native": "Российская Федерация",
@@ -16172,7 +16457,8 @@
       "tr": "Rusya",
       "uk": "Росія",
       "vi": "Nga",
-      "zh-CN": "俄罗斯联邦"
+      "zh-CN": "俄罗斯联邦",
+      "zh-TW": "俄羅斯聯邦"
     },
     "population": 145100000,
     "area": 17098242,
@@ -16263,7 +16549,8 @@
       "ur": "روانڈا",
       "uz": "Ruanda",
       "vi": "Rwanda",
-      "zh-CN": "卢旺达"
+      "zh-CN": "卢旺达",
+      "zh-TW": "盧旺達"
     },
     "fullName": {
       "native": "Repubulika y'u Rwanda",
@@ -16284,7 +16571,8 @@
       "tr": "Ruanda",
       "uk": "Руанда",
       "vi": "Rwanda",
-      "zh-CN": "卢旺达共和国"
+      "zh-CN": "卢旺达共和国",
+      "zh-TW": "盧旺達共和國"
     },
     "population": 13776698,
     "area": 26338,
@@ -16377,7 +16665,8 @@
       "ur": "سینٹ کٹس اور نیویس",
       "uz": "Sent-Kits va Nevis",
       "vi": "St. Kitts và Nevis",
-      "zh-CN": "圣基茨和尼维斯"
+      "zh-CN": "圣基茨和尼维斯",
+      "zh-TW": "聖基茨和尼維斯"
     },
     "fullName": {
       "native": "Federation of Saint Christopher and Nevis",
@@ -16398,7 +16687,8 @@
       "tr": "Saint Kitts ve Nevis",
       "uk": "Сент-Кітс і Невіс",
       "vi": "St. Kitts và Nevis",
-      "zh-CN": "圣基茨和尼维斯联邦"
+      "zh-CN": "圣基茨和尼维斯联邦",
+      "zh-TW": "聖基茨和尼維斯聯邦"
     },
     "population": 47606,
     "area": 261,
@@ -16489,7 +16779,8 @@
       "ur": "سینٹ لوسیا",
       "uz": "Sent-Lyusiya",
       "vi": "St. Lucia",
-      "zh-CN": "圣卢西亚"
+      "zh-CN": "圣卢西亚",
+      "zh-TW": "聖盧西亞"
     },
     "fullName": {
       "native": "Saint Lucia",
@@ -16510,7 +16801,8 @@
       "tr": "Saint Lucia",
       "uk": "Сент-Люсія",
       "vi": "St. Lucia",
-      "zh-CN": "圣卢西亚"
+      "zh-CN": "圣卢西亚",
+      "zh-TW": "聖盧西亞"
     },
     "population": 184401,
     "area": 616,
@@ -16601,7 +16893,8 @@
       "ur": "سینٹ ونسنٹ اور گریناڈینز",
       "uz": "Sent-Vinsent va Grenadin",
       "vi": "St. Vincent và Grenadines",
-      "zh-CN": "圣文森特和格林纳丁斯"
+      "zh-CN": "圣文森特和格林纳丁斯",
+      "zh-TW": "聖文森特和格林納丁斯"
     },
     "fullName": {
       "native": "Saint Vincent and the Grenadines",
@@ -16622,7 +16915,8 @@
       "tr": "Saint Vincent ve Grenadinler",
       "uk": "Сент-Вінсент і Гренадіни",
       "vi": "St. Vincent và Grenadines",
-      "zh-CN": "圣文森特和格林纳丁斯"
+      "zh-CN": "圣文森特和格林纳丁斯",
+      "zh-TW": "聖文森特和格林納丁斯"
     },
     "population": 110694,
     "area": 389,
@@ -16713,7 +17007,8 @@
       "ur": "ساموآ",
       "uz": "Samoa",
       "vi": "Samoa",
-      "zh-CN": "萨摩亚"
+      "zh-CN": "萨摩亚",
+      "zh-TW": "薩摩亞"
     },
     "fullName": {
       "native": "Malo Saʻoloto Tutoʻatasi o Sāmoa",
@@ -16734,7 +17029,8 @@
       "tr": "Samoa",
       "uk": "Самоа",
       "vi": "Samoa",
-      "zh-CN": "萨摩亚独立国"
+      "zh-CN": "萨摩亚独立国",
+      "zh-TW": "薩摩亞獨立國"
     },
     "population": 218764,
     "area": 2842,
@@ -16826,7 +17122,8 @@
       "ur": "سان مارینو",
       "uz": "San-Marino",
       "vi": "San Marino",
-      "zh-CN": "圣马力诺"
+      "zh-CN": "圣马力诺",
+      "zh-TW": "聖馬力諾"
     },
     "fullName": {
       "native": "Repubblica di San Marino",
@@ -16847,7 +17144,8 @@
       "tr": "San Marino",
       "uk": "Сан-Марино",
       "vi": "San Marino",
-      "zh-CN": "圣马力诺共和国"
+      "zh-CN": "圣马力诺共和国",
+      "zh-TW": "聖馬力諾共和國"
     },
     "population": 33931,
     "area": 61,
@@ -16938,7 +17236,8 @@
       "ur": "ساؤ ٹوم اور پرنسپے",
       "uz": "San-Tome va Prinsipi",
       "vi": "São Tomé và Príncipe",
-      "zh-CN": "圣多美和普林西比"
+      "zh-CN": "圣多美和普林西比",
+      "zh-TW": "聖多美和普林西比"
     },
     "fullName": {
       "native": "República Democrática do São Tomé e Príncipe",
@@ -16959,7 +17258,8 @@
       "tr": "Sao Tome ve Principe",
       "uk": "Сан-Томе і Принсіпі",
       "vi": "São Tomé và Príncipe",
-      "zh-CN": "圣多美和普林西比民主共和国"
+      "zh-CN": "圣多美和普林西比民主共和国",
+      "zh-TW": "聖多美和普林西比民主共和國"
     },
     "population": 223107,
     "area": 964,
@@ -17050,7 +17350,8 @@
       "ur": "سعودی عرب",
       "uz": "Saudiya Arabistoni",
       "vi": "Ả Rập Xê-út",
-      "zh-CN": "沙特阿拉伯"
+      "zh-CN": "沙特阿拉伯",
+      "zh-TW": "沙特阿拉伯"
     },
     "fullName": {
       "native": "المملكة العربية السعودية",
@@ -17071,7 +17372,8 @@
       "tr": "Suudi Arabistan",
       "uk": "Саудівська Аравія",
       "vi": "Ả Rập Xê-út",
-      "zh-CN": "沙特阿拉伯王国"
+      "zh-CN": "沙特阿拉伯王国",
+      "zh-TW": "沙特阿拉伯王國"
     },
     "population": 36408820,
     "area": 2149690,
@@ -17162,7 +17464,8 @@
       "ur": "سینیگال",
       "uz": "Senegal",
       "vi": "Senegal",
-      "zh-CN": "塞内加尔"
+      "zh-CN": "塞内加尔",
+      "zh-TW": "塞內加爾"
     },
     "fullName": {
       "native": "République du Sénégal",
@@ -17183,7 +17486,8 @@
       "tr": "Senegal",
       "uk": "Сенегал",
       "vi": "Senegal",
-      "zh-CN": "塞内加尔共和国"
+      "zh-CN": "塞内加尔共和国",
+      "zh-TW": "塞內加爾共和國"
     },
     "population": 17196301,
     "area": 196722,
@@ -17274,7 +17578,8 @@
       "ur": "سربیا",
       "uz": "Serbiya",
       "vi": "Serbia",
-      "zh-CN": "塞尔维亚"
+      "zh-CN": "塞尔维亚",
+      "zh-TW": "塞爾維亞"
     },
     "fullName": {
       "native": "Република Србија",
@@ -17295,7 +17600,8 @@
       "tr": "Sırbistan",
       "uk": "Сербія",
       "vi": "Serbia",
-      "zh-CN": "塞尔维亚共和国"
+      "zh-CN": "塞尔维亚共和国",
+      "zh-TW": "塞爾維亞共和國"
     },
     "population": 6804596,
     "area": 77474,
@@ -17386,7 +17692,8 @@
       "ur": "سیچیلز",
       "uz": "Seyshel orollari",
       "vi": "Seychelles",
-      "zh-CN": "塞舌尔"
+      "zh-CN": "塞舌尔",
+      "zh-TW": "塞舌爾"
     },
     "fullName": {
       "native": "République des Seychelles",
@@ -17407,7 +17714,8 @@
       "tr": "Seyşeller",
       "uk": "Сейшельські Острови",
       "vi": "Seychelles",
-      "zh-CN": "塞舌尔共和国"
+      "zh-CN": "塞舌尔共和国",
+      "zh-TW": "塞舌爾共和國"
     },
     "population": 98347,
     "area": 455,
@@ -17499,7 +17807,8 @@
       "ur": "سیرا لیون",
       "uz": "Syerra-Leone",
       "vi": "Sierra Leone",
-      "zh-CN": "塞拉利昂"
+      "zh-CN": "塞拉利昂",
+      "zh-TW": "塞拉利昂"
     },
     "fullName": {
       "native": "Republic of Sierra Leone",
@@ -17520,7 +17829,8 @@
       "tr": "Sierra Leone",
       "uk": "Сьєрра-Леоне",
       "vi": "Sierra Leone",
-      "zh-CN": "塞拉利昂共和国"
+      "zh-CN": "塞拉利昂共和国",
+      "zh-TW": "塞拉利昂共和國"
     },
     "population": 8420641,
     "area": 71740,
@@ -17611,7 +17921,8 @@
       "ur": "سنگاپور",
       "uz": "Singapur",
       "vi": "Singapore",
-      "zh-CN": "新加坡"
+      "zh-CN": "新加坡",
+      "zh-TW": "新加坡"
     },
     "fullName": {
       "native": "Republic of Singapore",
@@ -17632,7 +17943,8 @@
       "tr": "Singapur",
       "uk": "Сінгапур",
       "vi": "Singapore",
-      "zh-CN": "新加坡共和国"
+      "zh-CN": "新加坡共和国",
+      "zh-TW": "新加坡共和國"
     },
     "population": 5850342,
     "area": 719,
@@ -17729,7 +18041,8 @@
       "ur": "سلوواکیا",
       "uz": "Slovakiya",
       "vi": "Slovakia",
-      "zh-CN": "斯洛伐克"
+      "zh-CN": "斯洛伐克",
+      "zh-TW": "斯洛伐克"
     },
     "fullName": {
       "native": "Slovenská republika",
@@ -17750,7 +18063,8 @@
       "tr": "Slovakya",
       "uk": "Словаччина",
       "vi": "Slovakia",
-      "zh-CN": "斯洛伐克共和国"
+      "zh-CN": "斯洛伐克共和国",
+      "zh-TW": "斯洛伐克共和國"
     },
     "population": 5460185,
     "area": 49035,
@@ -17841,7 +18155,8 @@
       "ur": "سلووینیا",
       "uz": "Sloveniya",
       "vi": "Slovenia",
-      "zh-CN": "斯洛文尼亚"
+      "zh-CN": "斯洛文尼亚",
+      "zh-TW": "斯洛文尼亞"
     },
     "fullName": {
       "native": "Republika Slovenija",
@@ -17862,7 +18177,8 @@
       "tr": "Slovenya",
       "uk": "Словенія",
       "vi": "Slovenia",
-      "zh-CN": "斯洛文尼亚共和国"
+      "zh-CN": "斯洛文尼亚共和国",
+      "zh-TW": "斯洛文尼亞共和國"
     },
     "population": 2108977,
     "area": 20273,
@@ -17953,7 +18269,8 @@
       "ur": "جزائرِ سولومن",
       "uz": "Solomon orollari",
       "vi": "Quần đảo Solomon",
-      "zh-CN": "所罗门群岛"
+      "zh-CN": "所罗门群岛",
+      "zh-TW": "所羅門群島"
     },
     "fullName": {
       "native": "Solomon Islands",
@@ -17974,7 +18291,8 @@
       "tr": "Solomon Adaları",
       "uk": "Соломонові Острови",
       "vi": "Quần đảo Solomon",
-      "zh-CN": "所罗门群岛"
+      "zh-CN": "所罗门群岛",
+      "zh-TW": "所羅門群島"
     },
     "population": 720390,
     "area": 28896,
@@ -18065,7 +18383,8 @@
       "ur": "صومالیہ",
       "uz": "Somali",
       "vi": "Somalia",
-      "zh-CN": "索马里"
+      "zh-CN": "索马里",
+      "zh-TW": "索馬里"
     },
     "fullName": {
       "native": "Jamhuuriyadda Federaalka Soomaaliya",
@@ -18086,7 +18405,8 @@
       "tr": "Somali",
       "uk": "Сомалі",
       "vi": "Somalia",
-      "zh-CN": "索马里联邦共和国"
+      "zh-CN": "索马里联邦共和国",
+      "zh-TW": "索馬里聯邦共和國"
     },
     "population": 17065581,
     "area": 637657,
@@ -18178,7 +18498,8 @@
       "ur": "جنوبی افریقہ",
       "uz": "Janubiy Afrika Respublikasi",
       "vi": "Nam Phi",
-      "zh-CN": "南非"
+      "zh-CN": "南非",
+      "zh-TW": "南非"
     },
     "fullName": {
       "native": "Republiek van Suid-Afrika",
@@ -18199,7 +18520,8 @@
       "tr": "Güney Afrika",
       "uk": "Південно-Африканська Республіка",
       "vi": "Nam Phi",
-      "zh-CN": "南非共和国"
+      "zh-CN": "南非共和国",
+      "zh-TW": "南非共和國"
     },
     "population": 59893885,
     "area": 1221037,
@@ -18300,7 +18622,8 @@
       "ur": "جنوبی سوڈان",
       "uz": "Janubiy Sudan",
       "vi": "Nam Sudan",
-      "zh-CN": "南苏丹"
+      "zh-CN": "南苏丹",
+      "zh-TW": "南蘇丹"
     },
     "fullName": {
       "native": "Republic of South Sudan",
@@ -18321,7 +18644,8 @@
       "tr": "Güney Sudan",
       "uk": "Південний Судан",
       "vi": "Nam Sudan",
-      "zh-CN": "南苏丹共和国"
+      "zh-CN": "南苏丹共和国",
+      "zh-TW": "南蘇丹共和國"
     },
     "population": 11088796,
     "area": 619745,
@@ -18412,7 +18736,8 @@
       "ur": "سپین",
       "uz": "Ispaniya",
       "vi": "Tây Ban Nha",
-      "zh-CN": "西班牙"
+      "zh-CN": "西班牙",
+      "zh-TW": "西班牙"
     },
     "fullName": {
       "native": "Reino de España",
@@ -18433,7 +18758,8 @@
       "tr": "İspanya",
       "uk": "Іспанія",
       "vi": "Tây Ban Nha",
-      "zh-CN": "西班牙王国"
+      "zh-CN": "西班牙王国",
+      "zh-TW": "西班牙王國"
     },
     "population": 47415750,
     "area": 505990,
@@ -18524,7 +18850,8 @@
       "ur": "سری لنکا",
       "uz": "Shri-Lanka",
       "vi": "Sri Lanka",
-      "zh-CN": "斯里兰卡"
+      "zh-CN": "斯里兰卡",
+      "zh-TW": "斯里蘭卡"
     },
     "fullName": {
       "native": "ශ්‍රී ලංකා ප්‍රජාතාන්ත්‍රික සමාජවාදී ජනරජය",
@@ -18545,7 +18872,8 @@
       "tr": "Sri Lanka",
       "uk": "Шрі-Ланка",
       "vi": "Sri Lanka",
-      "zh-CN": "斯里兰卡民主社会主义共和国"
+      "zh-CN": "斯里兰卡民主社会主义共和国",
+      "zh-TW": "斯里蘭卡民主社會主義共和國"
     },
     "population": 22156000,
     "area": 65610,
@@ -18637,7 +18965,8 @@
       "ur": "سوڈان",
       "uz": "Sudan",
       "vi": "Sudan",
-      "zh-CN": "苏丹"
+      "zh-CN": "苏丹",
+      "zh-TW": "蘇丹"
     },
     "fullName": {
       "native": "جمهورية السودان",
@@ -18658,7 +18987,8 @@
       "tr": "Sudan",
       "uk": "Судан",
       "vi": "Sudan",
-      "zh-CN": "苏丹共和国"
+      "zh-CN": "苏丹共和国",
+      "zh-TW": "蘇丹共和國"
     },
     "population": 44909353,
     "area": 1861484,
@@ -18750,7 +19080,8 @@
       "ur": "سورینام",
       "uz": "Surinam",
       "vi": "Suriname",
-      "zh-CN": "苏里南"
+      "zh-CN": "苏里南",
+      "zh-TW": "蘇里南"
     },
     "fullName": {
       "native": "Republiek Suriname",
@@ -18771,7 +19102,8 @@
       "tr": "Surinam",
       "uk": "Суринам",
       "vi": "Suriname",
-      "zh-CN": "苏里南共和国"
+      "zh-CN": "苏里南共和国",
+      "zh-TW": "蘇里南共和國"
     },
     "population": 623236,
     "area": 163820,
@@ -18862,7 +19194,8 @@
       "ur": "سویڈن",
       "uz": "Shvetsiya",
       "vi": "Thụy Điển",
-      "zh-CN": "瑞典"
+      "zh-CN": "瑞典",
+      "zh-TW": "瑞典"
     },
     "fullName": {
       "native": "Konungariket Sverige",
@@ -18883,7 +19216,8 @@
       "tr": "İsveç",
       "uk": "Швеція",
       "vi": "Thụy Điển",
-      "zh-CN": "瑞典王国"
+      "zh-CN": "瑞典王国",
+      "zh-TW": "瑞典王國"
     },
     "population": 10481937,
     "area": 450295,
@@ -18974,7 +19308,8 @@
       "ur": "سوئٹزرلینڈ",
       "uz": "Shveytsariya",
       "vi": "Thụy Sĩ",
-      "zh-CN": "瑞士"
+      "zh-CN": "瑞士",
+      "zh-TW": "瑞士"
     },
     "fullName": {
       "native": "Confédération suisse",
@@ -18995,7 +19330,8 @@
       "tr": "İsviçre",
       "uk": "Швейцарія",
       "vi": "Thụy Sĩ",
-      "zh-CN": "瑞士联邦"
+      "zh-CN": "瑞士联邦",
+      "zh-TW": "瑞士聯邦"
     },
     "population": 8738791,
     "area": 41285,
@@ -19092,7 +19428,8 @@
       "ur": "شام",
       "uz": "Suriya",
       "vi": "Syria",
-      "zh-CN": "叙利亚"
+      "zh-CN": "叙利亚",
+      "zh-TW": "敘利亞"
     },
     "fullName": {
       "native": "الجمهورية العربية السورية",
@@ -19113,7 +19450,8 @@
       "tr": "Suriye",
       "uk": "Сирія",
       "vi": "Syria",
-      "zh-CN": "阿拉伯叙利亚共和国"
+      "zh-CN": "阿拉伯叙利亚共和国",
+      "zh-TW": "阿拉伯敘利亞共和國"
     },
     "population": 22125249,
     "area": 185180,
@@ -19204,7 +19542,8 @@
       "ur": "تاجکستان",
       "uz": "Tojikiston",
       "vi": "Tajikistan",
-      "zh-CN": "塔吉克斯坦"
+      "zh-CN": "塔吉克斯坦",
+      "zh-TW": "塔吉克斯坦"
     },
     "fullName": {
       "native": "Ҷумҳурии Тоҷикистон",
@@ -19225,7 +19564,8 @@
       "tr": "Tacikistan",
       "uk": "Таджикистан",
       "vi": "Tajikistan",
-      "zh-CN": "塔吉克斯坦共和国"
+      "zh-CN": "塔吉克斯坦共和国",
+      "zh-TW": "塔吉克斯坦共和國"
     },
     "population": 10143543,
     "area": 143100,
@@ -19323,7 +19663,8 @@
       "ur": "تنزانیہ",
       "uz": "Tanzaniya",
       "vi": "Tanzania",
-      "zh-CN": "坦桑尼亚"
+      "zh-CN": "坦桑尼亚",
+      "zh-TW": "坦桑尼亞"
     },
     "fullName": {
       "native": "Jamhuri ya Muungano wa Tanzania",
@@ -19344,7 +19685,8 @@
       "tr": "Tanzanya",
       "uk": "Танзанія",
       "vi": "Tanzania",
-      "zh-CN": "坦桑尼亚联合共和国"
+      "zh-CN": "坦桑尼亚联合共和国",
+      "zh-TW": "坦桑尼亞聯合共和國"
     },
     "population": 63298550,
     "area": 945087,
@@ -19436,7 +19778,8 @@
       "ur": "تھائی لینڈ",
       "uz": "Tailand",
       "vi": "Thái Lan",
-      "zh-CN": "泰国"
+      "zh-CN": "泰国",
+      "zh-TW": "泰國"
     },
     "fullName": {
       "native": "ราชอาณาจักรไทย",
@@ -19457,7 +19800,8 @@
       "tr": "Tayland",
       "uk": "Таїланд",
       "vi": "Thái Lan",
-      "zh-CN": "泰王国"
+      "zh-CN": "泰王国",
+      "zh-TW": "泰王國"
     },
     "population": 71697030,
     "area": 513120,
@@ -19548,7 +19892,8 @@
       "ur": "تیمور-لیس",
       "uz": "Timor-Leste",
       "vi": "Timor-Leste",
-      "zh-CN": "东帝汶"
+      "zh-CN": "东帝汶",
+      "zh-TW": "東帝汶"
     },
     "fullName": {
       "native": "República Democrática de Timor-Leste",
@@ -19569,7 +19914,8 @@
       "tr": "Timor-Leste",
       "uk": "Тімор-Лешті",
       "vi": "Timor-Leste",
-      "zh-CN": "东帝汶民主共和国"
+      "zh-CN": "东帝汶民主共和国",
+      "zh-TW": "東帝汶民主共和國"
     },
     "population": 1341296,
     "area": 14874,
@@ -19661,7 +20007,8 @@
       "ur": "ٹوگو",
       "uz": "Togo",
       "vi": "Togo",
-      "zh-CN": "多哥"
+      "zh-CN": "多哥",
+      "zh-TW": "多哥"
     },
     "fullName": {
       "native": "République togolaise",
@@ -19682,7 +20029,8 @@
       "tr": "Togo",
       "uk": "Того",
       "vi": "Togo",
-      "zh-CN": "多哥共和国"
+      "zh-CN": "多哥共和国",
+      "zh-TW": "多哥共和國"
     },
     "population": 8644829,
     "area": 56785,
@@ -19773,7 +20121,8 @@
       "ur": "ٹونگا",
       "uz": "Tonga",
       "vi": "Tonga",
-      "zh-CN": "汤加"
+      "zh-CN": "汤加",
+      "zh-TW": "湯加"
     },
     "fullName": {
       "native": "Kingdom of Tonga",
@@ -19794,7 +20143,8 @@
       "tr": "Tonga",
       "uk": "Тонга",
       "vi": "Tonga",
-      "zh-CN": "汤加王国"
+      "zh-CN": "汤加王国",
+      "zh-TW": "湯加王國"
     },
     "population": 100651,
     "area": 747,
@@ -19886,7 +20236,8 @@
       "ur": "ٹرینیڈاڈ اور ٹوباگو",
       "uz": "Trinidad va Tobago",
       "vi": "Trinidad và Tobago",
-      "zh-CN": "特立尼达和多巴哥"
+      "zh-CN": "特立尼达和多巴哥",
+      "zh-TW": "特立尼達和多巴哥"
     },
     "fullName": {
       "native": "Republic of Trinidad and Tobago",
@@ -19907,7 +20258,8 @@
       "tr": "Trinidad ve Tobago",
       "uk": "Тринідад і Тобаго",
       "vi": "Trinidad và Tobago",
-      "zh-CN": "特立尼达和多巴哥共和国"
+      "zh-CN": "特立尼达和多巴哥共和国",
+      "zh-TW": "特立尼達和多巴哥共和國"
     },
     "population": 1399491,
     "area": 5128,
@@ -19998,7 +20350,8 @@
       "ur": "تیونس",
       "uz": "Tunis",
       "vi": "Tunisia",
-      "zh-CN": "突尼斯"
+      "zh-CN": "突尼斯",
+      "zh-TW": "突尼斯"
     },
     "fullName": {
       "native": "الجمهورية التونسية",
@@ -20019,7 +20372,8 @@
       "tr": "Tunus",
       "uk": "Туніс",
       "vi": "Tunisia",
-      "zh-CN": "突尼斯共和国"
+      "zh-CN": "突尼斯共和国",
+      "zh-TW": "突尼斯共和國"
     },
     "population": 12046656,
     "area": 163610,
@@ -20114,7 +20468,8 @@
       "ur": "ترکی",
       "uz": "Turkiya",
       "vi": "Thổ Nhĩ Kỳ",
-      "zh-CN": "土耳其"
+      "zh-CN": "土耳其",
+      "zh-TW": "土耳其"
     },
     "fullName": {
       "native": "Türkiye Cumhuriyeti",
@@ -20135,7 +20490,8 @@
       "tr": "Türkiye",
       "uk": "Туреччина",
       "vi": "Thổ Nhĩ Kỳ",
-      "zh-CN": "土耳其共和国"
+      "zh-CN": "土耳其共和国",
+      "zh-TW": "土耳其共和國"
     },
     "population": 85279553,
     "area": 783562,
@@ -20226,7 +20582,8 @@
       "ur": "ترکمنستان",
       "uz": "Turkmaniston",
       "vi": "Turkmenistan",
-      "zh-CN": "土库曼斯坦"
+      "zh-CN": "土库曼斯坦",
+      "zh-TW": "土庫曼斯坦"
     },
     "fullName": {
       "native": "Türkmenistan",
@@ -20247,7 +20604,8 @@
       "tr": "Türkmenistan",
       "uk": "Туркменістан",
       "vi": "Turkmenistan",
-      "zh-CN": "土库曼斯坦"
+      "zh-CN": "土库曼斯坦",
+      "zh-TW": "土庫曼斯坦"
     },
     "population": 6118000,
     "area": 488100,
@@ -20338,7 +20696,8 @@
       "ur": "تووالو",
       "uz": "Tuvalu",
       "vi": "Tuvalu",
-      "zh-CN": "图瓦卢"
+      "zh-CN": "图瓦卢",
+      "zh-TW": "圖瓦盧"
     },
     "fullName": {
       "native": "Tuvalu",
@@ -20359,7 +20718,8 @@
       "tr": "Tuvalu",
       "uk": "Тувалу",
       "vi": "Tuvalu",
-      "zh-CN": "图瓦卢"
+      "zh-CN": "图瓦卢",
+      "zh-TW": "圖瓦盧"
     },
     "population": 11792,
     "area": 26,
@@ -20450,7 +20810,8 @@
       "ur": "یوگنڈا",
       "uz": "Uganda",
       "vi": "Uganda",
-      "zh-CN": "乌干达"
+      "zh-CN": "乌干达",
+      "zh-TW": "烏干達"
     },
     "fullName": {
       "native": "Republic of Uganda",
@@ -20471,7 +20832,8 @@
       "tr": "Uganda",
       "uk": "Уганда",
       "vi": "Uganda",
-      "zh-CN": "乌干达共和国"
+      "zh-CN": "乌干达共和国",
+      "zh-TW": "烏干達共和國"
     },
     "population": 47123531,
     "area": 241038,
@@ -20563,7 +20925,8 @@
       "ur": "یوکرین",
       "uz": "Ukraina",
       "vi": "Ukraina",
-      "zh-CN": "乌克兰"
+      "zh-CN": "乌克兰",
+      "zh-TW": "烏克蘭"
     },
     "fullName": {
       "native": "Україна",
@@ -20584,7 +20947,8 @@
       "tr": "Ukrayna",
       "uk": "Україна",
       "vi": "Ukraina",
-      "zh-CN": "乌克兰"
+      "zh-CN": "乌克兰",
+      "zh-TW": "烏克蘭"
     },
     "population": 43531422,
     "area": 603550,
@@ -20678,7 +21042,8 @@
       "ur": "متحدہ عرب امارات",
       "uz": "Birlashgan Arab Amirliklari",
       "vi": "Các Tiểu Vương quốc Ả Rập Thống nhất",
-      "zh-CN": "阿拉伯联合酋长国"
+      "zh-CN": "阿拉伯联合酋长国",
+      "zh-TW": "阿拉伯聯合酋長國"
     },
     "fullName": {
       "native": "الإمارات العربية المتحدة",
@@ -20699,7 +21064,8 @@
       "tr": "Birleşik Arap Emirlikleri",
       "uk": "Обʼєднані Арабські Емірати",
       "vi": "Các Tiểu Vương quốc Ả Rập Thống nhất",
-      "zh-CN": "阿拉伯联合酋长国"
+      "zh-CN": "阿拉伯联合酋长国",
+      "zh-TW": "阿拉伯聯合酋長國"
     },
     "population": 9890402,
     "area": 83600,
@@ -20798,7 +21164,8 @@
       "ur": "برطانیہ",
       "uz": "Buyuk Britaniya",
       "vi": "Vương quốc Anh",
-      "zh-CN": "英国"
+      "zh-CN": "英国",
+      "zh-TW": "英國"
     },
     "fullName": {
       "native": "United Kingdom of Great Britain and Northern Ireland",
@@ -20819,7 +21186,8 @@
       "tr": "Birleşik Krallık",
       "uk": "Велика Британія",
       "vi": "Vương quốc Anh",
-      "zh-CN": "大不列颠及北爱尔兰联合王国"
+      "zh-CN": "大不列颠及北爱尔兰联合王国",
+      "zh-TW": "大不列顛及北愛爾蘭聯合王國"
     },
     "population": 67326569,
     "area": 242495,
@@ -20931,7 +21299,8 @@
       "ur": "ریاست ہائے متحدہ امریکہ",
       "uz": "Amerika Qo‘shma Shtatlari",
       "vi": "Hoa Kỳ",
-      "zh-CN": "美国"
+      "zh-CN": "美国",
+      "zh-TW": "美國"
     },
     "fullName": {
       "native": "United States of America",
@@ -20952,7 +21321,8 @@
       "tr": "Amerika Birleşik Devletleri",
       "uk": "Сполучені Штати",
       "vi": "Hoa Kỳ",
-      "zh-CN": "美利坚合众国"
+      "zh-CN": "美利坚合众国",
+      "zh-TW": "美利堅合眾國"
     },
     "population": 334233854,
     "area": 9372610,
@@ -21043,7 +21413,8 @@
       "ur": "یوراگوئے",
       "uz": "Urugvay",
       "vi": "Uruguay",
-      "zh-CN": "乌拉圭"
+      "zh-CN": "乌拉圭",
+      "zh-TW": "烏拉圭"
     },
     "fullName": {
       "native": "República Oriental del Uruguay",
@@ -21064,7 +21435,8 @@
       "tr": "Uruguay",
       "uk": "Уругвай",
       "vi": "Uruguay",
-      "zh-CN": "乌拉圭东岸共和国"
+      "zh-CN": "乌拉圭东岸共和国",
+      "zh-TW": "烏拉圭東岸共和國"
     },
     "population": 3473730,
     "area": 176215,
@@ -21155,7 +21527,8 @@
       "ur": "ازبکستان",
       "uz": "Oʻzbekiston",
       "vi": "Uzbekistan",
-      "zh-CN": "乌兹别克斯坦"
+      "zh-CN": "乌兹别克斯坦",
+      "zh-TW": "烏茲別克斯坦"
     },
     "fullName": {
       "native": "O'zbekiston Respublikasi",
@@ -21176,7 +21549,8 @@
       "tr": "Özbekistan",
       "uk": "Узбекистан",
       "vi": "Uzbekistan",
-      "zh-CN": "乌兹别克斯坦共和国"
+      "zh-CN": "乌兹别克斯坦共和国",
+      "zh-TW": "烏茲別克斯坦共和國"
     },
     "population": 36601000,
     "area": 448978,
@@ -21267,7 +21641,8 @@
       "ur": "وانوات",
       "uz": "Vanuatu",
       "vi": "Vanuatu",
-      "zh-CN": "瓦努阿图"
+      "zh-CN": "瓦努阿图",
+      "zh-TW": "瓦努阿圖"
     },
     "fullName": {
       "native": "Ripablik blong Vanuatu",
@@ -21288,7 +21663,8 @@
       "tr": "Vanuatu",
       "uk": "Вануату",
       "vi": "Vanuatu",
-      "zh-CN": "瓦努阿图共和国"
+      "zh-CN": "瓦努阿图共和国",
+      "zh-TW": "瓦努阿圖共和國"
     },
     "population": 332212,
     "area": 12189,
@@ -21381,7 +21757,8 @@
       "ur": "وینزویلا",
       "uz": "Venesuela",
       "vi": "Venezuela",
-      "zh-CN": "委内瑞拉"
+      "zh-CN": "委内瑞拉",
+      "zh-TW": "委內瑞拉"
     },
     "fullName": {
       "native": "República Bolivariana de Venezuela",
@@ -21402,7 +21779,8 @@
       "tr": "Venezuela",
       "uk": "Венесуела",
       "vi": "Venezuela",
-      "zh-CN": "委内瑞拉玻利瓦尔共和国"
+      "zh-CN": "委内瑞拉玻利瓦尔共和国",
+      "zh-TW": "委內瑞拉玻利瓦爾共和國"
     },
     "population": 33721168,
     "area": 916445,
@@ -21493,7 +21871,8 @@
       "ur": "ویت نام",
       "uz": "Vyetnam",
       "vi": "Việt Nam",
-      "zh-CN": "越南"
+      "zh-CN": "越南",
+      "zh-TW": "越南"
     },
     "fullName": {
       "native": "Cộng hòa xã hội chủ nghĩa Việt Nam",
@@ -21514,7 +21893,8 @@
       "tr": "Vietnam",
       "uk": "Вʼєтнам",
       "vi": "Việt Nam",
-      "zh-CN": "越南社会主义共和国"
+      "zh-CN": "越南社会主义共和国",
+      "zh-TW": "越南社會主義共和國"
     },
     "population": 97468029,
     "area": 331212,
@@ -21605,7 +21985,8 @@
       "ur": "یمن",
       "uz": "Yaman",
       "vi": "Yemen",
-      "zh-CN": "也门"
+      "zh-CN": "也门",
+      "zh-TW": "也門"
     },
     "fullName": {
       "native": "الجمهورية اليمنية",
@@ -21626,7 +22007,8 @@
       "tr": "Yemen",
       "uk": "Ємен",
       "vi": "Yemen",
-      "zh-CN": "也门共和国"
+      "zh-CN": "也门共和国",
+      "zh-TW": "也門共和國"
     },
     "population": 34449825,
     "area": 527968,
@@ -21717,7 +22099,8 @@
       "ur": "زامبیا",
       "uz": "Zambiya",
       "vi": "Zambia",
-      "zh-CN": "赞比亚"
+      "zh-CN": "赞比亚",
+      "zh-TW": "贊比亞"
     },
     "fullName": {
       "native": "Republic of Zambia",
@@ -21738,7 +22121,8 @@
       "tr": "Zambiya",
       "uk": "Замбія",
       "vi": "Zambia",
-      "zh-CN": "赞比亚共和国"
+      "zh-CN": "赞比亚共和国",
+      "zh-TW": "贊比亞共和國"
     },
     "population": 19473125,
     "area": 752618,
@@ -21829,7 +22213,8 @@
       "ur": "زمبابوے",
       "uz": "Zimbabve",
       "vi": "Zimbabwe",
-      "zh-CN": "津巴布韦"
+      "zh-CN": "津巴布韦",
+      "zh-TW": "津巴布韋"
     },
     "fullName": {
       "native": "Republic of Zimbabwe",
@@ -21850,7 +22235,8 @@
       "tr": "Zimbabve",
       "uk": "Зімбабве",
       "vi": "Zimbabwe",
-      "zh-CN": "津巴布韦共和国"
+      "zh-CN": "津巴布韦共和国",
+      "zh-TW": "津巴布韋共和國"
     },
     "population": 15092171,
     "area": 390757,
@@ -21943,7 +22329,8 @@
       "ur": "ہانگ کانگ",
       "uz": "Gonkong (Xitoy MMH)",
       "vi": "Đặc khu Hành chính Hồng Kông, Trung Quốc",
-      "zh-CN": "香港"
+      "zh-CN": "香港",
+      "zh-TW": "香港"
     },
     "fullName": {
       "native": "中华人民共和国香港特别行政区",
@@ -21964,7 +22351,8 @@
       "tr": "Çin Hong Kong ÖİB",
       "uk": "Гонконг, ОАР Китаю",
       "vi": "Đặc khu Hành chính Hồng Kông, Trung Quốc",
-      "zh-CN": "中国香港特别行政区"
+      "zh-CN": "中国香港特别行政区",
+      "zh-TW": "中國香港特別行政區"
     },
     "population": 7413100,
     "area": 1104,
@@ -22056,7 +22444,8 @@
       "ur": "مکاؤ",
       "uz": "Makao (Xitoy MMH)",
       "vi": "Đặc khu Hành chính Macao, Trung Quốc",
-      "zh-CN": "澳门"
+      "zh-CN": "澳门",
+      "zh-TW": "澳門"
     },
     "fullName": {
       "native": "中华人民共和国澳门特别行政区",
@@ -22077,7 +22466,8 @@
       "tr": "Çin Makao ÖİB",
       "uk": "Макао, ОАР Китаю",
       "vi": "Đặc khu Hành chính Macao, Trung Quốc",
-      "zh-CN": "中国澳门特别行政区"
+      "zh-CN": "中国澳门特别行政区",
+      "zh-TW": "中國澳門特別行政區"
     },
     "population": 683218,
     "area": 30,
@@ -22175,7 +22565,8 @@
       "ur": "تائیوان",
       "uz": "Tayvan",
       "vi": "Đài Loan",
-      "zh-CN": "台湾"
+      "zh-CN": "台湾",
+      "zh-TW": "臺灣"
     },
     "fullName": {
       "native": "中華民國",
@@ -22196,7 +22587,8 @@
       "tr": "Tayvan",
       "uk": "Тайвань",
       "vi": "Đài Loan",
-      "zh-CN": "台湾"
+      "zh-CN": "台湾",
+      "zh-TW": "臺灣"
     },
     "population": 23570000,
     "area": 36193,
@@ -22296,7 +22688,8 @@
       "ur": "فلسطین",
       "uz": "Falastin hududi",
       "vi": "Lãnh thổ Palestine",
-      "zh-CN": "巴勒斯坦"
+      "zh-CN": "巴勒斯坦",
+      "zh-TW": "巴勒斯坦"
     },
     "fullName": {
       "native": "دولة فلسطين",
@@ -22317,7 +22710,8 @@
       "tr": "Filistin Bölgeleri",
       "uk": "Палестинські території",
       "vi": "Lãnh thổ Palestine",
-      "zh-CN": "巴勒斯坦国"
+      "zh-CN": "巴勒斯坦国",
+      "zh-TW": "巴勒斯坦國"
     },
     "population": 5227193,
     "area": 6220,
@@ -22408,7 +22802,8 @@
       "ur": "کوسوو",
       "uz": "Kosovo",
       "vi": "Kosovo",
-      "zh-CN": "科索沃"
+      "zh-CN": "科索沃",
+      "zh-TW": "科索沃"
     },
     "fullName": {
       "native": "Republika e Kosovës",
@@ -22429,7 +22824,8 @@
       "tr": "Kosova",
       "uk": "Косово",
       "vi": "Kosovo",
-      "zh-CN": "科索沃共和国"
+      "zh-CN": "科索沃共和国",
+      "zh-TW": "科索沃共和國"
     },
     "population": 1775378,
     "area": 10908,
@@ -22524,7 +22920,8 @@
       "ur": "ہولی سی، ویٹیکن",
       "uz": "Vatikan",
       "vi": "Thành Vatican",
-      "zh-CN": "梵蒂冈"
+      "zh-CN": "梵蒂冈",
+      "zh-TW": "梵蒂岡"
     },
     "fullName": {
       "native": "Stato della Città del Vaticano",
@@ -22545,7 +22942,8 @@
       "tr": "Vatikan",
       "uk": "Ватикан",
       "vi": "Thành Vatican",
-      "zh-CN": "梵蒂冈城国"
+      "zh-CN": "梵蒂冈城国",
+      "zh-TW": "梵蒂岡城國"
     },
     "population": 800,
     "area": 1,
@@ -22637,7 +23035,8 @@
       "ur": "پورٹو ریکو",
       "uz": "Puerto-Riko",
       "vi": "Puerto Rico",
-      "zh-CN": "波多黎各"
+      "zh-CN": "波多黎各",
+      "zh-TW": "波多黎各"
     },
     "fullName": {
       "native": "Estado Libre Asociado de Puerto Rico",
@@ -22658,7 +23057,8 @@
       "tr": "Porto Riko",
       "uk": "Пуерто-Рико",
       "vi": "Puerto Rico",
-      "zh-CN": "波多黎各自由邦"
+      "zh-CN": "波多黎各自由邦",
+      "zh-TW": "波多黎各自由邦"
     },
     "population": 3285874,
     "area": 9104,
@@ -22750,7 +23150,8 @@
       "ur": "گوام",
       "uz": "Guam",
       "vi": "Guam",
-      "zh-CN": "关岛"
+      "zh-CN": "关岛",
+      "zh-TW": "關島"
     },
     "fullName": {
       "native": "Guam",
@@ -22771,7 +23172,8 @@
       "tr": "Guam",
       "uk": "Гуам",
       "vi": "Guam",
-      "zh-CN": "关岛"
+      "zh-CN": "关岛",
+      "zh-TW": "關島"
     },
     "population": 168775,
     "area": 544,
@@ -22862,7 +23264,8 @@
       "ur": "گرین لینڈ",
       "uz": "Grenlandiya",
       "vi": "Greenland",
-      "zh-CN": "格陵兰"
+      "zh-CN": "格陵兰",
+      "zh-TW": "格陵蘭"
     },
     "fullName": {
       "native": "Kalaallit Nunaat",
@@ -22883,7 +23286,8 @@
       "tr": "Grönland",
       "uk": "Гренландія",
       "vi": "Greenland",
-      "zh-CN": "格陵兰"
+      "zh-CN": "格陵兰",
+      "zh-TW": "格陵蘭"
     },
     "population": 56367,
     "area": 2166086,
@@ -22975,7 +23379,8 @@
       "ur": "جزائرفارو",
       "uz": "Farer orollari",
       "vi": "Quần đảo Faroe",
-      "zh-CN": "法罗群岛"
+      "zh-CN": "法罗群岛",
+      "zh-TW": "法羅群島"
     },
     "fullName": {
       "native": "Føroyar",
@@ -22996,7 +23401,8 @@
       "tr": "Faroe Adaları",
       "uk": "Фарерські Острови",
       "vi": "Quần đảo Faroe",
-      "zh-CN": "法罗群岛"
+      "zh-CN": "法罗群岛",
+      "zh-TW": "法羅群島"
     },
     "population": 53117,
     "area": 1393,
@@ -23088,7 +23494,8 @@
       "ur": "نیو کالیڈونیا",
       "uz": "Yangi Kaledoniya",
       "vi": "New Caledonia",
-      "zh-CN": "新喀里多尼亚"
+      "zh-CN": "新喀里多尼亚",
+      "zh-TW": "新喀里多尼亞"
     },
     "fullName": {
       "native": "Nouvelle-Calédonie",
@@ -23109,7 +23516,8 @@
       "tr": "Yeni Kaledonya",
       "uk": "Нова Каледонія",
       "vi": "New Caledonia",
-      "zh-CN": "新喀里多尼亚"
+      "zh-CN": "新喀里多尼亚",
+      "zh-TW": "新喀里多尼亞"
     },
     "population": 271407,
     "area": 18575,
@@ -23200,7 +23608,8 @@
       "ur": "فرانسیسی پولینیشیا",
       "uz": "Fransuz Polineziyasi",
       "vi": "Polynesia thuộc Pháp",
-      "zh-CN": "法属波利尼西亚"
+      "zh-CN": "法属波利尼西亚",
+      "zh-TW": "法屬波利尼西亞"
     },
     "fullName": {
       "native": "Polynésie française",
@@ -23221,7 +23630,8 @@
       "tr": "Fransız Polinezyası",
       "uk": "Французька Полінезія",
       "vi": "Polynesia thuộc Pháp",
-      "zh-CN": "法属波利尼西亚"
+      "zh-CN": "法属波利尼西亚",
+      "zh-TW": "法屬波利尼西亞"
     },
     "population": 283007,
     "area": 4167,
@@ -23312,7 +23722,8 @@
       "ur": "برمودا",
       "uz": "Bermuda orollari",
       "vi": "Bermuda",
-      "zh-CN": "百慕大"
+      "zh-CN": "百慕大",
+      "zh-TW": "百慕大"
     },
     "fullName": {
       "native": "Bermuda",
@@ -23333,7 +23744,8 @@
       "tr": "Bermuda",
       "uk": "Бермудські Острови",
       "vi": "Bermuda",
-      "zh-CN": "百慕大"
+      "zh-CN": "百慕大",
+      "zh-TW": "百慕大"
     },
     "population": 64055,
     "area": 54,
@@ -23424,7 +23836,8 @@
       "ur": "جزائر کیمن",
       "uz": "Kayman orollari",
       "vi": "Quần đảo Cayman",
-      "zh-CN": "开曼群岛"
+      "zh-CN": "开曼群岛",
+      "zh-TW": "開曼群島"
     },
     "fullName": {
       "native": "Cayman Islands",
@@ -23445,7 +23858,8 @@
       "tr": "Cayman Adaları",
       "uk": "Кайманові Острови",
       "vi": "Quần đảo Cayman",
-      "zh-CN": "开曼群岛"
+      "zh-CN": "开曼群岛",
+      "zh-TW": "開曼群島"
     },
     "population": 68706,
     "area": 264,
@@ -23536,7 +23950,8 @@
       "ur": "جزائرِورجن، امریکی",
       "uz": "AQSH Virgin orollari",
       "vi": "Quần đảo Virgin thuộc Hoa Kỳ",
-      "zh-CN": "美属维尔京群岛"
+      "zh-CN": "美属维尔京群岛",
+      "zh-TW": "美屬維爾京群島"
     },
     "fullName": {
       "native": "Virgin Islands of the United States",
@@ -23557,7 +23972,8 @@
       "tr": "ABD Virjin Adaları",
       "uk": "Віргінські Острови (США)",
       "vi": "Quần đảo Virgin thuộc Hoa Kỳ",
-      "zh-CN": "美属维尔京群岛"
+      "zh-CN": "美属维尔京群岛",
+      "zh-TW": "美屬維爾京群島"
     },
     "population": 100000,
     "area": 347,
@@ -23648,7 +24064,8 @@
       "ur": "کیوراساؤ",
       "uz": "Kyurasao",
       "vi": "Curaçao",
-      "zh-CN": "库拉索"
+      "zh-CN": "库拉索",
+      "zh-TW": "庫拉索"
     },
     "fullName": {
       "native": "Land Curaçao",
@@ -23669,7 +24086,8 @@
       "tr": "Curaçao",
       "uk": "Кюрасао",
       "vi": "Curaçao",
-      "zh-CN": "库拉索"
+      "zh-CN": "库拉索",
+      "zh-TW": "庫拉索"
     },
     "population": 192000,
     "area": 444,
@@ -23761,7 +24179,8 @@
       "ur": "اروبا",
       "uz": "Aruba",
       "vi": "Aruba",
-      "zh-CN": "阿鲁巴"
+      "zh-CN": "阿鲁巴",
+      "zh-TW": "阿魯巴"
     },
     "fullName": {
       "native": "Aruba",
@@ -23782,7 +24201,8 @@
       "tr": "Aruba",
       "uk": "Аруба",
       "vi": "Aruba",
-      "zh-CN": "阿鲁巴"
+      "zh-CN": "阿鲁巴",
+      "zh-TW": "阿魯巴"
     },
     "population": 112309,
     "area": 180,
@@ -23874,7 +24294,8 @@
       "ur": "جبل الطارق",
       "uz": "Gibraltar",
       "vi": "Gibraltar",
-      "zh-CN": "直布罗陀"
+      "zh-CN": "直布罗陀",
+      "zh-TW": "直布羅陀"
     },
     "fullName": {
       "native": "Gibraltar",
@@ -23895,7 +24316,8 @@
       "tr": "Cebelitarık",
       "uk": "Гібралтар",
       "vi": "Gibraltar",
-      "zh-CN": "直布罗陀"
+      "zh-CN": "直布罗陀",
+      "zh-TW": "直布羅陀"
     },
     "population": 34571,
     "area": 7,
@@ -23986,7 +24408,8 @@
       "ur": "جرسی",
       "uz": "Jersi",
       "vi": "Jersey",
-      "zh-CN": "泽西"
+      "zh-CN": "泽西",
+      "zh-TW": "澤西"
     },
     "fullName": {
       "native": "Bailiwick of Jersey",
@@ -24007,7 +24430,8 @@
       "tr": "Jersey",
       "uk": "Джерсі",
       "vi": "Jersey",
-      "zh-CN": "泽西行政区"
+      "zh-CN": "泽西行政区",
+      "zh-TW": "澤西行政區"
     },
     "population": 106800,
     "area": 116,
@@ -24099,7 +24523,8 @@
       "ur": "گرنسی",
       "uz": "Gernsi",
       "vi": "Guernsey",
-      "zh-CN": "根西"
+      "zh-CN": "根西",
+      "zh-TW": "根西"
     },
     "fullName": {
       "native": "Bailiwick of Guernsey",
@@ -24120,7 +24545,8 @@
       "tr": "Guernsey",
       "uk": "Гернсі",
       "vi": "Guernsey",
-      "zh-CN": "根西行政区"
+      "zh-CN": "根西行政区",
+      "zh-TW": "根西行政區"
     },
     "population": 67334,
     "area": 78,
@@ -24212,7 +24638,8 @@
       "ur": "آیل آف مین",
       "uz": "Men oroli",
       "vi": "Đảo Man",
-      "zh-CN": "马恩岛"
+      "zh-CN": "马恩岛",
+      "zh-TW": "馬恩島"
     },
     "fullName": {
       "native": "Isle of Man",
@@ -24233,7 +24660,8 @@
       "tr": "Man Adası",
       "uk": "Острів Мен",
       "vi": "Đảo Man",
-      "zh-CN": "马恩岛"
+      "zh-CN": "马恩岛",
+      "zh-TW": "馬恩島"
     },
     "population": 84584,
     "area": 572,
@@ -24324,7 +24752,8 @@
       "ur": "ترکی اور کیکوس جزائر",
       "uz": "Turks va Kaykos orollari",
       "vi": "Quần đảo Turks và Caicos",
-      "zh-CN": "特克斯和凯科斯群岛"
+      "zh-CN": "特克斯和凯科斯群岛",
+      "zh-TW": "特克斯和凱科斯群島"
     },
     "fullName": {
       "native": "Turks and Caicos Islands",
@@ -24345,7 +24774,8 @@
       "tr": "Turks ve Caicos Adaları",
       "uk": "Острови Теркс і Кайкос",
       "vi": "Quần đảo Turks và Caicos",
-      "zh-CN": "特克斯和凯科斯群岛"
+      "zh-CN": "特克斯和凯科斯群岛",
+      "zh-TW": "特克斯和凱科斯群島"
     },
     "population": 45703,
     "area": 948,
@@ -24436,7 +24866,8 @@
       "ur": "جزائرِورجن، برطانوی",
       "uz": "Britaniya Virgin orollari",
       "vi": "Quần đảo Virgin thuộc Anh",
-      "zh-CN": "英属维尔京群岛"
+      "zh-CN": "英属维尔京群岛",
+      "zh-TW": "英屬維爾京群島"
     },
     "fullName": {
       "native": "Virgin Islands",
@@ -24457,7 +24888,8 @@
       "tr": "Britanya Virjin Adaları",
       "uk": "Британські Віргінські острови",
       "vi": "Quần đảo Virgin thuộc Anh",
-      "zh-CN": "英属维尔京群岛"
+      "zh-CN": "英属维尔京群岛",
+      "zh-TW": "英屬維爾京群島"
     },
     "population": 30423,
     "area": 151,
@@ -24548,7 +24980,8 @@
       "ur": "انگویلا",
       "uz": "Angilya",
       "vi": "Anguilla",
-      "zh-CN": "安圭拉"
+      "zh-CN": "安圭拉",
+      "zh-TW": "安圭拉"
     },
     "fullName": {
       "native": "Anguilla",
@@ -24569,7 +25002,8 @@
       "tr": "Anguilla",
       "uk": "Ангілья",
       "vi": "Anguilla",
-      "zh-CN": "安圭拉"
+      "zh-CN": "安圭拉",
+      "zh-TW": "安圭拉"
     },
     "population": 18090,
     "area": 91,
@@ -24660,7 +25094,8 @@
       "ur": "مونٹسیریٹ",
       "uz": "Montserrat",
       "vi": "Montserrat",
-      "zh-CN": "蒙特塞拉特"
+      "zh-CN": "蒙特塞拉特",
+      "zh-TW": "蒙特塞拉特"
     },
     "fullName": {
       "native": "Montserrat",
@@ -24681,7 +25116,8 @@
       "tr": "Montserrat",
       "uk": "Монтсеррат",
       "vi": "Montserrat",
-      "zh-CN": "蒙特塞拉特"
+      "zh-CN": "蒙特塞拉特",
+      "zh-TW": "蒙特塞拉特"
     },
     "population": 4390,
     "area": 102,
@@ -24772,7 +25208,8 @@
       "ur": "سینٹ ہیلینا",
       "uz": "Muqaddas Yelena oroli",
       "vi": "St. Helena",
-      "zh-CN": "圣赫勒拿"
+      "zh-CN": "圣赫勒拿",
+      "zh-TW": "聖赫勒拿"
     },
     "fullName": {
       "native": "Saint Helena, Ascension and Tristan da Cunha",
@@ -24793,7 +25230,8 @@
       "tr": "Saint Helena",
       "uk": "Острів Святої Єлени",
       "vi": "St. Helena",
-      "zh-CN": "圣赫勒拿、阿森松和特里斯坦-达库尼亚"
+      "zh-CN": "圣赫勒拿、阿森松和特里斯坦-达库尼亚",
+      "zh-TW": "聖赫勒拿、阿森松和特里斯坦-達庫尼亞"
     },
     "population": 5633,
     "area": 394,
@@ -24884,7 +25322,8 @@
       "ur": "جزائر فاک لینڈ (مالویناس)",
       "uz": "Folklend orollari",
       "vi": "Quần đảo Falkland",
-      "zh-CN": "福克兰群岛"
+      "zh-CN": "福克兰群岛",
+      "zh-TW": "福克蘭群島"
     },
     "fullName": {
       "native": "Falkland Islands",
@@ -24905,7 +25344,8 @@
       "tr": "Falkland Adaları",
       "uk": "Фолклендські Острови",
       "vi": "Quần đảo Falkland",
-      "zh-CN": "福克兰群岛"
+      "zh-CN": "福克兰群岛",
+      "zh-TW": "福克蘭群島"
     },
     "population": 2840,
     "area": 12173,
@@ -24996,7 +25436,8 @@
       "ur": "فرانسیسی گانا",
       "uz": "Fransuz Gvianasi",
       "vi": "Guiana thuộc Pháp",
-      "zh-CN": "法属圭亚那"
+      "zh-CN": "法属圭亚那",
+      "zh-TW": "法屬圭亞那"
     },
     "fullName": {
       "native": "Guyane",
@@ -25017,7 +25458,8 @@
       "tr": "Fransız Guyanası",
       "uk": "Французька Гвіана",
       "vi": "Guiana thuộc Pháp",
-      "zh-CN": "法属圭亚那"
+      "zh-CN": "法属圭亚那",
+      "zh-TW": "法屬圭亞那"
     },
     "population": 294071,
     "area": 83534,
@@ -25108,7 +25550,8 @@
       "ur": "گواڈیلوپ",
       "uz": "Gvadelupe",
       "vi": "Guadeloupe",
-      "zh-CN": "瓜德罗普"
+      "zh-CN": "瓜德罗普",
+      "zh-TW": "瓜德羅普"
     },
     "fullName": {
       "native": "Guadeloupe",
@@ -25129,7 +25572,8 @@
       "tr": "Guadeloupe",
       "uk": "Гваделупа",
       "vi": "Guadeloupe",
-      "zh-CN": "瓜德罗普"
+      "zh-CN": "瓜德罗普",
+      "zh-TW": "瓜德羅普"
     },
     "population": 400000,
     "area": 1628,
@@ -25220,7 +25664,8 @@
       "ur": "مارٹنیک",
       "uz": "Martinika",
       "vi": "Martinique",
-      "zh-CN": "马提尼克"
+      "zh-CN": "马提尼克",
+      "zh-TW": "馬提尼克"
     },
     "fullName": {
       "native": "Martinique",
@@ -25241,7 +25686,8 @@
       "tr": "Martinik",
       "uk": "Мартиніка",
       "vi": "Martinique",
-      "zh-CN": "马提尼克"
+      "zh-CN": "马提尼克",
+      "zh-TW": "馬提尼克"
     },
     "population": 350000,
     "area": 1128,
@@ -25332,7 +25778,8 @@
       "ur": "ری یونین",
       "uz": "Reyunion",
       "vi": "Réunion",
-      "zh-CN": "留尼汪"
+      "zh-CN": "留尼汪",
+      "zh-TW": "留尼汪"
     },
     "fullName": {
       "native": "Ile de la Réunion",
@@ -25353,7 +25800,8 @@
       "tr": "Reunion",
       "uk": "Реюньйон",
       "vi": "Réunion",
-      "zh-CN": "留尼汪"
+      "zh-CN": "留尼汪",
+      "zh-TW": "留尼汪"
     },
     "population": 895000,
     "area": 2511,
@@ -25444,7 +25892,8 @@
       "ur": "سینٹ مارٹن (فرانسیسی حصہ)",
       "uz": "Sent-Martin",
       "vi": "St. Martin",
-      "zh-CN": "圣马丁"
+      "zh-CN": "圣马丁",
+      "zh-TW": "聖馬丁"
     },
     "fullName": {
       "native": "Saint-Martin",
@@ -25465,7 +25914,8 @@
       "tr": "Saint Martin",
       "uk": "Сен-Мартен",
       "vi": "St. Martin",
-      "zh-CN": "圣马丁集体"
+      "zh-CN": "圣马丁集体",
+      "zh-TW": "聖馬丁集體"
     },
     "population": 38002,
     "area": 53,
@@ -25556,7 +26006,8 @@
       "ur": "سینٹ پیئر و میکوئیلون",
       "uz": "Sen-Pyer va Mikelon",
       "vi": "Saint Pierre và Miquelon",
-      "zh-CN": "圣皮埃尔和密克隆"
+      "zh-CN": "圣皮埃尔和密克隆",
+      "zh-TW": "聖皮埃爾和密克隆"
     },
     "fullName": {
       "native": "Collectivité territoriale de Saint-Pierre-et-Miquelon",
@@ -25577,7 +26028,8 @@
       "tr": "Saint Pierre ve Miquelon",
       "uk": "Сен-Пʼєр і Мікелон",
       "vi": "Saint Pierre và Miquelon",
-      "zh-CN": "圣皮埃尔和密克隆"
+      "zh-CN": "圣皮埃尔和密克隆",
+      "zh-TW": "聖皮埃爾和密克隆"
     },
     "population": 5794,
     "area": 242,
@@ -25668,7 +26120,8 @@
       "ur": "والس اور فتونہ",
       "uz": "Uollis va Futuna",
       "vi": "Wallis và Futuna",
-      "zh-CN": "瓦利斯和富图纳"
+      "zh-CN": "瓦利斯和富图纳",
+      "zh-TW": "瓦利斯和富圖納"
     },
     "fullName": {
       "native": "Territoire des îles Wallis et Futuna",
@@ -25689,7 +26142,8 @@
       "tr": "Wallis ve Futuna",
       "uk": "Уолліс і Футуна",
       "vi": "Wallis và Futuna",
-      "zh-CN": "瓦利斯和富图纳群岛"
+      "zh-CN": "瓦利斯和富图纳群岛",
+      "zh-TW": "瓦利斯和富圖納群島"
     },
     "population": 11369,
     "area": 142,
@@ -25780,7 +26234,8 @@
       "ur": "میٹو",
       "uz": "Mayotta",
       "vi": "Mayotte",
-      "zh-CN": "马约特"
+      "zh-CN": "马约特",
+      "zh-TW": "馬約特"
     },
     "fullName": {
       "native": "Département de Mayotte",
@@ -25801,7 +26256,8 @@
       "tr": "Mayotte",
       "uk": "Майотта",
       "vi": "Mayotte",
-      "zh-CN": "马约特"
+      "zh-CN": "马约特",
+      "zh-TW": "馬約特"
     },
     "population": 256518,
     "area": 374,
@@ -25892,7 +26348,8 @@
       "ur": "امریکی ساموا",
       "uz": "Amerika Samoasi",
       "vi": "Samoa thuộc Mỹ",
-      "zh-CN": "美属萨摩亚"
+      "zh-CN": "美属萨摩亚",
+      "zh-TW": "美屬薩摩亞"
     },
     "fullName": {
       "native": "American Samoa",
@@ -25913,7 +26370,8 @@
       "tr": "Amerikan Samoası",
       "uk": "Американське Самоа",
       "vi": "Samoa thuộc Mỹ",
-      "zh-CN": "美属萨摩亚"
+      "zh-CN": "美属萨摩亚",
+      "zh-TW": "美屬薩摩亞"
     },
     "population": 55312,
     "area": 199,
@@ -26005,7 +26463,8 @@
       "ur": "شمالی ماریانا جزائر",
       "uz": "Shimoliy Mariana orollari",
       "vi": "Quần đảo Bắc Mariana",
-      "zh-CN": "北马里亚纳群岛"
+      "zh-CN": "北马里亚纳群岛",
+      "zh-TW": "北馬里亞納群島"
     },
     "fullName": {
       "native": "Commonwealth of the Northern Mariana Islands",
@@ -26026,7 +26485,8 @@
       "tr": "Kuzey Mariana Adaları",
       "uk": "Північні Маріанські Острови",
       "vi": "Quần đảo Bắc Mariana",
-      "zh-CN": "北马里亚纳群岛联邦"
+      "zh-CN": "北马里亚纳群岛联邦",
+      "zh-TW": "北馬里亞納群島聯邦"
     },
     "population": 57216,
     "area": 464,
@@ -26117,7 +26577,8 @@
       "ur": "کرسمس آئ لینڈ",
       "uz": "Rojdestvo oroli",
       "vi": "Đảo Giáng Sinh",
-      "zh-CN": "圣诞岛"
+      "zh-CN": "圣诞岛",
+      "zh-TW": "聖誕島"
     },
     "fullName": {
       "native": "Territory of Christmas Island",
@@ -26138,7 +26599,8 @@
       "tr": "Christmas Adası",
       "uk": "Острів Різдва",
       "vi": "Đảo Giáng Sinh",
-      "zh-CN": "圣诞岛"
+      "zh-CN": "圣诞岛",
+      "zh-TW": "聖誕島"
     },
     "population": 2072,
     "area": 135,
@@ -26229,7 +26691,8 @@
       "ur": "کوکوس جزائر",
       "uz": "Kokos (Kiling) orollari",
       "vi": "Quần đảo Cocos (Keeling)",
-      "zh-CN": "科科斯群岛"
+      "zh-CN": "科科斯群岛",
+      "zh-TW": "科科斯群島"
     },
     "fullName": {
       "native": "Territory of the Cocos (Keeling) Islands",
@@ -26250,7 +26713,8 @@
       "tr": "Cocos (Keeling) Adaları",
       "uk": "Кокосові (Кілінг) Острови",
       "vi": "Quần đảo Cocos (Keeling)",
-      "zh-CN": "科科斯（基林）群岛"
+      "zh-CN": "科科斯（基林）群岛",
+      "zh-TW": "科科斯（基林）群島"
     },
     "population": 544,
     "area": 14,
@@ -26341,7 +26805,8 @@
       "ur": "جزیرہ نورفوک",
       "uz": "Norfolk oroli",
       "vi": "Đảo Norfolk",
-      "zh-CN": "诺福克岛"
+      "zh-CN": "诺福克岛",
+      "zh-TW": "諾福克島"
     },
     "fullName": {
       "native": "Territory of Norfolk Island",
@@ -26362,7 +26827,8 @@
       "tr": "Norfolk Adası",
       "uk": "Острів Норфолк",
       "vi": "Đảo Norfolk",
-      "zh-CN": "诺福克岛"
+      "zh-CN": "诺福克岛",
+      "zh-TW": "諾福克島"
     },
     "population": 1748,
     "area": 36,
@@ -26456,7 +26922,8 @@
       "ur": "پٹکیرن",
       "uz": "Pitkern orollari",
       "vi": "Quần đảo Pitcairn",
-      "zh-CN": "皮特凯恩群岛"
+      "zh-CN": "皮特凯恩群岛",
+      "zh-TW": "皮特凱恩群島"
     },
     "fullName": {
       "native": "Pitcairn Group of Islands",
@@ -26477,7 +26944,8 @@
       "tr": "Pitcairn Adaları",
       "uk": "Острови Піткерн",
       "vi": "Quần đảo Pitcairn",
-      "zh-CN": "皮特凯恩群岛"
+      "zh-CN": "皮特凯恩群岛",
+      "zh-TW": "皮特凱恩群島"
     },
     "population": 50,
     "area": 47,
@@ -26568,7 +27036,8 @@
       "ur": "ٹوکیلو",
       "uz": "Tokelau",
       "vi": "Tokelau",
-      "zh-CN": "托克劳"
+      "zh-CN": "托克劳",
+      "zh-TW": "托克勞"
     },
     "fullName": {
       "native": "Tokelau",
@@ -26589,7 +27058,8 @@
       "tr": "Tokelau",
       "uk": "Токелау",
       "vi": "Tokelau",
-      "zh-CN": "托克劳"
+      "zh-CN": "托克劳",
+      "zh-TW": "托克勞"
     },
     "population": 1647,
     "area": 12,
@@ -26681,7 +27151,8 @@
       "ur": "نییو",
       "uz": "Niue",
       "vi": "Niue",
-      "zh-CN": "纽埃"
+      "zh-CN": "纽埃",
+      "zh-TW": "紐埃"
     },
     "fullName": {
       "native": "Niue",
@@ -26702,7 +27173,8 @@
       "tr": "Niue",
       "uk": "Ніуе",
       "vi": "Niue",
-      "zh-CN": "纽埃"
+      "zh-CN": "纽埃",
+      "zh-TW": "紐埃"
     },
     "population": 1549,
     "area": 260,
@@ -26794,7 +27266,8 @@
       "ur": "کوک آیلینڈ",
       "uz": "Kuk orollari",
       "vi": "Quần đảo Cook",
-      "zh-CN": "库克群岛"
+      "zh-CN": "库克群岛",
+      "zh-TW": "庫克群島"
     },
     "fullName": {
       "native": "Cook Islands",
@@ -26815,7 +27288,8 @@
       "tr": "Cook Adaları",
       "uk": "Острови Кука",
       "vi": "Quần đảo Cook",
-      "zh-CN": "库克群岛"
+      "zh-CN": "库克群岛",
+      "zh-TW": "庫克群島"
     },
     "population": 17459,
     "area": 236,
@@ -26906,7 +27380,8 @@
       "ur": "مغربی صحارا",
       "uz": "G‘arbiy Sahroi Kabir",
       "vi": "Tây Sahara",
-      "zh-CN": "西撒哈拉"
+      "zh-CN": "西撒哈拉",
+      "zh-TW": "西撒哈拉"
     },
     "fullName": {
       "native": "Sahrawi Arab Democratic Republic",
@@ -26927,7 +27402,8 @@
       "tr": "Batı Sahra",
       "uk": "Західна Сахара",
       "vi": "Tây Sahara",
-      "zh-CN": "西撒哈拉"
+      "zh-CN": "西撒哈拉",
+      "zh-TW": "西撒哈拉"
     },
     "population": 612000,
     "area": 266000,
@@ -27021,7 +27497,8 @@
       "ur": "جزائرِ آلند",
       "uz": "Aland orollari",
       "vi": "Quần đảo Åland",
-      "zh-CN": "奥兰群岛"
+      "zh-CN": "奥兰群岛",
+      "zh-TW": "奧蘭群島"
     },
     "fullName": {
       "native": "Landskapet Åland",
@@ -27042,7 +27519,8 @@
       "tr": "Åland Adaları",
       "uk": "Аландські Острови",
       "vi": "Quần đảo Åland",
-      "zh-CN": "奥兰群岛"
+      "zh-CN": "奥兰群岛",
+      "zh-TW": "奧蘭群島"
     },
     "population": 30129,
     "area": 1580,
@@ -27133,7 +27611,8 @@
       "ur": "سینٹ باریٹی",
       "uz": "Sen-Bartelemi",
       "vi": "St. Barthélemy",
-      "zh-CN": "圣巴泰勒米"
+      "zh-CN": "圣巴泰勒米",
+      "zh-TW": "聖巴泰勒米"
     },
     "fullName": {
       "native": "Collectivité de Saint-Barthélemy",
@@ -27154,7 +27633,8 @@
       "tr": "Saint Barthelemy",
       "uk": "Сен-Бартелемі",
       "vi": "St. Barthélemy",
-      "zh-CN": "圣巴泰勒米集体"
+      "zh-CN": "圣巴泰勒米集体",
+      "zh-TW": "聖巴泰勒米集體"
     },
     "population": 9131,
     "area": 21,
@@ -27245,7 +27725,8 @@
       "ur": "بحرِہندکابرطانوی حصہ",
       "uz": "Britaniyaning Hind okeanidagi hududi",
       "vi": "Lãnh thổ Ấn Độ Dương thuộc Anh",
-      "zh-CN": "英属印度洋领地"
+      "zh-CN": "英属印度洋领地",
+      "zh-TW": "英屬印度洋領地"
     },
     "fullName": {
       "native": "British Indian Ocean Territory",
@@ -27266,7 +27747,8 @@
       "tr": "Britanya Hint Okyanusu Toprakları",
       "uk": "Британська територія в Індійському Океані",
       "vi": "Lãnh thổ Ấn Độ Dương thuộc Anh",
-      "zh-CN": "英属印度洋领地"
+      "zh-CN": "英属印度洋领地",
+      "zh-TW": "英屬印度洋領地"
     },
     "population": 3000,
     "area": 60,
@@ -27357,7 +27839,8 @@
       "ur": "سینٹ مارٹن (ولندیزی حصہ)",
       "uz": "Sint-Marten",
       "vi": "Sint Maarten",
-      "zh-CN": "圣马丁（荷兰部分）"
+      "zh-CN": "圣马丁（荷兰部分）",
+      "zh-TW": "聖馬丁（荷蘭部分）"
     },
     "fullName": {
       "native": "Sint Maarten",
@@ -27378,7 +27861,8 @@
       "tr": "Sint Maarten",
       "uk": "Сінт-Мартен",
       "vi": "Sint Maarten",
-      "zh-CN": "荷属圣马丁"
+      "zh-CN": "荷属圣马丁",
+      "zh-TW": "荷屬聖馬丁"
     },
     "population": 42876,
     "area": 34,
@@ -27470,7 +27954,8 @@
       "ur": "بونیرے, سینٹ یستتئوس اینڈ صبا",
       "uz": "Boneyr, Sint-Estatius va Saba",
       "vi": "Ca-ri-bê Hà Lan",
-      "zh-CN": "荷兰加勒比区"
+      "zh-CN": "荷兰加勒比区",
+      "zh-TW": "荷蘭加勒比區"
     },
     "fullName": {
       "native": "Bonaire, Sint Eustatius en Saba",
@@ -27491,7 +27976,8 @@
       "tr": "Karayip Hollandası",
       "uk": "Карибські Нідерланди",
       "vi": "Ca-ri-bê Hà Lan",
-      "zh-CN": "博奈尔、圣尤斯特歇斯和萨巴"
+      "zh-CN": "博奈尔、圣尤斯特歇斯和萨巴",
+      "zh-TW": "博奈爾、聖尤斯特歇斯和薩巴"
     },
     "population": 26223,
     "area": 328,
@@ -27582,7 +28068,8 @@
       "ur": "جنوبی فرانسیسی علاقہ جات",
       "uz": "Fransuz Janubiy hududlari",
       "vi": "Lãnh thổ phía Nam Thuộc Pháp",
-      "zh-CN": "法属南部领地"
+      "zh-CN": "法属南部领地",
+      "zh-TW": "法屬南部領地"
     },
     "fullName": {
       "native": "Territoire des Terres australes et antarctiques françaises",
@@ -27603,7 +28090,8 @@
       "tr": "Fransız Güney Toprakları",
       "uk": "Французькі Південні Території",
       "vi": "Lãnh thổ phía Nam Thuộc Pháp",
-      "zh-CN": "法属南部和南极领地"
+      "zh-CN": "法属南部和南极领地",
+      "zh-TW": "法屬南部和南極領地"
     },
     "population": 140,
     "area": 7747,
@@ -27694,7 +28182,8 @@
       "ur": "جنوبی جارجیا اور جزائر جنوبی سینڈوچ",
       "uz": "Janubiy Georgiya va Janubiy Sendvich orollari",
       "vi": "Nam Georgia & Quần đảo Nam Sandwich",
-      "zh-CN": "南乔治亚和南桑威奇群岛"
+      "zh-CN": "南乔治亚和南桑威奇群岛",
+      "zh-TW": "南喬治亞和南桑威奇群島"
     },
     "fullName": {
       "native": "South Georgia and the South Sandwich Islands",
@@ -27715,7 +28204,8 @@
       "tr": "Güney Georgia ve Güney Sandwich Adaları",
       "uk": "Південна Джорджія та Південні Сандвічеві Острови",
       "vi": "Nam Georgia & Quần đảo Nam Sandwich",
-      "zh-CN": "南乔治亚和南桑威奇群岛"
+      "zh-CN": "南乔治亚和南桑威奇群岛",
+      "zh-TW": "南喬治亞和南桑威奇群島"
     },
     "population": 30,
     "area": 3903,
@@ -27806,7 +28296,8 @@
       "ur": "ہرڈ جزیرہ اور جزائر مکڈونلڈ",
       "uz": "Xerd va Makdonald orollari",
       "vi": "Quần đảo Heard và McDonald",
-      "zh-CN": "赫德岛和麦克唐纳群岛"
+      "zh-CN": "赫德岛和麦克唐纳群岛",
+      "zh-TW": "赫德島和麥克唐納群島"
     },
     "fullName": {
       "native": "Heard Island and McDonald Islands",
@@ -27827,7 +28318,8 @@
       "tr": "Heard Adası ve McDonald Adaları",
       "uk": "Острови Герд і Макдоналд",
       "vi": "Quần đảo Heard và McDonald",
-      "zh-CN": "赫德岛和麦克唐纳群岛"
+      "zh-CN": "赫德岛和麦克唐纳群岛",
+      "zh-TW": "赫德島和麥克唐納群島"
     },
     "population": 0,
     "area": 412,
@@ -27918,7 +28410,8 @@
       "ur": "انٹارکٹیکا",
       "uz": "Antarktida",
       "vi": "Nam Cực",
-      "zh-CN": "南极洲"
+      "zh-CN": "南极洲",
+      "zh-TW": "南極洲"
     },
     "fullName": {
       "native": "Antarctica",
@@ -27939,7 +28432,8 @@
       "tr": "Antarktika",
       "uk": "Антарктика",
       "vi": "Nam Cực",
-      "zh-CN": "南极洲"
+      "zh-CN": "南极洲",
+      "zh-TW": "南極洲"
     },
     "population": 1000,
     "area": 14000000,
