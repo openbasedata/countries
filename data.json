@@ -6,12 +6,26 @@
     "name": {
       "native": "افغانستان",
       "en": "Afghanistan",
-      "zh-CN": "阿富汗"
+      "zh-CN": "阿富汗",
+      "fr": "Afghanistan",
+      "de": "Afghanistan",
+      "es": "Afganistán",
+      "ja": "アフガニスタン",
+      "ko": "아프가니스탄",
+      "hi": "अफगानिस्तान",
+      "ar": "أفغانستان"
     },
     "fullName": {
       "native": "د افغانستان اسلامي جمهوریت",
       "en": "Islamic Republic of Afghanistan",
-      "zh-CN": "阿富汗伊斯兰共和国"
+      "zh-CN": "阿富汗伊斯兰共和国",
+      "fr": "République islamique d'Afghanistan",
+      "de": "Islamische Republik Afghanistan",
+      "es": "República Islámica de Afganistán",
+      "ja": "アフガニスタン・イスラム共和国",
+      "ko": "아프가니스탄 이슬람 공화국",
+      "hi": "अफ़ग़ानिस्तान इस्लामी गणराज्य",
+      "ar": "جمهوريّة أفغانستان الإسلاميّة"
     },
     "population": 40099462,
     "area": 652230,
@@ -28,12 +42,26 @@
     "name": {
       "native": "Shqipëria",
       "en": "Albania",
-      "zh-CN": "阿尔巴尼亚"
+      "zh-CN": "阿尔巴尼亚",
+      "fr": "Albanie",
+      "de": "Albanien",
+      "es": "Albania",
+      "ja": "アルバニア",
+      "ko": "알바니아",
+      "hi": "अल्बानिया",
+      "ar": "ألبانيا"
     },
     "fullName": {
       "native": "Republika e Shqipërisë",
       "en": "Republic of Albania",
-      "zh-CN": "阿尔巴尼亚共和国"
+      "zh-CN": "阿尔巴尼亚共和国",
+      "fr": "République d'Albanie",
+      "de": "Republik Albanien",
+      "es": "República de Albania",
+      "ja": "アルバニア共和国",
+      "ko": "알바니아 공화국",
+      "hi": "अल्बानिया गणराज्य",
+      "ar": "جمهوريّة ألبانيا"
     },
     "population": 2877797,
     "area": 28748,
@@ -48,12 +76,26 @@
     "name": {
       "native": "الجزائر",
       "en": "Algeria",
-      "zh-CN": "阿尔及利亚"
+      "zh-CN": "阿尔及利亚",
+      "fr": "Algérie",
+      "de": "Algerien",
+      "es": "Argelia",
+      "ja": "アルジェリア",
+      "ko": "알제리",
+      "hi": "अल्जीरिया",
+      "ar": "الجزائر"
     },
     "fullName": {
       "native": "الجمهورية الديمقراطية الشعبية الجزائرية",
       "en": "People's Democratic Republic of Algeria",
-      "zh-CN": "阿尔及利亚人民民主共和国"
+      "zh-CN": "阿尔及利亚人民民主共和国",
+      "fr": "République algérienne démocratique et populaire",
+      "de": "Demokratische Volksrepublik Algerien",
+      "es": "República Democrática Popular de Argelia",
+      "ja": "アルジェリア民主人民共和国",
+      "ko": "알제리 인민 민주주의 공화국",
+      "hi": "अल्जीरिया का लोक लोकतांत्रिक गणराज्य",
+      "ar": "الجمهورية الجزائرية الديمقراطية الشعبية"
     },
     "population": 44903225,
     "area": 2381741,
@@ -68,12 +110,26 @@
     "name": {
       "native": "Andorra",
       "en": "Andorra",
-      "zh-CN": "安道尔"
+      "zh-CN": "安道尔",
+      "fr": "Andorre",
+      "de": "Andorra",
+      "es": "Andorra",
+      "ja": "アンドラ",
+      "ko": "안도라",
+      "hi": "अंडोरा",
+      "ar": "أندورا"
     },
     "fullName": {
       "native": "Principat d'Andorra",
       "en": "Principality of Andorra",
-      "zh-CN": "安道尔公国"
+      "zh-CN": "安道尔公国",
+      "fr": "Principauté d'Andorre",
+      "de": "Fürstentum Andorra",
+      "es": "Principado de Andorra",
+      "ja": "アンドラ公国",
+      "ko": "안도라 공국",
+      "hi": "अंडोरा की रियासत",
+      "ar": "إمارة أندورا"
     },
     "population": 77265,
     "area": 468,
@@ -88,12 +144,26 @@
     "name": {
       "native": "Angola",
       "en": "Angola",
-      "zh-CN": "安哥拉"
+      "zh-CN": "安哥拉",
+      "fr": "Angola",
+      "de": "Angola",
+      "es": "Angola",
+      "ja": "アンゴラ",
+      "ko": "앙골라",
+      "hi": "अंगोला",
+      "ar": "أنغولا"
     },
     "fullName": {
       "native": "República de Angola",
       "en": "Republic of Angola",
-      "zh-CN": "安哥拉共和国"
+      "zh-CN": "安哥拉共和国",
+      "fr": "République d'Angola",
+      "de": "Republik Angola",
+      "es": "República de Angola",
+      "ja": "アンゴラ共和国",
+      "ko": "앙골라 공화국",
+      "hi": "अंगोला गणराज्य",
+      "ar": "جمهوريّة أنغولا"
     },
     "population": 34503774,
     "area": 1246700,
@@ -108,12 +178,26 @@
     "name": {
       "native": "Antigua and Barbuda",
       "en": "Antigua and Barbuda",
-      "zh-CN": "安提瓜和巴布达"
+      "zh-CN": "安提瓜和巴布达",
+      "fr": "Antigua-et-Barbuda",
+      "de": "Antigua und Barbuda",
+      "es": "Antigua y Barbuda",
+      "ja": "アンティグア・バーブーダ",
+      "ko": "안티구아 바부다",
+      "hi": "एंटीगुआ और बारबूडा",
+      "ar": "أنتيغوا وباربودا"
     },
     "fullName": {
       "native": "Antigua and Barbuda",
       "en": "Antigua and Barbuda",
-      "zh-CN": "安提瓜和巴布达"
+      "zh-CN": "安提瓜和巴布达",
+      "fr": "Antigua-et-Barbuda",
+      "de": "Antigua und Barbuda",
+      "es": "Antigua y Barbuda",
+      "ja": "アンティグア・バーブーダ",
+      "ko": "앤티가 바부다",
+      "hi": "अण्टीगुआ और बारबूडा",
+      "ar": "أنتيغوا و باربودا"
     },
     "population": 93219,
     "area": 442,
@@ -128,12 +212,26 @@
     "name": {
       "native": "Argentina",
       "en": "Argentina",
-      "zh-CN": "阿根廷"
+      "zh-CN": "阿根廷",
+      "fr": "Argentine",
+      "de": "Argentinien",
+      "es": "Argentina",
+      "ja": "アルゼンチン",
+      "ko": "아르헨티나",
+      "hi": "अर्जेंटिना",
+      "ar": "الأرجنتين"
     },
     "fullName": {
       "native": "República Argentina",
       "en": "Argentine Republic",
-      "zh-CN": "阿根廷共和国"
+      "zh-CN": "阿根廷共和国",
+      "fr": "République d'Argentine",
+      "de": "Argentinische Republik",
+      "es": "República Argentina",
+      "ja": "アルゼンチン共和国",
+      "ko": "아르헨티나 공화국",
+      "hi": "अर्जेंटीना गणराज्य",
+      "ar": "الجمهوريّة الأرجنتينيّة"
     },
     "population": 45195777,
     "area": 2780400,
@@ -148,12 +246,26 @@
     "name": {
       "native": "Հայաստան",
       "en": "Armenia",
-      "zh-CN": "亚美尼亚"
+      "zh-CN": "亚美尼亚",
+      "fr": "Arménie",
+      "de": "Armenien",
+      "es": "Armenia",
+      "ja": "アルメニア",
+      "ko": "아르메니아",
+      "hi": "अर्मेनिया",
+      "ar": "أرمينيا"
     },
     "fullName": {
       "native": "Հայաստանի Հանրապետություն",
       "en": "Republic of Armenia",
-      "zh-CN": "亚美尼亚共和国"
+      "zh-CN": "亚美尼亚共和国",
+      "fr": "République d'Arménie",
+      "de": "Republik Armenien",
+      "es": "República de Armenia",
+      "ja": "アルメニア共和国",
+      "ko": "아르메니아 공화국",
+      "hi": "आर्मेनिया गणराज्य",
+      "ar": "جمهوريّة أرمينيا"
     },
     "population": 2971966,
     "area": 29743,
@@ -168,12 +280,26 @@
     "name": {
       "native": "Australia",
       "en": "Australia",
-      "zh-CN": "澳大利亚"
+      "zh-CN": "澳大利亚",
+      "fr": "Australie",
+      "de": "Australien",
+      "es": "Australia",
+      "ja": "オーストラリア",
+      "ko": "호주",
+      "hi": "आस्ट्रेलिया",
+      "ar": "أستراليا"
     },
     "fullName": {
       "native": "Commonwealth of Australia",
       "en": "Commonwealth of Australia",
-      "zh-CN": "澳大利亚联邦"
+      "zh-CN": "澳大利亚联邦",
+      "fr": "Australie",
+      "de": "Australien",
+      "es": "Australia",
+      "ja": "オーストラリア連邦",
+      "ko": "오스트레일리아",
+      "hi": "ऑस्ट्रेलिया",
+      "ar": "أستراليا"
     },
     "population": 25921000,
     "area": 7692024,
@@ -188,12 +314,26 @@
     "name": {
       "native": "Österreich",
       "en": "Austria",
-      "zh-CN": "奥地利"
+      "zh-CN": "奥地利",
+      "fr": "Autriche",
+      "de": "Österreich",
+      "es": "Austria",
+      "ja": "オーストリア",
+      "ko": "오스트리아",
+      "hi": "आस्ट्रिया",
+      "ar": "النمسا"
     },
     "fullName": {
       "native": "Republik Österreich",
       "en": "Republic of Austria",
-      "zh-CN": "奥地利共和国"
+      "zh-CN": "奥地利共和国",
+      "fr": "République d'Autriche",
+      "de": "Republik Österreich",
+      "es": "República de Austria",
+      "ja": "オーストリア共和国",
+      "ko": "오스트리아 공화국",
+      "hi": "ऑस्ट्रिया गणराज्य",
+      "ar": "جمهوريّة النّمسا"
     },
     "population": 9043070,
     "area": 83871,
@@ -208,12 +348,26 @@
     "name": {
       "native": "Azərbaycan",
       "en": "Azerbaijan",
-      "zh-CN": "阿塞拜疆"
+      "zh-CN": "阿塞拜疆",
+      "fr": "Azerbaïdjan",
+      "de": "Aserbaidschan",
+      "es": "Azerbaiyán",
+      "ja": "アゼルバイジャン",
+      "ko": "아제르바이잔",
+      "hi": "अजरबेजान",
+      "ar": "أذربيجان"
     },
     "fullName": {
       "native": "Azərbaycan Respublikası",
       "en": "Republic of Azerbaijan",
-      "zh-CN": "阿塞拜疆共和国"
+      "zh-CN": "阿塞拜疆共和国",
+      "fr": "République d'Azerbaïdjan",
+      "de": "Republik Aserbaidschan",
+      "es": "República de Azerbaiyán",
+      "ja": "アゼルバイジャン共和国",
+      "ko": "아제르바이잔 공화국",
+      "hi": "अज़रबैजान गणराज्य",
+      "ar": "جمهوريّة أذربيجان"
     },
     "population": 10139177,
     "area": 86600,
@@ -228,12 +382,26 @@
     "name": {
       "native": "Bahamas",
       "en": "Bahamas",
-      "zh-CN": "巴哈马"
+      "zh-CN": "巴哈马",
+      "fr": "Bahamas",
+      "de": "Bahamas",
+      "es": "Bahamas",
+      "ja": "バハマ",
+      "ko": "바하마",
+      "hi": "बहामास",
+      "ar": "باهاماس"
     },
     "fullName": {
       "native": "Commonwealth of the Bahamas",
       "en": "Commonwealth of the Bahamas",
-      "zh-CN": "巴哈马联邦"
+      "zh-CN": "巴哈马联邦",
+      "fr": "Commonwealth des Bahamas",
+      "de": "Commonwealth der Bahamas",
+      "es": "Commonwealth de las Bahamas",
+      "ja": "バハマ国",
+      "ko": "바하마 연방",
+      "hi": "बहामास का राष्ट्रमंडल",
+      "ar": "كومنولث البهاما"
     },
     "population": 393244,
     "area": 13943,
@@ -248,12 +416,26 @@
     "name": {
       "native": "البحرين",
       "en": "Bahrain",
-      "zh-CN": "巴林"
+      "zh-CN": "巴林",
+      "fr": "Bahreïn",
+      "de": "Bahrain",
+      "es": "Bahrein",
+      "ja": "バーレーン",
+      "ko": "바레인",
+      "hi": "बहरीन",
+      "ar": "البحرين"
     },
     "fullName": {
       "native": "مملكة البحرين",
       "en": "Kingdom of Bahrain",
-      "zh-CN": "巴林王国"
+      "zh-CN": "巴林王国",
+      "fr": "Royaume de Bahreïn",
+      "de": "Königreich Bahrain",
+      "es": "Reino de Baréin",
+      "ja": "バーレーン王国",
+      "ko": "바레인 왕국",
+      "hi": "बहरीन की सल्तनत",
+      "ar": "مملكة البحرين"
     },
     "population": 1472233,
     "area": 765,
@@ -268,12 +450,26 @@
     "name": {
       "native": "বাংলাদেশ",
       "en": "Bangladesh",
-      "zh-CN": "孟加拉国"
+      "zh-CN": "孟加拉国",
+      "fr": "Bangladesh",
+      "de": "Bangladesch",
+      "es": "Bangladesh",
+      "ja": "バングラデシュ",
+      "ko": "방글라데시",
+      "hi": "बांग्लादेश",
+      "ar": "بنغلاديش"
     },
     "fullName": {
       "native": "বাংলাদেশ গণপ্রজাতন্ত্রী",
       "en": "People's Republic of Bangladesh",
-      "zh-CN": "孟加拉人民共和国"
+      "zh-CN": "孟加拉人民共和国",
+      "fr": "République populaire du Bengladesh",
+      "de": "Volksrepublik Bangladesh",
+      "es": "República Popular de Bangladés",
+      "ja": "バングラデシュ人民共和国",
+      "ko": "방글라데시 인민 공화국",
+      "hi": "बांग्लादेश जनवादी गणराज्य",
+      "ar": "جمهوريّة بنغلادش الشّعبيّة"
     },
     "population": 169356251,
     "area": 147570,
@@ -288,12 +484,26 @@
     "name": {
       "native": "Barbados",
       "en": "Barbados",
-      "zh-CN": "巴巴多斯"
+      "zh-CN": "巴巴多斯",
+      "fr": "Barbade",
+      "de": "Barbados",
+      "es": "Barbados",
+      "ja": "バルバドス",
+      "ko": "바베이도스",
+      "hi": "बार्बाडोस",
+      "ar": "باربادوس"
     },
     "fullName": {
       "native": "Barbados",
       "en": "Barbados",
-      "zh-CN": "巴巴多斯"
+      "zh-CN": "巴巴多斯",
+      "fr": "Barbade",
+      "de": "Barbados",
+      "es": "Barbados",
+      "ja": "バルバドス",
+      "ko": "바베이도스",
+      "hi": "बारबाडोस",
+      "ar": "بربادوس"
     },
     "population": 287375,
     "area": 430,
@@ -308,12 +518,26 @@
     "name": {
       "native": "Белару́сь",
       "en": "Belarus",
-      "zh-CN": "白俄罗斯"
+      "zh-CN": "白俄罗斯",
+      "fr": "Biélorussie",
+      "de": "Belarus",
+      "es": "Bielorrusia",
+      "ja": "ベラルーシ",
+      "ko": "벨라루스",
+      "hi": "बेलारुस",
+      "ar": "روسيا البيضاء"
     },
     "fullName": {
       "native": "Рэспубліка Беларусь",
       "en": "Republic of Belarus",
-      "zh-CN": "白俄罗斯共和国"
+      "zh-CN": "白俄罗斯共和国",
+      "fr": "République du Bélarus",
+      "de": "Republik Belarus",
+      "es": "República de Bielorrusia",
+      "ja": "ベラルーシ共和国",
+      "ko": "벨라루스 공화국",
+      "hi": "बेलारूस गणराज्य",
+      "ar": "جمهوريّة روسيا البيضاء"
     },
     "population": 9441900,
     "area": 207600,
@@ -329,12 +553,26 @@
     "name": {
       "native": "België",
       "en": "Belgium",
-      "zh-CN": "比利时"
+      "zh-CN": "比利时",
+      "fr": "Belgique",
+      "de": "Belgien",
+      "es": "Bélgica",
+      "ja": "ベルギー",
+      "ko": "벨기에",
+      "hi": "बेल्जियम",
+      "ar": "بلجيكا"
     },
     "fullName": {
       "native": "Koninkrijk België",
       "en": "Kingdom of Belgium",
-      "zh-CN": "比利时王国"
+      "zh-CN": "比利时王国",
+      "fr": "Royaume de Belgique",
+      "de": "Königreich Belgien",
+      "es": "Reino de Bélgica",
+      "ja": "ベルギー王国",
+      "ko": "벨기에 왕국",
+      "hi": "बेल्जियम का साम्राज्य",
+      "ar": "مملكة بلجيكا"
     },
     "population": 11589623,
     "area": 30528,
@@ -351,12 +589,26 @@
     "name": {
       "native": "Belize",
       "en": "Belize",
-      "zh-CN": "伯利兹"
+      "zh-CN": "伯利兹",
+      "fr": "Belize",
+      "de": "Belize",
+      "es": "Belice",
+      "ja": "ベリーズ",
+      "ko": "벨리즈",
+      "hi": "बेलिजे",
+      "ar": "بليز"
     },
     "fullName": {
       "native": "Belize",
       "en": "Belize",
-      "zh-CN": "伯利兹"
+      "zh-CN": "伯利兹",
+      "fr": "Belize",
+      "de": "Belize",
+      "es": "Belice",
+      "ja": "ベリーズ",
+      "ko": "벨리즈",
+      "hi": "बेलीज़",
+      "ar": "بيليز"
     },
     "population": 419199,
     "area": 22966,
@@ -371,12 +623,26 @@
     "name": {
       "native": "Bénin",
       "en": "Benin",
-      "zh-CN": "贝宁"
+      "zh-CN": "贝宁",
+      "fr": "Bénin",
+      "de": "Benin",
+      "es": "Benin",
+      "ja": "ベナン",
+      "ko": "베냉",
+      "hi": "बानिन",
+      "ar": "بنين"
     },
     "fullName": {
       "native": "République du Bénin",
       "en": "Republic of Benin",
-      "zh-CN": "贝宁共和国"
+      "zh-CN": "贝宁共和国",
+      "fr": "République du Bénin",
+      "de": "Republik Benin",
+      "es": "República de Benín",
+      "ja": "ベナン共和国",
+      "ko": "베냉 공화국",
+      "hi": "बेनिन गणराज्य",
+      "ar": "جمهوريّة بنين"
     },
     "population": 12123200,
     "area": 112622,
@@ -391,12 +657,26 @@
     "name": {
       "native": "འབྲུག་ཡུལ་",
       "en": "Bhutan",
-      "zh-CN": "不丹"
+      "zh-CN": "不丹",
+      "fr": "Bhoutan",
+      "de": "Bhutan",
+      "es": "Bután",
+      "ja": "ブータン",
+      "ko": "부탄",
+      "hi": "भूटान",
+      "ar": "بوتان"
     },
     "fullName": {
       "native": "འབྲུག་རྒྱལ་ཁབ་",
       "en": "Kingdom of Bhutan",
-      "zh-CN": "不丹王国"
+      "zh-CN": "不丹王国",
+      "fr": "Royaume du Bouthan",
+      "de": "Königreich Bhutan",
+      "es": "Reino de Bután",
+      "ja": "ブータン王国",
+      "ko": "부탄 왕국",
+      "hi": "भूटान का साम्राज्य",
+      "ar": "مملكة بوتان"
     },
     "population": 771608,
     "area": 38394,
@@ -411,12 +691,26 @@
     "name": {
       "native": "Bolivia",
       "en": "Bolivia",
-      "zh-CN": "玻利维亚"
+      "zh-CN": "玻利维亚",
+      "fr": "Bolivie",
+      "de": "Bolivien",
+      "es": "Bolivia",
+      "ja": "ボリビア多民族国",
+      "ko": "볼리비아",
+      "hi": "बोलिविया",
+      "ar": "بوليفيا"
     },
     "fullName": {
       "native": "Estado Plurinacional de Bolivia",
       "en": "Plurinational State of Bolivia",
-      "zh-CN": "玻利维亚多民族国"
+      "zh-CN": "玻利维亚多民族国",
+      "fr": "État plurinational de Bolivie",
+      "de": "Plurinationaler Staat Bolivien",
+      "es": "Estado plurinacional de Bolivia",
+      "ja": "ボリビア多民族国",
+      "ko": "볼리비아 다국가 연합국",
+      "hi": "बोलीविया का बहुराष्ट्रीय राज्य",
+      "ar": "جمهورية بوليفيا"
     },
     "population": 11513100,
     "area": 1098581,
@@ -433,12 +727,26 @@
     "name": {
       "native": "Bosna i Hercegovina",
       "en": "Bosnia and Herzegovina",
-      "zh-CN": "波斯尼亚和黑塞哥维那"
+      "zh-CN": "波斯尼亚和黑塞哥维那",
+      "fr": "Bosnie-Herzégovine",
+      "de": "Bosnien und Herzegowina",
+      "es": "Bosnia y Herzegovina",
+      "ja": "ボスニア・ヘルツェゴビナ",
+      "ko": "보스니아 헤르체고비나",
+      "hi": "बोस्निया हर्जेगोविना",
+      "ar": "البوسنة والهرسك"
     },
     "fullName": {
       "native": "Bosna i Hercegovina",
       "en": "Bosnia and Herzegovina",
-      "zh-CN": "波斯尼亚和黑塞哥维那"
+      "zh-CN": "波斯尼亚和黑塞哥维那",
+      "fr": "Bosnie-Herzégovine",
+      "de": "Bosnien und Herzegowina",
+      "es": "Bosnia y Herzegovina",
+      "ja": "ボスニア・ヘルツェゴビナ",
+      "ko": "보스니아 헤르체고비나",
+      "hi": "बोस्निया और हर्जेगोविना",
+      "ar": "البوسنة و الهرسك"
     },
     "population": 3280819,
     "area": 51197,
@@ -455,12 +763,26 @@
     "name": {
       "native": "Botswana",
       "en": "Botswana",
-      "zh-CN": "博茨瓦纳"
+      "zh-CN": "博茨瓦纳",
+      "fr": "Botswana",
+      "de": "Botswana",
+      "es": "Botswana",
+      "ja": "ボツワナ",
+      "ko": "보츠와나",
+      "hi": "बोत्सवाना",
+      "ar": "بوتسوانا"
     },
     "fullName": {
       "native": "Republic of Botswana",
       "en": "Republic of Botswana",
-      "zh-CN": "博茨瓦纳共和国"
+      "zh-CN": "博茨瓦纳共和国",
+      "fr": "République du Botswana",
+      "de": "Republik Botsuana",
+      "es": "República de Botsuana",
+      "ja": "ボツワナ共和国",
+      "ko": "보츠와나 공화국",
+      "hi": "बोत्सवाना गणराज्य",
+      "ar": "جمهوريّة بوتسوانا"
     },
     "population": 2630296,
     "area": 581730,
@@ -476,12 +798,26 @@
     "name": {
       "native": "Brasil",
       "en": "Brazil",
-      "zh-CN": "巴西"
+      "zh-CN": "巴西",
+      "fr": "Brésil",
+      "de": "Brasilien",
+      "es": "Brasil",
+      "ja": "ブラジル",
+      "ko": "브라질",
+      "hi": "ब्राजील",
+      "ar": "البرازيل"
     },
     "fullName": {
       "native": "República Federativa do Brasil",
       "en": "Federative Republic of Brazil",
-      "zh-CN": "巴西联邦共和国"
+      "zh-CN": "巴西联邦共和国",
+      "fr": "République fédérale du Brésil",
+      "de": "Föderative Republik Brasilien",
+      "es": "República Federativa de Brasil",
+      "ja": "ブラジル連邦共和国",
+      "ko": "브라질 연방 공화국",
+      "hi": "ब्राजील संघीय गणराज्य",
+      "ar": "جمهوريّة البرازيل الاتّحاديّة"
     },
     "population": 215313498,
     "area": 8515767,
@@ -496,12 +832,26 @@
     "name": {
       "native": "Negara Brunei Darussalam",
       "en": "Brunei",
-      "zh-CN": "文莱"
+      "zh-CN": "文莱",
+      "fr": "Brunei Darussalam",
+      "de": "Brunei Darussalam",
+      "es": "Brunei Darussalam",
+      "ja": "ブルネイ・ダルサラーム",
+      "ko": "브루나이",
+      "hi": "ब्रुनेई",
+      "ar": "بروناي"
     },
     "fullName": {
       "native": "Nation of Brunei, Abode Damai",
       "en": "Nation of Brunei, the Abode of Peace",
-      "zh-CN": "文莱达鲁萨兰国"
+      "zh-CN": "文莱达鲁萨兰国",
+      "fr": "Brunéi Darussalam",
+      "de": "Brunei Darussalam",
+      "es": "Brunei Darussalam",
+      "ja": "ブルネイ・ダルサラーム国",
+      "ko": "브루나이 다루살람",
+      "hi": "ब्रुनेई दरउस्सलाम",
+      "ar": "بروناي دار السّلام"
     },
     "population": 441532,
     "area": 5765,
@@ -516,12 +866,26 @@
     "name": {
       "native": "България",
       "en": "Bulgaria",
-      "zh-CN": "保加利亚"
+      "zh-CN": "保加利亚",
+      "fr": "Bulgarie",
+      "de": "Bulgarien",
+      "es": "Bulgaria",
+      "ja": "ブルガリア",
+      "ko": "불가리아",
+      "hi": "बल्गारिया",
+      "ar": "بلغاريا"
     },
     "fullName": {
       "native": "Република България",
       "en": "Republic of Bulgaria",
-      "zh-CN": "保加利亚共和国"
+      "zh-CN": "保加利亚共和国",
+      "fr": "République de Bulgarie",
+      "de": "Republik Bulgarien",
+      "es": "República de Bulgaria",
+      "ja": "ブルガリア共和国",
+      "ko": "불가리아 공화국",
+      "hi": "बुल्गारिया गणराज्य",
+      "ar": "جمهوريّة بلغاريا"
     },
     "population": 6520314,
     "area": 110879,
@@ -536,12 +900,26 @@
     "name": {
       "native": "Burkina Faso",
       "en": "Burkina Faso",
-      "zh-CN": "布基纳法索"
+      "zh-CN": "布基纳法索",
+      "fr": "Burkina Faso",
+      "de": "Burkina Faso",
+      "es": "Burkina Faso",
+      "ja": "ブルキナファソ",
+      "ko": "부르키나파소",
+      "hi": "बुर्किना फासो",
+      "ar": "بوركينا فاسو"
     },
     "fullName": {
       "native": "République du Burkina",
       "en": "Burkina Faso",
-      "zh-CN": "布基纳法索"
+      "zh-CN": "布基纳法索",
+      "fr": "Burkina Faso",
+      "de": "Burkina Faso",
+      "es": "Burquina Faso",
+      "ja": "ブルキナファソ",
+      "ko": "부르키나파소",
+      "hi": "बुर्किना फासो",
+      "ar": "بوركينا فاصو"
     },
     "population": 22102838,
     "area": 274222,
@@ -556,12 +934,26 @@
     "name": {
       "native": "Burundi",
       "en": "Burundi",
-      "zh-CN": "布隆迪"
+      "zh-CN": "布隆迪",
+      "fr": "Burundi",
+      "de": "Burundi",
+      "es": "Burundi",
+      "ja": "ブルンジ",
+      "ko": "부룬디",
+      "hi": "बुरुंडी",
+      "ar": "بوروندي"
     },
     "fullName": {
       "native": "République du Burundi",
       "en": "Republic of Burundi",
-      "zh-CN": "布隆迪共和国"
+      "zh-CN": "布隆迪共和国",
+      "fr": "République du Burundi",
+      "de": "Republik Burundi",
+      "es": "República de Burundi",
+      "ja": "ブルンジ共和国",
+      "ko": "부룬디 공화국",
+      "hi": "बुरुंडी गणराज्य",
+      "ar": "جمهوريّة بوروندي"
     },
     "population": 12574571,
     "area": 27834,
@@ -577,12 +969,26 @@
     "name": {
       "native": "Cabo Verde",
       "en": "Cape Verde",
-      "zh-CN": "佛得角"
+      "zh-CN": "佛得角",
+      "fr": "Cap-Vert",
+      "de": "Kap Verde",
+      "es": "Cabo Verde",
+      "ja": "カーボベルデ",
+      "ko": "카보 베르데",
+      "hi": "केप वर्दे",
+      "ar": "الرأس الأخضر"
     },
     "fullName": {
       "native": "República de Cabo Verde",
       "en": "Republic of Cabo Verde",
-      "zh-CN": "佛得角共和国"
+      "zh-CN": "佛得角共和国",
+      "fr": "République du Cap-Vert",
+      "de": "Republik Kap Verde",
+      "es": "República de Cabo Verde",
+      "ja": "カーボヴェルデ共和国",
+      "ko": "카보베르데 공화국",
+      "hi": "काबो वर्डे गणराज्य",
+      "ar": "جمهورية الرأس الأخضر"
     },
     "population": 593149,
     "area": 4033,
@@ -597,12 +1003,26 @@
     "name": {
       "native": "Kâmpŭchéa",
       "en": "Cambodia",
-      "zh-CN": "柬埔寨"
+      "zh-CN": "柬埔寨",
+      "fr": "Cambodge",
+      "de": "Kambodscha",
+      "es": "Camboya",
+      "ja": "カンボジア",
+      "ko": "캄보디아",
+      "hi": "कंबोडिया",
+      "ar": "كمبوديا"
     },
     "fullName": {
       "native": "ព្រះរាជាណាចក្រកម្ពុជា",
       "en": "Kingdom of Cambodia",
-      "zh-CN": "柬埔寨王国"
+      "zh-CN": "柬埔寨王国",
+      "fr": "Royaume du Cambodge",
+      "de": "Königreich Kambodscha",
+      "es": "Reino de Camboya",
+      "ja": "カンボジア王国",
+      "ko": "캄보디아 왕국",
+      "hi": "कंबोडिया का साम्राज्य",
+      "ar": "مملكة كمبوديا"
     },
     "population": 16589023,
     "area": 181035,
@@ -617,12 +1037,26 @@
     "name": {
       "native": "Cameroun",
       "en": "Cameroon",
-      "zh-CN": "喀麦隆"
+      "zh-CN": "喀麦隆",
+      "fr": "Cameroun",
+      "de": "Kamerun",
+      "es": "Camerún",
+      "ja": "カメルーン",
+      "ko": "카메룬",
+      "hi": "कैमरून",
+      "ar": "الكاميرون"
     },
     "fullName": {
       "native": "République du Cameroun",
       "en": "Republic of Cameroon",
-      "zh-CN": "喀麦隆共和国"
+      "zh-CN": "喀麦隆共和国",
+      "fr": "République du Cameroun",
+      "de": "Republik Kamerun",
+      "es": "República del Camerún",
+      "ja": "カメルーン共和国",
+      "ko": "카메룬 공화국",
+      "hi": "कैमरून गणराज्य",
+      "ar": "جمهوريّة الكاميرون"
     },
     "population": 27914536,
     "area": 475442,
@@ -638,12 +1072,26 @@
     "name": {
       "native": "Canada",
       "en": "Canada",
-      "zh-CN": "加拿大"
+      "zh-CN": "加拿大",
+      "fr": "Canada",
+      "de": "Kanada",
+      "es": "Canadá",
+      "ja": "カナダ",
+      "ko": "캐나다",
+      "hi": "कनाडा",
+      "ar": "كندا"
     },
     "fullName": {
       "native": "Canada",
       "en": "Canada",
-      "zh-CN": "加拿大"
+      "zh-CN": "加拿大",
+      "fr": "Canada",
+      "de": "Kanada",
+      "es": "Canadá",
+      "ja": "カナダ",
+      "ko": "캐나다",
+      "hi": "कनाडा",
+      "ar": "كندا"
     },
     "population": 38246108,
     "area": 9984670,
@@ -659,12 +1107,26 @@
     "name": {
       "native": "République centrafricaine",
       "en": "Central African Republic",
-      "zh-CN": "中非共和国"
+      "zh-CN": "中非共和国",
+      "fr": "République Centrafricaine",
+      "de": "Zentralafrikanische Republik",
+      "es": "República Centroafricana",
+      "ja": "中央アフリカ共和国",
+      "ko": "중앙 아프리카",
+      "hi": "सेंट्रल अफ्रीका गणतंत्र",
+      "ar": "جمهورية أفريقيا الوسطى"
     },
     "fullName": {
       "native": "République centrafricaine",
       "en": "Central African Republic",
-      "zh-CN": "中非共和国"
+      "zh-CN": "中非共和国",
+      "fr": "République centrafricaine",
+      "de": "Zentralafrikanische Republik",
+      "es": "República Centroafricana",
+      "ja": "中央アフリカ共和国",
+      "ko": "중앙아프리카 공화국",
+      "hi": "मध्य अफ़्रीकी गणराज्य",
+      "ar": "جمهورية إفريقيّا الوسطى"
     },
     "population": 5579144,
     "area": 622984,
@@ -680,12 +1142,26 @@
     "name": {
       "native": "Tchad",
       "en": "Chad",
-      "zh-CN": "乍得"
+      "zh-CN": "乍得",
+      "fr": "Tchad",
+      "de": "Tschad",
+      "es": "Chad",
+      "ja": "チャド",
+      "ko": "차드",
+      "hi": "चाड",
+      "ar": "تشاد"
     },
     "fullName": {
       "native": "République du Tchad",
       "en": "Republic of Chad",
-      "zh-CN": "乍得共和国"
+      "zh-CN": "乍得共和国",
+      "fr": "République du Tchad",
+      "de": "Republik Tschad",
+      "es": "República del Chad",
+      "ja": "チャド共和国",
+      "ko": "차드 공화국",
+      "hi": "चाड गणराज्य",
+      "ar": "جمهوريّة تشاد"
     },
     "population": 17413580,
     "area": 1284000,
@@ -701,12 +1177,26 @@
     "name": {
       "native": "Chile",
       "en": "Chile",
-      "zh-CN": "智利"
+      "zh-CN": "智利",
+      "fr": "Chili",
+      "de": "Chile",
+      "es": "Chile",
+      "ja": "チリ",
+      "ko": "칠레",
+      "hi": "चिली",
+      "ar": "تشيلي"
     },
     "fullName": {
       "native": "República de Chile",
       "en": "Republic of Chile",
-      "zh-CN": "智利共和国"
+      "zh-CN": "智利共和国",
+      "fr": "République du Chili",
+      "de": "Republik Chile",
+      "es": "República de Chile",
+      "ja": "チリ共和国",
+      "ko": "칠레 공화국",
+      "hi": "चिली गणराज्य",
+      "ar": "جمهوريّة تشيلي"
     },
     "population": 19116201,
     "area": 756102,
@@ -721,12 +1211,26 @@
     "name": {
       "native": "中国",
       "en": "China",
-      "zh-CN": "中国"
+      "zh-CN": "中国",
+      "fr": "Chine",
+      "de": "China",
+      "es": "China",
+      "ja": "中華人民共和国",
+      "ko": "중국",
+      "hi": "चीन",
+      "ar": "الصين"
     },
     "fullName": {
       "native": "中华人民共和国",
       "en": "People's Republic of China",
-      "zh-CN": "中华人民共和国"
+      "zh-CN": "中华人民共和国",
+      "fr": "République populaire de Chine",
+      "de": "Volksrepublik China",
+      "es": "República Popular China",
+      "ja": "中華人民共和国",
+      "ko": "중화인민공화국",
+      "hi": "चीनी जनवादी गणराज्य",
+      "ar": "جمهوريّة الصّين الشّعبيّة"
     },
     "population": 1413400000,
     "area": 9596961,
@@ -741,12 +1245,26 @@
     "name": {
       "native": "Colombia",
       "en": "Colombia",
-      "zh-CN": "哥伦比亚"
+      "zh-CN": "哥伦比亚",
+      "fr": "Colombie",
+      "de": "Kolumbien",
+      "es": "Colombia",
+      "ja": "コロンビア",
+      "ko": "콜롬비아",
+      "hi": "कोलंबिया",
+      "ar": "كولومبيا"
     },
     "fullName": {
       "native": "República de Colombia",
       "en": "Republic of Colombia",
-      "zh-CN": "哥伦比亚共和国"
+      "zh-CN": "哥伦比亚共和国",
+      "fr": "République de Colombie",
+      "de": "Republik Kolumbien",
+      "es": "República de Colombia",
+      "ja": "コロンビア共和国",
+      "ko": "콜롬비아 공화국",
+      "hi": "कोलंबिया गणराज्य",
+      "ar": "جمهوريّة كولومبيا"
     },
     "population": 51874024,
     "area": 1141748,
@@ -761,12 +1279,26 @@
     "name": {
       "native": "القمر",
       "en": "Comoros",
-      "zh-CN": "科摩罗"
+      "zh-CN": "科摩罗",
+      "fr": "Comores",
+      "de": "Komoren",
+      "es": "Comoras",
+      "ja": "コモロ",
+      "ko": "코모로",
+      "hi": "कोमोरोस",
+      "ar": "جزر القمر"
     },
     "fullName": {
       "native": "الاتحاد القمري",
       "en": "Union of the Comoros",
-      "zh-CN": "科摩罗联盟"
+      "zh-CN": "科摩罗联盟",
+      "fr": "Union des Comores",
+      "de": "Vereinigung der Komoren",
+      "es": "Unión de las Comores",
+      "ja": "コモロ連合",
+      "ko": "코모로 연방",
+      "hi": "कोमोरोस का संघ",
+      "ar": "إتّحاد جزر القمر"
     },
     "population": 888451,
     "area": 2235,
@@ -782,12 +1314,26 @@
     "name": {
       "native": "République du Congo",
       "en": "Republic of the Congo",
-      "zh-CN": "刚果共和国"
+      "zh-CN": "刚果共和国",
+      "fr": "République du Congo",
+      "de": "Republik Kongo",
+      "es": "Congo",
+      "ja": "コンゴ共和国",
+      "ko": "콩고",
+      "hi": "कांगो",
+      "ar": "جمهورية الكونغو"
     },
     "fullName": {
       "native": "République du Congo",
       "en": "Republic of the Congo",
-      "zh-CN": "刚果共和国"
+      "zh-CN": "刚果共和国",
+      "fr": "République du Congo",
+      "de": "Republik Kongo",
+      "es": "República del Congo",
+      "ja": "コンゴ共和国",
+      "ko": "콩고 공화국",
+      "hi": "कांगो गणराज्य",
+      "ar": "جمهوريّة الكونغو"
     },
     "population": 5797805,
     "area": 342000,
@@ -802,12 +1348,26 @@
     "name": {
       "native": "RD Congo",
       "en": "DR Congo",
-      "zh-CN": "刚果民主共和国"
+      "zh-CN": "刚果民主共和国",
+      "fr": "République démocratique du Congo",
+      "de": "Kongo",
+      "es": "Congo (República Democrática del)",
+      "ja": "コンゴ民主共和国",
+      "ko": "콩고 민주 공화국",
+      "hi": "कांगो लोकतान्त्रिक गणराज्य",
+      "ar": "جمهورية الكونغو الديمقراطية"
     },
     "fullName": {
       "native": "République démocratique du Congo",
       "en": "Democratic Republic of the Congo",
-      "zh-CN": "刚果民主共和国"
+      "zh-CN": "刚果民主共和国",
+      "fr": "République démocratique du Congo",
+      "de": "Demokratische Republik Kongo",
+      "es": "Congo, República Democrática del",
+      "ja": "コンゴ民主共和国",
+      "ko": "콩고 민주 공화국",
+      "hi": "कांगो, लोकतांत्रिक गणराज्य",
+      "ar": "الكونغو، جمهوريّة الكونغو الدّيموقراطيّة"
     },
     "population": 102262808,
     "area": 2344858,
@@ -822,12 +1382,26 @@
     "name": {
       "native": "Costa Rica",
       "en": "Costa Rica",
-      "zh-CN": "哥斯达黎加"
+      "zh-CN": "哥斯达黎加",
+      "fr": "Costa Rica",
+      "de": "Costa Rica",
+      "es": "Costa Rica",
+      "ja": "コスタリカ",
+      "ko": "코스타리카",
+      "hi": "कोस्टा रिका",
+      "ar": "كوستاريكا"
     },
     "fullName": {
       "native": "República de Costa Rica",
       "en": "Republic of Costa Rica",
-      "zh-CN": "哥斯达黎加共和国"
+      "zh-CN": "哥斯达黎加共和国",
+      "fr": "République du Costa Rica",
+      "de": "Republik Costa Rica",
+      "es": "República de Costa Rica",
+      "ja": "コスタリカ共和国",
+      "ko": "코스타리카 공화국",
+      "hi": "कोस्टा रिका गणराज्य",
+      "ar": "جمهوريّة كوستاريكا"
     },
     "population": 5153957,
     "area": 51100,
@@ -842,12 +1416,26 @@
     "name": {
       "native": "Côte d'Ivoire",
       "en": "Côte d'Ivoire",
-      "zh-CN": "科特迪瓦"
+      "zh-CN": "科特迪瓦",
+      "fr": "Côte-d'Ivoire",
+      "de": "Elfenbeinküste",
+      "es": "Costa de Marfil",
+      "ja": "コートジボワール",
+      "ko": "코트디부아르",
+      "hi": "आइवरी कोस्ट",
+      "ar": "ساحل العاج"
     },
     "fullName": {
       "native": "République de Côte d'Ivoire",
       "en": "Republic of Côte d'Ivoire",
-      "zh-CN": "科特迪瓦共和国"
+      "zh-CN": "科特迪瓦共和国",
+      "fr": "République de Côte d'Ivoire",
+      "de": "Republik Côte d'Ivoire",
+      "es": "República de Costa de Marfíl",
+      "ja": "コートジボワール共和国",
+      "ko": "코트디부아르 공화국",
+      "hi": "कोटे डी आइवर गणराज्य",
+      "ar": "جمهوريّة ساحل العاج"
     },
     "population": 27478249,
     "area": 322463,
@@ -862,12 +1450,26 @@
     "name": {
       "native": "Hrvatska",
       "en": "Croatia",
-      "zh-CN": "克罗地亚"
+      "zh-CN": "克罗地亚",
+      "fr": "Croatie",
+      "de": "Kroatien",
+      "es": "Croacia",
+      "ja": "クロアチア",
+      "ko": "크로아티아",
+      "hi": "क्रोएशिया",
+      "ar": "كرواتيا"
     },
     "fullName": {
       "native": "Republika Hrvatska",
       "en": "Republic of Croatia",
-      "zh-CN": "克罗地亚共和国"
+      "zh-CN": "克罗地亚共和国",
+      "fr": "République de Croatie",
+      "de": "Republik Kroatien",
+      "es": "República de Croacia",
+      "ja": "クロアチア共和国",
+      "ko": "크로아티아 공화국",
+      "hi": "क्रोएशिया गणराज्य",
+      "ar": "جمهوريّة كرواتيا"
     },
     "population": 3899000,
     "area": 56594,
@@ -882,12 +1484,26 @@
     "name": {
       "native": "Cuba",
       "en": "Cuba",
-      "zh-CN": "古巴"
+      "zh-CN": "古巴",
+      "fr": "Cuba",
+      "de": "Kuba",
+      "es": "Cuba",
+      "ja": "キューバ",
+      "ko": "쿠바",
+      "hi": "क्यूबा",
+      "ar": "كوبا"
     },
     "fullName": {
       "native": "República de Cuba",
       "en": "Republic of Cuba",
-      "zh-CN": "古巴共和国"
+      "zh-CN": "古巴共和国",
+      "fr": "République de Cuba",
+      "de": "Republik Kuba",
+      "es": "República de Cuba",
+      "ja": "キューバ共和国",
+      "ko": "쿠바 공화국",
+      "hi": "क्यूबा गणराज्य",
+      "ar": "جمهوريّة كوبا"
     },
     "population": 11317505,
     "area": 109884,
@@ -902,12 +1518,26 @@
     "name": {
       "native": "Κύπρος",
       "en": "Cyprus",
-      "zh-CN": "塞浦路斯"
+      "zh-CN": "塞浦路斯",
+      "fr": "Chypre",
+      "de": "Zypern",
+      "es": "Chipre",
+      "ja": "キプロス",
+      "ko": "사이프러스",
+      "hi": "साइप्रस",
+      "ar": "قبرص"
     },
     "fullName": {
       "native": "Δημοκρατία της Κύπρος",
       "en": "Republic of Cyprus",
-      "zh-CN": "塞浦路斯共和国"
+      "zh-CN": "塞浦路斯共和国",
+      "fr": "République de Chypre",
+      "de": "Republik Zypern",
+      "es": "República de Chipre",
+      "ja": "キプロス共和国",
+      "ko": "키프로스 공화국",
+      "hi": "साइप्रस गणराज्य",
+      "ar": "جمهوريّة قبرص"
     },
     "population": 1207359,
     "area": 9251,
@@ -923,12 +1553,26 @@
     "name": {
       "native": "Česko",
       "en": "Czech Republic",
-      "zh-CN": "捷克"
+      "zh-CN": "捷克",
+      "fr": "République Tchèque",
+      "de": "Tschechien",
+      "es": "República Checa",
+      "ja": "チェコ",
+      "ko": "체코공화국",
+      "hi": "चेक",
+      "ar": "جمهورية التشيك"
     },
     "fullName": {
       "native": "Česká republika",
       "en": "Czech Republic",
-      "zh-CN": "捷克共和国"
+      "zh-CN": "捷克共和国",
+      "fr": "République tchèque",
+      "de": "Tschechische Republik",
+      "es": "República Checa",
+      "ja": "チェコ共和国",
+      "ko": "체코 공화국",
+      "hi": "चेक गणराज्य",
+      "ar": "جمهوريّة التّشيك"
     },
     "population": 10900555,
     "area": 78867,
@@ -943,12 +1587,26 @@
     "name": {
       "native": "Danmark",
       "en": "Denmark",
-      "zh-CN": "丹麦"
+      "zh-CN": "丹麦",
+      "fr": "Danemark",
+      "de": "Dänemark",
+      "es": "Dinamarca",
+      "ja": "デンマーク",
+      "ko": "덴마크",
+      "hi": "डैनमार्क",
+      "ar": "الدنمارك"
     },
     "fullName": {
       "native": "Kongeriget Danmark",
       "en": "Kingdom of Denmark",
-      "zh-CN": "丹麦王国"
+      "zh-CN": "丹麦王国",
+      "fr": "Royaume du Danemark",
+      "de": "Königreich Dänemark",
+      "es": "Reino de Dinamarca",
+      "ja": "デンマーク王国",
+      "ko": "덴마크 왕국",
+      "hi": "डेनमार्क का साम्राज्य",
+      "ar": "مملكة الدّنمارك"
     },
     "population": 5873000,
     "area": 43094,
@@ -963,12 +1621,26 @@
     "name": {
       "native": "Djibouti",
       "en": "Djibouti",
-      "zh-CN": "吉布提"
+      "zh-CN": "吉布提",
+      "fr": "Djibouti",
+      "de": "Dschibuti",
+      "es": "Yibuti",
+      "ja": "ジブチ",
+      "ko": "지부티",
+      "hi": "जिबॉती",
+      "ar": "جيبوتي"
     },
     "fullName": {
       "native": "République de Djibouti",
       "en": "Republic of Djibouti",
-      "zh-CN": "吉布提共和国"
+      "zh-CN": "吉布提共和国",
+      "fr": "République de Djibouti",
+      "de": "Republik Dschibuti",
+      "es": "República de Yibuti",
+      "ja": "ジブチ共和国",
+      "ko": "지부티 공화국",
+      "hi": "जिबूती गणराज्य",
+      "ar": "جمهوريّة جيبوتي"
     },
     "population": 1000000,
     "area": 23200,
@@ -985,12 +1657,26 @@
     "name": {
       "native": "Dominica",
       "en": "Dominica",
-      "zh-CN": "多米尼克"
+      "zh-CN": "多米尼克",
+      "fr": "Dominique",
+      "de": "Dominica",
+      "es": "Dominica",
+      "ja": "ドミニカ国",
+      "ko": "도미니카 연방",
+      "hi": "डोमिनिक",
+      "ar": "دومينيكا"
     },
     "fullName": {
       "native": "Commonwealth of Dominica",
       "en": "Commonwealth of Dominica",
-      "zh-CN": "多米尼克国"
+      "zh-CN": "多米尼克国",
+      "fr": "Commonwealth de la Dominique",
+      "de": "Commonwealth Dominica",
+      "es": "Commonwealth de Dominica",
+      "ja": "ドミニカ国",
+      "ko": "도미니카 연방",
+      "hi": "डोमिनिका का राष्ट्रमंडल",
+      "ar": "كومنولث دومينيكا"
     },
     "population": 71986,
     "area": 751,
@@ -1005,12 +1691,26 @@
     "name": {
       "native": "República Dominicana",
       "en": "Dominican Republic",
-      "zh-CN": "多米尼加共和国"
+      "zh-CN": "多米尼加共和国",
+      "fr": "République Dominicaine",
+      "de": "Dominikanische Republik",
+      "es": "República Dominicana",
+      "ja": "ドミニカ共和国",
+      "ko": "도미니카 공화국",
+      "hi": "डोमिनिक गणतंत्र",
+      "ar": "جمهورية الدومينيكان"
     },
     "fullName": {
       "native": "República Dominicana",
       "en": "Dominican Republic",
-      "zh-CN": "多米尼加共和国"
+      "zh-CN": "多米尼加共和国",
+      "fr": "République dominicaine",
+      "de": "Dominikanische Republik",
+      "es": "República Dominicana",
+      "ja": "ドミニカ共和国",
+      "ko": "도미니카 공화국",
+      "hi": "डोमिनिकन गणराज्य",
+      "ar": "جمهوريّة الدّومينيكان"
     },
     "population": 10953703,
     "area": 48671,
@@ -1025,12 +1725,26 @@
     "name": {
       "native": "Ecuador",
       "en": "Ecuador",
-      "zh-CN": "厄瓜多尔"
+      "zh-CN": "厄瓜多尔",
+      "fr": "Équateur",
+      "de": "Ecuador",
+      "es": "Ecuador",
+      "ja": "エクアドル",
+      "ko": "에콰도르",
+      "hi": "इक्वाडोर",
+      "ar": "الإكوادور"
     },
     "fullName": {
       "native": "República del Ecuador",
       "en": "Republic of Ecuador",
-      "zh-CN": "厄瓜多尔共和国"
+      "zh-CN": "厄瓜多尔共和国",
+      "fr": "République d'Équateur",
+      "de": "Republik Ecuador",
+      "es": "República del Ecuador",
+      "ja": "エクアドル共和国",
+      "ko": "에콰도르 공화국",
+      "hi": "इक्वेडोर गणराज्य",
+      "ar": "جمهوريّة الإكوادور"
     },
     "population": 18001000,
     "area": 283561,
@@ -1045,12 +1759,26 @@
     "name": {
       "native": "مصر",
       "en": "Egypt",
-      "zh-CN": "埃及"
+      "zh-CN": "埃及",
+      "fr": "Égypte",
+      "de": "Ägypten",
+      "es": "Egipto",
+      "ja": "エジプト",
+      "ko": "이집트",
+      "hi": "मिस्र",
+      "ar": "مصر"
     },
     "fullName": {
       "native": "جمهورية مصر العربية",
       "en": "Arab Republic of Egypt",
-      "zh-CN": "阿拉伯埃及共和国"
+      "zh-CN": "阿拉伯埃及共和国",
+      "fr": "République arabe d'Égypte",
+      "de": "Arabische Republik Ägypten",
+      "es": "República Árabe de Egipto",
+      "ja": "エジプト・アラブ共和国",
+      "ko": "이집트 아랍 공화국",
+      "hi": "मिस्र का अरब गणराज्य",
+      "ar": "جمهوريّة مصر العربيّة"
     },
     "population": 104258327,
     "area": 1002450,
@@ -1065,12 +1793,26 @@
     "name": {
       "native": "El Salvador",
       "en": "El Salvador",
-      "zh-CN": "萨尔瓦多"
+      "zh-CN": "萨尔瓦多",
+      "fr": "El Salvador",
+      "de": "El Salvador",
+      "es": "El Salvador",
+      "ja": "エルサルバドル",
+      "ko": "엘살바도르",
+      "hi": "सल्वाडोर",
+      "ar": "السلفادور"
     },
     "fullName": {
       "native": "República de El Salvador",
       "en": "Republic of El Salvador",
-      "zh-CN": "萨尔瓦多共和国"
+      "zh-CN": "萨尔瓦多共和国",
+      "fr": "République d'El Salvador",
+      "de": "Republik El Salvador",
+      "es": "República de El Salvador",
+      "ja": "エルサルバドル共和国",
+      "ko": "엘살바도르 공화국",
+      "hi": "अल साल्वाडोर गणराज्य",
+      "ar": "جمهوريّة السّلفادور"
     },
     "population": 6486201,
     "area": 21041,
@@ -1085,12 +1827,26 @@
     "name": {
       "native": "Guinea Ecuatorial",
       "en": "Equatorial Guinea",
-      "zh-CN": "赤道几内亚"
+      "zh-CN": "赤道几内亚",
+      "fr": "Guinée équatoriale",
+      "de": "Äquatorialguinea",
+      "es": "Guinea Ecuatorial",
+      "ja": "赤道ギニア",
+      "ko": "적도 기니",
+      "hi": "एक्वेटोरियल गिनी",
+      "ar": "غينيا الاستوائية"
     },
     "fullName": {
       "native": "República de Guinea Ecuatorial",
       "en": "Republic of Equatorial Guinea",
-      "zh-CN": "赤道几内亚共和国"
+      "zh-CN": "赤道几内亚共和国",
+      "fr": "République de Guinée Équatoriale",
+      "de": "Republik Äquatorialguinea",
+      "es": "República de Guinea Ecuatorial",
+      "ja": "赤道ギニア共和国",
+      "ko": "적도 기니 공화국",
+      "hi": "भूमध्यरेखीय गिनी गणराज्य",
+      "ar": "جمهوريّة غينيا الاستوائيّة"
     },
     "population": 1496662,
     "area": 28051,
@@ -1107,12 +1863,26 @@
     "name": {
       "native": "ኤርትራ",
       "en": "Eritrea",
-      "zh-CN": "厄立特里亚"
+      "zh-CN": "厄立特里亚",
+      "fr": "Érythrée",
+      "de": "Eritrea",
+      "es": "Eritrea",
+      "ja": "エリトリア",
+      "ko": "에리트레아",
+      "hi": "एरिट्रेया",
+      "ar": "إريتريا"
     },
     "fullName": {
       "native": "ሃገረ ኤርትራ",
       "en": "State of Eritrea",
-      "zh-CN": "厄立特里亚国"
+      "zh-CN": "厄立特里亚国",
+      "fr": "L'État d'Érythrée",
+      "de": "Staat Eritrea",
+      "es": "Estado de Eritrea",
+      "ja": "エリトリア国",
+      "ko": "에리트레아 공화국",
+      "hi": "इरीट्रिया राज्य",
+      "ar": "دولة إريتريا"
     },
     "population": 3601000,
     "area": 117600,
@@ -1129,12 +1899,26 @@
     "name": {
       "native": "Eesti",
       "en": "Estonia",
-      "zh-CN": "爱沙尼亚"
+      "zh-CN": "爱沙尼亚",
+      "fr": "Estonie",
+      "de": "Estland",
+      "es": "Estonia",
+      "ja": "エストニア",
+      "ko": "에스토니아",
+      "hi": "एस्तोनिया",
+      "ar": "إستونيا"
     },
     "fullName": {
       "native": "Eesti Vabariik",
       "en": "Republic of Estonia",
-      "zh-CN": "爱沙尼亚共和国"
+      "zh-CN": "爱沙尼亚共和国",
+      "fr": "République d'Estonie",
+      "de": "Republik Estland",
+      "es": "República de Estonia",
+      "ja": "エストニア共和国",
+      "ko": "에스토니아 공화국",
+      "hi": "एस्टोनिया गणराज्य",
+      "ar": "جمهوريّة إستونيا"
     },
     "population": 1330068,
     "area": 45228,
@@ -1149,12 +1933,26 @@
     "name": {
       "native": "Eswatini",
       "en": "Eswatini",
-      "zh-CN": "斯威士兰"
+      "zh-CN": "斯威士兰",
+      "fr": "Royaume d'Eswatini",
+      "de": "Eswatini",
+      "es": "Esuatini",
+      "ja": "スワジランド",
+      "ko": "스와질란드",
+      "hi": "स्वाजीलैंड",
+      "ar": "سوازيلاند"
     },
     "fullName": {
       "native": "Kingdom of Eswatini",
       "en": "Kingdom of Eswatini",
-      "zh-CN": "斯威士兰王国"
+      "zh-CN": "斯威士兰王国",
+      "fr": "Royaume d’Eswatini",
+      "de": "Königreich Eswatini",
+      "es": "Reino de Esuatini",
+      "ja": "エスワティニ王国",
+      "ko": "에스와티니 왕국",
+      "hi": "इस्वातिनी का साम्राज्य",
+      "ar": "مملكة إسواتيني"
     },
     "population": 1172000,
     "area": 17364,
@@ -1170,12 +1968,26 @@
     "name": {
       "native": "ኢትዮጵያ",
       "en": "Ethiopia",
-      "zh-CN": "埃塞俄比亚"
+      "zh-CN": "埃塞俄比亚",
+      "fr": "Éthiopie",
+      "de": "Äthiopien",
+      "es": "Etiopía",
+      "ja": "エチオピア",
+      "ko": "이디오피아",
+      "hi": "इथियोपिया",
+      "ar": "إثيوبيا"
     },
     "fullName": {
       "native": "የኢትዮጵያ ፌዴራላዊ ዲሞክራሲያዊ ሪፐብሊክ",
       "en": "Federal Democratic Republic of Ethiopia",
-      "zh-CN": "埃塞俄比亚联邦民主共和国"
+      "zh-CN": "埃塞俄比亚联邦民主共和国",
+      "fr": "République fédérale démocratique d'Éthiopie",
+      "de": "Demokratische Bundesrepublik Äthiopien",
+      "es": "República Federal Democrática de Etiopía",
+      "ja": "エチオピア連邦民主共和国",
+      "ko": "에티오피아 연방 민주 공화국",
+      "hi": "इथियोपिया का संघीय लोकतांत्रिक गणराज्य",
+      "ar": "جمهوريّة إثيوبيا الدّيموقراطيّة الاتّحاديّة"
     },
     "population": 120283026,
     "area": 1104300,
@@ -1190,12 +2002,26 @@
     "name": {
       "native": "Fiji",
       "en": "Fiji",
-      "zh-CN": "斐济"
+      "zh-CN": "斐济",
+      "fr": "Fidji",
+      "de": "Fidschi",
+      "es": "Fiji",
+      "ja": "フィジー",
+      "ko": "피지",
+      "hi": "फिजी",
+      "ar": "فيجي"
     },
     "fullName": {
       "native": "Republic of Fiji",
       "en": "Republic of Fiji",
-      "zh-CN": "斐济共和国"
+      "zh-CN": "斐济共和国",
+      "fr": "République des Fidji",
+      "de": "Republik Fidschi",
+      "es": "República de Fiyi",
+      "ja": "フィジー共和国",
+      "ko": "피지 공화국",
+      "hi": "फिजी गणराज्य",
+      "ar": "جمهورية فيجي"
     },
     "population": 930748,
     "area": 18274,
@@ -1212,12 +2038,26 @@
     "name": {
       "native": "Suomi",
       "en": "Finland",
-      "zh-CN": "芬兰"
+      "zh-CN": "芬兰",
+      "fr": "Finlande",
+      "de": "Finnland",
+      "es": "Finlandia",
+      "ja": "フィンランド",
+      "ko": "핀란드",
+      "hi": "फिनलैंड",
+      "ar": "فنلندا"
     },
     "fullName": {
       "native": "Suomen tasavalta",
       "en": "Republic of Finland",
-      "zh-CN": "芬兰共和国"
+      "zh-CN": "芬兰共和国",
+      "fr": "République de Finlande",
+      "de": "Republik Finnland",
+      "es": "República de Finlandia",
+      "ja": "フィンランド共和国",
+      "ko": "핀란드 공화국",
+      "hi": "फिनलैंड गणराज्य",
+      "ar": "جمهوريّة فنلندا"
     },
     "population": 5528000,
     "area": 338424,
@@ -1233,12 +2073,26 @@
     "name": {
       "native": "France",
       "en": "France",
-      "zh-CN": "法国"
+      "zh-CN": "法国",
+      "fr": "France",
+      "de": "Frankreich",
+      "es": "Francia",
+      "ja": "フランス",
+      "ko": "프랑스",
+      "hi": "फ्रांस",
+      "ar": "فرنسا"
     },
     "fullName": {
       "native": "République française",
       "en": "French Republic",
-      "zh-CN": "法兰西共和国"
+      "zh-CN": "法兰西共和国",
+      "fr": "République française",
+      "de": "Französische Republik",
+      "es": "República Francesa",
+      "ja": "フランス共和国",
+      "ko": "프랑스 공화국",
+      "hi": "फ़्रेंच गणराज्य",
+      "ar": "جمهوريّة الفرنسيّة"
     },
     "population": 67897000,
     "area": 643801,
@@ -1253,12 +2107,26 @@
     "name": {
       "native": "Gabon",
       "en": "Gabon",
-      "zh-CN": "加蓬"
+      "zh-CN": "加蓬",
+      "fr": "Gabon",
+      "de": "Gabun",
+      "es": "Gabón",
+      "ja": "ガボン",
+      "ko": "가봉",
+      "hi": "गैबोन",
+      "ar": "الغابون"
     },
     "fullName": {
       "native": "République gabonaise",
       "en": "Gabonese Republic",
-      "zh-CN": "加蓬共和国"
+      "zh-CN": "加蓬共和国",
+      "fr": "République gabonaise",
+      "de": "Gabunische Republik",
+      "es": "República Gabonesa",
+      "ja": "ガボン共和国",
+      "ko": "가봉 공화국",
+      "hi": "गैबोनीज़ गणराज्य",
+      "ar": "الجمهوريّة الغابونيّة"
     },
     "population": 2278825,
     "area": 267668,
@@ -1273,12 +2141,26 @@
     "name": {
       "native": "Gambia",
       "en": "Gambia",
-      "zh-CN": "冈比亚"
+      "zh-CN": "冈比亚",
+      "fr": "Gambie",
+      "de": "Gambia",
+      "es": "Gambia",
+      "ja": "ガンビア",
+      "ko": "감비아",
+      "hi": "गाम्बिया",
+      "ar": "غامبيا"
     },
     "fullName": {
       "native": "Republic of the Gambia",
       "en": "Republic of the Gambia",
-      "zh-CN": "冈比亚共和国"
+      "zh-CN": "冈比亚共和国",
+      "fr": "République de Gambie",
+      "de": "Republik Gambia",
+      "es": "República de Gambia",
+      "ja": "ガンビア共和国",
+      "ko": "감비아 공화국",
+      "hi": "गाम्बिया गणराज्य",
+      "ar": "جمهورية غامبيا"
     },
     "population": 2486945,
     "area": 11295,
@@ -1293,12 +2175,26 @@
     "name": {
       "native": "საქართველო",
       "en": "Georgia",
-      "zh-CN": "格鲁吉亚"
+      "zh-CN": "格鲁吉亚",
+      "fr": "Géorgie",
+      "de": "Georgien",
+      "es": "Georgia",
+      "ja": "ジョージア",
+      "ko": "그루지아",
+      "hi": "जॉर्जिया",
+      "ar": "جورجيا"
     },
     "fullName": {
       "native": "საქართველო",
       "en": "Georgia",
-      "zh-CN": "格鲁吉亚"
+      "zh-CN": "格鲁吉亚",
+      "fr": "Géorgie",
+      "de": "Georgien",
+      "es": "Georgia",
+      "ja": "グルジア",
+      "ko": "조지아",
+      "hi": "जॉर्जिया",
+      "ar": "جورجيا"
     },
     "population": 3713804,
     "area": 69700,
@@ -1313,12 +2209,26 @@
     "name": {
       "native": "Deutschland",
       "en": "Germany",
-      "zh-CN": "德国"
+      "zh-CN": "德国",
+      "fr": "Allemagne",
+      "de": "Deutschland",
+      "es": "Alemania",
+      "ja": "ドイツ",
+      "ko": "독일",
+      "hi": "जर्मनी",
+      "ar": "ألمانيا"
     },
     "fullName": {
       "native": "Bundesrepublik Deutschland",
       "en": "Federal Republic of Germany",
-      "zh-CN": "德意志联邦共和国"
+      "zh-CN": "德意志联邦共和国",
+      "fr": "République fédérale d'Allemagne",
+      "de": "Bundesrepublik Deutschland",
+      "es": "República Federal de Alemania",
+      "ja": "ドイツ連邦共和国",
+      "ko": "독일 연방 공화국",
+      "hi": "जर्मनी संघीय गणराज्य",
+      "ar": "جمهوريّة ألمانيا الاتّحاديّة"
     },
     "population": 84270625,
     "area": 357114,
@@ -1333,12 +2243,26 @@
     "name": {
       "native": "Ghana",
       "en": "Ghana",
-      "zh-CN": "加纳"
+      "zh-CN": "加纳",
+      "fr": "Ghana",
+      "de": "Ghana",
+      "es": "Ghana",
+      "ja": "ガーナ",
+      "ko": "가나",
+      "hi": "घाना",
+      "ar": "غانا"
     },
     "fullName": {
       "native": "Republic of Ghana",
       "en": "Republic of Ghana",
-      "zh-CN": "加纳共和国"
+      "zh-CN": "加纳共和国",
+      "fr": "République du Ghana",
+      "de": "Republik Ghana",
+      "es": "República de Ghana",
+      "ja": "ガーナ共和国",
+      "ko": "가나 공화국",
+      "hi": "घाना गणराज्य",
+      "ar": "جمهوريّة غانا"
     },
     "population": 33475870,
     "area": 238533,
@@ -1353,12 +2277,26 @@
     "name": {
       "native": "Ελλάδα",
       "en": "Greece",
-      "zh-CN": "希腊"
+      "zh-CN": "希腊",
+      "fr": "Grèce",
+      "de": "Griechenland",
+      "es": "Grecia",
+      "ja": "ギリシャ",
+      "ko": "그리스",
+      "hi": "यूनान",
+      "ar": "اليونان"
     },
     "fullName": {
       "native": "Ελληνική Δημοκρατία",
       "en": "Hellenic Republic",
-      "zh-CN": "希腊共和国"
+      "zh-CN": "希腊共和国",
+      "fr": "République grecque",
+      "de": "Hellenische Republik",
+      "es": "República Helénica",
+      "ja": "ギリシア共和国",
+      "ko": "그리스 공화국",
+      "hi": "हेलेनिक गणराज्य",
+      "ar": "الجمهوريّة الهلنستيّة"
     },
     "population": 10678632,
     "area": 131957,
@@ -1373,12 +2311,26 @@
     "name": {
       "native": "Grenada",
       "en": "Grenada",
-      "zh-CN": "格林纳达"
+      "zh-CN": "格林纳达",
+      "fr": "Grenade",
+      "de": "Grenada",
+      "es": "Granada",
+      "ja": "グレナダ",
+      "ko": "그레나다",
+      "hi": "ग्रेनेडा",
+      "ar": "غرينادا"
     },
     "fullName": {
       "native": "Grenada",
       "en": "Grenada",
-      "zh-CN": "格林纳达"
+      "zh-CN": "格林纳达",
+      "fr": "Grenade",
+      "de": "Grenada",
+      "es": "Granada",
+      "ja": "グレナダ",
+      "ko": "그레나다",
+      "hi": "ग्रेनाडा",
+      "ar": "غرينادا"
     },
     "population": 124610,
     "area": 344,
@@ -1393,12 +2345,26 @@
     "name": {
       "native": "Guatemala",
       "en": "Guatemala",
-      "zh-CN": "危地马拉"
+      "zh-CN": "危地马拉",
+      "fr": "Guatemala",
+      "de": "Guatemala",
+      "es": "Guatemala",
+      "ja": "グアテマラ",
+      "ko": "과테말라",
+      "hi": "ग्वाटेमाला",
+      "ar": "غواتيمالا"
     },
     "fullName": {
       "native": "República de Guatemala",
       "en": "Republic of Guatemala",
-      "zh-CN": "危地马拉共和国"
+      "zh-CN": "危地马拉共和国",
+      "fr": "République du Guatemala",
+      "de": "Republik Guatemala",
+      "es": "República de Guatemala",
+      "ja": "グアテマラ共和国",
+      "ko": "과테말라 공화국",
+      "hi": "ग्वाटेमाला गणराज्य",
+      "ar": "جمهوريّة غواتيمالا"
     },
     "population": 17109746,
     "area": 108889,
@@ -1413,12 +2379,26 @@
     "name": {
       "native": "Guinée",
       "en": "Guinea",
-      "zh-CN": "几内亚"
+      "zh-CN": "几内亚",
+      "fr": "Guinée",
+      "de": "Guinea",
+      "es": "Guinea",
+      "ja": "ギニア",
+      "ko": "기니",
+      "hi": "गिनी",
+      "ar": "غينيا"
     },
     "fullName": {
       "native": "République de Guinée",
       "en": "Republic of Guinea",
-      "zh-CN": "几内亚共和国"
+      "zh-CN": "几内亚共和国",
+      "fr": "République de Guinée",
+      "de": "Republik Guinea",
+      "es": "República de Guinea",
+      "ja": "ギニア共和国",
+      "ko": "기니 공화국",
+      "hi": "गिनी गणराज्य",
+      "ar": "جمهوريّة غينيا"
     },
     "population": 13497244,
     "area": 245857,
@@ -1433,12 +2413,26 @@
     "name": {
       "native": "Guiné-Bissau",
       "en": "Guinea-Bissau",
-      "zh-CN": "几内亚比绍"
+      "zh-CN": "几内亚比绍",
+      "fr": "Guinée-Bissau",
+      "de": "Guinea-Bissau",
+      "es": "Guinea Bissau",
+      "ja": "ギニアビサウ",
+      "ko": "기네비쏘",
+      "hi": "गिनी-बिसाउ",
+      "ar": "غينيا بيساو"
     },
     "fullName": {
       "native": "República da Guiné-Bissau",
       "en": "Republic of Guinea-Bissau",
-      "zh-CN": "几内亚比绍共和国"
+      "zh-CN": "几内亚比绍共和国",
+      "fr": "République de Guinée-Bissau",
+      "de": "Republik Guinea-Bissau",
+      "es": "República de Guinea-Bissau",
+      "ja": "ギニアビサウ共和国",
+      "ko": "기니비사우 공화국",
+      "hi": "गिनी-बिसाऊ गणराज्य",
+      "ar": "جمهوريّة غينيا بيساو"
     },
     "population": 2060721,
     "area": 36125,
@@ -1453,12 +2447,26 @@
     "name": {
       "native": "Guyana",
       "en": "Guyana",
-      "zh-CN": "圭亚那"
+      "zh-CN": "圭亚那",
+      "fr": "Guyana",
+      "de": "Guyana",
+      "es": "Guyana",
+      "ja": "ガイアナ",
+      "ko": "가이아나",
+      "hi": "गुआना",
+      "ar": "غيانا"
     },
     "fullName": {
       "native": "Co-operative Republic of Guyana",
       "en": "Co-operative Republic of Guyana",
-      "zh-CN": "圭亚那合作共和国"
+      "zh-CN": "圭亚那合作共和国",
+      "fr": "République de Guyana",
+      "de": "Kooperative Republik Guyana",
+      "es": "República de Guyana",
+      "ja": "ガイアナ共和国",
+      "ko": "가이아나 공화국",
+      "hi": "गुयाना गणराज्य",
+      "ar": "جمهوريّة غويانا"
     },
     "population": 787971,
     "area": 214969,
@@ -1473,12 +2481,26 @@
     "name": {
       "native": "Haïti",
       "en": "Haiti",
-      "zh-CN": "海地"
+      "zh-CN": "海地",
+      "fr": "Haïti",
+      "de": "Haiti",
+      "es": "Haití",
+      "ja": "ハイチ",
+      "ko": "아이티",
+      "hi": "हैती",
+      "ar": "هايتي"
     },
     "fullName": {
       "native": "République d'Haïti",
       "en": "Republic of Haiti",
-      "zh-CN": "海地共和国"
+      "zh-CN": "海地共和国",
+      "fr": "République de Haïti",
+      "de": "Republik Haiti",
+      "es": "República de Haití",
+      "ja": "ハイチ共和国",
+      "ko": "아이티 공화국",
+      "hi": "हैती गणराज्य",
+      "ar": "جمهوريّة هايتي"
     },
     "population": 11447569,
     "area": 27750,
@@ -1494,12 +2516,26 @@
     "name": {
       "native": "Honduras",
       "en": "Honduras",
-      "zh-CN": "洪都拉斯"
+      "zh-CN": "洪都拉斯",
+      "fr": "Honduras",
+      "de": "Honduras",
+      "es": "Honduras",
+      "ja": "ホンジュラス",
+      "ko": "온두라스",
+      "hi": "होंडुरास",
+      "ar": "هندوراس"
     },
     "fullName": {
       "native": "República de Honduras",
       "en": "Republic of Honduras",
-      "zh-CN": "洪都拉斯共和国"
+      "zh-CN": "洪都拉斯共和国",
+      "fr": "République du Honduras",
+      "de": "Republik Honduras",
+      "es": "República de Honduras",
+      "ja": "ホンジュラス共和国",
+      "ko": "온두라스 공화국",
+      "hi": "होंडुरास गणराज्य",
+      "ar": "جمهوريّة هندوراس"
     },
     "population": 10280345,
     "area": 112492,
@@ -1514,12 +2550,26 @@
     "name": {
       "native": "Magyarország",
       "en": "Hungary",
-      "zh-CN": "匈牙利"
+      "zh-CN": "匈牙利",
+      "fr": "Hongrie",
+      "de": "Ungarn",
+      "es": "Hungría",
+      "ja": "ハンガリー",
+      "ko": "헝가리",
+      "hi": "हंगरी",
+      "ar": "المجر"
     },
     "fullName": {
       "native": "Magyarország",
       "en": "Hungary",
-      "zh-CN": "匈牙利"
+      "zh-CN": "匈牙利",
+      "fr": "Hongrie",
+      "de": "Ungarn",
+      "es": "Hungría",
+      "ja": "ハンガリー",
+      "ko": "헝가리",
+      "hi": "हंगरी",
+      "ar": "المجر (هنغاريا)"
     },
     "population": 9730000,
     "area": 93028,
@@ -1534,12 +2584,26 @@
     "name": {
       "native": "Ísland",
       "en": "Iceland",
-      "zh-CN": "冰岛"
+      "zh-CN": "冰岛",
+      "fr": "Islande",
+      "de": "Island",
+      "es": "Islandia",
+      "ja": "アイスランド",
+      "ko": "아이슬란드",
+      "hi": "आइसलैंड",
+      "ar": "آيسلندا"
     },
     "fullName": {
       "native": "Ísland",
       "en": "Iceland",
-      "zh-CN": "冰岛"
+      "zh-CN": "冰岛",
+      "fr": "Islande",
+      "de": "Island",
+      "es": "Islandia",
+      "ja": "アイスランド",
+      "ko": "아이슬란드",
+      "hi": "आइसलैंड",
+      "ar": "آيسلندا"
     },
     "population": 376248,
     "area": 103000,
@@ -1554,12 +2618,26 @@
     "name": {
       "native": "भारत",
       "en": "India",
-      "zh-CN": "印度"
+      "zh-CN": "印度",
+      "fr": "Inde",
+      "de": "Indien",
+      "es": "India",
+      "ja": "インド",
+      "ko": "인도",
+      "hi": "भारत",
+      "ar": "الهند"
     },
     "fullName": {
       "native": "भारत गणराज्य",
       "en": "Republic of India",
-      "zh-CN": "印度共和国"
+      "zh-CN": "印度共和国",
+      "fr": "République d'Inde",
+      "de": "Republik Indien",
+      "es": "República de la India",
+      "ja": "インド共和国",
+      "ko": "인도 공화국",
+      "hi": "भारतीय गणराज्य",
+      "ar": "جمهوريّة الهند"
     },
     "population": 1392000000,
     "area": 3287263,
@@ -1575,12 +2653,26 @@
     "name": {
       "native": "Indonesia",
       "en": "Indonesia",
-      "zh-CN": "印度尼西亚"
+      "zh-CN": "印度尼西亚",
+      "fr": "Indonésie",
+      "de": "Indonesien",
+      "es": "Indonesia",
+      "ja": "インドネシア",
+      "ko": "인도네시아",
+      "hi": "इंडोनेशिया",
+      "ar": "إندونيسيا"
     },
     "fullName": {
       "native": "Republik Indonesia",
       "en": "Republic of Indonesia",
-      "zh-CN": "印度尼西亚共和国"
+      "zh-CN": "印度尼西亚共和国",
+      "fr": "République d'Indonésie",
+      "de": "Republik Indonesien",
+      "es": "República de Indonesia",
+      "ja": "インドネシア共和国",
+      "ko": "인도네시아 공화국",
+      "hi": "इंडोनेशिया गणराज्य",
+      "ar": "جمهوريّة اندونيسيا"
     },
     "population": 275501000,
     "area": 1910931,
@@ -1595,12 +2687,26 @@
     "name": {
       "native": "ایران",
       "en": "Iran",
-      "zh-CN": "伊朗"
+      "zh-CN": "伊朗",
+      "fr": "Iran",
+      "de": "Iran",
+      "es": "República Islámica de Irán",
+      "ja": "イラン・イスラム共和国",
+      "ko": "이란",
+      "hi": "ईरान",
+      "ar": "إيران"
     },
     "fullName": {
       "native": "جمهوری اسلامی ایران",
       "en": "Islamic Republic of Iran",
-      "zh-CN": "伊朗伊斯兰共和国"
+      "zh-CN": "伊朗伊斯兰共和国",
+      "fr": "République islamique d'Iran",
+      "de": "Islamische Republik Iran",
+      "es": "República Islámica de Irán",
+      "ja": "イラン・イスラム共和国",
+      "ko": "이란 이슬람 공화국",
+      "hi": "ईरान की इस्लामी गणराज्य",
+      "ar": "الجمهورية الإسلاميّة الإيرانيّة"
     },
     "population": 86758304,
     "area": 1648195,
@@ -1615,12 +2721,26 @@
     "name": {
       "native": "العراق",
       "en": "Iraq",
-      "zh-CN": "伊拉克"
+      "zh-CN": "伊拉克",
+      "fr": "Irak",
+      "de": "Irak",
+      "es": "Iraq",
+      "ja": "イラク",
+      "ko": "이라크",
+      "hi": "इराक",
+      "ar": "العراق"
     },
     "fullName": {
       "native": "جمهورية العراق",
       "en": "Republic of Iraq",
-      "zh-CN": "伊拉克共和国"
+      "zh-CN": "伊拉克共和国",
+      "fr": "République d'Iraq",
+      "de": "Republik Irak",
+      "es": "República de Irak",
+      "ja": "イラク共和国",
+      "ko": "이라크 공화국",
+      "hi": "इराक गणराज्य",
+      "ar": "جمهوريّة العراق"
     },
     "population": 42164965,
     "area": 438317,
@@ -1636,12 +2756,26 @@
     "name": {
       "native": "Éire",
       "en": "Ireland",
-      "zh-CN": "爱尔兰"
+      "zh-CN": "爱尔兰",
+      "fr": "Irlande",
+      "de": "Irland",
+      "es": "Irlanda",
+      "ja": "アイルランド",
+      "ko": "아일랜드",
+      "hi": "आयरलैंड",
+      "ar": "أيرلندا"
     },
     "fullName": {
       "native": "Poblacht na hÉireann",
       "en": "Republic of Ireland",
-      "zh-CN": "爱尔兰共和国"
+      "zh-CN": "爱尔兰共和国",
+      "fr": "Irlande",
+      "de": "Irland",
+      "es": "Irlanda",
+      "ja": "アイルランド",
+      "ko": "아일랜드",
+      "hi": "आयरलैण्ड",
+      "ar": "أيرلندا"
     },
     "population": 5123536,
     "area": 70273,
@@ -1657,12 +2791,26 @@
     "name": {
       "native": "ישראל",
       "en": "Israel",
-      "zh-CN": "以色列"
+      "zh-CN": "以色列",
+      "fr": "Israël",
+      "de": "Israel",
+      "es": "Israel",
+      "ja": "イスラエル",
+      "ko": "이스라엘",
+      "hi": "इजराइल",
+      "ar": "إسرائيل"
     },
     "fullName": {
       "native": "מדינת ישראל",
       "en": "State of Israel",
-      "zh-CN": "以色列国"
+      "zh-CN": "以色列国",
+      "fr": "État d'Israël",
+      "de": "Staat Israel",
+      "es": "Estado de Israel",
+      "ja": "イスラエル国",
+      "ko": "이스라엘",
+      "hi": "इज़राइल राज्य",
+      "ar": "دولة إسرائيل"
     },
     "population": 9364000,
     "area": 20770,
@@ -1678,12 +2826,26 @@
     "name": {
       "native": "Italia",
       "en": "Italy",
-      "zh-CN": "意大利"
+      "zh-CN": "意大利",
+      "fr": "Italie",
+      "de": "Italien",
+      "es": "Italia",
+      "ja": "イタリア",
+      "ko": "이탈리아",
+      "hi": "इटली",
+      "ar": "إيطاليا"
     },
     "fullName": {
       "native": "Repubblica italiana",
       "en": "Italian Republic",
-      "zh-CN": "意大利共和国"
+      "zh-CN": "意大利共和国",
+      "fr": "République italienne",
+      "de": "Italienische Republik",
+      "es": "República Italiana",
+      "ja": "イタリア共和国",
+      "ko": "이탈리아 공화국",
+      "hi": "इतालवी गणराज्य",
+      "ar": "الجمهوريّة الإيطاليّة"
     },
     "population": 59257566,
     "area": 301340,
@@ -1698,12 +2860,26 @@
     "name": {
       "native": "Jamaica",
       "en": "Jamaica",
-      "zh-CN": "牙买加"
+      "zh-CN": "牙买加",
+      "fr": "Jamaïque",
+      "de": "Jamaika",
+      "es": "Jamaica",
+      "ja": "ジャマイカ",
+      "ko": "자메이카",
+      "hi": "जमैका",
+      "ar": "جامايكا"
     },
     "fullName": {
       "native": "Jamaica",
       "en": "Jamaica",
-      "zh-CN": "牙买加"
+      "zh-CN": "牙买加",
+      "fr": "Jamaïque",
+      "de": "Jamaika",
+      "es": "Jamaica",
+      "ja": "ジャマイカ",
+      "ko": "자메이카",
+      "hi": "जमैका",
+      "ar": "جامايكا"
     },
     "population": 2961167,
     "area": 10991,
@@ -1718,12 +2894,26 @@
     "name": {
       "native": "日本",
       "en": "Japan",
-      "zh-CN": "日本"
+      "zh-CN": "日本",
+      "fr": "Japon",
+      "de": "Japan",
+      "es": "Japón",
+      "ja": "日本",
+      "ko": "일본",
+      "hi": "जापान",
+      "ar": "اليابان"
     },
     "fullName": {
       "native": "日本",
       "en": "Japan",
-      "zh-CN": "日本国"
+      "zh-CN": "日本国",
+      "fr": "Japon",
+      "de": "Japan",
+      "es": "Japón",
+      "ja": "日本",
+      "ko": "일본",
+      "hi": "जापान",
+      "ar": "اليابان"
     },
     "population": 125700000,
     "area": 377975,
@@ -1738,12 +2928,26 @@
     "name": {
       "native": "الأردن",
       "en": "Jordan",
-      "zh-CN": "约旦"
+      "zh-CN": "约旦",
+      "fr": "Jordanie",
+      "de": "Jordanien",
+      "es": "Jordania",
+      "ja": "ヨルダン",
+      "ko": "요르단",
+      "hi": "जॉर्डन",
+      "ar": "الأردن"
     },
     "fullName": {
       "native": "المملكة الأردنية الهاشمية",
       "en": "Hashemite Kingdom of Jordan",
-      "zh-CN": "约旦哈希姆王国"
+      "zh-CN": "约旦哈希姆王国",
+      "fr": "Royaume hachémite de Jordanie",
+      "de": "Haschemitisches Königreich Jordanien",
+      "es": "Reino Hachemí de Jordania",
+      "ja": "ヨルダン・ハシェミット王国",
+      "ko": "요르단 하심 왕국",
+      "hi": "जॉर्डन का हाशमाइट साम्राज्य",
+      "ar": "المملكة الأردنيّة الهاشميّة"
     },
     "population": 10203140,
     "area": 89342,
@@ -1758,12 +2962,26 @@
     "name": {
       "native": "Қазақстан",
       "en": "Kazakhstan",
-      "zh-CN": "哈萨克斯坦"
+      "zh-CN": "哈萨克斯坦",
+      "fr": "Kazakhstan",
+      "de": "Kasachstan",
+      "es": "Kazajistán",
+      "ja": "カザフスタン",
+      "ko": "카자흐스탄",
+      "hi": "कज़ाखिस्तान",
+      "ar": "كازاخستان"
     },
     "fullName": {
       "native": "Қазақстан Республикасы",
       "en": "Republic of Kazakhstan",
-      "zh-CN": "哈萨克斯坦共和国"
+      "zh-CN": "哈萨克斯坦共和国",
+      "fr": "République du Kazakhstan",
+      "de": "Republik Kasachstan",
+      "es": "República de Kazajistán",
+      "ja": "カザフスタン共和国",
+      "ko": "카자흐스탄 공화국",
+      "hi": "कजाकिस्तान गणराज्य",
+      "ar": "جمهوريّة كازاخستان"
     },
     "population": 19397998,
     "area": 2724900,
@@ -1779,12 +2997,26 @@
     "name": {
       "native": "Kenya",
       "en": "Kenya",
-      "zh-CN": "肯尼亚"
+      "zh-CN": "肯尼亚",
+      "fr": "Kenya",
+      "de": "Kenia",
+      "es": "Kenia",
+      "ja": "ケニア",
+      "ko": "케냐",
+      "hi": "केन्या",
+      "ar": "كينيا"
     },
     "fullName": {
       "native": "Republic of Kenya",
       "en": "Republic of Kenya",
-      "zh-CN": "肯尼亚共和国"
+      "zh-CN": "肯尼亚共和国",
+      "fr": "République du Kenya",
+      "de": "Republik Kenia",
+      "es": "República de Kenia",
+      "ja": "ケニア共和国",
+      "ko": "케냐 공화국",
+      "hi": "केन्या गणराज्य",
+      "ar": "جمهوريّة كينيا"
     },
     "population": 55864655,
     "area": 580367,
@@ -1800,12 +3032,26 @@
     "name": {
       "native": "Kiribati",
       "en": "Kiribati",
-      "zh-CN": "基里巴斯"
+      "zh-CN": "基里巴斯",
+      "fr": "Kiribati",
+      "de": "Kiribati",
+      "es": "Kiribati",
+      "ja": "キリバス",
+      "ko": "키르바시",
+      "hi": "किरिबिती",
+      "ar": "كيريباتي"
     },
     "fullName": {
       "native": "Independent and Sovereign Republic of Kiribati",
       "en": "Republic of Kiribati",
-      "zh-CN": "基里巴斯共和国"
+      "zh-CN": "基里巴斯共和国",
+      "fr": "République de Kiribati",
+      "de": "Republik Kiribati",
+      "es": "República de Kiribati",
+      "ja": "キリバス共和国",
+      "ko": "키리바시 공화국",
+      "hi": "किरिबाती गणराज्य",
+      "ar": "جمهوريّة كيريباتي"
     },
     "population": 121388,
     "area": 811,
@@ -1820,12 +3066,26 @@
     "name": {
       "native": "조선",
       "en": "North Korea",
-      "zh-CN": "朝鲜"
+      "zh-CN": "朝鲜",
+      "fr": "Corée du Nord",
+      "de": "Nordkorea",
+      "es": "República Popular Democrática de Corea",
+      "ja": "朝鮮民主主義人民共和国",
+      "ko": "북한",
+      "hi": "उत्तर कोरिया",
+      "ar": "كوريا الشمالية"
     },
     "fullName": {
       "native": "조선민주주의인민공화국",
       "en": "Democratic People's Republic of Korea",
-      "zh-CN": "朝鲜民主主义人民共和国"
+      "zh-CN": "朝鲜民主主义人民共和国",
+      "fr": "République démocratique populaire de Corée",
+      "de": "Demokratische Volksrepublik Korea",
+      "es": "República Popular Democrática de Corea",
+      "ja": "朝鮮民主主義人民共和国",
+      "ko": "조선민주주의인민공화국",
+      "hi": "कोरिया लोकतांत्रिक जनवादी गणराज्य",
+      "ar": "جمهوريّة كوريا الشّعبيّة الدّيموقراطيّة"
     },
     "population": 25971909,
     "area": 120538,
@@ -1840,12 +3100,26 @@
     "name": {
       "native": "한국",
       "en": "South Korea",
-      "zh-CN": "韩国"
+      "zh-CN": "韩国",
+      "fr": "Corée du Sud",
+      "de": "Südkorea",
+      "es": "República de Corea",
+      "ja": "大韓民国",
+      "ko": "대한민국",
+      "hi": "दक्षिण कोरिया",
+      "ar": "كوريا الجنوبية"
     },
     "fullName": {
       "native": "대한민국",
       "en": "Republic of Korea",
-      "zh-CN": "大韩民国"
+      "zh-CN": "大韩民国",
+      "fr": "Corée, République de",
+      "de": "Korea, Republik",
+      "es": "Corea, República de",
+      "ja": "大韓民国 (韓国)",
+      "ko": "대한민국",
+      "hi": "कोरिया गणराज्य",
+      "ar": "كوريا، جمهوريّة كوريا"
     },
     "population": 51744876,
     "area": 100210,
@@ -1860,12 +3134,26 @@
     "name": {
       "native": "الكويت",
       "en": "Kuwait",
-      "zh-CN": "科威特"
+      "zh-CN": "科威特",
+      "fr": "Koweït",
+      "de": "Kuwait",
+      "es": "Kuwait",
+      "ja": "クウェート",
+      "ko": "쿠웨이트",
+      "hi": "कुवैत",
+      "ar": "الكويت"
     },
     "fullName": {
       "native": "دولة الكويت",
       "en": "State of Kuwait",
-      "zh-CN": "科威特国"
+      "zh-CN": "科威特国",
+      "fr": "État du Koweït",
+      "de": "Staat Kuwait",
+      "es": "Estado de Kuwait",
+      "ja": "クウェート国",
+      "ko": "쿠웨이트",
+      "hi": "कुवैत राज्य",
+      "ar": "دولة الكويت"
     },
     "population": 4670713,
     "area": 17818,
@@ -1880,12 +3168,26 @@
     "name": {
       "native": "Кыргызстан",
       "en": "Kyrgyzstan",
-      "zh-CN": "吉尔吉斯斯坦"
+      "zh-CN": "吉尔吉斯斯坦",
+      "fr": "Kirghizistan",
+      "de": "Kirgisistan",
+      "es": "Kirguistán",
+      "ja": "キルギス",
+      "ko": "키르키즈스탄",
+      "hi": "किर्जिस्तान",
+      "ar": "قيرغيزستان"
     },
     "fullName": {
       "native": "Кыргыз Республикасы",
       "en": "Kyrgyz Republic",
-      "zh-CN": "吉尔吉斯共和国"
+      "zh-CN": "吉尔吉斯共和国",
+      "fr": "République kirghize",
+      "de": "Kirgisische Republik",
+      "es": "República Kirguiza",
+      "ja": "キルギス共和国",
+      "ko": "키르기스 공화국",
+      "hi": "किर्गिज गणराज्य",
+      "ar": "الجمهوريّة القيرغزيّة"
     },
     "population": 6663000,
     "area": 199951,
@@ -1901,12 +3203,26 @@
     "name": {
       "native": "ສປປລາວ",
       "en": "Laos",
-      "zh-CN": "老挝"
+      "zh-CN": "老挝",
+      "fr": "Laos",
+      "de": "Laos",
+      "es": "República Democrática Popular de Lao",
+      "ja": "ラオス人民民主共和国",
+      "ko": "라오스",
+      "hi": "लाओस",
+      "ar": "لاوس"
     },
     "fullName": {
       "native": "ສາທາລະນະ ຊາທິປະໄຕ ຄົນລາວ ຂອງ",
       "en": "Lao People's Democratic Republic",
-      "zh-CN": "老挝人民民主共和国"
+      "zh-CN": "老挝人民民主共和国",
+      "fr": "Lao, République démocratique populaire",
+      "de": "Laos, Demokratische Volksrepublik",
+      "es": "República Democrática Popular de Lao",
+      "ja": "ラオス人民民主共和国",
+      "ko": "라오 인민 민주주의 공화국",
+      "hi": "लाओस लोक लोकतांत्रिक गणराज्य",
+      "ar": "جمهوريّة لاو الدّيموقراطيّة الشّعبيّة"
     },
     "population": 7379358,
     "area": 236800,
@@ -1921,12 +3237,26 @@
     "name": {
       "native": "Latvija",
       "en": "Latvia",
-      "zh-CN": "拉脱维亚"
+      "zh-CN": "拉脱维亚",
+      "fr": "Lettonie",
+      "de": "Lettland",
+      "es": "Letonia",
+      "ja": "ラトビア",
+      "ko": "라트비아",
+      "hi": "लात्विया",
+      "ar": "لاتفيا"
     },
     "fullName": {
       "native": "Latvijas Republikas",
       "en": "Republic of Latvia",
-      "zh-CN": "拉脱维亚共和国"
+      "zh-CN": "拉脱维亚共和国",
+      "fr": "République de Lettonie",
+      "de": "Republik Lettland",
+      "es": "República de Letonia",
+      "ja": "ラトビア共和国",
+      "ko": "라트비아 공화국",
+      "hi": "लातविया गणराज्य",
+      "ar": "جمهوريّة لاتفيا"
     },
     "population": 1830211,
     "area": 64589,
@@ -1941,12 +3271,26 @@
     "name": {
       "native": "لبنان",
       "en": "Lebanon",
-      "zh-CN": "黎巴嫩"
+      "zh-CN": "黎巴嫩",
+      "fr": "Liban",
+      "de": "Libanon",
+      "es": "Líbano",
+      "ja": "レバノン",
+      "ko": "레바논",
+      "hi": "लेबनान",
+      "ar": "لبنان"
     },
     "fullName": {
       "native": "الجمهورية اللبنانية",
       "en": "Lebanese Republic",
-      "zh-CN": "黎巴嫩共和国"
+      "zh-CN": "黎巴嫩共和国",
+      "fr": "République libanaise",
+      "de": "Libanesische Republik",
+      "es": "República Libanesa",
+      "ja": "レバノン共和国",
+      "ko": "레바논 공화국",
+      "hi": "लेबनानी गणराज्य",
+      "ar": "الجمهوريّة اللّبنانيّة"
     },
     "population": 5592631,
     "area": 10452,
@@ -1962,12 +3306,26 @@
     "name": {
       "native": "Lesotho",
       "en": "Lesotho",
-      "zh-CN": "莱索托"
+      "zh-CN": "莱索托",
+      "fr": "Lesotho",
+      "de": "Lesotho",
+      "es": "Lesoto",
+      "ja": "レソト",
+      "ko": "레소토",
+      "hi": "लेसोथो",
+      "ar": "ليسوتو"
     },
     "fullName": {
       "native": "Kingdom of Lesotho",
       "en": "Kingdom of Lesotho",
-      "zh-CN": "莱索托王国"
+      "zh-CN": "莱索托王国",
+      "fr": "Royaume du Lesotho",
+      "de": "Königreich Lesotho",
+      "es": "Reino de Lesoto",
+      "ja": "レソト王国",
+      "ko": "레소토 왕국",
+      "hi": "लेसोथो साम्राज्य",
+      "ar": "مملكة ليسوتو"
     },
     "population": 2159000,
     "area": 30355,
@@ -1983,12 +3341,26 @@
     "name": {
       "native": "Liberia",
       "en": "Liberia",
-      "zh-CN": "利比里亚"
+      "zh-CN": "利比里亚",
+      "fr": "Libéria",
+      "de": "Liberia",
+      "es": "Liberia",
+      "ja": "リベリア",
+      "ko": "라이베리아",
+      "hi": "लाइबेरिया",
+      "ar": "ليبيريا"
     },
     "fullName": {
       "native": "Republic of Liberia",
       "en": "Republic of Liberia",
-      "zh-CN": "利比里亚共和国"
+      "zh-CN": "利比里亚共和国",
+      "fr": "République du Libéria",
+      "de": "Republik Liberia",
+      "es": "República de Liberia",
+      "ja": "リベリア共和国",
+      "ko": "라이베리아 공화국",
+      "hi": "लाइबेरिया गणराज्य",
+      "ar": "جمهوريّة ليبيريا"
     },
     "population": 5358483,
     "area": 111369,
@@ -2003,12 +3375,26 @@
     "name": {
       "native": "ليبيا",
       "en": "Libya",
-      "zh-CN": "利比亚"
+      "zh-CN": "利比亚",
+      "fr": "Libye",
+      "de": "Libyen",
+      "es": "Libia",
+      "ja": "リビア",
+      "ko": "리비아",
+      "hi": "लीबिया",
+      "ar": "ليبيا"
     },
     "fullName": {
       "native": "الدولة ليبيا",
       "en": "State of Libya",
-      "zh-CN": "利比亚国"
+      "zh-CN": "利比亚国",
+      "fr": "Libye",
+      "de": "Libyen",
+      "es": "Libia",
+      "ja": "リビア",
+      "ko": "리비아",
+      "hi": "लीबिया",
+      "ar": "ليبيا"
     },
     "population": 7054490,
     "area": 1759541,
@@ -2023,12 +3409,26 @@
     "name": {
       "native": "Liechtenstein",
       "en": "Liechtenstein",
-      "zh-CN": "列支敦士登"
+      "zh-CN": "列支敦士登",
+      "fr": "Liechtenstein",
+      "de": "Liechtenstein",
+      "es": "Liechtenstein",
+      "ja": "リヒテンシュタイン",
+      "ko": "리히텐슈타인",
+      "hi": "लिक्टेनिस्टीन",
+      "ar": "ليختنشتاين"
     },
     "fullName": {
       "native": "Fürstentum Liechtenstein",
       "en": "Principality of Liechtenstein",
-      "zh-CN": "列支敦士登公国"
+      "zh-CN": "列支敦士登公国",
+      "fr": "Principauté du Liechtenstein",
+      "de": "Fürstentum Liechtenstein",
+      "es": "Principado de Liechtenstein",
+      "ja": "リヒテンシュタイン公国",
+      "ko": "리히텐슈타인 공국",
+      "hi": "लिकटेंस्टीन की रियासत",
+      "ar": "إمارة ليشتنشتاين"
     },
     "population": 38557,
     "area": 160,
@@ -2043,12 +3443,26 @@
     "name": {
       "native": "Lietuva",
       "en": "Lithuania",
-      "zh-CN": "立陶宛"
+      "zh-CN": "立陶宛",
+      "fr": "Lituanie",
+      "de": "Litauen",
+      "es": "Lituania",
+      "ja": "リトアニア",
+      "ko": "리투아니아",
+      "hi": "लिथुआनिया",
+      "ar": "ليتوانيا"
     },
     "fullName": {
       "native": "Lietuvos Respublikos",
       "en": "Republic of Lithuania",
-      "zh-CN": "立陶宛共和国"
+      "zh-CN": "立陶宛共和国",
+      "fr": "République de Lituanie",
+      "de": "Republik Litauen",
+      "es": "República de Lituania",
+      "ja": "リトアニア共和国",
+      "ko": "리투아니아 공화국",
+      "hi": "लिथुआनिया गणराज्य",
+      "ar": "جمهوريّة لثوانيا"
     },
     "population": 2831000,
     "area": 65300,
@@ -2063,12 +3477,26 @@
     "name": {
       "native": "Lëtzebuerg",
       "en": "Luxembourg",
-      "zh-CN": "卢森堡"
+      "zh-CN": "卢森堡",
+      "fr": "Luxembourg",
+      "de": "Luxemburg",
+      "es": "Luxemburgo",
+      "ja": "ルクセンブルク",
+      "ko": "룩셈부르크",
+      "hi": "लक्जमबर्ग",
+      "ar": "لوكسمبورغ"
     },
     "fullName": {
       "native": "Groussherzogtum Lëtzebuerg",
       "en": "Grand Duchy of Luxembourg",
-      "zh-CN": "卢森堡大公国"
+      "zh-CN": "卢森堡大公国",
+      "fr": "Grand-duché du Luxembourg",
+      "de": "Großherzogtum Luxemburg",
+      "es": "Gran Ducado de Luxemburgo",
+      "ja": "ルクセンブルク大公国",
+      "ko": "룩셈부르크 대공국",
+      "hi": "लक्ज़मबर्ग की ग्रैंड डची",
+      "ar": "دوقيّة لوكسمبورغ الكبرى"
     },
     "population": 660809,
     "area": 2586,
@@ -2085,12 +3513,26 @@
     "name": {
       "native": "Madagasikara",
       "en": "Madagascar",
-      "zh-CN": "马达加斯加"
+      "zh-CN": "马达加斯加",
+      "fr": "Madagascar",
+      "de": "Madagaskar",
+      "es": "Madagascar",
+      "ja": "マダガスカル",
+      "ko": "마다가스카르",
+      "hi": "मैडागास्कर",
+      "ar": "مدغشقر"
     },
     "fullName": {
       "native": "Repoblikan'i Madagasikara",
       "en": "Republic of Madagascar",
-      "zh-CN": "马达加斯加共和国"
+      "zh-CN": "马达加斯加共和国",
+      "fr": "République de Madagascar",
+      "de": "Republik Madagaskar",
+      "es": "República de Madagascar",
+      "ja": "マダガスカル共和国",
+      "ko": "마다가스카르 공화국",
+      "hi": "मेडागास्कर गणराज्य",
+      "ar": "جمهوريّة مدغشقر"
     },
     "population": 28915400,
     "area": 587041,
@@ -2106,12 +3548,26 @@
     "name": {
       "native": "Malawi",
       "en": "Malawi",
-      "zh-CN": "马拉维"
+      "zh-CN": "马拉维",
+      "fr": "Malawi",
+      "de": "Malawi",
+      "es": "Malaui",
+      "ja": "マラウイ",
+      "ko": "말라위",
+      "hi": "मालावी",
+      "ar": "مالاوي"
     },
     "fullName": {
       "native": "Republic of Malawi",
       "en": "Republic of Malawi",
-      "zh-CN": "马拉维共和国"
+      "zh-CN": "马拉维共和国",
+      "fr": "République du Malawi",
+      "de": "Republik Malawi",
+      "es": "República de Malawi",
+      "ja": "マラウイ共和国",
+      "ko": "말라위 공화국",
+      "hi": "मलावी गणराज्य",
+      "ar": "جمهوريّة ملاوي"
     },
     "population": 20405317,
     "area": 118484,
@@ -2127,12 +3583,26 @@
     "name": {
       "native": "مليسيا",
       "en": "Malaysia",
-      "zh-CN": "马来西亚"
+      "zh-CN": "马来西亚",
+      "fr": "Malaisie",
+      "de": "Malaysia",
+      "es": "Malasia",
+      "ja": "マレーシア",
+      "ko": "말레이시아",
+      "hi": "मलयेशिया",
+      "ar": "ماليزيا"
     },
     "fullName": {
       "native": "مليسيا",
       "en": "Malaysia",
-      "zh-CN": "马来西亚"
+      "zh-CN": "马来西亚",
+      "fr": "Malaisie",
+      "de": "Malaysia",
+      "es": "Malasia",
+      "ja": "マレーシア",
+      "ko": "말레이시아",
+      "hi": "मलेशिया",
+      "ar": "ماليزيا"
     },
     "population": 33573874,
     "area": 329847,
@@ -2147,12 +3617,26 @@
     "name": {
       "native": "ދިވެހިރާއްޖޭގެ",
       "en": "Maldives",
-      "zh-CN": "马尔代夫"
+      "zh-CN": "马尔代夫",
+      "fr": "Maldives",
+      "de": "Malediven",
+      "es": "Maldivas",
+      "ja": "モルディブ",
+      "ko": "몰디브",
+      "hi": "मालदीव",
+      "ar": "جزر المالديف"
     },
     "fullName": {
       "native": "ދިވެހިރާއްޖޭގެ ޖުމްހޫރިއްޔާ",
       "en": "Republic of Maldives",
-      "zh-CN": "马尔代夫共和国"
+      "zh-CN": "马尔代夫共和国",
+      "fr": "République des Maldives",
+      "de": "Republik Malediven",
+      "es": "República de Maldivas",
+      "ja": "モルディブ共和国",
+      "ko": "몰디브 공화국",
+      "hi": "मालदीव गणराज्य",
+      "ar": "جمهوريّة جزر المالديف"
     },
     "population": 521457,
     "area": 298,
@@ -2167,12 +3651,26 @@
     "name": {
       "native": "Mali",
       "en": "Mali",
-      "zh-CN": "马里"
+      "zh-CN": "马里",
+      "fr": "Mali",
+      "de": "Mali",
+      "es": "Malí",
+      "ja": "マリ",
+      "ko": "말리",
+      "hi": "माली",
+      "ar": "مالي"
     },
     "fullName": {
       "native": "République du Mali",
       "en": "Republic of Mali",
-      "zh-CN": "马里共和国"
+      "zh-CN": "马里共和国",
+      "fr": "République du Mali",
+      "de": "Republik Mali",
+      "es": "República de Mali",
+      "ja": "マリ共和国",
+      "ko": "말리 공화국",
+      "hi": "माली गणराज्य",
+      "ar": "جمهوريّة مالي"
     },
     "population": 22414000,
     "area": 1240192,
@@ -2187,12 +3685,26 @@
     "name": {
       "native": "Malta",
       "en": "Malta",
-      "zh-CN": "马耳他"
+      "zh-CN": "马耳他",
+      "fr": "Malte",
+      "de": "Malta",
+      "es": "Malta",
+      "ja": "マルタ",
+      "ko": "몰타",
+      "hi": "माल्टा",
+      "ar": "مالطا"
     },
     "fullName": {
       "native": "Repubblika ta ' Malta",
       "en": "Republic of Malta",
-      "zh-CN": "马耳他共和国"
+      "zh-CN": "马耳他共和国",
+      "fr": "République de Malte",
+      "de": "Republik Malta",
+      "es": "República de Malta",
+      "ja": "マルタ共和国",
+      "ko": "몰타 공화국",
+      "hi": "माल्टा गणराज्य",
+      "ar": "جمهوريّة مالطة"
     },
     "population": 519562,
     "area": 316,
@@ -2208,12 +3720,26 @@
     "name": {
       "native": "Marshall Islands",
       "en": "Marshall Islands",
-      "zh-CN": "马绍尔群岛"
+      "zh-CN": "马绍尔群岛",
+      "fr": "Îles Marshall",
+      "de": "Marshallinseln",
+      "es": "Islas Marshall",
+      "ja": "マーシャル諸島",
+      "ko": "마샬군도",
+      "hi": "मार्शल द्वीपसमूह",
+      "ar": "جزر مارشال"
     },
     "fullName": {
       "native": "Republic of the Marshall Islands",
       "en": "Republic of the Marshall Islands",
-      "zh-CN": "马绍尔群岛共和国"
+      "zh-CN": "马绍尔群岛共和国",
+      "fr": "République des Îles Marshall",
+      "de": "Republik Marshallinseln",
+      "es": "República de las Islas Marshall",
+      "ja": "マーシャル諸島共和国",
+      "ko": "마셜 제도 공화국",
+      "hi": "मार्शल द्वीपसमूह गणराज्य",
+      "ar": "جمهوريّة جزر المارشال"
     },
     "population": 42050,
     "area": 181,
@@ -2229,12 +3755,26 @@
     "name": {
       "native": "موريتانيا",
       "en": "Mauritania",
-      "zh-CN": "毛里塔尼亚"
+      "zh-CN": "毛里塔尼亚",
+      "fr": "Mauritanie",
+      "de": "Mauretanien",
+      "es": "Mauritania",
+      "ja": "モーリタニア",
+      "ko": "모리타니",
+      "hi": "मॉरितानिया",
+      "ar": "موريتانيا"
     },
     "fullName": {
       "native": "الجمهورية الإسلامية الموريتانية",
       "en": "Islamic Republic of Mauritania",
-      "zh-CN": "毛里塔尼亚伊斯兰共和国"
+      "zh-CN": "毛里塔尼亚伊斯兰共和国",
+      "fr": "République islamique de Mauritanie",
+      "de": "Islamische Republik Mauretanien",
+      "es": "República Islámica de Mauritania",
+      "ja": "モーリタニア・イスラム共和国",
+      "ko": "모리타니 이슬람 공화국",
+      "hi": "मॉरिटानिया इस्लामी गणराज्य",
+      "ar": "جمهوريّة موريتانيا الإسلاميّة"
     },
     "population": 4649658,
     "area": 1030700,
@@ -2249,12 +3789,26 @@
     "name": {
       "native": "Mauritius",
       "en": "Mauritius",
-      "zh-CN": "毛里求斯"
+      "zh-CN": "毛里求斯",
+      "fr": "Maurice",
+      "de": "Mauritius",
+      "es": "Mauricio",
+      "ja": "モーリシャス",
+      "ko": "모리셔스",
+      "hi": "मारीशस",
+      "ar": "موريشيوس"
     },
     "fullName": {
       "native": "Republic of Mauritius",
       "en": "Republic of Mauritius",
-      "zh-CN": "毛里求斯共和国"
+      "zh-CN": "毛里求斯共和国",
+      "fr": "République de l'Île Maurice",
+      "de": "Republik Mauritius",
+      "es": "República de Mauricio",
+      "ja": "モーリシャス共和国",
+      "ko": "모리셔스 공화국",
+      "hi": "मॉरीशस गणराज्य",
+      "ar": "جمهوريّة موريشيوس"
     },
     "population": 1266334,
     "area": 2040,
@@ -2270,12 +3824,26 @@
     "name": {
       "native": "México",
       "en": "Mexico",
-      "zh-CN": "墨西哥"
+      "zh-CN": "墨西哥",
+      "fr": "Mexique",
+      "de": "Mexiko",
+      "es": "México",
+      "ja": "メキシコ",
+      "ko": "멕시코",
+      "hi": "मेक्सिको",
+      "ar": "المكسيك"
     },
     "fullName": {
       "native": "Estados Unidos Mexicanos",
       "en": "United Mexican States",
-      "zh-CN": "墨西哥合众国"
+      "zh-CN": "墨西哥合众国",
+      "fr": "États-Unis du Mexique",
+      "de": "Vereinigte Mexikanische Staaten",
+      "es": "Estados Unidos Mexicanos",
+      "ja": "メキシコ合衆国",
+      "ko": "멕시코 합중국",
+      "hi": "संयुक्त मैक्सिकन राज्य",
+      "ar": "الولايات المكسيكيّة المتّحدة"
     },
     "population": 128455567,
     "area": 1964375,
@@ -2290,12 +3858,26 @@
     "name": {
       "native": "Micronesia",
       "en": "Micronesia",
-      "zh-CN": "密克罗尼西亚"
+      "zh-CN": "密克罗尼西亚",
+      "fr": "Micronésie",
+      "de": "Mikronesien",
+      "es": "Micronesia",
+      "ja": "ミクロネシア連邦",
+      "ko": "미크로네시아",
+      "hi": "माइक्रोनेशिया",
+      "ar": "ولايات ميكرونيسيا المتحدة"
     },
     "fullName": {
       "native": "Federated States of Micronesia",
       "en": "Federated States of Micronesia",
-      "zh-CN": "密克罗尼西亚联邦"
+      "zh-CN": "密克罗尼西亚联邦",
+      "fr": "États fédérés de Micronésie",
+      "de": "Föderierte Staaten von Mikronesien",
+      "es": "Estados Federados de Micronesia",
+      "ja": "ミクロネシア連邦",
+      "ko": "미크로네시아 연방",
+      "hi": "माइक्रोनेशिया के संघीय राज्य",
+      "ar": "ولايات ميكرونيزيا الموحّدة"
     },
     "population": 115023,
     "area": 702,
@@ -2310,12 +3892,26 @@
     "name": {
       "native": "Moldova",
       "en": "Moldova",
-      "zh-CN": "摩尔多瓦"
+      "zh-CN": "摩尔多瓦",
+      "fr": "Moldavie",
+      "de": "Moldawien",
+      "es": "Moldavia",
+      "ja": "モルドバ共和国",
+      "ko": "몰도바",
+      "hi": "मोलदोवा",
+      "ar": "مولدوفا"
     },
     "fullName": {
       "native": "Republica Moldova",
       "en": "Republic of Moldova",
-      "zh-CN": "摩尔多瓦共和国"
+      "zh-CN": "摩尔多瓦共和国",
+      "fr": "République de Moldova",
+      "de": "Republik Moldau",
+      "es": "República de Moldavia",
+      "ja": "モルドバ共和国",
+      "ko": "몰도바 공화국",
+      "hi": "मोल्दोवा गणराज्य",
+      "ar": "جمهوريّة مولدوفا"
     },
     "population": 2617820,
     "area": 33846,
@@ -2330,12 +3926,26 @@
     "name": {
       "native": "Monaco",
       "en": "Monaco",
-      "zh-CN": "摩纳哥"
+      "zh-CN": "摩纳哥",
+      "fr": "Monaco",
+      "de": "Monaco",
+      "es": "Mónaco",
+      "ja": "モナコ",
+      "ko": "모나코",
+      "hi": "मोनाको",
+      "ar": "موناكو"
     },
     "fullName": {
       "native": "Principauté de Monaco",
       "en": "Principality of Monaco",
-      "zh-CN": "摩纳哥公国"
+      "zh-CN": "摩纳哥公国",
+      "fr": "Principauté de Monaco",
+      "de": "Fürstentum Monaco",
+      "es": "Principado de Mónaco",
+      "ja": "モナコ公国",
+      "ko": "모나코 공국",
+      "hi": "मोनाको की रियासत",
+      "ar": "إمارة موناكو"
     },
     "population": 39244,
     "area": 2,
@@ -2350,12 +3960,26 @@
     "name": {
       "native": "Монгол улс",
       "en": "Mongolia",
-      "zh-CN": "蒙古"
+      "zh-CN": "蒙古",
+      "fr": "Mongolie",
+      "de": "Mongolei",
+      "es": "Mongolia",
+      "ja": "モンゴル",
+      "ko": "몽골",
+      "hi": "मंगोलिया",
+      "ar": "منغوليا"
     },
     "fullName": {
       "native": "Монгол улс",
       "en": "Mongolia",
-      "zh-CN": "蒙古国"
+      "zh-CN": "蒙古国",
+      "fr": "Mongolie",
+      "de": "Mongolei",
+      "es": "Mongolia",
+      "ja": "モンゴル国",
+      "ko": "몽골",
+      "hi": "मंगोलिया",
+      "ar": "منغوليا"
     },
     "population": 3398366,
     "area": 1564116,
@@ -2370,12 +3994,26 @@
     "name": {
       "native": "Црна Гора",
       "en": "Montenegro",
-      "zh-CN": "黑山"
+      "zh-CN": "黑山",
+      "fr": "Monténégro",
+      "de": "Montenegro",
+      "es": "Montenegro",
+      "ja": "モンテネグロ",
+      "ko": "몬테네그로",
+      "hi": "मोंटेनेग्रो",
+      "ar": "الجبل الأسود"
     },
     "fullName": {
       "native": "Црна Гора",
       "en": "Montenegro",
-      "zh-CN": "黑山"
+      "zh-CN": "黑山",
+      "fr": "Monténégro",
+      "de": "Montenegro",
+      "es": "Montenegro",
+      "ja": "モンテネグロ",
+      "ko": "몬테네그로",
+      "hi": "मॉन्टेनीग्रो",
+      "ar": "المنتنيغرو"
     },
     "population": 619211,
     "area": 13812,
@@ -2393,12 +4031,26 @@
     "name": {
       "native": "المغرب",
       "en": "Morocco",
-      "zh-CN": "摩洛哥"
+      "zh-CN": "摩洛哥",
+      "fr": "Maroc",
+      "de": "Marokko",
+      "es": "Marruecos",
+      "ja": "モロッコ",
+      "ko": "모로코",
+      "hi": "मोरक्को",
+      "ar": "المغرب"
     },
     "fullName": {
       "native": "المملكة المغربية",
       "en": "Kingdom of Morocco",
-      "zh-CN": "摩洛哥王国"
+      "zh-CN": "摩洛哥王国",
+      "fr": "Royaume du Maroc",
+      "de": "Königreich Marokko",
+      "es": "Reino de Marruecos",
+      "ja": "モロッコ王国",
+      "ko": "모로코 왕국",
+      "hi": "मोरक्को का साम्राज्य",
+      "ar": "المملكة المغربيّة"
     },
     "population": 37840044,
     "area": 446550,
@@ -2414,12 +4066,26 @@
     "name": {
       "native": "Moçambique",
       "en": "Mozambique",
-      "zh-CN": "莫桑比克"
+      "zh-CN": "莫桑比克",
+      "fr": "Mozambique",
+      "de": "Mosambik",
+      "es": "Mozambique",
+      "ja": "モザンビーク",
+      "ko": "모잠비크",
+      "hi": "मोजांबिक",
+      "ar": "موزمبيق"
     },
     "fullName": {
       "native": "República de Moçambique",
       "en": "Republic of Mozambique",
-      "zh-CN": "莫桑比克共和国"
+      "zh-CN": "莫桑比克共和国",
+      "fr": "République du Mozambique",
+      "de": "Republik Mosambik",
+      "es": "República de Mozambique",
+      "ja": "モザンビーク共和国",
+      "ko": "모잠비크 공화국",
+      "hi": "मोज़ाम्बिक गणराज्य",
+      "ar": "جمهوريّة موزمبيق"
     },
     "population": 32790338,
     "area": 801590,
@@ -2434,12 +4100,26 @@
     "name": {
       "native": "မြန်မာ",
       "en": "Myanmar",
-      "zh-CN": "缅甸"
+      "zh-CN": "缅甸",
+      "fr": "Myanmar",
+      "de": "Myanmar",
+      "es": "Myanmar",
+      "ja": "ミャンマー",
+      "ko": "미얀마",
+      "hi": "म्यामांर (बर्मा)",
+      "ar": "بورما"
     },
     "fullName": {
       "native": "ပြည်ထောင်စု သမ္မတ မြန်မာနိုင်ငံတော်",
       "en": "Republic of the Union of Myanmar",
-      "zh-CN": "缅甸联邦共和国"
+      "zh-CN": "缅甸联邦共和国",
+      "fr": "République de Myanmar",
+      "de": "Republik Myanmar",
+      "es": "República de la Unión de Myanmar",
+      "ja": "ミャンマー共和国",
+      "ko": "미얀마 공화국",
+      "hi": "म्यांमार गणराज्य",
+      "ar": "جمهورية اتحاد ميانمار"
     },
     "population": 54409800,
     "area": 676578,
@@ -2454,12 +4134,26 @@
     "name": {
       "native": "Namibia",
       "en": "Namibia",
-      "zh-CN": "纳米比亚"
+      "zh-CN": "纳米比亚",
+      "fr": "Namibie",
+      "de": "Namibia",
+      "es": "Namibia",
+      "ja": "ナミビア",
+      "ko": "나미비아",
+      "hi": "नामीबिया",
+      "ar": "ناميبيا"
     },
     "fullName": {
       "native": "Republic of Namibia",
       "en": "Republic of Namibia",
-      "zh-CN": "纳米比亚共和国"
+      "zh-CN": "纳米比亚共和国",
+      "fr": "République de Namibie",
+      "de": "Republik Namibia",
+      "es": "República de Namibia",
+      "ja": "ナミビア共和国",
+      "ko": "나미비아 공화국",
+      "hi": "नामीबिया गणराज्य",
+      "ar": "جمهوريّة ناميبيا"
     },
     "population": 2587801,
     "area": 825615,
@@ -2475,12 +4169,26 @@
     "name": {
       "native": "Nauru",
       "en": "Nauru",
-      "zh-CN": "瑙鲁"
+      "zh-CN": "瑙鲁",
+      "fr": "Nauru",
+      "de": "Nauru",
+      "es": "Nauru",
+      "ja": "ナウル",
+      "ko": "나우루",
+      "hi": "नाउरू",
+      "ar": "ناورو"
     },
     "fullName": {
       "native": "Republic of Nauru",
       "en": "Republic of Nauru",
-      "zh-CN": "瑙鲁共和国"
+      "zh-CN": "瑙鲁共和国",
+      "fr": "République de Nauru",
+      "de": "Republik Nauru",
+      "es": "República de Nauru",
+      "ja": "ナウル共和国",
+      "ko": "나우루 공화국",
+      "hi": "नाउरू गणराज्य",
+      "ar": "جمهوريّة ناورو"
     },
     "population": 10876,
     "area": 21,
@@ -2496,12 +4204,26 @@
     "name": {
       "native": "नेपाल",
       "en": "Nepal",
-      "zh-CN": "尼泊尔"
+      "zh-CN": "尼泊尔",
+      "fr": "Népal",
+      "de": "Nepal",
+      "es": "Nepal",
+      "ja": "ネパール",
+      "ko": "네팔",
+      "hi": "नेपाल",
+      "ar": "نيبال"
     },
     "fullName": {
       "native": "नेपाल संघीय लोकतान्त्रिक गणतन्त्र",
       "en": "Federal Democratic Republic of Nepal",
-      "zh-CN": "尼泊尔联邦民主共和国"
+      "zh-CN": "尼泊尔联邦民主共和国",
+      "fr": "République fédérale démocratique du Népal",
+      "de": "Demokratische Bundesrepublik Nepal",
+      "es": "República Federal Democrática de Nepal",
+      "ja": "ネパール連邦民主共和国",
+      "ko": "네팔 연방 민주 공화국",
+      "hi": "नेपाल संघीय लोकतांत्रिक गणराज्य",
+      "ar": "جمهورية النيبال الاتحادية الديموقراطيّة"
     },
     "population": 30034989,
     "area": 147181,
@@ -2516,12 +4238,26 @@
     "name": {
       "native": "Nederland",
       "en": "Netherlands",
-      "zh-CN": "荷兰"
+      "zh-CN": "荷兰",
+      "fr": "Pays-Bas",
+      "de": "Niederlande",
+      "es": "Países Bajos",
+      "ja": "オランダ",
+      "ko": "네덜란드",
+      "hi": "नीदरलैंड्स",
+      "ar": "هولندا"
     },
     "fullName": {
       "native": "Koninkrijk der Nederlanden",
       "en": "Kingdom of the Netherlands",
-      "zh-CN": "荷兰王国"
+      "zh-CN": "荷兰王国",
+      "fr": "Royaume des Pays-Bas",
+      "de": "Königreich der Niederlande",
+      "es": "Reino de los Países Bajos",
+      "ja": "オランダ王国",
+      "ko": "네덜란드 왕국",
+      "hi": "नीदरलैंड का साम्राज्य",
+      "ar": "مملكة هولندا"
     },
     "population": 17744406,
     "area": 41543,
@@ -2536,12 +4272,26 @@
     "name": {
       "native": "New Zealand",
       "en": "New Zealand",
-      "zh-CN": "新西兰"
+      "zh-CN": "新西兰",
+      "fr": "Nouvelle-Zélande",
+      "de": "Neuseeland",
+      "es": "Nueva Zelanda",
+      "ja": "ニュージーランド",
+      "ko": "뉴질랜드",
+      "hi": "न्यूजीलैंड",
+      "ar": "نيوزيلندا"
     },
     "fullName": {
       "native": "New Zealand",
       "en": "New Zealand",
-      "zh-CN": "新西兰"
+      "zh-CN": "新西兰",
+      "fr": "Nouvelle-Zélande",
+      "de": "Neuseeland",
+      "es": "Nueva Zelanda",
+      "ja": "ニュージーランド",
+      "ko": "뉴질랜드",
+      "hi": "न्यूज़ीलैण्ड",
+      "ar": "نيوزيلاندا"
     },
     "population": 5084300,
     "area": 268838,
@@ -2557,12 +4307,26 @@
     "name": {
       "native": "Nicaragua",
       "en": "Nicaragua",
-      "zh-CN": "尼加拉瓜"
+      "zh-CN": "尼加拉瓜",
+      "fr": "Nicaragua",
+      "de": "Nicaragua",
+      "es": "Nicaragua",
+      "ja": "ニカラグア",
+      "ko": "니카라과",
+      "hi": "निकारागुआ",
+      "ar": "نيكاراغوا"
     },
     "fullName": {
       "native": "República de Nicaragua",
       "en": "Republic of Nicaragua",
-      "zh-CN": "尼加拉瓜共和国"
+      "zh-CN": "尼加拉瓜共和国",
+      "fr": "République du Nicaragua",
+      "de": "Republik Nicaragua",
+      "es": "República de Nicaragua",
+      "ja": "ニカラグア共和国",
+      "ko": "니카라과 공화국",
+      "hi": "निकारागुआ गणराज्य",
+      "ar": "جمهوريّة نيكاراغوا"
     },
     "population": 6850540,
     "area": 130370,
@@ -2577,12 +4341,26 @@
     "name": {
       "native": "Niger",
       "en": "Niger",
-      "zh-CN": "尼日尔"
+      "zh-CN": "尼日尔",
+      "fr": "Niger",
+      "de": "Niger",
+      "es": "Níger",
+      "ja": "ニジェール",
+      "ko": "니제르",
+      "hi": "नाइजर",
+      "ar": "النيجر"
     },
     "fullName": {
       "native": "République du Niger",
       "en": "Republic of Niger",
-      "zh-CN": "尼日尔共和国"
+      "zh-CN": "尼日尔共和国",
+      "fr": "République du Niger",
+      "de": "Republik Niger",
+      "es": "República del Níger",
+      "ja": "ニジェール共和国",
+      "ko": "니제르 공화국",
+      "hi": "नाइजर गणराज्य",
+      "ar": "جمهوريّة النّيجر"
     },
     "population": 25252723,
     "area": 1267000,
@@ -2597,12 +4375,26 @@
     "name": {
       "native": "Nigeria",
       "en": "Nigeria",
-      "zh-CN": "尼日利亚"
+      "zh-CN": "尼日利亚",
+      "fr": "Nigéria",
+      "de": "Nigeria",
+      "es": "Nigeria",
+      "ja": "ナイジェリア",
+      "ko": "나이지리아",
+      "hi": "नाइजीरिया",
+      "ar": "نيجيريا"
     },
     "fullName": {
       "native": "Federal Republic of Nigeria",
       "en": "Federal Republic of Nigeria",
-      "zh-CN": "尼日利亚联邦共和国"
+      "zh-CN": "尼日利亚联邦共和国",
+      "fr": "République fédérale du Nigeria",
+      "de": "Bundesrepublik Nigeria",
+      "es": "República Federal de Nigeria",
+      "ja": "ナイジェリア連邦共和国",
+      "ko": "나이지리아 연방 공화국",
+      "hi": "नाइजीरिया संघीय गणराज्य",
+      "ar": "جمهوريّة نيجيريا الاتّحاديّة"
     },
     "population": 218541212,
     "area": 923768,
@@ -2617,12 +4409,26 @@
     "name": {
       "native": "Македонија",
       "en": "North Macedonia",
-      "zh-CN": "北马其顿"
+      "zh-CN": "北马其顿",
+      "fr": "Macédoine du Nord",
+      "de": "Nordmazedonien",
+      "es": "Macedonia del Norte",
+      "ja": "北マケドニア",
+      "ko": "마케도니아",
+      "hi": "मकदूनिया",
+      "ar": "مقدونيا الشمالية"
     },
     "fullName": {
       "native": "Република Северна Македонија",
       "en": "Republic of North Macedonia",
-      "zh-CN": "北马其顿共和国"
+      "zh-CN": "北马其顿共和国",
+      "fr": "République de Macédoine du Nord",
+      "de": "Republik Nordmazedonien",
+      "es": "República de Macedonia del Norte",
+      "ja": "北マケドニア共和国",
+      "ko": "북마케도니아 공화국",
+      "hi": "उत्तर मैसेडोनिया गणराज्य",
+      "ar": "جمهوريّة مقدونيا الشمالية"
     },
     "population": 2068451,
     "area": 25713,
@@ -2638,12 +4444,26 @@
     "name": {
       "native": "Norge",
       "en": "Norway",
-      "zh-CN": "挪威"
+      "zh-CN": "挪威",
+      "fr": "Norvège",
+      "de": "Norwegen",
+      "es": "Noruega",
+      "ja": "ノルウェー",
+      "ko": "노르웨이",
+      "hi": "नॉर्वे",
+      "ar": "النرويج"
     },
     "fullName": {
       "native": "Kongeriket Norge",
       "en": "Kingdom of Norway",
-      "zh-CN": "挪威王国"
+      "zh-CN": "挪威王国",
+      "fr": "Royaume de Norvège",
+      "de": "Königreich Norwegen",
+      "es": "Reino de Noruega",
+      "ja": "ノルウェー王国",
+      "ko": "노르웨이 왕국",
+      "hi": "नॉर्वे का साम्राज्य",
+      "ar": "مملكة النّرويج"
     },
     "population": 5425270,
     "area": 323802,
@@ -2659,12 +4479,26 @@
     "name": {
       "native": "عمان",
       "en": "Oman",
-      "zh-CN": "阿曼"
+      "zh-CN": "阿曼",
+      "fr": "Oman",
+      "de": "Oman",
+      "es": "Omán",
+      "ja": "オマーン",
+      "ko": "오만",
+      "hi": "ओमान",
+      "ar": "عمان"
     },
     "fullName": {
       "native": "سلطنة عمان",
       "en": "Sultanate of Oman",
-      "zh-CN": "阿曼苏丹国"
+      "zh-CN": "阿曼苏丹国",
+      "fr": "Sultanat d'Oman",
+      "de": "Sultanat Oman",
+      "es": "Sultanato de Omán",
+      "ja": "オマーン国",
+      "ko": "오만 이슬람왕국",
+      "hi": "ओमान की सल्तनत",
+      "ar": "سلطنة عمان"
     },
     "population": 4974986,
     "area": 309500,
@@ -2679,12 +4513,26 @@
     "name": {
       "native": "پاكستان",
       "en": "Pakistan",
-      "zh-CN": "巴基斯坦"
+      "zh-CN": "巴基斯坦",
+      "fr": "Pakistan",
+      "de": "Pakistan",
+      "es": "Pakistán",
+      "ja": "パキスタン",
+      "ko": "파키스탄",
+      "hi": "पाकिस्तान",
+      "ar": "باكستان"
     },
     "fullName": {
       "native": "اسلامی جمہوریۂ پاكستان",
       "en": "Islamic Republic of Pakistan",
-      "zh-CN": "巴基斯坦伊斯兰共和国"
+      "zh-CN": "巴基斯坦伊斯兰共和国",
+      "fr": "République islamique du Pakistan",
+      "de": "Islamische Republik Pakistan",
+      "es": "República Islámica de Pakistán",
+      "ja": "パキスタン・イスラム共和国",
+      "ko": "파키스탄 이슬람 공화국",
+      "hi": "इस्लामी गणतंत्र पाकिस्तान",
+      "ar": "جمهوريّة باكستان الإسلاميّة"
     },
     "population": 231402117,
     "area": 881913,
@@ -2700,12 +4548,26 @@
     "name": {
       "native": "Palau",
       "en": "Palau",
-      "zh-CN": "帕劳"
+      "zh-CN": "帕劳",
+      "fr": "Palaos",
+      "de": "Palau",
+      "es": "Palau",
+      "ja": "パラオ",
+      "ko": "팔라우",
+      "hi": "पलाउ",
+      "ar": "بالاو"
     },
     "fullName": {
       "native": "Republic of Palau",
       "en": "Republic of Palau",
-      "zh-CN": "帕劳共和国"
+      "zh-CN": "帕劳共和国",
+      "fr": "République de Palau",
+      "de": "Republik Palau",
+      "es": "República de Palau",
+      "ja": "パラオ共和国",
+      "ko": "팔라우 공화국",
+      "hi": "पलाऊ गणराज्य",
+      "ar": "جمهوريّة بالاو"
     },
     "population": 18092,
     "area": 459,
@@ -2720,12 +4582,26 @@
     "name": {
       "native": "Panamá",
       "en": "Panama",
-      "zh-CN": "巴拿马"
+      "zh-CN": "巴拿马",
+      "fr": "Panama",
+      "de": "Panama",
+      "es": "Panamá",
+      "ja": "パナマ",
+      "ko": "파나마",
+      "hi": "पनामा",
+      "ar": "بنما"
     },
     "fullName": {
       "native": "República de Panamá",
       "en": "Republic of Panama",
-      "zh-CN": "巴拿马共和国"
+      "zh-CN": "巴拿马共和国",
+      "fr": "République du Panama",
+      "de": "Republik Panama",
+      "es": "República de Panamá",
+      "ja": "パナマ共和国",
+      "ko": "파나마 공화국",
+      "hi": "पनामा गणराज्य",
+      "ar": "جمهوريّة بنما"
     },
     "population": 4351267,
     "area": 75417,
@@ -2740,12 +4616,26 @@
     "name": {
       "native": "Papua New Guinea",
       "en": "Papua New Guinea",
-      "zh-CN": "巴布亚新几内亚"
+      "zh-CN": "巴布亚新几内亚",
+      "fr": "Papouasie-Nouvelle-Guinée",
+      "de": "Papua-Neuguinea",
+      "es": "Papua Nueva Guinea",
+      "ja": "パプアニューギニア",
+      "ko": "파푸아 뉴기니",
+      "hi": "पापुआ न्यू गिनी",
+      "ar": "بابوا غينيا الجديدة"
     },
     "fullName": {
       "native": "Independent State of Papua New Guinea",
       "en": "Independent State of Papua New Guinea",
-      "zh-CN": "巴布亚新几内亚独立国"
+      "zh-CN": "巴布亚新几内亚独立国",
+      "fr": "État indépendant de Papouasie-Nouvelle-Guinée",
+      "de": "Unabhängiger Staat Papua-Neuguinea",
+      "es": "Estado Independiente de Papúa Nueva Guinea",
+      "ja": "パプアニューギニア独立国",
+      "ko": "파푸아뉴기니 독립국",
+      "hi": "पापुआ न्यू गिनी का स्वतंत्र राज्य",
+      "ar": "دولة بابوا غينيا الجديدة المستقلة"
     },
     "population": 10142619,
     "area": 462840,
@@ -2762,12 +4652,26 @@
     "name": {
       "native": "Paraguay",
       "en": "Paraguay",
-      "zh-CN": "巴拉圭"
+      "zh-CN": "巴拉圭",
+      "fr": "Paraguay",
+      "de": "Paraguay",
+      "es": "Paraguay",
+      "ja": "パラグアイ",
+      "ko": "파라과이",
+      "hi": "पराग्वे",
+      "ar": "باراغواي"
     },
     "fullName": {
       "native": "República de Paraguay",
       "en": "Republic of Paraguay",
-      "zh-CN": "巴拉圭共和国"
+      "zh-CN": "巴拉圭共和国",
+      "fr": "République du Paraguay",
+      "de": "Republik Paraguay",
+      "es": "República del Paraguay",
+      "ja": "パラグアイ共和国",
+      "ko": "파라과이 공화국",
+      "hi": "पराग्वे गणराज्य",
+      "ar": "جمهوريّة الباراغواي"
     },
     "population": 7353038,
     "area": 406752,
@@ -2783,12 +4687,26 @@
     "name": {
       "native": "Perú",
       "en": "Peru",
-      "zh-CN": "秘鲁"
+      "zh-CN": "秘鲁",
+      "fr": "Pérou",
+      "de": "Peru",
+      "es": "Perú",
+      "ja": "ペルー",
+      "ko": "페루",
+      "hi": "पेरू",
+      "ar": "بيرو"
     },
     "fullName": {
       "native": "República del Perú",
       "en": "Republic of Peru",
-      "zh-CN": "秘鲁共和国"
+      "zh-CN": "秘鲁共和国",
+      "fr": "République du Pérou",
+      "de": "Republik Peru",
+      "es": "República del Perú",
+      "ja": "ペルー共和国",
+      "ko": "페루 공화국",
+      "hi": "पेरू गणराज्य",
+      "ar": "جمهوريّة البيرو"
     },
     "population": 33396698,
     "area": 1285216,
@@ -2803,12 +4721,26 @@
     "name": {
       "native": "Philippines",
       "en": "Philippines",
-      "zh-CN": "菲律宾"
+      "zh-CN": "菲律宾",
+      "fr": "Philippines",
+      "de": "Philippinen",
+      "es": "Filipinas",
+      "ja": "フィリピン",
+      "ko": "필리핀",
+      "hi": "फिलीपींस",
+      "ar": "الفلبين"
     },
     "fullName": {
       "native": "Republic of the Philippines",
       "en": "Republic of the Philippines",
-      "zh-CN": "菲律宾共和国"
+      "zh-CN": "菲律宾共和国",
+      "fr": "République des Philippines",
+      "de": "Republik der Philippinen",
+      "es": "República de Filipinas",
+      "ja": "フィリピン共和国",
+      "ko": "필리핀 공화국",
+      "hi": "फिलीपींस गणराज्य",
+      "ar": "جمهوريّة الفيلبّين"
     },
     "population": 114163719,
     "area": 343448,
@@ -2824,12 +4756,26 @@
     "name": {
       "native": "Polska",
       "en": "Poland",
-      "zh-CN": "波兰"
+      "zh-CN": "波兰",
+      "fr": "Pologne",
+      "de": "Polen",
+      "es": "Polonia",
+      "ja": "ポーランド",
+      "ko": "폴랜드",
+      "hi": "पोलैंड",
+      "ar": "بولندا"
     },
     "fullName": {
       "native": "Rzeczpospolita Polska",
       "en": "Republic of Poland",
-      "zh-CN": "波兰共和国"
+      "zh-CN": "波兰共和国",
+      "fr": "République de Pologne",
+      "de": "Republik Polen",
+      "es": "República de Polonia",
+      "ja": "ポーランド共和国",
+      "ko": "폴란드 공화국",
+      "hi": "पोलैंड गणराज्य",
+      "ar": "جمهوريّة بولندا"
     },
     "population": 38036118,
     "area": 312696,
@@ -2844,12 +4790,26 @@
     "name": {
       "native": "Portugal",
       "en": "Portugal",
-      "zh-CN": "葡萄牙"
+      "zh-CN": "葡萄牙",
+      "fr": "Portugal",
+      "de": "Portugal",
+      "es": "Portugal",
+      "ja": "ポルトガル",
+      "ko": "포르투칼",
+      "hi": "पुर्तगाल",
+      "ar": "البرتغال"
     },
     "fullName": {
       "native": "República Portuguesa",
       "en": "Portuguese Republic",
-      "zh-CN": "葡萄牙共和国"
+      "zh-CN": "葡萄牙共和国",
+      "fr": "République portugaise",
+      "de": "Portugiesische Republik",
+      "es": "República Portuguesa",
+      "ja": "ポルトガル共和国",
+      "ko": "포르투갈 공화국",
+      "hi": "पुर्तगाली गणराज्य",
+      "ar": "الجمهوريّة البرتغاليّة"
     },
     "population": 10298252,
     "area": 92212,
@@ -2864,12 +4824,26 @@
     "name": {
       "native": "قطر",
       "en": "Qatar",
-      "zh-CN": "卡塔尔"
+      "zh-CN": "卡塔尔",
+      "fr": "Qatar",
+      "de": "Katar",
+      "es": "Catar",
+      "ja": "カタール",
+      "ko": "카타르",
+      "hi": "क़तार",
+      "ar": "قطر"
     },
     "fullName": {
       "native": "دولة قطر",
       "en": "State of Qatar",
-      "zh-CN": "卡塔尔国"
+      "zh-CN": "卡塔尔国",
+      "fr": "État du Qatar",
+      "de": "Staat Katar",
+      "es": "Estado de Qatar",
+      "ja": "カタール国",
+      "ko": "카타르",
+      "hi": "कतर राज्य",
+      "ar": "دولة قطر"
     },
     "population": 2695122,
     "area": 11586,
@@ -2884,12 +4858,26 @@
     "name": {
       "native": "România",
       "en": "Romania",
-      "zh-CN": "罗马尼亚"
+      "zh-CN": "罗马尼亚",
+      "fr": "Roumanie",
+      "de": "Rumänien",
+      "es": "Rumanía",
+      "ja": "ルーマニア",
+      "ko": "루마니아",
+      "hi": "रोमानिया",
+      "ar": "رومانيا"
     },
     "fullName": {
       "native": "România",
       "en": "Romania",
-      "zh-CN": "罗马尼亚"
+      "zh-CN": "罗马尼亚",
+      "fr": "Roumanie",
+      "de": "Rumänien",
+      "es": "Rumanía",
+      "ja": "ルーマニア",
+      "ko": "루마니아",
+      "hi": "रोमानिया",
+      "ar": "رومانيا"
     },
     "population": 19286123,
     "area": 238397,
@@ -2904,12 +4892,26 @@
     "name": {
       "native": "Россия",
       "en": "Russia",
-      "zh-CN": "俄罗斯"
+      "zh-CN": "俄罗斯",
+      "fr": "Russie",
+      "de": "Russland",
+      "es": "Rusia",
+      "ja": "ロシア連邦",
+      "ko": "러시아연방",
+      "hi": "रूस",
+      "ar": "روسيا"
     },
     "fullName": {
       "native": "Российская Федерация",
       "en": "Russian Federation",
-      "zh-CN": "俄罗斯联邦"
+      "zh-CN": "俄罗斯联邦",
+      "fr": "Russie, Fédération de",
+      "de": "Russische Föderation",
+      "es": "Federación Rusa",
+      "ja": "ロシア連邦",
+      "ko": "러시아 연방",
+      "hi": "रूसी संघ",
+      "ar": "الاتّحاد الرّوسي"
     },
     "population": 145100000,
     "area": 17098242,
@@ -2924,12 +4926,26 @@
     "name": {
       "native": "Rwanda",
       "en": "Rwanda",
-      "zh-CN": "卢旺达"
+      "zh-CN": "卢旺达",
+      "fr": "Rwanda",
+      "de": "Ruanda",
+      "es": "Ruanda",
+      "ja": "ルワンダ",
+      "ko": "르완다",
+      "hi": "रवांडा",
+      "ar": "رواندا"
     },
     "fullName": {
       "native": "Repubulika y'u Rwanda",
       "en": "Republic of Rwanda",
-      "zh-CN": "卢旺达共和国"
+      "zh-CN": "卢旺达共和国",
+      "fr": "République rwandaise",
+      "de": "Republik Ruanda",
+      "es": "República de Ruanda",
+      "ja": "ルワンダ共和国",
+      "ko": "르완다 공화국",
+      "hi": "रवांडा गणराज्य",
+      "ar": "الجمهوريّة الرّوانديّة"
     },
     "population": 13776698,
     "area": 26338,
@@ -2946,12 +4962,26 @@
     "name": {
       "native": "Saint Kitts and Nevis",
       "en": "Saint Kitts and Nevis",
-      "zh-CN": "圣基茨和尼维斯"
+      "zh-CN": "圣基茨和尼维斯",
+      "fr": "Saint-Christophe-et-Niévès",
+      "de": "St. Kitts und Nevis",
+      "es": "Saint Kitts y Nevis",
+      "ja": "セントクリストファー・ネイビス",
+      "ko": "세인트 키츠 네비스",
+      "hi": "सेंट किट्स एंड नेविस",
+      "ar": "سانت كيتس ونيفيس"
     },
     "fullName": {
       "native": "Federation of Saint Christopher and Nevis",
       "en": "Federation of Saint Kitts and Nevis",
-      "zh-CN": "圣基茨和尼维斯联邦"
+      "zh-CN": "圣基茨和尼维斯联邦",
+      "fr": "Saint-Christophe-et-Niévès",
+      "de": "St. Kitts und Nevis",
+      "es": "San Cristóbal y Nieves",
+      "ja": "セントクリストファー・ネーヴィス",
+      "ko": "세인트키츠 네비스",
+      "hi": "सन्त किट्स और नेविस",
+      "ar": "سانت كيتس و نيفس"
     },
     "population": 47606,
     "area": 261,
@@ -2966,12 +4996,26 @@
     "name": {
       "native": "Saint Lucia",
       "en": "Saint Lucia",
-      "zh-CN": "圣卢西亚"
+      "zh-CN": "圣卢西亚",
+      "fr": "Sainte-Lucie",
+      "de": "St. Lucia",
+      "es": "Santa Lucía",
+      "ja": "セントルシア",
+      "ko": "세인트 루시아",
+      "hi": "सेंट लुसिया",
+      "ar": "سانت لوسيا"
     },
     "fullName": {
       "native": "Saint Lucia",
       "en": "Saint Lucia",
-      "zh-CN": "圣卢西亚"
+      "zh-CN": "圣卢西亚",
+      "fr": "Sainte-Lucie",
+      "de": "St. Lucia",
+      "es": "Santa Lucía",
+      "ja": "セントルシア",
+      "ko": "세인트루시아",
+      "hi": "सेंट लूसिया",
+      "ar": "سانت لوسيا"
     },
     "population": 184401,
     "area": 616,
@@ -2986,12 +5030,26 @@
     "name": {
       "native": "Saint Vincent and the Grenadines",
       "en": "Saint Vincent and the Grenadines",
-      "zh-CN": "圣文森特和格林纳丁斯"
+      "zh-CN": "圣文森特和格林纳丁斯",
+      "fr": "Saint-Vincent-et-les-Grenadines",
+      "de": "St. Vincent und die Grenadinen",
+      "es": "San Vicente y las Granadinas",
+      "ja": "セントビンセントおよびグレナディーン諸島",
+      "ko": "세인트 빈센트 그레나딘",
+      "hi": "सेंट विंसेंट एंड द ग्रेनेंडाइन्स",
+      "ar": "سانت فينسنت والغرينادين"
     },
     "fullName": {
       "native": "Saint Vincent and the Grenadines",
       "en": "Saint Vincent and the Grenadines",
-      "zh-CN": "圣文森特和格林纳丁斯"
+      "zh-CN": "圣文森特和格林纳丁斯",
+      "fr": "Saint-Vincent-et-les-Grenadines",
+      "de": "St. Vincent und die Grenadinen",
+      "es": "San Vicente y las Granadinas",
+      "ja": "セントビンセント及びグレナディーン諸島",
+      "ko": "세인트빈센트 그레나딘",
+      "hi": "सेंट विंसेंट और ग्रेनेडाइंस",
+      "ar": "سانت فنسنت و جزر الغرينادين"
     },
     "population": 110694,
     "area": 389,
@@ -3006,12 +5064,26 @@
     "name": {
       "native": "Sāmoa",
       "en": "Samoa",
-      "zh-CN": "萨摩亚"
+      "zh-CN": "萨摩亚",
+      "fr": "Samoa",
+      "de": "Samoa",
+      "es": "Samoa",
+      "ja": "サモア",
+      "ko": "사모아",
+      "hi": "पश्चिमी सामोआ",
+      "ar": "ساموا"
     },
     "fullName": {
       "native": "Malo Saʻoloto Tutoʻatasi o Sāmoa",
       "en": "Independent State of Samoa",
-      "zh-CN": "萨摩亚独立国"
+      "zh-CN": "萨摩亚独立国",
+      "fr": "État indépendant de Samoa",
+      "de": "Unabhängiger Staat Samoa",
+      "es": "Estado Independiente de Samoa",
+      "ja": "サモア独立国",
+      "ko": "사모아",
+      "hi": "समोआ का स्वतंत्र राज्य",
+      "ar": "دولة صاموا المستقلّة"
     },
     "population": 218764,
     "area": 2842,
@@ -3027,12 +5099,26 @@
     "name": {
       "native": "San Marino",
       "en": "San Marino",
-      "zh-CN": "圣马力诺"
+      "zh-CN": "圣马力诺",
+      "fr": "Saint-Marin",
+      "de": "San Marino",
+      "es": "San Marino",
+      "ja": "サンマリノ",
+      "ko": "산 마리노",
+      "hi": "सैन मारिनो",
+      "ar": "سان مارينو"
     },
     "fullName": {
       "native": "Repubblica di San Marino",
       "en": "Republic of San Marino",
-      "zh-CN": "圣马力诺共和国"
+      "zh-CN": "圣马力诺共和国",
+      "fr": "République de San Marin",
+      "de": "Republik San Marino",
+      "es": "República de San Marino",
+      "ja": "サンマリノ共和国",
+      "ko": "산마리노 공화국",
+      "hi": "सैन मैरिनो गणराज्य",
+      "ar": "جمهوريّة سان مارينو"
     },
     "population": 33931,
     "area": 61,
@@ -3047,12 +5133,26 @@
     "name": {
       "native": "São Tomé e Príncipe",
       "en": "São Tomé and Príncipe",
-      "zh-CN": "圣多美和普林西比"
+      "zh-CN": "圣多美和普林西比",
+      "fr": "São Tomé-et-Principe",
+      "de": "São Tomé und Príncipe",
+      "es": "Santo Tomé y Príncipe",
+      "ja": "サントメ・プリンシペ",
+      "ko": "상토메프린시페",
+      "hi": "साओ टॉम एंड प्रिंसिपी",
+      "ar": "ساو تومي وبرينسيب"
     },
     "fullName": {
       "native": "República Democrática do São Tomé e Príncipe",
       "en": "Democratic Republic of São Tomé and Príncipe",
-      "zh-CN": "圣多美和普林西比民主共和国"
+      "zh-CN": "圣多美和普林西比民主共和国",
+      "fr": "République démocratique de Sao Tomé et Principe",
+      "de": "Demokratische Republik São Tomé und Príncipe",
+      "es": "República Democrática de Santo Tomé y Príncipe",
+      "ja": "サントメ・プリンシペ民主共和国",
+      "ko": "상투메 프린시페 민주 공화국",
+      "hi": "साओ टोम और प्रिंसिपे लोकतांत्रिक गणराज्य",
+      "ar": "جمهوريّة ساو تومي و برنسبي الدّيموقراطيّة"
     },
     "population": 223107,
     "area": 964,
@@ -3067,12 +5167,26 @@
     "name": {
       "native": "العربية السعودية",
       "en": "Saudi Arabia",
-      "zh-CN": "沙特阿拉伯"
+      "zh-CN": "沙特阿拉伯",
+      "fr": "Arabie Saoudite",
+      "de": "Saudi-Arabien",
+      "es": "Arabia Saudita",
+      "ja": "サウジアラビア",
+      "ko": "사우디아라비아",
+      "hi": "सऊदी अरब",
+      "ar": "السعودية"
     },
     "fullName": {
       "native": "المملكة العربية السعودية",
       "en": "Kingdom of Saudi Arabia",
-      "zh-CN": "沙特阿拉伯王国"
+      "zh-CN": "沙特阿拉伯王国",
+      "fr": "Royaume d'Arabie saoudite",
+      "de": "Königreich Saudi-Arabien",
+      "es": "Reino de Arabia Saudí",
+      "ja": "サウジアラビア王国",
+      "ko": "사우디아라비아 왕국",
+      "hi": "सऊदी अरब का साम्राज्य",
+      "ar": "المملكة العربيّة السّعوديّة"
     },
     "population": 36408820,
     "area": 2149690,
@@ -3087,12 +5201,26 @@
     "name": {
       "native": "Sénégal",
       "en": "Senegal",
-      "zh-CN": "塞内加尔"
+      "zh-CN": "塞内加尔",
+      "fr": "Sénégal",
+      "de": "Senegal",
+      "es": "Senegal",
+      "ja": "セネガル",
+      "ko": "세네갈",
+      "hi": "सेनेगल",
+      "ar": "السنغال"
     },
     "fullName": {
       "native": "République du Sénégal",
       "en": "Republic of Senegal",
-      "zh-CN": "塞内加尔共和国"
+      "zh-CN": "塞内加尔共和国",
+      "fr": "République du Sénégal",
+      "de": "Republik Senegal",
+      "es": "República del Senegal",
+      "ja": "セネガル共和国",
+      "ko": "세네갈 공화국",
+      "hi": "सेनेगल गणराज्य",
+      "ar": "جمهوريّة السّنغال"
     },
     "population": 17196301,
     "area": 196722,
@@ -3107,12 +5235,26 @@
     "name": {
       "native": "Србија",
       "en": "Serbia",
-      "zh-CN": "塞尔维亚"
+      "zh-CN": "塞尔维亚",
+      "fr": "Serbie",
+      "de": "Serbien",
+      "es": "Serbia",
+      "ja": "セルビア",
+      "ko": "세르비아",
+      "hi": "सर्बिया",
+      "ar": "صربيا"
     },
     "fullName": {
       "native": "Република Србија",
       "en": "Republic of Serbia",
-      "zh-CN": "塞尔维亚共和国"
+      "zh-CN": "塞尔维亚共和国",
+      "fr": "République de Serbie",
+      "de": "Republik Serbien",
+      "es": "República de Serbia",
+      "ja": "セルビア共和国",
+      "ko": "세르비아 공화국",
+      "hi": "सर्बिया गणराज्य",
+      "ar": "جمهوريّة صربية"
     },
     "population": 6804596,
     "area": 77474,
@@ -3127,12 +5269,26 @@
     "name": {
       "native": "Seychelles",
       "en": "Seychelles",
-      "zh-CN": "塞舌尔"
+      "zh-CN": "塞舌尔",
+      "fr": "Seychelles",
+      "de": "Seychellen",
+      "es": "Seychelles",
+      "ja": "セーシェル",
+      "ko": "세이셸",
+      "hi": "सेशेल्स",
+      "ar": "سيشل"
     },
     "fullName": {
       "native": "République des Seychelles",
       "en": "Republic of Seychelles",
-      "zh-CN": "塞舌尔共和国"
+      "zh-CN": "塞舌尔共和国",
+      "fr": "République des Seychelles",
+      "de": "Republik Seychellen",
+      "es": "República de las Seychelles",
+      "ja": "セーシェル共和国",
+      "ko": "세이셸 공화국",
+      "hi": "सेशेल्स गणराज्य",
+      "ar": "جمهوريّة السّيشل"
     },
     "population": 98347,
     "area": 455,
@@ -3148,12 +5304,26 @@
     "name": {
       "native": "Sierra Leone",
       "en": "Sierra Leone",
-      "zh-CN": "塞拉利昂"
+      "zh-CN": "塞拉利昂",
+      "fr": "Sierra Leone",
+      "de": "Sierra Leone",
+      "es": "Sierra Leona",
+      "ja": "シエラレオネ",
+      "ko": "시에라 리온",
+      "hi": "सियारा लिओन",
+      "ar": "سيراليون"
     },
     "fullName": {
       "native": "Republic of Sierra Leone",
       "en": "Republic of Sierra Leone",
-      "zh-CN": "塞拉利昂共和国"
+      "zh-CN": "塞拉利昂共和国",
+      "fr": "République de Sierra Leone",
+      "de": "Republik Sierra Leone",
+      "es": "República de Sierra Leona",
+      "ja": "シエラレオネ共和国",
+      "ko": "시에라리온 공화국",
+      "hi": "सिएरा लियोन गणराज्य",
+      "ar": "جمهوريّة سيراليون"
     },
     "population": 8420641,
     "area": 71740,
@@ -3168,12 +5338,26 @@
     "name": {
       "native": "Singapore",
       "en": "Singapore",
-      "zh-CN": "新加坡"
+      "zh-CN": "新加坡",
+      "fr": "Singapour",
+      "de": "Singapur",
+      "es": "Singapur",
+      "ja": "シンガポール",
+      "ko": "싱가포르",
+      "hi": "सिंगापुर",
+      "ar": "سنغافورة"
     },
     "fullName": {
       "native": "Republic of Singapore",
       "en": "Republic of Singapore",
-      "zh-CN": "新加坡共和国"
+      "zh-CN": "新加坡共和国",
+      "fr": "République de Singapour",
+      "de": "Republik Singapur",
+      "es": "República de Singapur",
+      "ja": "シンガポール共和国",
+      "ko": "싱가포르 공화국",
+      "hi": "सिंगापुर गणराज्य",
+      "ar": "جمهوريّة سنغافورة"
     },
     "population": 5850342,
     "area": 719,
@@ -3191,12 +5375,26 @@
     "name": {
       "native": "Slovensko",
       "en": "Slovakia",
-      "zh-CN": "斯洛伐克"
+      "zh-CN": "斯洛伐克",
+      "fr": "Slovaquie",
+      "de": "Slowakei",
+      "es": "Eslovaquia",
+      "ja": "スロバキア",
+      "ko": "슬로바키아",
+      "hi": "स्लोवाकिया",
+      "ar": "سلوفاكيا"
     },
     "fullName": {
       "native": "Slovenská republika",
       "en": "Slovak Republic",
-      "zh-CN": "斯洛伐克共和国"
+      "zh-CN": "斯洛伐克共和国",
+      "fr": "République slovaque",
+      "de": "Slowakische Republik",
+      "es": "República Eslovaca",
+      "ja": "スロバキア共和国",
+      "ko": "슬로바키아 공화국",
+      "hi": "स्लोवाक गणराज्य",
+      "ar": "جمهورية سلوفاكيا"
     },
     "population": 5460185,
     "area": 49035,
@@ -3211,12 +5409,26 @@
     "name": {
       "native": "Slovenija",
       "en": "Slovenia",
-      "zh-CN": "斯洛文尼亚"
+      "zh-CN": "斯洛文尼亚",
+      "fr": "Slovénie",
+      "de": "Slowenien",
+      "es": "Eslovenia",
+      "ja": "スロベニア",
+      "ko": "슬로베니아",
+      "hi": "स्लोवानिया",
+      "ar": "سلوفينيا"
     },
     "fullName": {
       "native": "Republika Slovenija",
       "en": "Republic of Slovenia",
-      "zh-CN": "斯洛文尼亚共和国"
+      "zh-CN": "斯洛文尼亚共和国",
+      "fr": "République de Slovénie",
+      "de": "Republik Slowenien",
+      "es": "República de Eslovenia",
+      "ja": "スロベニア共和国",
+      "ko": "슬로베니아 공화국",
+      "hi": "स्लोवेनिया गणराज्य",
+      "ar": "جمهوريّة سلوفينيا"
     },
     "population": 2108977,
     "area": 20273,
@@ -3231,12 +5443,26 @@
     "name": {
       "native": "Solomon Islands",
       "en": "Solomon Islands",
-      "zh-CN": "所罗门群岛"
+      "zh-CN": "所罗门群岛",
+      "fr": "Îles Salomon",
+      "de": "Salomonen",
+      "es": "Islas Salomón",
+      "ja": "ソロモン諸島",
+      "ko": "솔로몬 아일랜드",
+      "hi": "सोलोमन द्वीपसमूह",
+      "ar": "جزر سليمان"
     },
     "fullName": {
       "native": "Solomon Islands",
       "en": "Solomon Islands",
-      "zh-CN": "所罗门群岛"
+      "zh-CN": "所罗门群岛",
+      "fr": "Salomon, Îles",
+      "de": "Salomoninseln",
+      "es": "Islas Salomón",
+      "ja": "ソロモン諸島",
+      "ko": "솔로몬 제도",
+      "hi": "सोलोमन द्वीपसमूह",
+      "ar": "جزر سولومن"
     },
     "population": 720390,
     "area": 28896,
@@ -3251,12 +5477,26 @@
     "name": {
       "native": "Soomaaliya",
       "en": "Somalia",
-      "zh-CN": "索马里"
+      "zh-CN": "索马里",
+      "fr": "Somalie",
+      "de": "Somalia",
+      "es": "Somalia",
+      "ja": "ソマリア",
+      "ko": "소말리아",
+      "hi": "सोमालिया",
+      "ar": "الصومال"
     },
     "fullName": {
       "native": "Jamhuuriyadda Federaalka Soomaaliya",
       "en": "Federal Republic of Somalia",
-      "zh-CN": "索马里联邦共和国"
+      "zh-CN": "索马里联邦共和国",
+      "fr": "République fédérale de Somalie",
+      "de": "Bundesrepublik Somalia",
+      "es": "República Federal de Somalia",
+      "ja": "ソマリア連邦共和国",
+      "ko": "소말리아 연방 공화국",
+      "hi": "सोमालिया संघीय गणराज्य",
+      "ar": "جمهورية الصومال الفيدرالية"
     },
     "population": 17065581,
     "area": 637657,
@@ -3272,12 +5512,26 @@
     "name": {
       "native": "South Africa",
       "en": "South Africa",
-      "zh-CN": "南非"
+      "zh-CN": "南非",
+      "fr": "Afrique du Sud",
+      "de": "Südafrika",
+      "es": "Sudáfrica",
+      "ja": "南アフリカ",
+      "ko": "남아프리카",
+      "hi": "दक्षिण अफ्रीका",
+      "ar": "جنوب أفريقيا"
     },
     "fullName": {
       "native": "Republiek van Suid-Afrika",
       "en": "Republic of South Africa",
-      "zh-CN": "南非共和国"
+      "zh-CN": "南非共和国",
+      "fr": "République d'Afrique du Sud",
+      "de": "Republik Südafrika",
+      "es": "República de Sudáfrica",
+      "ja": "南アフリカ共和国",
+      "ko": "남아프리카 공화국",
+      "hi": "दक्षिण अफ्रिकीय गणतंत्र",
+      "ar": "جمهوريّة جنوب إفريقيا"
     },
     "population": 59893885,
     "area": 1221037,
@@ -3302,12 +5556,26 @@
     "name": {
       "native": "South Sudan",
       "en": "South Sudan",
-      "zh-CN": "南苏丹"
+      "zh-CN": "南苏丹",
+      "fr": "Soudan du Sud",
+      "de": "Südsudan",
+      "es": "Sudán del Sur",
+      "ja": "南スーダン",
+      "ko": "남수단",
+      "hi": "दक्षिण सूडान",
+      "ar": "جنوب السودان"
     },
     "fullName": {
       "native": "Republic of South Sudan",
       "en": "Republic of South Sudan",
-      "zh-CN": "南苏丹共和国"
+      "zh-CN": "南苏丹共和国",
+      "fr": "République du Soudan du Sud",
+      "de": "Republik Südsudan",
+      "es": "República de Sudán del Sur",
+      "ja": "南スーダン共和国",
+      "ko": "남수단 공화국",
+      "hi": "दक्षिण सूडान गणराज्य",
+      "ar": "جمهورية جنوب السّودان"
     },
     "population": 11088796,
     "area": 619745,
@@ -3322,12 +5590,26 @@
     "name": {
       "native": "España",
       "en": "Spain",
-      "zh-CN": "西班牙"
+      "zh-CN": "西班牙",
+      "fr": "Espagne",
+      "de": "Spanien",
+      "es": "España",
+      "ja": "スペイン",
+      "ko": "스페인",
+      "hi": "स्पेन",
+      "ar": "إسبانيا"
     },
     "fullName": {
       "native": "Reino de España",
       "en": "Kingdom of Spain",
-      "zh-CN": "西班牙王国"
+      "zh-CN": "西班牙王国",
+      "fr": "Royaume d'Espagne",
+      "de": "Königreich Spanien",
+      "es": "Reino de España",
+      "ja": "スペイン王国",
+      "ko": "스페인 왕국",
+      "hi": "स्पेन का साम्राज्य",
+      "ar": "مملكة إسبانيا"
     },
     "population": 47415750,
     "area": 505990,
@@ -3342,12 +5624,26 @@
     "name": {
       "native": "ශ්‍රී ලංකාව",
       "en": "Sri Lanka",
-      "zh-CN": "斯里兰卡"
+      "zh-CN": "斯里兰卡",
+      "fr": "Sri Lanka",
+      "de": "Sri Lanka",
+      "es": "Sri Lanka",
+      "ja": "スリランカ",
+      "ko": "스리랑카",
+      "hi": "श्री लंका",
+      "ar": "سريلانكا"
     },
     "fullName": {
       "native": "ශ්‍රී ලංකා ප්‍රජාතාන්ත්‍රික සමාජවාදී ජනරජය",
       "en": "Democratic Socialist Republic of Sri Lanka",
-      "zh-CN": "斯里兰卡民主社会主义共和国"
+      "zh-CN": "斯里兰卡民主社会主义共和国",
+      "fr": "République démocratique socialiste de Sri Lanka",
+      "de": "Demokratische sozialistische Republik Sri Lanka",
+      "es": "República Socialista Democrática de Sri Lanka",
+      "ja": "スリランカ民主社会主義共和国",
+      "ko": "스리랑카 민주 사회주의 공화국",
+      "hi": "श्रीलंका लोकतांत्रिक समाजवादी गणराज्य",
+      "ar": "جمهوريّة سريلانكا الاشتراكيّة الدّيموقراطيّة"
     },
     "population": 22156000,
     "area": 65610,
@@ -3363,12 +5659,26 @@
     "name": {
       "native": "السودان",
       "en": "Sudan",
-      "zh-CN": "苏丹"
+      "zh-CN": "苏丹",
+      "fr": "Soudan",
+      "de": "Sudan",
+      "es": "Sudán",
+      "ja": "スーダン",
+      "ko": "수단",
+      "hi": "सूडान",
+      "ar": "السودان"
     },
     "fullName": {
       "native": "جمهورية السودان",
       "en": "Republic of Sudan",
-      "zh-CN": "苏丹共和国"
+      "zh-CN": "苏丹共和国",
+      "fr": "République du Soudan",
+      "de": "Republik Sudan",
+      "es": "República de Sudán",
+      "ja": "スーダン共和国",
+      "ko": "수단 공화국",
+      "hi": "सूडान गणराज्य",
+      "ar": "جمهوريّة السّودان"
     },
     "population": 44909353,
     "area": 1861484,
@@ -3384,12 +5694,26 @@
     "name": {
       "native": "Suriname",
       "en": "Suriname",
-      "zh-CN": "苏里南"
+      "zh-CN": "苏里南",
+      "fr": "Suriname",
+      "de": "Suriname",
+      "es": "Suriname",
+      "ja": "スリナム",
+      "ko": "수리남",
+      "hi": "सूरीनाम",
+      "ar": "سورينام"
     },
     "fullName": {
       "native": "Republiek Suriname",
       "en": "Republic of Suriname",
-      "zh-CN": "苏里南共和国"
+      "zh-CN": "苏里南共和国",
+      "fr": "République du Surinam",
+      "de": "Republik Suriname",
+      "es": "República de Surinam",
+      "ja": "スリナム共和国",
+      "ko": "수리남 공화국",
+      "hi": "सूरीनाम गणराज्य",
+      "ar": "جمهوريّة سورينام"
     },
     "population": 623236,
     "area": 163820,
@@ -3404,12 +5728,26 @@
     "name": {
       "native": "Sverige",
       "en": "Sweden",
-      "zh-CN": "瑞典"
+      "zh-CN": "瑞典",
+      "fr": "Suède",
+      "de": "Schweden",
+      "es": "Suecia",
+      "ja": "スウェーデン",
+      "ko": "스웨덴",
+      "hi": "स्वीडन",
+      "ar": "السويد"
     },
     "fullName": {
       "native": "Konungariket Sverige",
       "en": "Kingdom of Sweden",
-      "zh-CN": "瑞典王国"
+      "zh-CN": "瑞典王国",
+      "fr": "Royaume de Suède",
+      "de": "Königreich Schweden",
+      "es": "Reino de Suecia",
+      "ja": "スウェーデン王国",
+      "ko": "스웨덴 왕국",
+      "hi": "स्वीडन का साम्राज्य",
+      "ar": "مملكة السّويد"
     },
     "population": 10481937,
     "area": 450295,
@@ -3424,12 +5762,26 @@
     "name": {
       "native": "Suisse",
       "en": "Switzerland",
-      "zh-CN": "瑞士"
+      "zh-CN": "瑞士",
+      "fr": "Suisse",
+      "de": "Schweiz",
+      "es": "Suiza",
+      "ja": "スイス",
+      "ko": "스위스",
+      "hi": "स्विट्जरलैंड",
+      "ar": "سويسرا"
     },
     "fullName": {
       "native": "Confédération suisse",
       "en": "Swiss Confederation",
-      "zh-CN": "瑞士联邦"
+      "zh-CN": "瑞士联邦",
+      "fr": "Confédération helvétique",
+      "de": "Schweizerische Eidgenossenschaft",
+      "es": "Confederación Suiza",
+      "ja": "スイス連邦",
+      "ko": "스위스 연방",
+      "hi": "स्विस परिसंघ",
+      "ar": "الاتّحاد السّويسري"
     },
     "population": 8738791,
     "area": 41285,
@@ -3447,12 +5799,26 @@
     "name": {
       "native": "سوريا",
       "en": "Syria",
-      "zh-CN": "叙利亚"
+      "zh-CN": "叙利亚",
+      "fr": "Syrie",
+      "de": "Syrien, Arabische Republik",
+      "es": "República Árabe Siria",
+      "ja": "シリア・アラブ共和国",
+      "ko": "시리아",
+      "hi": "सीरिया",
+      "ar": "سوريا"
     },
     "fullName": {
       "native": "الجمهورية العربية السورية",
       "en": "Syrian Arab Republic",
-      "zh-CN": "阿拉伯叙利亚共和国"
+      "zh-CN": "阿拉伯叙利亚共和国",
+      "fr": "Syrienne, République arabe",
+      "de": "Syrien, Arabische Republik",
+      "es": "República árabe de Siria",
+      "ja": "シリア・アラブ共和国",
+      "ko": "시리아 아랍 공화국",
+      "hi": "सीरियाई अरब गणराज्य",
+      "ar": "الجمهوريّة العربيّة السّوريّة"
     },
     "population": 22125249,
     "area": 185180,
@@ -3467,12 +5833,26 @@
     "name": {
       "native": "Тоҷикистон",
       "en": "Tajikistan",
-      "zh-CN": "塔吉克斯坦"
+      "zh-CN": "塔吉克斯坦",
+      "fr": "Tadjikistan",
+      "de": "Tadschikistan",
+      "es": "Tayikistán",
+      "ja": "タジキスタン",
+      "ko": "타지키스탄",
+      "hi": "तज़ाकिस्तान",
+      "ar": "طاجيكستان"
     },
     "fullName": {
       "native": "Ҷумҳурии Тоҷикистон",
       "en": "Republic of Tajikistan",
-      "zh-CN": "塔吉克斯坦共和国"
+      "zh-CN": "塔吉克斯坦共和国",
+      "fr": "République du Tadjikistan",
+      "de": "Republik Tadschikistan",
+      "es": "República de Tayikistán",
+      "ja": "タジキスタン共和国",
+      "ko": "타지키스탄 공화국",
+      "hi": "ताजिकिस्तान गणराज्य",
+      "ar": "جمهوريّة طاجيكستان"
     },
     "population": 10143543,
     "area": 143100,
@@ -3488,12 +5868,26 @@
     "name": {
       "native": "Tanzania",
       "en": "Tanzania",
-      "zh-CN": "坦桑尼亚"
+      "zh-CN": "坦桑尼亚",
+      "fr": "République unie de Tanzanie",
+      "de": "Tansania",
+      "es": "Tanzania",
+      "ja": "タンザニア",
+      "ko": "탄자니아",
+      "hi": "तंजानिया",
+      "ar": "تانزانيا"
     },
     "fullName": {
       "native": "Jamhuri ya Muungano wa Tanzania",
       "en": "United Republic of Tanzania",
-      "zh-CN": "坦桑尼亚联合共和国"
+      "zh-CN": "坦桑尼亚联合共和国",
+      "fr": "République unie de Tanzanie",
+      "de": "Vereinigte Republik Tansania",
+      "es": "República Unida de Tanzania",
+      "ja": "タンザニア連合共和国",
+      "ko": "탄자니아 연방 공화국",
+      "hi": "संयुक्त गणराज्य तंजानिया",
+      "ar": "جمهوريّة تنزانيا المتّحدة"
     },
     "population": 63298550,
     "area": 945087,
@@ -3509,12 +5903,26 @@
     "name": {
       "native": "ประเทศไทย",
       "en": "Thailand",
-      "zh-CN": "泰国"
+      "zh-CN": "泰国",
+      "fr": "Thaïlande",
+      "de": "Thailand",
+      "es": "Tailandia",
+      "ja": "タイ",
+      "ko": "태국",
+      "hi": "थाईलैंड",
+      "ar": "تايلاند"
     },
     "fullName": {
       "native": "ราชอาณาจักรไทย",
       "en": "Kingdom of Thailand",
-      "zh-CN": "泰王国"
+      "zh-CN": "泰王国",
+      "fr": "Royaume de Thaïlande",
+      "de": "Königreich Thailand",
+      "es": "Reino de Tailandia",
+      "ja": "タイ王国",
+      "ko": "타일랜드 왕국",
+      "hi": "थाईलैंड का साम्राज्य",
+      "ar": "مملكة تايلاند"
     },
     "population": 71697030,
     "area": 513120,
@@ -3529,12 +5937,26 @@
     "name": {
       "native": "Timor-Leste",
       "en": "Timor-Leste",
-      "zh-CN": "东帝汶"
+      "zh-CN": "东帝汶",
+      "fr": "Timor-Leste",
+      "de": "Osttimor",
+      "es": "Timor-Leste",
+      "ja": "東ティモール",
+      "ko": "동티모르",
+      "hi": "पूर्वी तिमोर",
+      "ar": "تيمور الشرقية"
     },
     "fullName": {
       "native": "República Democrática de Timor-Leste",
       "en": "Democratic Republic of Timor-Leste",
-      "zh-CN": "东帝汶民主共和国"
+      "zh-CN": "东帝汶民主共和国",
+      "fr": "République démocratique du Timor-Leste",
+      "de": "Demokratische Republik Timor-Leste",
+      "es": "República Democrática de Timor Oriental",
+      "ja": "東ティモール民主共和国",
+      "ko": "동티모르 민주 공화국",
+      "hi": "तिमोर-लेस्ते लोकतांत्रिक गणराज्य",
+      "ar": "جمهوريّة تيمور-ليستي الدّيموقراطيّة"
     },
     "population": 1341296,
     "area": 14874,
@@ -3550,12 +5972,26 @@
     "name": {
       "native": "Togo",
       "en": "Togo",
-      "zh-CN": "多哥"
+      "zh-CN": "多哥",
+      "fr": "Togo",
+      "de": "Togo",
+      "es": "Togo",
+      "ja": "トーゴ",
+      "ko": "토고",
+      "hi": "टोगो",
+      "ar": "توغو"
     },
     "fullName": {
       "native": "République togolaise",
       "en": "Togolese Republic",
-      "zh-CN": "多哥共和国"
+      "zh-CN": "多哥共和国",
+      "fr": "République togolaise",
+      "de": "Republik Togo",
+      "es": "República Togolesa",
+      "ja": "トーゴ共和国",
+      "ko": "토고 공화국",
+      "hi": "टोगोलिस गणराज्य",
+      "ar": "الجمهوريّة التّوغويّة"
     },
     "population": 8644829,
     "area": 56785,
@@ -3570,12 +6006,26 @@
     "name": {
       "native": "Tonga",
       "en": "Tonga",
-      "zh-CN": "汤加"
+      "zh-CN": "汤加",
+      "fr": "Tonga",
+      "de": "Tonga",
+      "es": "Tonga",
+      "ja": "トンガ",
+      "ko": "통가",
+      "hi": "टोंगा",
+      "ar": "تونغا"
     },
     "fullName": {
       "native": "Kingdom of Tonga",
       "en": "Kingdom of Tonga",
-      "zh-CN": "汤加王国"
+      "zh-CN": "汤加王国",
+      "fr": "Royaume des Tonga",
+      "de": "Königreich Tonga",
+      "es": "Reino de Tonga",
+      "ja": "トンガ王国",
+      "ko": "통가 왕국",
+      "hi": "टोंगा साम्राज्य",
+      "ar": "مملكة تونغا"
     },
     "population": 100651,
     "area": 747,
@@ -3591,12 +6041,26 @@
     "name": {
       "native": "Trinidad and Tobago",
       "en": "Trinidad and Tobago",
-      "zh-CN": "特立尼达和多巴哥"
+      "zh-CN": "特立尼达和多巴哥",
+      "fr": "Trinité-et-Tobago",
+      "de": "Trinidad und Tobago",
+      "es": "Trinidad y Tobago",
+      "ja": "トリニダード・トバゴ",
+      "ko": "트리니다드 토바고",
+      "hi": "ट्रिनिडाड एंड टोबैगो",
+      "ar": "ترينيداد وتوباغو"
     },
     "fullName": {
       "native": "Republic of Trinidad and Tobago",
       "en": "Republic of Trinidad and Tobago",
-      "zh-CN": "特立尼达和多巴哥共和国"
+      "zh-CN": "特立尼达和多巴哥共和国",
+      "fr": "République de Trinité et Tobago",
+      "de": "Republik Trinidad und Tobago",
+      "es": "República de Trinidad y Tobago",
+      "ja": "トリニダード・トバゴ共和国",
+      "ko": "트리니다드 토바고 공화국",
+      "hi": "त्रिनिदाद और टोबैगो गणराज्य",
+      "ar": "جمهوريّة ترينيداد و توباغو"
     },
     "population": 1399491,
     "area": 5128,
@@ -3611,12 +6075,26 @@
     "name": {
       "native": "تونس",
       "en": "Tunisia",
-      "zh-CN": "突尼斯"
+      "zh-CN": "突尼斯",
+      "fr": "Tunisie",
+      "de": "Tunesien",
+      "es": "Túnez",
+      "ja": "チュニジア",
+      "ko": "튀니지아",
+      "hi": "ट्यूनीशिया",
+      "ar": "تونس"
     },
     "fullName": {
       "native": "الجمهورية التونسية",
       "en": "Republic of Tunisia",
-      "zh-CN": "突尼斯共和国"
+      "zh-CN": "突尼斯共和国",
+      "fr": "République de Tunisie",
+      "de": "Tunesische Republik",
+      "es": "República de Túnez",
+      "ja": "チュニジア共和国",
+      "ko": "튀니지 공화국",
+      "hi": "ट्यूनीशिया गणराज्य",
+      "ar": "الجمهورية التونسية"
     },
     "population": 12046656,
     "area": 163610,
@@ -3632,12 +6110,26 @@
     "name": {
       "native": "Türkiye",
       "en": "Turkey",
-      "zh-CN": "土耳其"
+      "zh-CN": "土耳其",
+      "fr": "Turquie",
+      "de": "Türkei",
+      "es": "Turquía",
+      "ja": "トルコ",
+      "ko": "터키",
+      "hi": "तुर्की",
+      "ar": "تركيا"
     },
     "fullName": {
       "native": "Türkiye Cumhuriyeti",
       "en": "Republic of Türkiye",
-      "zh-CN": "土耳其共和国"
+      "zh-CN": "土耳其共和国",
+      "fr": "République de Turquie",
+      "de": "Republik Türkei",
+      "es": "República de Turquía",
+      "ja": "トルコ共和国",
+      "ko": "튀르키예 공화국",
+      "hi": "तुर्किये गणराज्य",
+      "ar": "تركيا"
     },
     "population": 85279553,
     "area": 783562,
@@ -3652,12 +6144,26 @@
     "name": {
       "native": "Türkmenistan",
       "en": "Turkmenistan",
-      "zh-CN": "土库曼斯坦"
+      "zh-CN": "土库曼斯坦",
+      "fr": "Turkménistan",
+      "de": "Turkmenistan",
+      "es": "Turkmenistán",
+      "ja": "トルクメニスタン",
+      "ko": "트르크메니스탄",
+      "hi": "तुर्कमेनिस्तान",
+      "ar": "تركمانستان"
     },
     "fullName": {
       "native": "Türkmenistan",
       "en": "Turkmenistan",
-      "zh-CN": "土库曼斯坦"
+      "zh-CN": "土库曼斯坦",
+      "fr": "Turkménistan",
+      "de": "Turkmenistan",
+      "es": "Turkmenistán",
+      "ja": "トルクメニスタン",
+      "ko": "투르크메니스탄",
+      "hi": "तुर्कमेनिस्तान",
+      "ar": "تركمانستان"
     },
     "population": 6118000,
     "area": 488100,
@@ -3672,12 +6178,26 @@
     "name": {
       "native": "Tuvalu",
       "en": "Tuvalu",
-      "zh-CN": "图瓦卢"
+      "zh-CN": "图瓦卢",
+      "fr": "Tuvalu",
+      "de": "Tuvalu",
+      "es": "Tuvalu",
+      "ja": "ツバル",
+      "ko": "트발루",
+      "hi": "तुवालू",
+      "ar": "توفالو"
     },
     "fullName": {
       "native": "Tuvalu",
       "en": "Tuvalu",
-      "zh-CN": "图瓦卢"
+      "zh-CN": "图瓦卢",
+      "fr": "Tuvalu",
+      "de": "Tuvalu",
+      "es": "Tuvalu",
+      "ja": "ツバル",
+      "ko": "투발루",
+      "hi": "तुवालू",
+      "ar": "توفالو"
     },
     "population": 11792,
     "area": 26,
@@ -3692,12 +6212,26 @@
     "name": {
       "native": "Uganda",
       "en": "Uganda",
-      "zh-CN": "乌干达"
+      "zh-CN": "乌干达",
+      "fr": "Ouganda",
+      "de": "Uganda",
+      "es": "Uganda",
+      "ja": "ウガンダ",
+      "ko": "우간다",
+      "hi": "उगांडा",
+      "ar": "أوغندا"
     },
     "fullName": {
       "native": "Republic of Uganda",
       "en": "Republic of Uganda",
-      "zh-CN": "乌干达共和国"
+      "zh-CN": "乌干达共和国",
+      "fr": "République d'Ouganda",
+      "de": "Republik Uganda",
+      "es": "República de Uganda",
+      "ja": "ウガンダ共和国",
+      "ko": "우간다 공화국",
+      "hi": "युगांडा गणराज्य",
+      "ar": "جمهوريّة أوغندا"
     },
     "population": 47123531,
     "area": 241038,
@@ -3713,12 +6247,26 @@
     "name": {
       "native": "Україна",
       "en": "Ukraine",
-      "zh-CN": "乌克兰"
+      "zh-CN": "乌克兰",
+      "fr": "Ukraine",
+      "de": "Ukraine",
+      "es": "Ucrania",
+      "ja": "ウクライナ",
+      "ko": "우크라이나",
+      "hi": "उक्रेन",
+      "ar": "أوكرانيا"
     },
     "fullName": {
       "native": "Україна",
       "en": "Ukraine",
-      "zh-CN": "乌克兰"
+      "zh-CN": "乌克兰",
+      "fr": "Ukraine",
+      "de": "Ukraine",
+      "es": "Ucrania",
+      "ja": "ウクライナ",
+      "ko": "우크라이나",
+      "hi": "युक्रेन",
+      "ar": "أوكرانيا"
     },
     "population": 43531422,
     "area": 603550,
@@ -3733,12 +6281,26 @@
     "name": {
       "native": "دولة الإمارات العربية المتحدة",
       "en": "United Arab Emirates",
-      "zh-CN": "阿拉伯联合酋长国"
+      "zh-CN": "阿拉伯联合酋长国",
+      "fr": "Émirats Arabes Unis",
+      "de": "Vereinigte Arabische Emirate",
+      "es": "Emiratos Árabes Unidos",
+      "ja": "アラブ首長国連邦",
+      "ko": "아랍에미리트연합",
+      "hi": "संयुक्त अरब अमीरात",
+      "ar": "الإمارات العربية المتحدة"
     },
     "fullName": {
       "native": "الإمارات العربية المتحدة",
       "en": "United Arab Emirates",
-      "zh-CN": "阿拉伯联合酋长国"
+      "zh-CN": "阿拉伯联合酋长国",
+      "fr": "Émirats arabes unis",
+      "de": "Vereinigte Arabische Emirate",
+      "es": "Emiratos Árabes Unidos",
+      "ja": "アラブ首長国連邦",
+      "ko": "아랍에미리트",
+      "hi": "संयुक्त अरब अमीरात",
+      "ar": "الإمارات العربيّة المتحدّة"
     },
     "population": 9890402,
     "area": 83600,
@@ -3753,12 +6315,26 @@
     "name": {
       "native": "United Kingdom",
       "en": "United Kingdom",
-      "zh-CN": "英国"
+      "zh-CN": "英国",
+      "fr": "Royaume-Uni",
+      "de": "Großbritannien",
+      "es": "Reino Unido",
+      "ja": "イギリス",
+      "ko": "영국",
+      "hi": "ग्रेट ब्रिटेन",
+      "ar": "المملكة المتحدة"
     },
     "fullName": {
       "native": "United Kingdom of Great Britain and Northern Ireland",
       "en": "United Kingdom of Great Britain and Northern Ireland",
-      "zh-CN": "大不列颠及北爱尔兰联合王国"
+      "zh-CN": "大不列颠及北爱尔兰联合王国",
+      "fr": "Royaume-Uni de Grande-Bretagne et d'Irlande du Nord",
+      "de": "Vereinigtes Königreich Großbritannien und Nordirland",
+      "es": "Reino Unido de Gran Bretaña e Irlanda del Norte",
+      "ja": "グレートブリテン及び北アイルランド連合王国",
+      "ko": "대영제국",
+      "hi": "ग्रेट ब्रिटेन और उत्तरी आयरलैंड का यूनाइटेड किंगडम",
+      "ar": "المملكة المتّحدة لبريطانيا العظمى و أيرلندا الشّماليّة"
     },
     "population": 67326569,
     "area": 242495,
@@ -3773,12 +6349,26 @@
     "name": {
       "native": "United States",
       "en": "United States",
-      "zh-CN": "美国"
+      "zh-CN": "美国",
+      "fr": "États-Unis d'Amérique",
+      "de": "Vereinigte Staaten",
+      "es": "Estados Unidos",
+      "ja": "アメリカ合衆国",
+      "ko": "미국",
+      "hi": "यूएसए (संयुक्त राज्य अमेरिका)",
+      "ar": "الولايات المتحدة"
     },
     "fullName": {
       "native": "United States of America",
       "en": "United States of America",
-      "zh-CN": "美利坚合众国"
+      "zh-CN": "美利坚合众国",
+      "fr": "États-Unis d'Amérique",
+      "de": "Vereinigte Staaten von Amerika",
+      "es": "Estados Unidos de América",
+      "ja": "アメリカ合衆国",
+      "ko": "미국",
+      "hi": "संयुक्त राज्य अमेरिका",
+      "ar": "الولايات المتّحدة الأميركيّة"
     },
     "population": 334233854,
     "area": 9372610,
@@ -3793,12 +6383,26 @@
     "name": {
       "native": "Uruguay",
       "en": "Uruguay",
-      "zh-CN": "乌拉圭"
+      "zh-CN": "乌拉圭",
+      "fr": "Uruguay",
+      "de": "Uruguay",
+      "es": "Uruguay",
+      "ja": "ウルグアイ",
+      "ko": "우루과이",
+      "hi": "उरुग्वे",
+      "ar": "الأوروغواي"
     },
     "fullName": {
       "native": "República Oriental del Uruguay",
       "en": "Eastern Republic of Uruguay",
-      "zh-CN": "乌拉圭东岸共和国"
+      "zh-CN": "乌拉圭东岸共和国",
+      "fr": "République orientale d'Uruguay",
+      "de": "Republik Östlich des Uruguay",
+      "es": "República Oriental del Uruguay",
+      "ja": "ウルグアイ東方共和国",
+      "ko": "동 우루과이 공화국",
+      "hi": "उरुग्वे का पूर्वी गणराज्य",
+      "ar": "جمهوريّة الأوروغواي الشّرقيّة"
     },
     "population": 3473730,
     "area": 176215,
@@ -3813,12 +6417,26 @@
     "name": {
       "native": "O‘zbekiston",
       "en": "Uzbekistan",
-      "zh-CN": "乌兹别克斯坦"
+      "zh-CN": "乌兹别克斯坦",
+      "fr": "Ouzbékistan",
+      "de": "Usbekistan",
+      "es": "Uzbekistán",
+      "ja": "ウズベキスタン",
+      "ko": "우즈베키스탄",
+      "hi": "उजबेकिस्तान",
+      "ar": "أوزبكستان"
     },
     "fullName": {
       "native": "O'zbekiston Respublikasi",
       "en": "Republic of Uzbekistan",
-      "zh-CN": "乌兹别克斯坦共和国"
+      "zh-CN": "乌兹别克斯坦共和国",
+      "fr": "République d'Ouzbékistan",
+      "de": "Republik Usbekistan",
+      "es": "República de Uzbekistán",
+      "ja": "ウズベキスタン共和国",
+      "ko": "우즈베키스탄 공화국",
+      "hi": "उज़्बेकिस्तान गणराज्य",
+      "ar": "جمهوريّة أوزبكستان"
     },
     "population": 36601000,
     "area": 448978,
@@ -3833,12 +6451,26 @@
     "name": {
       "native": "Vanuatu",
       "en": "Vanuatu",
-      "zh-CN": "瓦努阿图"
+      "zh-CN": "瓦努阿图",
+      "fr": "Vanuatu",
+      "de": "Vanuatu",
+      "es": "Vanuatu",
+      "ja": "バヌアツ",
+      "ko": "바누아투",
+      "hi": "वनातू",
+      "ar": "فانواتو"
     },
     "fullName": {
       "native": "Ripablik blong Vanuatu",
       "en": "Republic of Vanuatu",
-      "zh-CN": "瓦努阿图共和国"
+      "zh-CN": "瓦努阿图共和国",
+      "fr": "République du Vanuatu",
+      "de": "Republik Vanuatu",
+      "es": "República de Vanuatu",
+      "ja": "バヌアツ共和国",
+      "ko": "바누아투 공화국",
+      "hi": "वानुअतु गणराज्य",
+      "ar": "جمهوريّة فانواتو"
     },
     "population": 332212,
     "area": 12189,
@@ -3855,12 +6487,26 @@
     "name": {
       "native": "Venezuela",
       "en": "Venezuela",
-      "zh-CN": "委内瑞拉"
+      "zh-CN": "委内瑞拉",
+      "fr": "Venezuela",
+      "de": "Venezuela",
+      "es": "Venezuela",
+      "ja": "ベネズエラ・ボリバル共和国",
+      "ko": "베네수엘라",
+      "hi": "वेनेजुएला",
+      "ar": "فنزويلا"
     },
     "fullName": {
       "native": "República Bolivariana de Venezuela",
       "en": "Bolivarian Republic of Venezuela",
-      "zh-CN": "委内瑞拉玻利瓦尔共和国"
+      "zh-CN": "委内瑞拉玻利瓦尔共和国",
+      "fr": "République bolivarienne du Vénézuela",
+      "de": "Bolivarische Republik Venezuela",
+      "es": "República Bolivariana de Venezuela",
+      "ja": "ベネズエラ・ボリバル共和国",
+      "ko": "베네수엘라 볼리바르 공화국",
+      "hi": "वेनेजुएला का बोलिवेरियन गणराज्य",
+      "ar": "جمهوريّة فنزويلّا"
     },
     "population": 33721168,
     "area": 916445,
@@ -3875,12 +6521,26 @@
     "name": {
       "native": "Việt Nam",
       "en": "Vietnam",
-      "zh-CN": "越南"
+      "zh-CN": "越南",
+      "fr": "Vietnam",
+      "de": "Vietnam",
+      "es": "Vietnam",
+      "ja": "ベトナム",
+      "ko": "베트남",
+      "hi": "विएतनाम",
+      "ar": "فيتنام"
     },
     "fullName": {
       "native": "Cộng hòa xã hội chủ nghĩa Việt Nam",
       "en": "Socialist Republic of Vietnam",
-      "zh-CN": "越南社会主义共和国"
+      "zh-CN": "越南社会主义共和国",
+      "fr": "République socialiste du Viet Nam",
+      "de": "Sozialistische Republik Vietnam",
+      "es": "República Socialista de Vietnam",
+      "ja": "ベトナム社会主義共和国",
+      "ko": "베트남 사회주의 공화국",
+      "hi": "वियतनाम समाजवादी गणराज्य",
+      "ar": "جمهوريّة الفييتنام الاشتراكيّة"
     },
     "population": 97468029,
     "area": 331212,
@@ -3895,12 +6555,26 @@
     "name": {
       "native": "اليَمَن",
       "en": "Yemen",
-      "zh-CN": "也门"
+      "zh-CN": "也门",
+      "fr": "Yémen",
+      "de": "Jemen",
+      "es": "Yemen",
+      "ja": "イエメン",
+      "ko": "예멘",
+      "hi": "यमन",
+      "ar": "اليمن"
     },
     "fullName": {
       "native": "الجمهورية اليمنية",
       "en": "Republic of Yemen",
-      "zh-CN": "也门共和国"
+      "zh-CN": "也门共和国",
+      "fr": "République du Yémen",
+      "de": "Republik Jemen",
+      "es": "República del Yemen",
+      "ja": "イエメン共和国",
+      "ko": "예멘 공화국",
+      "hi": "यमन गणराज्य",
+      "ar": "جمهوريّة اليمن"
     },
     "population": 34449825,
     "area": 527968,
@@ -3915,12 +6589,26 @@
     "name": {
       "native": "Zambia",
       "en": "Zambia",
-      "zh-CN": "赞比亚"
+      "zh-CN": "赞比亚",
+      "fr": "Zambie",
+      "de": "Sambia",
+      "es": "Zambia",
+      "ja": "ザンビア",
+      "ko": "잠비아",
+      "hi": "जाम्बिया",
+      "ar": "زامبيا"
     },
     "fullName": {
       "native": "Republic of Zambia",
       "en": "Republic of Zambia",
-      "zh-CN": "赞比亚共和国"
+      "zh-CN": "赞比亚共和国",
+      "fr": "République de Zambie",
+      "de": "Republik Sambia",
+      "es": "República de Zambia",
+      "ja": "ザンビア共和国",
+      "ko": "잠비아 공화국",
+      "hi": "जाम्बिया गणराज्य",
+      "ar": "جمهوريّة زامبيا"
     },
     "population": 19473125,
     "area": 752618,
@@ -3935,12 +6623,26 @@
     "name": {
       "native": "Zimbabwe",
       "en": "Zimbabwe",
-      "zh-CN": "津巴布韦"
+      "zh-CN": "津巴布韦",
+      "fr": "Zimbabwe",
+      "de": "Simbabwe",
+      "es": "Zimbabue",
+      "ja": "ジンバブエ",
+      "ko": "짐바브웨 공화국",
+      "hi": "जिंबावे",
+      "ar": "زيمبابوي"
     },
     "fullName": {
       "native": "Republic of Zimbabwe",
       "en": "Republic of Zimbabwe",
-      "zh-CN": "津巴布韦共和国"
+      "zh-CN": "津巴布韦共和国",
+      "fr": "République du Zimbabwe",
+      "de": "Republik Simbabwe",
+      "es": "República de Zimbabue",
+      "ja": "ジンバブエ共和国",
+      "ko": "짐바브웨 공화국",
+      "hi": "जिम्बाब्वे गणराज्य",
+      "ar": "جمهوريّة زمبابوي"
     },
     "population": 15092171,
     "area": 390757,
@@ -3957,12 +6659,26 @@
     "name": {
       "native": "香港",
       "en": "Hong Kong",
-      "zh-CN": "香港"
+      "zh-CN": "香港",
+      "fr": "Hong Kong",
+      "de": "Hong Kong",
+      "es": "Hong Kong",
+      "ja": "香港",
+      "ko": "홍콩",
+      "hi": "हांग कांग",
+      "ar": "هونغ كونغ"
     },
     "fullName": {
       "native": "中华人民共和国香港特别行政区",
       "en": "Hong Kong Special Administrative Region",
-      "zh-CN": "中国香港特别行政区"
+      "zh-CN": "中国香港特别行政区",
+      "fr": "Région spéciale administrative chinoise de Hong-Kong",
+      "de": "Sonderverwaltungsregion Hongkong",
+      "es": "Región Administrativa Especial China de Hong Kong",
+      "ja": "香港・中国特別行政区",
+      "ko": "홍콩, 중국의 특별 행정구",
+      "hi": "हांगकांग चीन का विशेष प्रशासनिक क्षेत्र",
+      "ar": "هونج كونج المنطقة الصّينيّة الإداريّة الخاصّة"
     },
     "population": 7413100,
     "area": 1104,
@@ -3978,12 +6694,26 @@
     "name": {
       "native": "澳门",
       "en": "Macao",
-      "zh-CN": "澳门"
+      "zh-CN": "澳门",
+      "fr": "Macao",
+      "de": "Macao",
+      "es": "Macao",
+      "ja": "マカオ",
+      "ko": "마카오",
+      "hi": "मकाओ",
+      "ar": "ماكاو"
     },
     "fullName": {
       "native": "中华人民共和国澳门特别行政区",
       "en": "Macao Special Administrative Region",
-      "zh-CN": "中国澳门特别行政区"
+      "zh-CN": "中国澳门特别行政区",
+      "fr": "Région spéciale administrative chinoise de Macao",
+      "de": "Sonderverwaltungsregion Macao",
+      "es": "Región Administrativa Especial China de Macao",
+      "ja": "マカオ・中国特別行政区",
+      "ko": "마카오, 중국의 특별 행정구",
+      "hi": "चीन का मकाउ विशेष प्रशासनिक क्षेत्र",
+      "ar": "مكّاو المنطقة الصّينيّة الإداريّة الخاصّة"
     },
     "population": 683218,
     "area": 30,
@@ -3999,12 +6729,26 @@
     "name": {
       "native": "台灣",
       "en": "Taiwan",
-      "zh-CN": "台湾"
+      "zh-CN": "台湾",
+      "fr": "Taïwan",
+      "de": "Taiwan",
+      "es": "Taiwán",
+      "ja": "台湾",
+      "ko": "중화민국",
+      "hi": "ताइवान",
+      "ar": "تايوان"
     },
     "fullName": {
       "native": "中華民國",
       "en": "Taiwan, Province of China",
-      "zh-CN": "台湾"
+      "zh-CN": "台湾",
+      "fr": "Taïwan, province de Chine",
+      "de": "Taiwan, Chinesische Provinz",
+      "es": "Taiwán, Provincia de China",
+      "ja": "中国領・台湾",
+      "ko": "타이완, 중국령",
+      "hi": "ताइवान, चीन प्रांत",
+      "ar": "تايوان، محافظة صينيّة"
     },
     "population": 23570000,
     "area": 36193,
@@ -4019,12 +6763,26 @@
     "name": {
       "native": "فلسطين",
       "en": "Palestine",
-      "zh-CN": "巴勒斯坦"
+      "zh-CN": "巴勒斯坦",
+      "fr": "Palestine",
+      "de": "Staat Palästina",
+      "es": "Palestina",
+      "ja": "パレスチナ",
+      "ko": "팔레스타인",
+      "hi": "फिलिस्तीन राज्य",
+      "ar": "فلسطين"
     },
     "fullName": {
       "native": "دولة فلسطين",
       "en": "State of Palestine",
-      "zh-CN": "巴勒斯坦国"
+      "zh-CN": "巴勒斯坦国",
+      "fr": "L'État de Palestine",
+      "de": "Staat Palästina",
+      "es": "Estado de Palestina",
+      "ja": "パレスチナ自治区",
+      "ko": "팔레스타인",
+      "hi": "फ़िलिस्तीन राज्य",
+      "ar": "دولة فلسطين"
     },
     "population": 5227193,
     "area": 6220,
@@ -4039,12 +6797,26 @@
     "name": {
       "native": "Kosova",
       "en": "Kosovo",
-      "zh-CN": "科索沃"
+      "zh-CN": "科索沃",
+      "fr": "Kosovo",
+      "de": "Kosovo",
+      "es": "Kosovo",
+      "ja": "コソボ",
+      "ko": "코소보",
+      "hi": "कोसोवो",
+      "ar": "كوسوفو"
     },
     "fullName": {
       "native": "Republika e Kosovës",
       "en": "Republic of Kosovo",
-      "zh-CN": "科索沃共和国"
+      "zh-CN": "科索沃共和国",
+      "fr": "République du Kosovo",
+      "de": "Republik Kosovo",
+      "es": "República de Kosovo",
+      "ja": "コソボ共和国",
+      "ko": "코소보 공화국",
+      "hi": "कोसोवो गणराज्य",
+      "ar": "جمهورية كوسوفو"
     },
     "population": 1775378,
     "area": 10908,
@@ -4060,12 +6832,26 @@
     "name": {
       "native": "Vaticano",
       "en": "Vatican City",
-      "zh-CN": "梵蒂冈"
+      "zh-CN": "梵蒂冈",
+      "fr": "Saint-Siège (Vatican)",
+      "de": "Vatikanstadt",
+      "es": "Santa Sede",
+      "ja": "バチカン市国",
+      "ko": "바티칸",
+      "hi": "वेटिकन",
+      "ar": "الفاتيكان"
     },
     "fullName": {
       "native": "Stato della Città del Vaticano",
       "en": "Vatican City State",
-      "zh-CN": "梵蒂冈城国"
+      "zh-CN": "梵蒂冈城国",
+      "fr": "Saint-Siège (état de la cité du Vatican)",
+      "de": "Heiliger Stuhl (Staat Vatikanstadt)",
+      "es": "Santa Sede (Ciudad Estado del Vaticano)",
+      "ja": "聖庁 (バチカン市国)",
+      "ko": "바티칸 시티 (Holy See)",
+      "hi": "होली सी (वेटिकन सिटी राज्य)",
+      "ar": "المقعد المقدّس (ولاية مدينة الفاتيكان)"
     },
     "population": 800,
     "area": 1,
@@ -4081,12 +6867,26 @@
     "name": {
       "native": "Puerto Rico",
       "en": "Puerto Rico",
-      "zh-CN": "波多黎各"
+      "zh-CN": "波多黎各",
+      "fr": "Porto Rico",
+      "de": "Puerto Rico",
+      "es": "Puerto Rico",
+      "ja": "プエルトリコ",
+      "ko": "푸에르토리코",
+      "hi": "पुएर्तो रिको",
+      "ar": "بورتوريكو"
     },
     "fullName": {
       "native": "Estado Libre Asociado de Puerto Rico",
       "en": "Commonwealth of Puerto Rico",
-      "zh-CN": "波多黎各自由邦"
+      "zh-CN": "波多黎各自由邦",
+      "fr": "Porto Rico",
+      "de": "Puerto Rico",
+      "es": "Puerto Rico",
+      "ja": "プエルトリコ",
+      "ko": "푸에르토리코",
+      "hi": "प्युर्तो रिको",
+      "ar": "بورتوريكو"
     },
     "population": 3285874,
     "area": 9104,
@@ -4102,12 +6902,26 @@
     "name": {
       "native": "Guam",
       "en": "Guam",
-      "zh-CN": "关岛"
+      "zh-CN": "关岛",
+      "fr": "Guam",
+      "de": "Guam",
+      "es": "Guam",
+      "ja": "グアム",
+      "ko": "괌",
+      "hi": "ग्वाम",
+      "ar": "غوام"
     },
     "fullName": {
       "native": "Guam",
       "en": "Guam",
-      "zh-CN": "关岛"
+      "zh-CN": "关岛",
+      "fr": "Guam",
+      "de": "Guam",
+      "es": "Guam",
+      "ja": "グアム",
+      "ko": "괌",
+      "hi": "गुआम",
+      "ar": "جوام"
     },
     "population": 168775,
     "area": 544,
@@ -4122,12 +6936,26 @@
     "name": {
       "native": "Kalaallit Nunaat",
       "en": "Greenland",
-      "zh-CN": "格陵兰"
+      "zh-CN": "格陵兰",
+      "fr": "Groenland",
+      "de": "Grönland",
+      "es": "Groenlandia",
+      "ja": "グリーンランド",
+      "ko": "그린랜드",
+      "hi": "ग्रीनलैंड",
+      "ar": "جرينلاند"
     },
     "fullName": {
       "native": "Kalaallit Nunaat",
       "en": "Greenland",
-      "zh-CN": "格陵兰"
+      "zh-CN": "格陵兰",
+      "fr": "Groënland",
+      "de": "Grönland",
+      "es": "Groenlandia",
+      "ja": "グリーンランド",
+      "ko": "그린란드",
+      "hi": "ग्रीनलैण्ड",
+      "ar": "غرينلاند"
     },
     "population": 56367,
     "area": 2166086,
@@ -4143,12 +6971,26 @@
     "name": {
       "native": "Føroyar",
       "en": "Faroe Islands",
-      "zh-CN": "法罗群岛"
+      "zh-CN": "法罗群岛",
+      "fr": "Îles Féroé",
+      "de": "Färöer",
+      "es": "Islas Feroe",
+      "ja": "フェロー諸島",
+      "ko": "페로 군도",
+      "hi": "फराओ द्वीप समूह",
+      "ar": "جزر فارو"
     },
     "fullName": {
       "native": "Føroyar",
       "en": "Faroe Islands",
-      "zh-CN": "法罗群岛"
+      "zh-CN": "法罗群岛",
+      "fr": "Îles Féroé",
+      "de": "Färöer-Inseln",
+      "es": "Islas Feroe",
+      "ja": "フェロー諸島",
+      "ko": "페로 제도",
+      "hi": "फ़रो द्वीप समूह",
+      "ar": "جزر الفارو"
     },
     "population": 53117,
     "area": 1393,
@@ -4164,12 +7006,26 @@
     "name": {
       "native": "Nouvelle-Calédonie",
       "en": "New Caledonia",
-      "zh-CN": "新喀里多尼亚"
+      "zh-CN": "新喀里多尼亚",
+      "fr": "Nouvelle-Calédonie",
+      "de": "Neukaledonien",
+      "es": "Nueva Caledonia",
+      "ja": "ニューカレドニア",
+      "ko": "뉴칼레도니아",
+      "hi": "न्यू कैलेडोनिया",
+      "ar": "كاليدونيا الجديدة"
     },
     "fullName": {
       "native": "Nouvelle-Calédonie",
       "en": "New Caledonia",
-      "zh-CN": "新喀里多尼亚"
+      "zh-CN": "新喀里多尼亚",
+      "fr": "Nouvelle-Calédonie",
+      "de": "Neukaledonien",
+      "es": "Nueva Caledonia",
+      "ja": "ニューカレドニア",
+      "ko": "누벨칼레도니",
+      "hi": "न्यू कैलिडोनिया",
+      "ar": "نيو قلدونيا"
     },
     "population": 271407,
     "area": 18575,
@@ -4184,12 +7040,26 @@
     "name": {
       "native": "Polynésie française",
       "en": "French Polynesia",
-      "zh-CN": "法属波利尼西亚"
+      "zh-CN": "法属波利尼西亚",
+      "fr": "Polynésie française",
+      "de": "Französisch-Polynesien",
+      "es": "Polinesia Francesa",
+      "ja": "フランス領ポリネシア",
+      "ko": "프랑스령 폴리네시아",
+      "hi": "फ्रैंच गुआना",
+      "ar": "بولينزيا الفرنسية"
     },
     "fullName": {
       "native": "Polynésie française",
       "en": "French Polynesia",
-      "zh-CN": "法属波利尼西亚"
+      "zh-CN": "法属波利尼西亚",
+      "fr": "Polynésie française",
+      "de": "Französisch-Polynesien",
+      "es": "Polinesia Francesa",
+      "ja": "仏領ポリネシア",
+      "ko": "프랑스령 폴리네시아",
+      "hi": "फ़्रेंच पोलिनेशिया",
+      "ar": "بولينيسيا الفرنسيّة"
     },
     "population": 283007,
     "area": 4167,
@@ -4204,12 +7074,26 @@
     "name": {
       "native": "Bermuda",
       "en": "Bermuda",
-      "zh-CN": "百慕大"
+      "zh-CN": "百慕大",
+      "fr": "Bermudes",
+      "de": "Bermuda",
+      "es": "Bermudas",
+      "ja": "バミューダ",
+      "ko": "버뮤다",
+      "hi": "बर्मूडा",
+      "ar": "برمودا"
     },
     "fullName": {
       "native": "Bermuda",
       "en": "Bermuda",
-      "zh-CN": "百慕大"
+      "zh-CN": "百慕大",
+      "fr": "Bermudes",
+      "de": "Bermuda",
+      "es": "Islas Bermudas",
+      "ja": "バーミューダ",
+      "ko": "버뮤다",
+      "hi": "बरमूडा",
+      "ar": "برمودا"
     },
     "population": 64055,
     "area": 54,
@@ -4224,12 +7108,26 @@
     "name": {
       "native": "Cayman Islands",
       "en": "Cayman Islands",
-      "zh-CN": "开曼群岛"
+      "zh-CN": "开曼群岛",
+      "fr": "Îles Caïmans",
+      "de": "Kaimaninseln",
+      "es": "Islas Caimán",
+      "ja": "ケイマン諸島",
+      "ko": "케이맨섬",
+      "hi": "केमैन आइसलैंड्स",
+      "ar": "جزر كايمان"
     },
     "fullName": {
       "native": "Cayman Islands",
       "en": "Cayman Islands",
-      "zh-CN": "开曼群岛"
+      "zh-CN": "开曼群岛",
+      "fr": "Îles Caïmans",
+      "de": "Cayman-Inseln",
+      "es": "Islas Caimán",
+      "ja": "ケイマン諸島",
+      "ko": "케이맨 제도",
+      "hi": "केमन द्वीपसमूह",
+      "ar": "جزر الكيمان"
     },
     "population": 68706,
     "area": 264,
@@ -4244,12 +7142,26 @@
     "name": {
       "native": "United States Virgin Islands",
       "en": "U.S. Virgin Islands",
-      "zh-CN": "美属维尔京群岛"
+      "zh-CN": "美属维尔京群岛",
+      "fr": "Îles vierges américaines",
+      "de": "Amerikanische Jungferninseln",
+      "es": "Islas Vírgenes de los Estados Unidos",
+      "ja": "アメリカ領ヴァージン諸島",
+      "ko": "미국령 버진아일랜드",
+      "hi": "अमेरिकी वर्जिन द्वीपसमूह",
+      "ar": "جزر العذراء الأمريكية"
     },
     "fullName": {
       "native": "Virgin Islands of the United States",
       "en": "United States Virgin Islands",
-      "zh-CN": "美属维尔京群岛"
+      "zh-CN": "美属维尔京群岛",
+      "fr": "Îles Vierges des États-Unis d'Amérique",
+      "de": "Amerikanische Jungferninseln",
+      "es": "Islas Vírgenes de los Estados Unidos",
+      "ja": "米領ヴァージン諸島",
+      "ko": "미국령 버진 제도",
+      "hi": "संयुक्त राज्य अमेरिका के वर्जिन द्वीप समूह",
+      "ar": "جزر فيرجن الأميركيّة"
     },
     "population": 100000,
     "area": 347,
@@ -4264,12 +7176,26 @@
     "name": {
       "native": "Curaçao",
       "en": "Curaçao",
-      "zh-CN": "库拉索"
+      "zh-CN": "库拉索",
+      "fr": "Curaçao",
+      "de": "Curaçao",
+      "es": "Curaçao",
+      "ja": "キュラソー",
+      "ko": "큐라소",
+      "hi": "कुराकाओ",
+      "ar": "كوراساو"
     },
     "fullName": {
       "native": "Land Curaçao",
       "en": "Curaçao",
-      "zh-CN": "库拉索"
+      "zh-CN": "库拉索",
+      "fr": "Curaçao",
+      "de": "Curaçao",
+      "es": "Curazao",
+      "ja": "キュラソー",
+      "ko": "퀴라소",
+      "hi": "कुराकाओ",
+      "ar": "جزر كوراكاو"
     },
     "population": 192000,
     "area": 444,
@@ -4285,12 +7211,26 @@
     "name": {
       "native": "Aruba",
       "en": "Aruba",
-      "zh-CN": "阿鲁巴"
+      "zh-CN": "阿鲁巴",
+      "fr": "Aruba",
+      "de": "Aruba",
+      "es": "Aruba",
+      "ja": "アルバ",
+      "ko": "아루바",
+      "hi": "अरुबा",
+      "ar": "أروبا"
     },
     "fullName": {
       "native": "Aruba",
       "en": "Aruba",
-      "zh-CN": "阿鲁巴"
+      "zh-CN": "阿鲁巴",
+      "fr": "Aruba",
+      "de": "Aruba",
+      "es": "Aruba",
+      "ja": "アルーバ",
+      "ko": "아루바",
+      "hi": "अरूबा",
+      "ar": "أروبا"
     },
     "population": 112309,
     "area": 180,
@@ -4306,12 +7246,26 @@
     "name": {
       "native": "Gibraltar",
       "en": "Gibraltar",
-      "zh-CN": "直布罗陀"
+      "zh-CN": "直布罗陀",
+      "fr": "Gibraltar",
+      "de": "Gibraltar",
+      "es": "Gibraltar",
+      "ja": "ジブラルタル",
+      "ko": "지브랄타",
+      "hi": "जिब्राल्टर",
+      "ar": "جبل طارق"
     },
     "fullName": {
       "native": "Gibraltar",
       "en": "Gibraltar",
-      "zh-CN": "直布罗陀"
+      "zh-CN": "直布罗陀",
+      "fr": "Gibraltar",
+      "de": "Gibraltar",
+      "es": "Gibraltar",
+      "ja": "ジブラルタル",
+      "ko": "지브롤터",
+      "hi": "जिब्राल्टर",
+      "ar": "جبل طارق"
     },
     "population": 34571,
     "area": 7,
@@ -4326,12 +7280,26 @@
     "name": {
       "native": "Jersey",
       "en": "Jersey",
-      "zh-CN": "泽西"
+      "zh-CN": "泽西",
+      "fr": "Jersey",
+      "de": "Jersey",
+      "es": "Jersey",
+      "ja": "ジャージー",
+      "ko": "저지",
+      "hi": "जर्सी",
+      "ar": "جيرزي"
     },
     "fullName": {
       "native": "Bailiwick of Jersey",
       "en": "Bailiwick of Jersey",
-      "zh-CN": "泽西行政区"
+      "zh-CN": "泽西行政区",
+      "fr": "Jersey",
+      "de": "Jersey",
+      "es": "Jersey",
+      "ja": "ジャージー",
+      "ko": "저지 섬",
+      "hi": "जर्सी",
+      "ar": "جيرسي"
     },
     "population": 106800,
     "area": 116,
@@ -4347,12 +7315,26 @@
     "name": {
       "native": "Guernsey",
       "en": "Guernsey",
-      "zh-CN": "根西"
+      "zh-CN": "根西",
+      "fr": "Guernesey",
+      "de": "Guernsey",
+      "es": "Guernsey",
+      "ja": "ガーンジー",
+      "ko": "건지",
+      "hi": "ग्वेर्नसे",
+      "ar": "غيرنزي"
     },
     "fullName": {
       "native": "Bailiwick of Guernsey",
       "en": "Bailiwick of Guernsey",
-      "zh-CN": "根西行政区"
+      "zh-CN": "根西行政区",
+      "fr": "Guernesey",
+      "de": "Guernsey",
+      "es": "Guernsey",
+      "ja": "ガーンジー",
+      "ko": "건지 섬",
+      "hi": "ग्वेर्नसे",
+      "ar": "جزيرة جويرزني"
     },
     "population": 67334,
     "area": 78,
@@ -4368,12 +7350,26 @@
     "name": {
       "native": "Isle of Man",
       "en": "Isle of Man",
-      "zh-CN": "马恩岛"
+      "zh-CN": "马恩岛",
+      "fr": "Île de Man",
+      "de": "Insel Man",
+      "es": "Isla de Man",
+      "ja": "マン島",
+      "ko": "맨섬",
+      "hi": "आइसल ऑफ मैन",
+      "ar": "جزيرة مان"
     },
     "fullName": {
       "native": "Isle of Man",
       "en": "Isle of Man",
-      "zh-CN": "马恩岛"
+      "zh-CN": "马恩岛",
+      "fr": "Île de Man",
+      "de": "Insel Man",
+      "es": "Isla de Man",
+      "ja": "マン島",
+      "ko": "맨 섬",
+      "hi": "आइल ऑफ मैन",
+      "ar": "آيزل أف مان"
     },
     "population": 84584,
     "area": 572,
@@ -4388,12 +7384,26 @@
     "name": {
       "native": "Turks and Caicos Islands",
       "en": "Turks and Caicos Islands",
-      "zh-CN": "特克斯和凯科斯群岛"
+      "zh-CN": "特克斯和凯科斯群岛",
+      "fr": "Îles Turques-et-Caïques",
+      "de": "Turks- und Caicosinseln",
+      "es": "Islas Turcas y Caicos",
+      "ja": "タークス・カイコス諸島",
+      "ko": "터크스",
+      "hi": "तुर्क एंड कैकोस द्वीपसमूह",
+      "ar": "جزر توركس وكايكوس"
     },
     "fullName": {
       "native": "Turks and Caicos Islands",
       "en": "Turks and Caicos Islands",
-      "zh-CN": "特克斯和凯科斯群岛"
+      "zh-CN": "特克斯和凯科斯群岛",
+      "fr": "Îles Turques-et-Caïques",
+      "de": "Turks- und Caicosinseln",
+      "es": "Islas Turcas y Caicos",
+      "ja": "タークス及びカイコス諸島",
+      "ko": "터크스 케이커스 제도",
+      "hi": "तुर्क और केकोस द्वीपसमूह",
+      "ar": "جزر التّرك و الكايكوس"
     },
     "population": 45703,
     "area": 948,
@@ -4408,12 +7418,26 @@
     "name": {
       "native": "British Virgin Islands",
       "en": "British Virgin Islands",
-      "zh-CN": "英属维尔京群岛"
+      "zh-CN": "英属维尔京群岛",
+      "fr": "Îles vierges britanniques",
+      "de": "Britische Jungferninseln",
+      "es": "Islas Vírgenes británicas",
+      "ja": "イギリス領ヴァージン諸島",
+      "ko": "영국령 버진아일랜드",
+      "hi": "ब्रितानी वर्जिन द्वीपसमूह",
+      "ar": "جزر العذراء البريطانية"
     },
     "fullName": {
       "native": "Virgin Islands",
       "en": "British Virgin Islands",
-      "zh-CN": "英属维尔京群岛"
+      "zh-CN": "英属维尔京群岛",
+      "fr": "Îles Vierges britanniques",
+      "de": "Britische Jungferninseln",
+      "es": "Islas Vírgenes Británicas",
+      "ja": "英領ヴァージン諸島",
+      "ko": "영국령 버진 제도",
+      "hi": "ब्रिटिश वर्जिन द्वीपसमूह",
+      "ar": "جزر فيرجن البريطانيّة"
     },
     "population": 30423,
     "area": 151,
@@ -4428,12 +7452,26 @@
     "name": {
       "native": "Anguilla",
       "en": "Anguilla",
-      "zh-CN": "安圭拉"
+      "zh-CN": "安圭拉",
+      "fr": "Anguilla",
+      "de": "Anguilla",
+      "es": "Anguila",
+      "ja": "アンギラ",
+      "ko": "앙길라",
+      "hi": "अंग्विला",
+      "ar": "أنغويلا"
     },
     "fullName": {
       "native": "Anguilla",
       "en": "Anguilla",
-      "zh-CN": "安圭拉"
+      "zh-CN": "安圭拉",
+      "fr": "Anguilla",
+      "de": "Anguilla",
+      "es": "Anguila",
+      "ja": "アングイラ",
+      "ko": "앵귈라",
+      "hi": "अंगुइला",
+      "ar": "أنغويلا"
     },
     "population": 18090,
     "area": 91,
@@ -4448,12 +7486,26 @@
     "name": {
       "native": "Montserrat",
       "en": "Montserrat",
-      "zh-CN": "蒙特塞拉特"
+      "zh-CN": "蒙特塞拉特",
+      "fr": "Montserrat",
+      "de": "Montserrat",
+      "es": "Montserrat",
+      "ja": "モントセラト",
+      "ko": "몬트세라트",
+      "hi": "मोंटसेराट",
+      "ar": "مونتسرات"
     },
     "fullName": {
       "native": "Montserrat",
       "en": "Montserrat",
-      "zh-CN": "蒙特塞拉特"
+      "zh-CN": "蒙特塞拉特",
+      "fr": "Montserrat",
+      "de": "Montserrat",
+      "es": "Montserrat",
+      "ja": "モントセラト",
+      "ko": "몬트세랫",
+      "hi": "मॉण्टसेराट",
+      "ar": "مونتسيرات"
     },
     "population": 4390,
     "area": 102,
@@ -4468,12 +7520,26 @@
     "name": {
       "native": "Saint Helena, Ascension and Tristan da Cunha",
       "en": "Saint Helena",
-      "zh-CN": "圣赫勒拿"
+      "zh-CN": "圣赫勒拿",
+      "fr": "Sainte-Hélène",
+      "de": "St. Helena",
+      "es": "Santa Helena, Ascensión y Tristán de Acuña",
+      "ja": "セントヘレナ・アセンションおよびトリスタンダクーニャ",
+      "ko": "세인트 헬레나",
+      "hi": "सेंट हेलेना",
+      "ar": "سانت هيلينا وأسينشين وتريستان دا كونا"
     },
     "fullName": {
       "native": "Saint Helena, Ascension and Tristan da Cunha",
       "en": "Saint Helena, Ascension and Tristan da Cunha",
-      "zh-CN": "圣赫勒拿、阿森松和特里斯坦-达库尼亚"
+      "zh-CN": "圣赫勒拿、阿森松和特里斯坦-达库尼亚",
+      "fr": "Sainte-Hélène, Ascension et Tristan da Cunha",
+      "de": "St. Helena, Ascension und Tristan da Cunha",
+      "es": "Santa Elena, Ascensión y Tristán de Acuña",
+      "ja": "セントヘレナ、アセンション及びトリスタン・ダ・クーニャ",
+      "ko": "세인트헬레나 어센션 트리스탄다쿠냐",
+      "hi": "सेंट हेलेना, असेंशन और त्रिस्तान दा कुन्हा",
+      "ar": "ساينت هيلينا، تريستان دا كونا"
     },
     "population": 5633,
     "area": 394,
@@ -4488,12 +7554,26 @@
     "name": {
       "native": "Falkland Islands",
       "en": "Falkland Islands",
-      "zh-CN": "福克兰群岛"
+      "zh-CN": "福克兰群岛",
+      "fr": "Îles Malouines",
+      "de": "Falklandinseln",
+      "es": "Islas Malvinas",
+      "ja": "フォークランド（マルビナス）諸島",
+      "ko": "포클랜드섬",
+      "hi": "फाकलैंड द्वीप समूह (मालविनास)",
+      "ar": "جزر فوكلاند"
     },
     "fullName": {
       "native": "Falkland Islands",
       "en": "Falkland Islands",
-      "zh-CN": "福克兰群岛"
+      "zh-CN": "福克兰群岛",
+      "fr": "Malouines, Îles (Falkland)",
+      "de": "Falklandinseln (Malwinen)",
+      "es": "Islas Falkland (Malvinas)",
+      "ja": "フォークランド諸島 (マルビナス)",
+      "ko": "포클랜드 제도 (말비나스)",
+      "hi": "फॉकलैंड आइलैंड्स (मालविनास)",
+      "ar": "جزر فولكلاند (مالفيناس)"
     },
     "population": 2840,
     "area": 12173,
@@ -4508,12 +7588,26 @@
     "name": {
       "native": "Guyane française",
       "en": "French Guiana",
-      "zh-CN": "法属圭亚那"
+      "zh-CN": "法属圭亚那",
+      "fr": "Guyane française",
+      "de": "Französisch-Guayana",
+      "es": "Guayana Francesa",
+      "ja": "フランス領ギアナ",
+      "ko": "프랑스령 기아나",
+      "hi": "फ्रेंच गुआना",
+      "ar": "غويانا الفرنسية"
     },
     "fullName": {
       "native": "Guyane",
       "en": "French Guiana",
-      "zh-CN": "法属圭亚那"
+      "zh-CN": "法属圭亚那",
+      "fr": "Guyane française",
+      "de": "Französisch-Guyana",
+      "es": "Guayana Francesa",
+      "ja": "仏領ギアナ",
+      "ko": "프랑스령 기아나",
+      "hi": "फ्रेंच गयाना",
+      "ar": "غيانا الفرنسيّة"
     },
     "population": 294071,
     "area": 83534,
@@ -4528,12 +7622,26 @@
     "name": {
       "native": "Guadeloupe",
       "en": "Guadeloupe",
-      "zh-CN": "瓜德罗普"
+      "zh-CN": "瓜德罗普",
+      "fr": "Guadeloupe",
+      "de": "Guadeloupe",
+      "es": "Guadalupe",
+      "ja": "グアドループ",
+      "ko": "과들루프",
+      "hi": "ग्वाडेलोप",
+      "ar": "غوادلوب"
     },
     "fullName": {
       "native": "Guadeloupe",
       "en": "Guadeloupe",
-      "zh-CN": "瓜德罗普"
+      "zh-CN": "瓜德罗普",
+      "fr": "Guadeloupe",
+      "de": "Guadeloupe",
+      "es": "Guadalupe",
+      "ja": "グアドループ",
+      "ko": "과들루프",
+      "hi": "गुआदेलूप",
+      "ar": "جوادالوبّي"
     },
     "population": 400000,
     "area": 1628,
@@ -4548,12 +7656,26 @@
     "name": {
       "native": "Martinique",
       "en": "Martinique",
-      "zh-CN": "马提尼克"
+      "zh-CN": "马提尼克",
+      "fr": "Martinique",
+      "de": "Martinique",
+      "es": "Martinica",
+      "ja": "マルティニーク",
+      "ko": "마르티니크",
+      "hi": "मार्टिनिक",
+      "ar": "مارتينيك"
     },
     "fullName": {
       "native": "Martinique",
       "en": "Martinique",
-      "zh-CN": "马提尼克"
+      "zh-CN": "马提尼克",
+      "fr": "Martinique",
+      "de": "Martinique",
+      "es": "Martinica",
+      "ja": "マルティニーク",
+      "ko": "마르티니크",
+      "hi": "मार्टीनिक",
+      "ar": "مارتينيك"
     },
     "population": 350000,
     "area": 1128,
@@ -4568,12 +7690,26 @@
     "name": {
       "native": "La Réunion",
       "en": "Réunion",
-      "zh-CN": "留尼汪"
+      "zh-CN": "留尼汪",
+      "fr": "Réunion",
+      "de": "Réunion",
+      "es": "Reunión",
+      "ja": "レユニオン",
+      "ko": "리유니온",
+      "hi": "रीयूनियन",
+      "ar": "لا ريونيون"
     },
     "fullName": {
       "native": "Ile de la Réunion",
       "en": "Réunion",
-      "zh-CN": "留尼汪"
+      "zh-CN": "留尼汪",
+      "fr": "Réunion, Île de la",
+      "de": "Réunion",
+      "es": "Reunión",
+      "ja": "レユニオン",
+      "ko": "레위니옹",
+      "hi": "रियूनियन",
+      "ar": "ريونيون"
     },
     "population": 895000,
     "area": 2511,
@@ -4588,12 +7724,26 @@
     "name": {
       "native": "Saint-Martin",
       "en": "Saint Martin",
-      "zh-CN": "圣马丁"
+      "zh-CN": "圣马丁",
+      "fr": "Saint-Martin (partie française)",
+      "de": "Saint-Martin",
+      "es": "Saint Martin (francesa)",
+      "ja": "サン・マルタン（フランス領）",
+      "ko": "세인트 마틴 (프랑스어 부분)",
+      "hi": "सेंट मार्टिन की सामूहिकता",
+      "ar": "سانت مارتن (الجزء الفرنسي)"
     },
     "fullName": {
       "native": "Saint-Martin",
       "en": "Collectivity of Saint Martin",
-      "zh-CN": "圣马丁集体"
+      "zh-CN": "圣马丁集体",
+      "fr": "Saint-Martin (partie française)",
+      "de": "Saint Martin (Französischer Teil)",
+      "es": "San Martín (zona francesa)",
+      "ja": "サンマルタン (仏領)",
+      "ko": "생마르탱 (프랑스령)",
+      "hi": "सेंट मार्टिन (फ्रेंच भाग)",
+      "ar": "سانت مارتين (القطاع الفرنسي)"
     },
     "population": 38002,
     "area": 53,
@@ -4608,12 +7758,26 @@
     "name": {
       "native": "Saint-Pierre-et-Miquelon",
       "en": "Saint Pierre and Miquelon",
-      "zh-CN": "圣皮埃尔和密克隆"
+      "zh-CN": "圣皮埃尔和密克隆",
+      "fr": "Saint-Pierre-et-Miquelon",
+      "de": "Saint-Pierre und Miquelon",
+      "es": "San Pedro y Miquelón",
+      "ja": "サンピエール島・ミクロン島",
+      "ko": "세인트리에르도,미괘론도",
+      "hi": "सेंट पिएरे एंड मिक्वेलॉन",
+      "ar": "سان بيير وميكلون"
     },
     "fullName": {
       "native": "Collectivité territoriale de Saint-Pierre-et-Miquelon",
       "en": "Saint Pierre and Miquelon",
-      "zh-CN": "圣皮埃尔和密克隆"
+      "zh-CN": "圣皮埃尔和密克隆",
+      "fr": "Saint-Pierre-et-Miquelon",
+      "de": "St. Pierre und Miquelon",
+      "es": "San Pedro y Miquelon",
+      "ja": "サンピエール及びミクロン",
+      "ko": "생피에르 미클롱",
+      "hi": "साँ-प्येर और मीकेलों",
+      "ar": "سانت بيير و ميكيلون"
     },
     "population": 5794,
     "area": 242,
@@ -4628,12 +7792,26 @@
     "name": {
       "native": "Wallis et Futuna",
       "en": "Wallis and Futuna",
-      "zh-CN": "瓦利斯和富图纳"
+      "zh-CN": "瓦利斯和富图纳",
+      "fr": "Wallis-et-Futuna",
+      "de": "Wallis und Futuna",
+      "es": "Wallis y Futuna",
+      "ja": "ウォリス・フツナ",
+      "ko": "월리스 후트나",
+      "hi": "वालीज एंड फुटुना",
+      "ar": "والس وفوتونا"
     },
     "fullName": {
       "native": "Territoire des îles Wallis et Futuna",
       "en": "Wallis and Futuna",
-      "zh-CN": "瓦利斯和富图纳群岛"
+      "zh-CN": "瓦利斯和富图纳群岛",
+      "fr": "Wallis et Futuna",
+      "de": "Wallis und Futuna",
+      "es": "Wallis y Futuna",
+      "ja": "ワリー及びフテュナ",
+      "ko": "왈리스 퓌튀나",
+      "hi": "वालिस और फ्यूटुना",
+      "ar": "واليس و فوتونا"
     },
     "population": 11369,
     "area": 142,
@@ -4648,12 +7826,26 @@
     "name": {
       "native": "Mayotte",
       "en": "Mayotte",
-      "zh-CN": "马约特"
+      "zh-CN": "马约特",
+      "fr": "Mayotte",
+      "de": "Mayotte",
+      "es": "Mayotte",
+      "ja": "マヨット",
+      "ko": "마요트",
+      "hi": "मायोते",
+      "ar": "مايوت"
     },
     "fullName": {
       "native": "Département de Mayotte",
       "en": "Mayotte",
-      "zh-CN": "马约特"
+      "zh-CN": "马约特",
+      "fr": "Mayotte",
+      "de": "Mayotte",
+      "es": "Mayotte",
+      "ja": "マヨット",
+      "ko": "마요트",
+      "hi": "मेयोट",
+      "ar": "مايوت"
     },
     "population": 256518,
     "area": 374,
@@ -4668,12 +7860,26 @@
     "name": {
       "native": "American Samoa",
       "en": "American Samoa",
-      "zh-CN": "美属萨摩亚"
+      "zh-CN": "美属萨摩亚",
+      "fr": "Samoa américaines",
+      "de": "Amerikanisch-Samoa",
+      "es": "Samoa Americana",
+      "ja": "アメリカ領サモア",
+      "ko": "아메리칸 사모아",
+      "hi": "अमेरिकान सामोआ",
+      "ar": "ساموا الأمريكية"
     },
     "fullName": {
       "native": "American Samoa",
       "en": "American Samoa",
-      "zh-CN": "美属萨摩亚"
+      "zh-CN": "美属萨摩亚",
+      "fr": "Samoa américaines",
+      "de": "Amerikanisch-Samoa",
+      "es": "Samoa Estadounidense",
+      "ja": "米領サモア",
+      "ko": "아메리칸사모아",
+      "hi": "अमेरिकी समोआ",
+      "ar": "صاموا الأمريكيّة"
     },
     "population": 55312,
     "area": 199,
@@ -4689,12 +7895,26 @@
     "name": {
       "native": "Northern Mariana Islands",
       "en": "Northern Mariana Islands",
-      "zh-CN": "北马里亚纳群岛"
+      "zh-CN": "北马里亚纳群岛",
+      "fr": "Îles Mariannes du Nord",
+      "de": "Nördliche Marianen",
+      "es": "Islas Marianas del Norte",
+      "ja": "北マリアナ諸島",
+      "ko": "북마리아나 군도",
+      "hi": "उत्तर मैरिना द्वीपसमूह",
+      "ar": "جزر ماريانا الشمالية"
     },
     "fullName": {
       "native": "Commonwealth of the Northern Mariana Islands",
       "en": "Commonwealth of the Northern Mariana Islands",
-      "zh-CN": "北马里亚纳群岛联邦"
+      "zh-CN": "北马里亚纳群岛联邦",
+      "fr": "Commonwealth des îles Mariannes du Nord",
+      "de": "Commonwealth Nördliche Mariana-Inseln",
+      "es": "Commonwealth de las Islas Marianas del Norte",
+      "ja": "北マリアナ諸島連邦",
+      "ko": "북마리아나 제도 연방",
+      "hi": "उत्तरी मारियाना द्वीप समूह का राष्ट्रमंडल",
+      "ar": "كومنولث جزر ماريانا الشّماليّة"
     },
     "population": 57216,
     "area": 464,
@@ -4709,12 +7929,26 @@
     "name": {
       "native": "Christmas Island",
       "en": "Christmas Island",
-      "zh-CN": "圣诞岛"
+      "zh-CN": "圣诞岛",
+      "fr": "Île Christmas",
+      "de": "Weihnachtsinsel",
+      "es": "Isla de Navidad",
+      "ja": "クリスマス島",
+      "ko": "크리스마스섬",
+      "hi": "क्रिसमस द्वीप",
+      "ar": "جزيرة عيد الميلاد"
     },
     "fullName": {
       "native": "Territory of Christmas Island",
       "en": "Christmas Island",
-      "zh-CN": "圣诞岛"
+      "zh-CN": "圣诞岛",
+      "fr": "Christmas, Île",
+      "de": "Weihnachtsinseln",
+      "es": "Isla de Navidad",
+      "ja": "クリスマス島",
+      "ko": "크리스마스 섬",
+      "hi": "क्रिसमस द्वीप",
+      "ar": "جزر الكريسماس"
     },
     "population": 2072,
     "area": 135,
@@ -4729,12 +7963,26 @@
     "name": {
       "native": "Cocos (Keeling) Islands",
       "en": "Cocos Islands",
-      "zh-CN": "科科斯群岛"
+      "zh-CN": "科科斯群岛",
+      "fr": "Îles Cocos",
+      "de": "Kokosinseln",
+      "es": "Islas Cocos (Keeling)",
+      "ja": "ココス（キーリング）諸島",
+      "ko": "코코스 제도",
+      "hi": "कोकोस (कीलिंग) द्वीप",
+      "ar": "جزر كوكوس"
     },
     "fullName": {
       "native": "Territory of the Cocos (Keeling) Islands",
       "en": "Cocos (Keeling) Islands",
-      "zh-CN": "科科斯（基林）群岛"
+      "zh-CN": "科科斯（基林）群岛",
+      "fr": "Cocos (Keeling), Îles",
+      "de": "Kokos-(Keeling-)Inseln",
+      "es": "Islas Cocos (Keeling)",
+      "ja": "ココス (キーリング) 諸島",
+      "ko": "코코스 제도",
+      "hi": "कोकोस (कीलिंग) द्वीपसमूह",
+      "ar": "جزر الكوكوس"
     },
     "population": 544,
     "area": 14,
@@ -4749,12 +7997,26 @@
     "name": {
       "native": "Norfolk Island",
       "en": "Norfolk Island",
-      "zh-CN": "诺福克岛"
+      "zh-CN": "诺福克岛",
+      "fr": "Île Norfolk",
+      "de": "Norfolkinsel",
+      "es": "Isla Norfolk",
+      "ja": "ノーフォーク島",
+      "ko": "노퍽섬",
+      "hi": "नोरफॉक द्वीप",
+      "ar": "جزيرة نورفولك"
     },
     "fullName": {
       "native": "Territory of Norfolk Island",
       "en": "Norfolk Island",
-      "zh-CN": "诺福克岛"
+      "zh-CN": "诺福克岛",
+      "fr": "Île Norfolk",
+      "de": "Norfolkinsel",
+      "es": "Isla Norfolk",
+      "ja": "ノーフォーク島",
+      "ko": "노퍽 섬",
+      "hi": "नॉर्फ़ोक द्वीप",
+      "ar": "جزيرة نورفولك"
     },
     "population": 1748,
     "area": 36,
@@ -4769,12 +8031,26 @@
     "name": {
       "native": "Pitcairn Islands",
       "en": "Pitcairn Islands",
-      "zh-CN": "皮特凯恩群岛"
+      "zh-CN": "皮特凯恩群岛",
+      "fr": "Îles Pitcairn",
+      "de": "Pitcairninseln",
+      "es": "Pitcairn",
+      "ja": "ピトケアン",
+      "ko": "핏케언 군도",
+      "hi": "पिटकैर्न द्वीपसमूह",
+      "ar": "جزر بيتكيرن"
     },
     "fullName": {
       "native": "Pitcairn Group of Islands",
       "en": "Pitcairn, Henderson, Ducie and Oeno Islands",
-      "zh-CN": "皮特凯恩群岛"
+      "zh-CN": "皮特凯恩群岛",
+      "fr": "Îles Pitcairn",
+      "de": "Pitcairninseln",
+      "es": "Pitcairn",
+      "ja": "ピトケアン",
+      "ko": "핏케언 제도",
+      "hi": "पिटकेर्न",
+      "ar": "بتكيرن"
     },
     "population": 50,
     "area": 47,
@@ -4789,12 +8065,26 @@
     "name": {
       "native": "Tokelau",
       "en": "Tokelau",
-      "zh-CN": "托克劳"
+      "zh-CN": "托克劳",
+      "fr": "Tokelau",
+      "de": "Tokelau",
+      "es": "Tokelau",
+      "ja": "トケラウ",
+      "ko": "토켈로",
+      "hi": "टोकेलू",
+      "ar": "توكيلاو"
     },
     "fullName": {
       "native": "Tokelau",
       "en": "Tokelau",
-      "zh-CN": "托克劳"
+      "zh-CN": "托克劳",
+      "fr": "Tokelau",
+      "de": "Tokelau",
+      "es": "Tokelau",
+      "ja": "トケラウ",
+      "ko": "토켈라우",
+      "hi": "टोकेलाऊ",
+      "ar": "جزر توكيلو"
     },
     "population": 1647,
     "area": 12,
@@ -4810,12 +8100,26 @@
     "name": {
       "native": "Niue",
       "en": "Niue",
-      "zh-CN": "纽埃"
+      "zh-CN": "纽埃",
+      "fr": "Niué",
+      "de": "Niue",
+      "es": "Niue",
+      "ja": "ニウエ",
+      "ko": "니우에",
+      "hi": "नियू",
+      "ar": "نييوي"
     },
     "fullName": {
       "native": "Niue",
       "en": "Niue",
-      "zh-CN": "纽埃"
+      "zh-CN": "纽埃",
+      "fr": "Nioue",
+      "de": "Niue",
+      "es": "Niue",
+      "ja": "ニウエ",
+      "ko": "니우에",
+      "hi": "निउए",
+      "ar": "نيوي"
     },
     "population": 1549,
     "area": 260,
@@ -4831,12 +8135,26 @@
     "name": {
       "native": "Cook Islands",
       "en": "Cook Islands",
-      "zh-CN": "库克群岛"
+      "zh-CN": "库克群岛",
+      "fr": "Îles Cook",
+      "de": "Cookinseln",
+      "es": "Islas Cook",
+      "ja": "クック諸島",
+      "ko": "쿡 제도",
+      "hi": "कुक द्वीप",
+      "ar": "جزر كوك"
     },
     "fullName": {
       "native": "Cook Islands",
       "en": "Cook Islands",
-      "zh-CN": "库克群岛"
+      "zh-CN": "库克群岛",
+      "fr": "Îles Cook",
+      "de": "Cookinseln",
+      "es": "Islas Cook",
+      "ja": "クック諸島",
+      "ko": "쿡 제도",
+      "hi": "कुक द्वीपसमूह",
+      "ar": "جزر كوك"
     },
     "population": 17459,
     "area": 236,
@@ -4851,12 +8169,26 @@
     "name": {
       "native": "Western Sahara",
       "en": "Western Sahara",
-      "zh-CN": "西撒哈拉"
+      "zh-CN": "西撒哈拉",
+      "fr": "Sahara occidental",
+      "de": "Westsahara",
+      "es": "Sahara Occidental",
+      "ja": "西サハラ",
+      "ko": "서사하라",
+      "hi": "पश्चिमी सहारा",
+      "ar": "الصحراء الغربية"
     },
     "fullName": {
       "native": "Sahrawi Arab Democratic Republic",
       "en": "Western Sahara",
-      "zh-CN": "西撒哈拉"
+      "zh-CN": "西撒哈拉",
+      "fr": "Sahara occidental",
+      "de": "Westsahara",
+      "es": "Sahara Occidental",
+      "ja": "西サハラ",
+      "ko": "서사하라",
+      "hi": "पश्चिमी सहारा",
+      "ar": "الصّحراء الغربيّة"
     },
     "population": 612000,
     "area": 266000,
@@ -4871,12 +8203,26 @@
     "name": {
       "native": "Åland",
       "en": "Åland Islands",
-      "zh-CN": "奥兰群岛"
+      "zh-CN": "奥兰群岛",
+      "fr": "Åland",
+      "de": "Åland",
+      "es": "Islas Åland",
+      "ja": "オーランド諸島",
+      "ko": "올란드 제도",
+      "hi": "ऑलैण्ड द्वीपसमूह",
+      "ar": "جزر أولاند"
     },
     "fullName": {
       "native": "Landskapet Åland",
       "en": "Åland Islands",
-      "zh-CN": "奥兰群岛"
+      "zh-CN": "奥兰群岛",
+      "fr": "Åland, Îles",
+      "de": "Åland-Inseln",
+      "es": "Islas Äland",
+      "ja": "オーランド諸島",
+      "ko": "올란드 제도",
+      "hi": "ऑलैण्ड द्वीपसमूह",
+      "ar": "جزر آلاند"
     },
     "population": 30129,
     "area": 1580,
@@ -4891,12 +8237,26 @@
     "name": {
       "native": "Saint-Barthélemy",
       "en": "Saint Barthélemy",
-      "zh-CN": "圣巴泰勒米"
+      "zh-CN": "圣巴泰勒米",
+      "fr": "Saint-Barthélemy",
+      "de": "Saint-Barthélemy",
+      "es": "Saint Barthélemy",
+      "ja": "サン・バルテルミー",
+      "ko": "생 바르 텔레 미",
+      "hi": "सेंट_बार्थेलेमी",
+      "ar": "سان بارتيلمي"
     },
     "fullName": {
       "native": "Collectivité de Saint-Barthélemy",
       "en": "Collectivity of Saint Barthélemy",
-      "zh-CN": "圣巴泰勒米集体"
+      "zh-CN": "圣巴泰勒米集体",
+      "fr": "Saint-Barthélemy",
+      "de": "Saint-Barthélemy",
+      "es": "San Bartolomé",
+      "ja": "サンバルテルミ",
+      "ko": "생바르텔레미",
+      "hi": "सेंट बार्थेलेमी",
+      "ar": "سان بارتليمي"
     },
     "population": 9131,
     "area": 21,
@@ -4911,12 +8271,26 @@
     "name": {
       "native": "British Indian Ocean Territory",
       "en": "British Indian Ocean Territory",
-      "zh-CN": "英属印度洋领地"
+      "zh-CN": "英属印度洋领地",
+      "fr": "Océan Indien Britannique",
+      "de": "Britisches Territorium im Indischen Ozean",
+      "es": "Territorio Británico del Océano Índico",
+      "ja": "イギリス領インド洋地域",
+      "ko": "영인도 제도",
+      "hi": "ब्रितानी हिंद महासागरीय क्षेत्र",
+      "ar": "إقليم المحيط الهندي البريطاني"
     },
     "fullName": {
       "native": "British Indian Ocean Territory",
       "en": "British Indian Ocean Territory",
-      "zh-CN": "英属印度洋领地"
+      "zh-CN": "英属印度洋领地",
+      "fr": "Territoire britannique de l'océan Indien",
+      "de": "Britisches Territorium im Indischen Ozean",
+      "es": "Territorio Británico del Océano Índico",
+      "ja": "英国インド洋領土",
+      "ko": "영국령 인도양 지역",
+      "hi": "ब्रिटिश हिंद महासागर क्षेत्र",
+      "ar": "مقاطعة المحيط الهندي البريطانيّة"
     },
     "population": 3000,
     "area": 60,
@@ -4931,12 +8305,26 @@
     "name": {
       "native": "Sint Maarten",
       "en": "Sint Maarten",
-      "zh-CN": "圣马丁（荷兰部分）"
+      "zh-CN": "圣马丁（荷兰部分）",
+      "fr": "Saint-Martin (partie néerlandaise)",
+      "de": "Sint Maarten",
+      "es": "Sint Maarten (neerlandesa)",
+      "ja": "シント・マールテン（オランダ領）",
+      "ko": "신트마르텐",
+      "hi": "सिण्ट मार्टेन",
+      "ar": "سانت مارتن (الجزء الهولندي)"
     },
     "fullName": {
       "native": "Sint Maarten",
       "en": "Sint Maarten",
-      "zh-CN": "荷属圣马丁"
+      "zh-CN": "荷属圣马丁",
+      "fr": "Saint-Martin (partie néerlandaise)",
+      "de": "Saint-Martin (Niederländischer Teil)",
+      "es": "Isla de San Martín (zona holandesa)",
+      "ja": "サンマルタン (オランダ領)",
+      "ko": "신트마르턴 (네덜란드령)",
+      "hi": "सेंट मार्टिन (डच भाग)",
+      "ar": "سانت مارتن (الجزء الهولندي)"
     },
     "population": 42876,
     "area": 34,
@@ -4952,12 +8340,26 @@
     "name": {
       "native": "Caribisch Nederland",
       "en": "Caribbean Netherlands",
-      "zh-CN": "荷兰加勒比区"
+      "zh-CN": "荷兰加勒比区",
+      "fr": "Bonaire, Saint-Eustache et Saba",
+      "de": "Bonaire",
+      "es": "Bonaire, San Eustaquio y Saba",
+      "ja": "ボネール、シント・ユースタティウスおよびサバ",
+      "ko": "보네르,신트유스타티우스,사바",
+      "hi": "कैरिबियन नीदरलैंड",
+      "ar": "الجزر الكاريبية الهولندية"
     },
     "fullName": {
       "native": "Bonaire, Sint Eustatius en Saba",
       "en": "Bonaire, Sint Eustatius and Saba",
-      "zh-CN": "博奈尔、圣尤斯特歇斯和萨巴"
+      "zh-CN": "博奈尔、圣尤斯特歇斯和萨巴",
+      "fr": "Bonaire, Saint-Eustache et Saba",
+      "de": "Bonaire, Sint Eustatius und Saba",
+      "es": "Islas BES (Caribe Neerlandés)",
+      "ja": "ボネール、シントユースタティウス及びサバ",
+      "ko": "보네르, 신트외스타티위스, 사바 섬",
+      "hi": "बोनैर, सिंट यूस्टेटीयस एंड साबा",
+      "ar": "بونير وسانت يوستاتيوس وسابا"
     },
     "population": 26223,
     "area": 328,
@@ -4972,12 +8374,26 @@
     "name": {
       "native": "Terres australes et antarctiques françaises",
       "en": "French Southern Territories",
-      "zh-CN": "法属南部领地"
+      "zh-CN": "法属南部领地",
+      "fr": "Terres australes françaises",
+      "de": "Französische Süd- und Antarktisgebiete",
+      "es": "Tierras Australes Francesas",
+      "ja": "フランス領南方・南極地域",
+      "ko": "프랑스 남부영토",
+      "hi": "फ्रांसीसी दक्षिणी क्षेत्र",
+      "ar": "أراض فرنسية جنوبية وأنتارتيكية"
     },
     "fullName": {
       "native": "Territoire des Terres australes et antarctiques françaises",
       "en": "French Southern and Antarctic Lands",
-      "zh-CN": "法属南部和南极领地"
+      "zh-CN": "法属南部和南极领地",
+      "fr": "Terres australes françaises",
+      "de": "Französische Süd- und Antarktisgebiete",
+      "es": "Territorios Franceses del Sur",
+      "ja": "フランス南方領土",
+      "ko": "프랑스령 남 자치구역",
+      "hi": "दक्षिणी फ्राँसिसी क्षेत्र",
+      "ar": "المقاطعات الفرنسيّة الجنوبيّة"
     },
     "population": 140,
     "area": 7747,
@@ -4992,12 +8408,26 @@
     "name": {
       "native": "South Georgia",
       "en": "South Georgia",
-      "zh-CN": "南乔治亚和南桑威奇群岛"
+      "zh-CN": "南乔治亚和南桑威奇群岛",
+      "fr": "Géorgie du Sud-et-les Îles Sandwich du Sud",
+      "de": "Südgeorgien und die Südlichen Sandwichinseln",
+      "es": "Georgia del Sur y las Islas Sandwich del Sur",
+      "ja": "サウスジョージア・サウスサンドウィッチ諸島",
+      "ko": "남조지아 군도",
+      "hi": "दक्षिण जॉर्जिया और दक्षिण सैंडविच द्वीप समूह",
+      "ar": "جورجيا الجنوبية وجزر ساندويتش الجنوبية"
     },
     "fullName": {
       "native": "South Georgia and the South Sandwich Islands",
       "en": "South Georgia and the South Sandwich Islands",
-      "zh-CN": "南乔治亚和南桑威奇群岛"
+      "zh-CN": "南乔治亚和南桑威奇群岛",
+      "fr": "Géorgie du Sud et les îles Sandwich du Sud",
+      "de": "South Georgia und die Südlichen Sandwichinseln",
+      "es": "Islas Georgias del Sur y Sándwich del Sur",
+      "ja": "サウスジョージア及びサウスサンドウィッチ諸島",
+      "ko": "사우스조지아 사우스샌드위치 제도",
+      "hi": "दक्षिण जॉर्जिया और दक्षिण सैंडविच द्वीप समूह",
+      "ar": "جورجيا الجنوبيّة و جزر ساندويتش الجنوبيّة"
     },
     "population": 30,
     "area": 3903,
@@ -5012,12 +8442,26 @@
     "name": {
       "native": "Heard Island and McDonald Islands",
       "en": "Heard Island and McDonald Islands",
-      "zh-CN": "赫德岛和麦克唐纳群岛"
+      "zh-CN": "赫德岛和麦克唐纳群岛",
+      "fr": "Îles Heard-et-MacDonald",
+      "de": "Heard und McDonaldinseln",
+      "es": "Heard e Islas McDonald",
+      "ja": "ハード島とマクドナルド諸島",
+      "ko": "허드 맥도날드 군도",
+      "hi": "हर्ड एंड मैकडोनाल्ड द्वीपसमूह",
+      "ar": "جزيرة هيرد وجزر ماكدونالد"
     },
     "fullName": {
       "native": "Heard Island and McDonald Islands",
       "en": "Heard Island and McDonald Islands",
-      "zh-CN": "赫德岛和麦克唐纳群岛"
+      "zh-CN": "赫德岛和麦克唐纳群岛",
+      "fr": "Îles Heard-et-MacDonald",
+      "de": "Heard und McDonaldinseln",
+      "es": "Isla Heard e Islas McDonald",
+      "ja": "ハード島及びマクドナルド諸島",
+      "ko": "허드 맥도널드 제도",
+      "hi": "हर्ड द्वीप और मैकडोनाल्ड द्वीप समूह",
+      "ar": "جزيرة هيرد وجزر مَكْدونالد"
     },
     "population": 0,
     "area": 412,
@@ -5032,12 +8476,26 @@
     "name": {
       "native": "Antarctica",
       "en": "Antarctica",
-      "zh-CN": "南极洲"
+      "zh-CN": "南极洲",
+      "fr": "Antarctique",
+      "de": "Antarktis",
+      "es": "Antártida",
+      "ja": "南極",
+      "ko": "안타티카",
+      "hi": "अंटार्टिका",
+      "ar": "القارة القطبية الجنوبية"
     },
     "fullName": {
       "native": "Antarctica",
       "en": "Antarctica",
-      "zh-CN": "南极洲"
+      "zh-CN": "南极洲",
+      "fr": "Antarctique",
+      "de": "Antarktis",
+      "es": "Antártida",
+      "ja": "南極大陸",
+      "ko": "남극",
+      "hi": "अंटार्कटिका",
+      "ar": "القطب الجنوبي"
     },
     "population": 1000,
     "area": 14000000,
