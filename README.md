@@ -6,7 +6,7 @@
 npm install @openbasedata/countries
 ```
 
-`name` and `fullName` entries include localized values for `native`, `en` (English), `zh-CN` (Simplified Chinese), `fr` (French), `de` (German), `es` (Spanish), `ja` (Japanese), `ko` (Korean), `hi` (Hindi), and `ar` (Arabic).
+`name` and `fullName` entries include localized values for `native`, `en` (English), `zh-CN` (Simplified Chinese), `fr` (French), `de` (German), `es` (Spanish), `ja` (Japanese), `ko` (Korean), `hi` (Hindi), `ar` (Arabic), `pt` (Portuguese), `id` (Indonesian), `ru` (Russian), `vi` (Vietnamese), `tr` (Turkish), `it` (Italian), `pl` (Polish), `uk` (Ukrainian), and `nl` (Dutch).
 
 ## Data Structure
 
