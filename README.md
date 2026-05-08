@@ -23,7 +23,8 @@ npm install @openbasedata/countries
       "zh-CN": "中华人民共和国"
     },
     "population": 1413400000,
-    "area": 9596961
+    "area": 9596961,
+    "languages": ["zh"]
   }
 ]
 ```
