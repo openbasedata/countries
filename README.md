@@ -15,14 +15,14 @@ npm install @openbasedata/countries
     "code3": "CHN",
     "flag": "🇨🇳",
     "name": {
+      "native": "中国",
       "en": "China",
-      "zh-CN": "中国",
-      "native": "中国"
+      "zh-CN": "中国"
     },
     "fullName": {
+      "native": "中华人民共和国",
       "en": "People's Republic Of China",
-      "zh-CN": "中华人民共和国",
-      "native": "中华人民共和国"
+      "zh-CN": "中华人民共和国"
     },
     "population": 1413400000,
     "area": 9596961,
