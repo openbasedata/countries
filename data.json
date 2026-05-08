@@ -12,7 +12,12 @@
       "zh-CN": "阿富汗伊斯兰共和国"
     },
     "population": 40099462,
-    "area": 652230
+    "area": 652230,
+    "languages": [
+      "ps",
+      "uz",
+      "tk"
+    ]
   },
   {
     "code2": "AL",
@@ -27,7 +32,10 @@
       "zh-CN": "阿尔巴尼亚共和国"
     },
     "population": 2877797,
-    "area": 28748
+    "area": 28748,
+    "languages": [
+      "sq"
+    ]
   },
   {
     "code2": "DZ",
@@ -42,7 +50,10 @@
       "zh-CN": "阿尔及利亚人民民主共和国"
     },
     "population": 44903225,
-    "area": 2381741
+    "area": 2381741,
+    "languages": [
+      "ar"
+    ]
   },
   {
     "code2": "AD",
@@ -57,7 +68,10 @@
       "zh-CN": "安道尔公国"
     },
     "population": 77265,
-    "area": 468
+    "area": 468,
+    "languages": [
+      "ca"
+    ]
   },
   {
     "code2": "AO",
@@ -72,7 +86,10 @@
       "zh-CN": "安哥拉共和国"
     },
     "population": 34503774,
-    "area": 1246700
+    "area": 1246700,
+    "languages": [
+      "pt"
+    ]
   },
   {
     "code2": "AG",
@@ -87,7 +104,10 @@
       "zh-CN": "安提瓜和巴布达"
     },
     "population": 93219,
-    "area": 442
+    "area": 442,
+    "languages": [
+      "en"
+    ]
   },
   {
     "code2": "AR",
@@ -102,7 +122,10 @@
       "zh-CN": "阿根廷共和国"
     },
     "population": 45195777,
-    "area": 2780400
+    "area": 2780400,
+    "languages": [
+      "es"
+    ]
   },
   {
     "code2": "AM",
@@ -117,7 +140,10 @@
       "zh-CN": "亚美尼亚共和国"
     },
     "population": 2971966,
-    "area": 29743
+    "area": 29743,
+    "languages": [
+      "hy"
+    ]
   },
   {
     "code2": "AU",
@@ -132,7 +158,10 @@
       "zh-CN": "澳大利亚联邦"
     },
     "population": 25921000,
-    "area": 7692024
+    "area": 7692024,
+    "languages": [
+      "en"
+    ]
   },
   {
     "code2": "AT",
@@ -147,7 +176,10 @@
       "zh-CN": "奥地利共和国"
     },
     "population": 9043070,
-    "area": 83871
+    "area": 83871,
+    "languages": [
+      "de"
+    ]
   },
   {
     "code2": "AZ",
@@ -162,7 +194,10 @@
       "zh-CN": "阿塞拜疆共和国"
     },
     "population": 10139177,
-    "area": 86600
+    "area": 86600,
+    "languages": [
+      "az"
+    ]
   },
   {
     "code2": "BS",
@@ -177,7 +212,10 @@
       "zh-CN": "巴哈马联邦"
     },
     "population": 393244,
-    "area": 13943
+    "area": 13943,
+    "languages": [
+      "en"
+    ]
   },
   {
     "code2": "BH",
@@ -192,7 +230,10 @@
       "zh-CN": "巴林王国"
     },
     "population": 1472233,
-    "area": 765
+    "area": 765,
+    "languages": [
+      "ar"
+    ]
   },
   {
     "code2": "BD",
@@ -207,7 +248,10 @@
       "zh-CN": "孟加拉人民共和国"
     },
     "population": 169356251,
-    "area": 147570
+    "area": 147570,
+    "languages": [
+      "bn"
+    ]
   },
   {
     "code2": "BB",
@@ -222,7 +266,10 @@
       "zh-CN": "巴巴多斯"
     },
     "population": 287375,
-    "area": 430
+    "area": 430,
+    "languages": [
+      "en"
+    ]
   },
   {
     "code2": "BY",
@@ -237,7 +284,11 @@
       "zh-CN": "白俄罗斯共和国"
     },
     "population": 9441900,
-    "area": 207600
+    "area": 207600,
+    "languages": [
+      "be",
+      "ru"
+    ]
   },
   {
     "code2": "BE",
@@ -252,7 +303,12 @@
       "zh-CN": "比利时王国"
     },
     "population": 11589623,
-    "area": 30528
+    "area": 30528,
+    "languages": [
+      "nl",
+      "fr",
+      "de"
+    ]
   },
   {
     "code2": "BZ",
@@ -267,7 +323,10 @@
       "zh-CN": "伯利兹"
     },
     "population": 419199,
-    "area": 22966
+    "area": 22966,
+    "languages": [
+      "en"
+    ]
   },
   {
     "code2": "BJ",
@@ -282,7 +341,10 @@
       "zh-CN": "贝宁共和国"
     },
     "population": 12123200,
-    "area": 112622
+    "area": 112622,
+    "languages": [
+      "fr"
+    ]
   },
   {
     "code2": "BT",
@@ -297,7 +359,10 @@
       "zh-CN": "不丹王国"
     },
     "population": 771608,
-    "area": 38394
+    "area": 38394,
+    "languages": [
+      "dz"
+    ]
   },
   {
     "code2": "BO",
@@ -312,7 +377,12 @@
       "zh-CN": "玻利维亚多民族国"
     },
     "population": 11513100,
-    "area": 1098581
+    "area": 1098581,
+    "languages": [
+      "es",
+      "qu",
+      "ay"
+    ]
   },
   {
     "code2": "BA",
@@ -327,7 +397,12 @@
       "zh-CN": "波斯尼亚和黑塞哥维那"
     },
     "population": 3280819,
-    "area": 51197
+    "area": 51197,
+    "languages": [
+      "bs",
+      "hr",
+      "sr"
+    ]
   },
   {
     "code2": "BW",
@@ -342,7 +417,11 @@
       "zh-CN": "博茨瓦纳共和国"
     },
     "population": 2630296,
-    "area": 581730
+    "area": 581730,
+    "languages": [
+      "en",
+      "tn"
+    ]
   },
   {
     "code2": "BR",
@@ -357,7 +436,10 @@
       "zh-CN": "巴西联邦共和国"
     },
     "population": 215313498,
-    "area": 8515767
+    "area": 8515767,
+    "languages": [
+      "pt"
+    ]
   },
   {
     "code2": "BN",
@@ -372,7 +454,10 @@
       "zh-CN": "文莱达鲁萨兰国"
     },
     "population": 441532,
-    "area": 5765
+    "area": 5765,
+    "languages": [
+      "ms"
+    ]
   },
   {
     "code2": "BG",
@@ -387,7 +472,10 @@
       "zh-CN": "保加利亚共和国"
     },
     "population": 6520314,
-    "area": 110879
+    "area": 110879,
+    "languages": [
+      "bg"
+    ]
   },
   {
     "code2": "BF",
@@ -402,7 +490,10 @@
       "zh-CN": "布基纳法索"
     },
     "population": 22102838,
-    "area": 274222
+    "area": 274222,
+    "languages": [
+      "fr"
+    ]
   },
   {
     "code2": "BI",
@@ -417,7 +508,11 @@
       "zh-CN": "布隆迪共和国"
     },
     "population": 12574571,
-    "area": 27834
+    "area": 27834,
+    "languages": [
+      "fr",
+      "rn"
+    ]
   },
   {
     "code2": "CV",
@@ -432,7 +527,10 @@
       "zh-CN": "佛得角共和国"
     },
     "population": 593149,
-    "area": 4033
+    "area": 4033,
+    "languages": [
+      "pt"
+    ]
   },
   {
     "code2": "KH",
@@ -447,7 +545,10 @@
       "zh-CN": "柬埔寨王国"
     },
     "population": 16589023,
-    "area": 181035
+    "area": 181035,
+    "languages": [
+      "km"
+    ]
   },
   {
     "code2": "CM",
@@ -462,7 +563,11 @@
       "zh-CN": "喀麦隆共和国"
     },
     "population": 27914536,
-    "area": 475442
+    "area": 475442,
+    "languages": [
+      "fr",
+      "en"
+    ]
   },
   {
     "code2": "CA",
@@ -477,7 +582,11 @@
       "zh-CN": "加拿大"
     },
     "population": 38246108,
-    "area": 9984670
+    "area": 9984670,
+    "languages": [
+      "en",
+      "fr"
+    ]
   },
   {
     "code2": "CF",
@@ -492,7 +601,11 @@
       "zh-CN": "中非共和国"
     },
     "population": 5579144,
-    "area": 622984
+    "area": 622984,
+    "languages": [
+      "fr",
+      "sg"
+    ]
   },
   {
     "code2": "TD",
@@ -507,7 +620,11 @@
       "zh-CN": "乍得共和国"
     },
     "population": 17413580,
-    "area": 1284000
+    "area": 1284000,
+    "languages": [
+      "fr",
+      "ar"
+    ]
   },
   {
     "code2": "CL",
@@ -522,7 +639,10 @@
       "zh-CN": "智利共和国"
     },
     "population": 19116201,
-    "area": 756102
+    "area": 756102,
+    "languages": [
+      "es"
+    ]
   },
   {
     "code2": "CN",
@@ -537,7 +657,10 @@
       "zh-CN": "中华人民共和国"
     },
     "population": 1413400000,
-    "area": 9596961
+    "area": 9596961,
+    "languages": [
+      "zh"
+    ]
   },
   {
     "code2": "CO",
@@ -552,7 +675,10 @@
       "zh-CN": "哥伦比亚共和国"
     },
     "population": 51874024,
-    "area": 1141748
+    "area": 1141748,
+    "languages": [
+      "es"
+    ]
   },
   {
     "code2": "KM",
@@ -567,7 +693,11 @@
       "zh-CN": "科摩罗联盟"
     },
     "population": 888451,
-    "area": 2235
+    "area": 2235,
+    "languages": [
+      "ar",
+      "fr"
+    ]
   },
   {
     "code2": "CG",
@@ -582,7 +712,10 @@
       "zh-CN": "刚果共和国"
     },
     "population": 5797805,
-    "area": 342000
+    "area": 342000,
+    "languages": [
+      "fr"
+    ]
   },
   {
     "code2": "CD",
@@ -597,7 +730,10 @@
       "zh-CN": "刚果民主共和国"
     },
     "population": 102262808,
-    "area": 2344858
+    "area": 2344858,
+    "languages": [
+      "fr"
+    ]
   },
   {
     "code2": "CR",
@@ -612,7 +748,10 @@
       "zh-CN": "哥斯达黎加共和国"
     },
     "population": 5153957,
-    "area": 51100
+    "area": 51100,
+    "languages": [
+      "es"
+    ]
   },
   {
     "code2": "CI",
@@ -627,7 +766,10 @@
       "zh-CN": "科特迪瓦共和国"
     },
     "population": 27478249,
-    "area": 322463
+    "area": 322463,
+    "languages": [
+      "fr"
+    ]
   },
   {
     "code2": "HR",
@@ -642,7 +784,10 @@
       "zh-CN": "克罗地亚共和国"
     },
     "population": 3899000,
-    "area": 56594
+    "area": 56594,
+    "languages": [
+      "hr"
+    ]
   },
   {
     "code2": "CU",
@@ -657,7 +802,10 @@
       "zh-CN": "古巴共和国"
     },
     "population": 11317505,
-    "area": 109884
+    "area": 109884,
+    "languages": [
+      "es"
+    ]
   },
   {
     "code2": "CY",
@@ -672,7 +820,11 @@
       "zh-CN": "塞浦路斯共和国"
     },
     "population": 1207359,
-    "area": 9251
+    "area": 9251,
+    "languages": [
+      "el",
+      "tr"
+    ]
   },
   {
     "code2": "CZ",
@@ -687,7 +839,10 @@
       "zh-CN": "捷克共和国"
     },
     "population": 10900555,
-    "area": 78867
+    "area": 78867,
+    "languages": [
+      "cs"
+    ]
   },
   {
     "code2": "DK",
@@ -702,7 +857,10 @@
       "zh-CN": "丹麦王国"
     },
     "population": 5873000,
-    "area": 43094
+    "area": 43094,
+    "languages": [
+      "da"
+    ]
   },
   {
     "code2": "DJ",
@@ -717,7 +875,12 @@
       "zh-CN": "吉布提共和国"
     },
     "population": 1000000,
-    "area": 23200
+    "area": 23200,
+    "languages": [
+      "fr",
+      "ar",
+      "so"
+    ]
   },
   {
     "code2": "DM",
@@ -732,7 +895,10 @@
       "zh-CN": "多米尼克国"
     },
     "population": 71986,
-    "area": 751
+    "area": 751,
+    "languages": [
+      "en"
+    ]
   },
   {
     "code2": "DO",
@@ -747,7 +913,10 @@
       "zh-CN": "多米尼加共和国"
     },
     "population": 10953703,
-    "area": 48671
+    "area": 48671,
+    "languages": [
+      "es"
+    ]
   },
   {
     "code2": "EC",
@@ -762,7 +931,10 @@
       "zh-CN": "厄瓜多尔共和国"
     },
     "population": 18001000,
-    "area": 283561
+    "area": 283561,
+    "languages": [
+      "es"
+    ]
   },
   {
     "code2": "EG",
@@ -777,7 +949,10 @@
       "zh-CN": "阿拉伯埃及共和国"
     },
     "population": 104258327,
-    "area": 1002450
+    "area": 1002450,
+    "languages": [
+      "ar"
+    ]
   },
   {
     "code2": "SV",
@@ -792,7 +967,10 @@
       "zh-CN": "萨尔瓦多共和国"
     },
     "population": 6486201,
-    "area": 21041
+    "area": 21041,
+    "languages": [
+      "es"
+    ]
   },
   {
     "code2": "GQ",
@@ -807,7 +985,12 @@
       "zh-CN": "赤道几内亚共和国"
     },
     "population": 1496662,
-    "area": 28051
+    "area": 28051,
+    "languages": [
+      "es",
+      "fr",
+      "pt"
+    ]
   },
   {
     "code2": "ER",
@@ -822,7 +1005,12 @@
       "zh-CN": "厄立特里亚国"
     },
     "population": 3601000,
-    "area": 117600
+    "area": 117600,
+    "languages": [
+      "ti",
+      "ar",
+      "en"
+    ]
   },
   {
     "code2": "EE",
@@ -837,7 +1025,10 @@
       "zh-CN": "爱沙尼亚共和国"
     },
     "population": 1330068,
-    "area": 45228
+    "area": 45228,
+    "languages": [
+      "et"
+    ]
   },
   {
     "code2": "SZ",
@@ -852,7 +1043,11 @@
       "zh-CN": "斯威士兰王国"
     },
     "population": 1172000,
-    "area": 17364
+    "area": 17364,
+    "languages": [
+      "en",
+      "ss"
+    ]
   },
   {
     "code2": "ET",
@@ -867,7 +1062,10 @@
       "zh-CN": "埃塞俄比亚联邦民主共和国"
     },
     "population": 120283026,
-    "area": 1104300
+    "area": 1104300,
+    "languages": [
+      "am"
+    ]
   },
   {
     "code2": "FJ",
@@ -882,7 +1080,12 @@
       "zh-CN": "斐济共和国"
     },
     "population": 930748,
-    "area": 18274
+    "area": 18274,
+    "languages": [
+      "en",
+      "fj",
+      "hi"
+    ]
   },
   {
     "code2": "FI",
@@ -897,7 +1100,11 @@
       "zh-CN": "芬兰共和国"
     },
     "population": 5528000,
-    "area": 338424
+    "area": 338424,
+    "languages": [
+      "fi",
+      "sv"
+    ]
   },
   {
     "code2": "FR",
@@ -912,7 +1119,10 @@
       "zh-CN": "法兰西共和国"
     },
     "population": 67897000,
-    "area": 643801
+    "area": 643801,
+    "languages": [
+      "fr"
+    ]
   },
   {
     "code2": "GA",
@@ -927,7 +1137,10 @@
       "zh-CN": "加蓬共和国"
     },
     "population": 2278825,
-    "area": 267668
+    "area": 267668,
+    "languages": [
+      "fr"
+    ]
   },
   {
     "code2": "GM",
@@ -942,7 +1155,10 @@
       "zh-CN": "冈比亚共和国"
     },
     "population": 2486945,
-    "area": 11295
+    "area": 11295,
+    "languages": [
+      "en"
+    ]
   },
   {
     "code2": "GE",
@@ -957,7 +1173,10 @@
       "zh-CN": "格鲁吉亚"
     },
     "population": 3713804,
-    "area": 69700
+    "area": 69700,
+    "languages": [
+      "ka"
+    ]
   },
   {
     "code2": "DE",
@@ -972,7 +1191,10 @@
       "zh-CN": "德意志联邦共和国"
     },
     "population": 84270625,
-    "area": 357114
+    "area": 357114,
+    "languages": [
+      "de"
+    ]
   },
   {
     "code2": "GH",
@@ -987,7 +1209,10 @@
       "zh-CN": "加纳共和国"
     },
     "population": 33475870,
-    "area": 238533
+    "area": 238533,
+    "languages": [
+      "en"
+    ]
   },
   {
     "code2": "GR",
@@ -1002,7 +1227,10 @@
       "zh-CN": "希腊共和国"
     },
     "population": 10678632,
-    "area": 131957
+    "area": 131957,
+    "languages": [
+      "el"
+    ]
   },
   {
     "code2": "GD",
@@ -1017,7 +1245,10 @@
       "zh-CN": "格林纳达"
     },
     "population": 124610,
-    "area": 344
+    "area": 344,
+    "languages": [
+      "en"
+    ]
   },
   {
     "code2": "GT",
@@ -1032,7 +1263,10 @@
       "zh-CN": "危地马拉共和国"
     },
     "population": 17109746,
-    "area": 108889
+    "area": 108889,
+    "languages": [
+      "es"
+    ]
   },
   {
     "code2": "GN",
@@ -1047,7 +1281,10 @@
       "zh-CN": "几内亚共和国"
     },
     "population": 13497244,
-    "area": 245857
+    "area": 245857,
+    "languages": [
+      "fr"
+    ]
   },
   {
     "code2": "GW",
@@ -1062,7 +1299,10 @@
       "zh-CN": "几内亚比绍共和国"
     },
     "population": 2060721,
-    "area": 36125
+    "area": 36125,
+    "languages": [
+      "pt"
+    ]
   },
   {
     "code2": "GY",
@@ -1077,7 +1317,10 @@
       "zh-CN": "圭亚那合作共和国"
     },
     "population": 787971,
-    "area": 214969
+    "area": 214969,
+    "languages": [
+      "en"
+    ]
   },
   {
     "code2": "HT",
@@ -1092,7 +1335,11 @@
       "zh-CN": "海地共和国"
     },
     "population": 11447569,
-    "area": 27750
+    "area": 27750,
+    "languages": [
+      "fr",
+      "ht"
+    ]
   },
   {
     "code2": "HN",
@@ -1107,7 +1354,10 @@
       "zh-CN": "洪都拉斯共和国"
     },
     "population": 10280345,
-    "area": 112492
+    "area": 112492,
+    "languages": [
+      "es"
+    ]
   },
   {
     "code2": "HU",
@@ -1122,7 +1372,10 @@
       "zh-CN": "匈牙利"
     },
     "population": 9730000,
-    "area": 93028
+    "area": 93028,
+    "languages": [
+      "hu"
+    ]
   },
   {
     "code2": "IS",
@@ -1137,7 +1390,10 @@
       "zh-CN": "冰岛"
     },
     "population": 376248,
-    "area": 103000
+    "area": 103000,
+    "languages": [
+      "is"
+    ]
   },
   {
     "code2": "IN",
@@ -1152,7 +1408,11 @@
       "zh-CN": "印度共和国"
     },
     "population": 1392000000,
-    "area": 3287263
+    "area": 3287263,
+    "languages": [
+      "hi",
+      "en"
+    ]
   },
   {
     "code2": "ID",
@@ -1167,7 +1427,10 @@
       "zh-CN": "印度尼西亚共和国"
     },
     "population": 275501000,
-    "area": 1910931
+    "area": 1910931,
+    "languages": [
+      "id"
+    ]
   },
   {
     "code2": "IR",
@@ -1182,7 +1445,10 @@
       "zh-CN": "伊朗伊斯兰共和国"
     },
     "population": 86758304,
-    "area": 1648195
+    "area": 1648195,
+    "languages": [
+      "fa"
+    ]
   },
   {
     "code2": "IQ",
@@ -1197,7 +1463,11 @@
       "zh-CN": "伊拉克共和国"
     },
     "population": 42164965,
-    "area": 438317
+    "area": 438317,
+    "languages": [
+      "ar",
+      "ku"
+    ]
   },
   {
     "code2": "IE",
@@ -1212,7 +1482,11 @@
       "zh-CN": "爱尔兰共和国"
     },
     "population": 5123536,
-    "area": 70273
+    "area": 70273,
+    "languages": [
+      "ga",
+      "en"
+    ]
   },
   {
     "code2": "IL",
@@ -1227,7 +1501,11 @@
       "zh-CN": "以色列国"
     },
     "population": 9364000,
-    "area": 20770
+    "area": 20770,
+    "languages": [
+      "he",
+      "ar"
+    ]
   },
   {
     "code2": "IT",
@@ -1242,7 +1520,10 @@
       "zh-CN": "意大利共和国"
     },
     "population": 59257566,
-    "area": 301340
+    "area": 301340,
+    "languages": [
+      "it"
+    ]
   },
   {
     "code2": "JM",
@@ -1257,7 +1538,10 @@
       "zh-CN": "牙买加"
     },
     "population": 2961167,
-    "area": 10991
+    "area": 10991,
+    "languages": [
+      "en"
+    ]
   },
   {
     "code2": "JP",
@@ -1272,7 +1556,10 @@
       "zh-CN": "日本国"
     },
     "population": 125700000,
-    "area": 377975
+    "area": 377975,
+    "languages": [
+      "ja"
+    ]
   },
   {
     "code2": "JO",
@@ -1287,7 +1574,10 @@
       "zh-CN": "约旦哈希姆王国"
     },
     "population": 10203140,
-    "area": 89342
+    "area": 89342,
+    "languages": [
+      "ar"
+    ]
   },
   {
     "code2": "KZ",
@@ -1302,7 +1592,11 @@
       "zh-CN": "哈萨克斯坦共和国"
     },
     "population": 19397998,
-    "area": 2724900
+    "area": 2724900,
+    "languages": [
+      "kk",
+      "ru"
+    ]
   },
   {
     "code2": "KE",
@@ -1317,7 +1611,11 @@
       "zh-CN": "肯尼亚共和国"
     },
     "population": 55864655,
-    "area": 580367
+    "area": 580367,
+    "languages": [
+      "sw",
+      "en"
+    ]
   },
   {
     "code2": "KI",
@@ -1332,7 +1630,10 @@
       "zh-CN": "基里巴斯共和国"
     },
     "population": 121388,
-    "area": 811
+    "area": 811,
+    "languages": [
+      "en"
+    ]
   },
   {
     "code2": "KP",
@@ -1347,7 +1648,10 @@
       "zh-CN": "朝鲜民主主义人民共和国"
     },
     "population": 25971909,
-    "area": 120538
+    "area": 120538,
+    "languages": [
+      "ko"
+    ]
   },
   {
     "code2": "KR",
@@ -1362,7 +1666,10 @@
       "zh-CN": "大韩民国"
     },
     "population": 51744876,
-    "area": 100210
+    "area": 100210,
+    "languages": [
+      "ko"
+    ]
   },
   {
     "code2": "KW",
@@ -1377,7 +1684,10 @@
       "zh-CN": "科威特国"
     },
     "population": 4670713,
-    "area": 17818
+    "area": 17818,
+    "languages": [
+      "ar"
+    ]
   },
   {
     "code2": "KG",
@@ -1392,7 +1702,11 @@
       "zh-CN": "吉尔吉斯共和国"
     },
     "population": 6663000,
-    "area": 199951
+    "area": 199951,
+    "languages": [
+      "ky",
+      "ru"
+    ]
   },
   {
     "code2": "LA",
@@ -1407,7 +1721,10 @@
       "zh-CN": "老挝人民民主共和国"
     },
     "population": 7379358,
-    "area": 236800
+    "area": 236800,
+    "languages": [
+      "lo"
+    ]
   },
   {
     "code2": "LV",
@@ -1422,7 +1739,10 @@
       "zh-CN": "拉脱维亚共和国"
     },
     "population": 1830211,
-    "area": 64589
+    "area": 64589,
+    "languages": [
+      "lv"
+    ]
   },
   {
     "code2": "LB",
@@ -1437,7 +1757,11 @@
       "zh-CN": "黎巴嫩共和国"
     },
     "population": 5592631,
-    "area": 10452
+    "area": 10452,
+    "languages": [
+      "ar",
+      "fr"
+    ]
   },
   {
     "code2": "LS",
@@ -1452,7 +1776,11 @@
       "zh-CN": "莱索托王国"
     },
     "population": 2159000,
-    "area": 30355
+    "area": 30355,
+    "languages": [
+      "en",
+      "st"
+    ]
   },
   {
     "code2": "LR",
@@ -1467,7 +1795,10 @@
       "zh-CN": "利比里亚共和国"
     },
     "population": 5358483,
-    "area": 111369
+    "area": 111369,
+    "languages": [
+      "en"
+    ]
   },
   {
     "code2": "LY",
@@ -1482,7 +1813,10 @@
       "zh-CN": "利比亚国"
     },
     "population": 7054490,
-    "area": 1759541
+    "area": 1759541,
+    "languages": [
+      "ar"
+    ]
   },
   {
     "code2": "LI",
@@ -1497,7 +1831,10 @@
       "zh-CN": "列支敦士登公国"
     },
     "population": 38557,
-    "area": 160
+    "area": 160,
+    "languages": [
+      "de"
+    ]
   },
   {
     "code2": "LT",
@@ -1512,7 +1849,10 @@
       "zh-CN": "立陶宛共和国"
     },
     "population": 2831000,
-    "area": 65300
+    "area": 65300,
+    "languages": [
+      "lt"
+    ]
   },
   {
     "code2": "LU",
@@ -1527,7 +1867,12 @@
       "zh-CN": "卢森堡大公国"
     },
     "population": 660809,
-    "area": 2586
+    "area": 2586,
+    "languages": [
+      "lb",
+      "fr",
+      "de"
+    ]
   },
   {
     "code2": "MG",
@@ -1542,7 +1887,11 @@
       "zh-CN": "马达加斯加共和国"
     },
     "population": 28915400,
-    "area": 587041
+    "area": 587041,
+    "languages": [
+      "mg",
+      "fr"
+    ]
   },
   {
     "code2": "MW",
@@ -1557,7 +1906,11 @@
       "zh-CN": "马拉维共和国"
     },
     "population": 20405317,
-    "area": 118484
+    "area": 118484,
+    "languages": [
+      "en",
+      "ny"
+    ]
   },
   {
     "code2": "MY",
@@ -1572,7 +1925,10 @@
       "zh-CN": "马来西亚"
     },
     "population": 33573874,
-    "area": 329847
+    "area": 329847,
+    "languages": [
+      "ms"
+    ]
   },
   {
     "code2": "MV",
@@ -1587,7 +1943,10 @@
       "zh-CN": "马尔代夫共和国"
     },
     "population": 521457,
-    "area": 298
+    "area": 298,
+    "languages": [
+      "dv"
+    ]
   },
   {
     "code2": "ML",
@@ -1602,7 +1961,10 @@
       "zh-CN": "马里共和国"
     },
     "population": 22414000,
-    "area": 1240192
+    "area": 1240192,
+    "languages": [
+      "fr"
+    ]
   },
   {
     "code2": "MT",
@@ -1617,7 +1979,11 @@
       "zh-CN": "马耳他共和国"
     },
     "population": 519562,
-    "area": 316
+    "area": 316,
+    "languages": [
+      "mt",
+      "en"
+    ]
   },
   {
     "code2": "MH",
@@ -1632,7 +1998,11 @@
       "zh-CN": "马绍尔群岛共和国"
     },
     "population": 42050,
-    "area": 181
+    "area": 181,
+    "languages": [
+      "en",
+      "mh"
+    ]
   },
   {
     "code2": "MR",
@@ -1647,7 +2017,10 @@
       "zh-CN": "毛里塔尼亚伊斯兰共和国"
     },
     "population": 4649658,
-    "area": 1030700
+    "area": 1030700,
+    "languages": [
+      "ar"
+    ]
   },
   {
     "code2": "MU",
@@ -1662,7 +2035,11 @@
       "zh-CN": "毛里求斯共和国"
     },
     "population": 1266334,
-    "area": 2040
+    "area": 2040,
+    "languages": [
+      "en",
+      "fr"
+    ]
   },
   {
     "code2": "MX",
@@ -1677,7 +2054,10 @@
       "zh-CN": "墨西哥合众国"
     },
     "population": 128455567,
-    "area": 1964375
+    "area": 1964375,
+    "languages": [
+      "es"
+    ]
   },
   {
     "code2": "FM",
@@ -1692,7 +2072,10 @@
       "zh-CN": "密克罗尼西亚联邦"
     },
     "population": 115023,
-    "area": 702
+    "area": 702,
+    "languages": [
+      "en"
+    ]
   },
   {
     "code2": "MD",
@@ -1707,7 +2090,10 @@
       "zh-CN": "摩尔多瓦共和国"
     },
     "population": 2617820,
-    "area": 33846
+    "area": 33846,
+    "languages": [
+      "ro"
+    ]
   },
   {
     "code2": "MC",
@@ -1722,7 +2108,10 @@
       "zh-CN": "摩纳哥公国"
     },
     "population": 39244,
-    "area": 2
+    "area": 2,
+    "languages": [
+      "fr"
+    ]
   },
   {
     "code2": "MN",
@@ -1737,7 +2126,10 @@
       "zh-CN": "蒙古国"
     },
     "population": 3398366,
-    "area": 1564116
+    "area": 1564116,
+    "languages": [
+      "mn"
+    ]
   },
   {
     "code2": "ME",
@@ -1752,7 +2144,13 @@
       "zh-CN": "黑山"
     },
     "population": 619211,
-    "area": 13812
+    "area": 13812,
+    "languages": [
+      "sr",
+      "hr",
+      "bs",
+      "sq"
+    ]
   },
   {
     "code2": "MA",
@@ -1767,7 +2165,11 @@
       "zh-CN": "摩洛哥王国"
     },
     "population": 37840044,
-    "area": 446550
+    "area": 446550,
+    "languages": [
+      "ar",
+      "ber"
+    ]
   },
   {
     "code2": "MZ",
@@ -1782,7 +2184,10 @@
       "zh-CN": "莫桑比克共和国"
     },
     "population": 32790338,
-    "area": 801590
+    "area": 801590,
+    "languages": [
+      "pt"
+    ]
   },
   {
     "code2": "MM",
@@ -1797,7 +2202,10 @@
       "zh-CN": "缅甸联邦共和国"
     },
     "population": 54409800,
-    "area": 676578
+    "area": 676578,
+    "languages": [
+      "my"
+    ]
   },
   {
     "code2": "NA",
@@ -1812,7 +2220,11 @@
       "zh-CN": "纳米比亚共和国"
     },
     "population": 2587801,
-    "area": 825615
+    "area": 825615,
+    "languages": [
+      "en",
+      "af"
+    ]
   },
   {
     "code2": "NR",
@@ -1827,7 +2239,11 @@
       "zh-CN": "瑙鲁共和国"
     },
     "population": 10876,
-    "area": 21
+    "area": 21,
+    "languages": [
+      "na",
+      "en"
+    ]
   },
   {
     "code2": "NP",
@@ -1842,7 +2258,10 @@
       "zh-CN": "尼泊尔联邦民主共和国"
     },
     "population": 30034989,
-    "area": 147181
+    "area": 147181,
+    "languages": [
+      "ne"
+    ]
   },
   {
     "code2": "NL",
@@ -1857,7 +2276,10 @@
       "zh-CN": "荷兰王国"
     },
     "population": 17744406,
-    "area": 41543
+    "area": 41543,
+    "languages": [
+      "nl"
+    ]
   },
   {
     "code2": "NZ",
@@ -1872,7 +2294,11 @@
       "zh-CN": "新西兰"
     },
     "population": 5084300,
-    "area": 268838
+    "area": 268838,
+    "languages": [
+      "en",
+      "mi"
+    ]
   },
   {
     "code2": "NI",
@@ -1887,7 +2313,10 @@
       "zh-CN": "尼加拉瓜共和国"
     },
     "population": 6850540,
-    "area": 130370
+    "area": 130370,
+    "languages": [
+      "es"
+    ]
   },
   {
     "code2": "NE",
@@ -1902,7 +2331,10 @@
       "zh-CN": "尼日尔共和国"
     },
     "population": 25252723,
-    "area": 1267000
+    "area": 1267000,
+    "languages": [
+      "fr"
+    ]
   },
   {
     "code2": "NG",
@@ -1917,7 +2349,10 @@
       "zh-CN": "尼日利亚联邦共和国"
     },
     "population": 218541212,
-    "area": 923768
+    "area": 923768,
+    "languages": [
+      "en"
+    ]
   },
   {
     "code2": "MK",
@@ -1932,7 +2367,11 @@
       "zh-CN": "北马其顿共和国"
     },
     "population": 2068451,
-    "area": 25713
+    "area": 25713,
+    "languages": [
+      "mk",
+      "sq"
+    ]
   },
   {
     "code2": "NO",
@@ -1947,7 +2386,11 @@
       "zh-CN": "挪威王国"
     },
     "population": 5425270,
-    "area": 323802
+    "area": 323802,
+    "languages": [
+      "nb",
+      "nn"
+    ]
   },
   {
     "code2": "OM",
@@ -1962,7 +2405,10 @@
       "zh-CN": "阿曼苏丹国"
     },
     "population": 4974986,
-    "area": 309500
+    "area": 309500,
+    "languages": [
+      "ar"
+    ]
   },
   {
     "code2": "PK",
@@ -1977,7 +2423,11 @@
       "zh-CN": "巴基斯坦伊斯兰共和国"
     },
     "population": 231402117,
-    "area": 881913
+    "area": 881913,
+    "languages": [
+      "ur",
+      "en"
+    ]
   },
   {
     "code2": "PW",
@@ -1992,7 +2442,10 @@
       "zh-CN": "帕劳共和国"
     },
     "population": 18092,
-    "area": 459
+    "area": 459,
+    "languages": [
+      "en"
+    ]
   },
   {
     "code2": "PA",
@@ -2007,7 +2460,10 @@
       "zh-CN": "巴拿马共和国"
     },
     "population": 4351267,
-    "area": 75417
+    "area": 75417,
+    "languages": [
+      "es"
+    ]
   },
   {
     "code2": "PG",
@@ -2022,7 +2478,12 @@
       "zh-CN": "巴布亚新几内亚独立国"
     },
     "population": 10142619,
-    "area": 462840
+    "area": 462840,
+    "languages": [
+      "en",
+      "tpi",
+      "ho"
+    ]
   },
   {
     "code2": "PY",
@@ -2037,7 +2498,11 @@
       "zh-CN": "巴拉圭共和国"
     },
     "population": 7353038,
-    "area": 406752
+    "area": 406752,
+    "languages": [
+      "es",
+      "gn"
+    ]
   },
   {
     "code2": "PE",
@@ -2052,7 +2517,10 @@
       "zh-CN": "秘鲁共和国"
     },
     "population": 33396698,
-    "area": 1285216
+    "area": 1285216,
+    "languages": [
+      "es"
+    ]
   },
   {
     "code2": "PH",
@@ -2067,7 +2535,11 @@
       "zh-CN": "菲律宾共和国"
     },
     "population": 114163719,
-    "area": 343448
+    "area": 343448,
+    "languages": [
+      "en",
+      "tl"
+    ]
   },
   {
     "code2": "PL",
@@ -2082,7 +2554,10 @@
       "zh-CN": "波兰共和国"
     },
     "population": 38036118,
-    "area": 312696
+    "area": 312696,
+    "languages": [
+      "pl"
+    ]
   },
   {
     "code2": "PT",
@@ -2097,7 +2572,10 @@
       "zh-CN": "葡萄牙共和国"
     },
     "population": 10298252,
-    "area": 92212
+    "area": 92212,
+    "languages": [
+      "pt"
+    ]
   },
   {
     "code2": "QA",
@@ -2112,7 +2590,10 @@
       "zh-CN": "卡塔尔国"
     },
     "population": 2695122,
-    "area": 11586
+    "area": 11586,
+    "languages": [
+      "ar"
+    ]
   },
   {
     "code2": "RO",
@@ -2127,7 +2608,10 @@
       "zh-CN": "罗马尼亚"
     },
     "population": 19286123,
-    "area": 238397
+    "area": 238397,
+    "languages": [
+      "ro"
+    ]
   },
   {
     "code2": "RU",
@@ -2142,7 +2626,10 @@
       "zh-CN": "俄罗斯联邦"
     },
     "population": 145100000,
-    "area": 17098242
+    "area": 17098242,
+    "languages": [
+      "ru"
+    ]
   },
   {
     "code2": "RW",
@@ -2157,7 +2644,12 @@
       "zh-CN": "卢旺达共和国"
     },
     "population": 13776698,
-    "area": 26338
+    "area": 26338,
+    "languages": [
+      "rw",
+      "en",
+      "fr"
+    ]
   },
   {
     "code2": "KN",
@@ -2172,7 +2664,10 @@
       "zh-CN": "圣基茨和尼维斯联邦"
     },
     "population": 47606,
-    "area": 261
+    "area": 261,
+    "languages": [
+      "en"
+    ]
   },
   {
     "code2": "LC",
@@ -2187,7 +2682,10 @@
       "zh-CN": "圣卢西亚"
     },
     "population": 184401,
-    "area": 616
+    "area": 616,
+    "languages": [
+      "en"
+    ]
   },
   {
     "code2": "VC",
@@ -2202,7 +2700,10 @@
       "zh-CN": "圣文森特和格林纳丁斯"
     },
     "population": 110694,
-    "area": 389
+    "area": 389,
+    "languages": [
+      "en"
+    ]
   },
   {
     "code2": "WS",
@@ -2217,7 +2718,11 @@
       "zh-CN": "萨摩亚独立国"
     },
     "population": 218764,
-    "area": 2842
+    "area": 2842,
+    "languages": [
+      "sm",
+      "en"
+    ]
   },
   {
     "code2": "SM",
@@ -2232,7 +2737,10 @@
       "zh-CN": "圣马力诺共和国"
     },
     "population": 33931,
-    "area": 61
+    "area": 61,
+    "languages": [
+      "it"
+    ]
   },
   {
     "code2": "ST",
@@ -2247,7 +2755,10 @@
       "zh-CN": "圣多美和普林西比民主共和国"
     },
     "population": 223107,
-    "area": 964
+    "area": 964,
+    "languages": [
+      "pt"
+    ]
   },
   {
     "code2": "SA",
@@ -2262,7 +2773,10 @@
       "zh-CN": "沙特阿拉伯王国"
     },
     "population": 36408820,
-    "area": 2149690
+    "area": 2149690,
+    "languages": [
+      "ar"
+    ]
   },
   {
     "code2": "SN",
@@ -2277,7 +2791,10 @@
       "zh-CN": "塞内加尔共和国"
     },
     "population": 17196301,
-    "area": 196722
+    "area": 196722,
+    "languages": [
+      "fr"
+    ]
   },
   {
     "code2": "RS",
@@ -2292,7 +2809,10 @@
       "zh-CN": "塞尔维亚共和国"
     },
     "population": 6804596,
-    "area": 77474
+    "area": 77474,
+    "languages": [
+      "sr"
+    ]
   },
   {
     "code2": "SC",
@@ -2307,7 +2827,11 @@
       "zh-CN": "塞舌尔共和国"
     },
     "population": 98347,
-    "area": 455
+    "area": 455,
+    "languages": [
+      "fr",
+      "en"
+    ]
   },
   {
     "code2": "SL",
@@ -2322,7 +2846,10 @@
       "zh-CN": "塞拉利昂共和国"
     },
     "population": 8420641,
-    "area": 71740
+    "area": 71740,
+    "languages": [
+      "en"
+    ]
   },
   {
     "code2": "SG",
@@ -2337,7 +2864,13 @@
       "zh-CN": "新加坡共和国"
     },
     "population": 5850342,
-    "area": 719
+    "area": 719,
+    "languages": [
+      "en",
+      "ms",
+      "zh",
+      "ta"
+    ]
   },
   {
     "code2": "SK",
@@ -2352,7 +2885,10 @@
       "zh-CN": "斯洛伐克共和国"
     },
     "population": 5460185,
-    "area": 49035
+    "area": 49035,
+    "languages": [
+      "sk"
+    ]
   },
   {
     "code2": "SI",
@@ -2367,7 +2903,10 @@
       "zh-CN": "斯洛文尼亚共和国"
     },
     "population": 2108977,
-    "area": 20273
+    "area": 20273,
+    "languages": [
+      "sl"
+    ]
   },
   {
     "code2": "SB",
@@ -2382,7 +2921,10 @@
       "zh-CN": "所罗门群岛"
     },
     "population": 720390,
-    "area": 28896
+    "area": 28896,
+    "languages": [
+      "en"
+    ]
   },
   {
     "code2": "SO",
@@ -2397,7 +2939,11 @@
       "zh-CN": "索马里联邦共和国"
     },
     "population": 17065581,
-    "area": 637657
+    "area": 637657,
+    "languages": [
+      "so",
+      "ar"
+    ]
   },
   {
     "code2": "ZA",
@@ -2412,7 +2958,20 @@
       "zh-CN": "南非共和国"
     },
     "population": 59893885,
-    "area": 1221037
+    "area": 1221037,
+    "languages": [
+      "af",
+      "en",
+      "zu",
+      "xh",
+      "st",
+      "ts",
+      "tn",
+      "ss",
+      "ve",
+      "nr",
+      "nso"
+    ]
   },
   {
     "code2": "SS",
@@ -2427,7 +2986,10 @@
       "zh-CN": "南苏丹共和国"
     },
     "population": 11088796,
-    "area": 619745
+    "area": 619745,
+    "languages": [
+      "en"
+    ]
   },
   {
     "code2": "ES",
@@ -2442,7 +3004,10 @@
       "zh-CN": "西班牙王国"
     },
     "population": 47415750,
-    "area": 505990
+    "area": 505990,
+    "languages": [
+      "es"
+    ]
   },
   {
     "code2": "LK",
@@ -2457,7 +3022,11 @@
       "zh-CN": "斯里兰卡民主社会主义共和国"
     },
     "population": 22156000,
-    "area": 65610
+    "area": 65610,
+    "languages": [
+      "si",
+      "ta"
+    ]
   },
   {
     "code2": "SD",
@@ -2472,7 +3041,11 @@
       "zh-CN": "苏丹共和国"
     },
     "population": 44909353,
-    "area": 1861484
+    "area": 1861484,
+    "languages": [
+      "ar",
+      "en"
+    ]
   },
   {
     "code2": "SR",
@@ -2487,7 +3060,10 @@
       "zh-CN": "苏里南共和国"
     },
     "population": 623236,
-    "area": 163820
+    "area": 163820,
+    "languages": [
+      "nl"
+    ]
   },
   {
     "code2": "SE",
@@ -2502,7 +3078,10 @@
       "zh-CN": "瑞典王国"
     },
     "population": 10481937,
-    "area": 450295
+    "area": 450295,
+    "languages": [
+      "sv"
+    ]
   },
   {
     "code2": "CH",
@@ -2517,7 +3096,13 @@
       "zh-CN": "瑞士联邦"
     },
     "population": 8738791,
-    "area": 41285
+    "area": 41285,
+    "languages": [
+      "de",
+      "fr",
+      "it",
+      "rm"
+    ]
   },
   {
     "code2": "SY",
@@ -2532,7 +3117,10 @@
       "zh-CN": "阿拉伯叙利亚共和国"
     },
     "population": 22125249,
-    "area": 185180
+    "area": 185180,
+    "languages": [
+      "ar"
+    ]
   },
   {
     "code2": "TJ",
@@ -2547,7 +3135,11 @@
       "zh-CN": "塔吉克斯坦共和国"
     },
     "population": 10143543,
-    "area": 143100
+    "area": 143100,
+    "languages": [
+      "tg",
+      "ru"
+    ]
   },
   {
     "code2": "TZ",
@@ -2562,7 +3154,11 @@
       "zh-CN": "坦桑尼亚联合共和国"
     },
     "population": 63298550,
-    "area": 945087
+    "area": 945087,
+    "languages": [
+      "sw",
+      "en"
+    ]
   },
   {
     "code2": "TH",
@@ -2577,7 +3173,10 @@
       "zh-CN": "泰王国"
     },
     "population": 71697030,
-    "area": 513120
+    "area": 513120,
+    "languages": [
+      "th"
+    ]
   },
   {
     "code2": "TL",
@@ -2592,7 +3191,11 @@
       "zh-CN": "东帝汶民主共和国"
     },
     "population": 1341296,
-    "area": 14874
+    "area": 14874,
+    "languages": [
+      "pt",
+      "tet"
+    ]
   },
   {
     "code2": "TG",
@@ -2607,7 +3210,10 @@
       "zh-CN": "多哥共和国"
     },
     "population": 8644829,
-    "area": 56785
+    "area": 56785,
+    "languages": [
+      "fr"
+    ]
   },
   {
     "code2": "TO",
@@ -2622,7 +3228,11 @@
       "zh-CN": "汤加王国"
     },
     "population": 100651,
-    "area": 747
+    "area": 747,
+    "languages": [
+      "en",
+      "to"
+    ]
   },
   {
     "code2": "TT",
@@ -2637,7 +3247,10 @@
       "zh-CN": "特立尼达和多巴哥共和国"
     },
     "population": 1399491,
-    "area": 5128
+    "area": 5128,
+    "languages": [
+      "en"
+    ]
   },
   {
     "code2": "TN",
@@ -2652,7 +3265,11 @@
       "zh-CN": "突尼斯共和国"
     },
     "population": 12046656,
-    "area": 163610
+    "area": 163610,
+    "languages": [
+      "ar",
+      "fr"
+    ]
   },
   {
     "code2": "TR",
@@ -2667,7 +3284,10 @@
       "zh-CN": "土耳其共和国"
     },
     "population": 85279553,
-    "area": 783562
+    "area": 783562,
+    "languages": [
+      "tr"
+    ]
   },
   {
     "code2": "TM",
@@ -2682,7 +3302,10 @@
       "zh-CN": "土库曼斯坦"
     },
     "population": 6118000,
-    "area": 488100
+    "area": 488100,
+    "languages": [
+      "tk"
+    ]
   },
   {
     "code2": "TV",
@@ -2697,7 +3320,10 @@
       "zh-CN": "图瓦卢"
     },
     "population": 11792,
-    "area": 26
+    "area": 26,
+    "languages": [
+      "en"
+    ]
   },
   {
     "code2": "UG",
@@ -2712,7 +3338,11 @@
       "zh-CN": "乌干达共和国"
     },
     "population": 47123531,
-    "area": 241038
+    "area": 241038,
+    "languages": [
+      "en",
+      "sw"
+    ]
   },
   {
     "code2": "UA",
@@ -2727,7 +3357,10 @@
       "zh-CN": "乌克兰"
     },
     "population": 43531422,
-    "area": 603550
+    "area": 603550,
+    "languages": [
+      "uk"
+    ]
   },
   {
     "code2": "AE",
@@ -2742,7 +3375,10 @@
       "zh-CN": "阿拉伯联合酋长国"
     },
     "population": 9890402,
-    "area": 83600
+    "area": 83600,
+    "languages": [
+      "ar"
+    ]
   },
   {
     "code2": "GB",
@@ -2757,7 +3393,10 @@
       "zh-CN": "大不列颠及北爱尔兰联合王国"
     },
     "population": 67326569,
-    "area": 242495
+    "area": 242495,
+    "languages": [
+      "en"
+    ]
   },
   {
     "code2": "US",
@@ -2772,7 +3411,10 @@
       "zh-CN": "美利坚合众国"
     },
     "population": 334233854,
-    "area": 9372610
+    "area": 9372610,
+    "languages": [
+      "en"
+    ]
   },
   {
     "code2": "UY",
@@ -2787,7 +3429,10 @@
       "zh-CN": "乌拉圭东岸共和国"
     },
     "population": 3473730,
-    "area": 176215
+    "area": 176215,
+    "languages": [
+      "es"
+    ]
   },
   {
     "code2": "UZ",
@@ -2802,7 +3447,10 @@
       "zh-CN": "乌兹别克斯坦共和国"
     },
     "population": 36601000,
-    "area": 448978
+    "area": 448978,
+    "languages": [
+      "uz"
+    ]
   },
   {
     "code2": "VU",
@@ -2817,7 +3465,12 @@
       "zh-CN": "瓦努阿图共和国"
     },
     "population": 332212,
-    "area": 12189
+    "area": 12189,
+    "languages": [
+      "bi",
+      "en",
+      "fr"
+    ]
   },
   {
     "code2": "VE",
@@ -2832,7 +3485,10 @@
       "zh-CN": "委内瑞拉玻利瓦尔共和国"
     },
     "population": 33721168,
-    "area": 916445
+    "area": 916445,
+    "languages": [
+      "es"
+    ]
   },
   {
     "code2": "VN",
@@ -2847,7 +3503,10 @@
       "zh-CN": "越南社会主义共和国"
     },
     "population": 97468029,
-    "area": 331212
+    "area": 331212,
+    "languages": [
+      "vi"
+    ]
   },
   {
     "code2": "YE",
@@ -2862,7 +3521,10 @@
       "zh-CN": "也门共和国"
     },
     "population": 34449825,
-    "area": 527968
+    "area": 527968,
+    "languages": [
+      "ar"
+    ]
   },
   {
     "code2": "ZM",
@@ -2877,7 +3539,10 @@
       "zh-CN": "赞比亚共和国"
     },
     "population": 19473125,
-    "area": 752618
+    "area": 752618,
+    "languages": [
+      "en"
+    ]
   },
   {
     "code2": "ZW",
@@ -2892,7 +3557,12 @@
       "zh-CN": "津巴布韦共和国"
     },
     "population": 15092171,
-    "area": 390757
+    "area": 390757,
+    "languages": [
+      "en",
+      "sn",
+      "nd"
+    ]
   },
   {
     "code2": "HK",
@@ -2907,7 +3577,11 @@
       "zh-CN": "中国香港特别行政区"
     },
     "population": 7413100,
-    "area": 1104
+    "area": 1104,
+    "languages": [
+      "zh",
+      "en"
+    ]
   },
   {
     "code2": "MO",
@@ -2922,7 +3596,11 @@
       "zh-CN": "中国澳门特别行政区"
     },
     "population": 683218,
-    "area": 30
+    "area": 30,
+    "languages": [
+      "zh",
+      "pt"
+    ]
   },
   {
     "code2": "TW",
@@ -2937,7 +3615,10 @@
       "zh-CN": "台湾"
     },
     "population": 23570000,
-    "area": 36193
+    "area": 36193,
+    "languages": [
+      "zh"
+    ]
   },
   {
     "code2": "PS",
@@ -2952,7 +3633,10 @@
       "zh-CN": "巴勒斯坦国"
     },
     "population": 5227193,
-    "area": 6220
+    "area": 6220,
+    "languages": [
+      "ar"
+    ]
   },
   {
     "code2": "XK",
@@ -2967,7 +3651,11 @@
       "zh-CN": "科索沃共和国"
     },
     "population": 1775378,
-    "area": 10908
+    "area": 10908,
+    "languages": [
+      "sq",
+      "sr"
+    ]
   },
   {
     "code2": "VA",
@@ -2982,7 +3670,11 @@
       "zh-CN": "梵蒂冈城国"
     },
     "population": 800,
-    "area": 1
+    "area": 1,
+    "languages": [
+      "it",
+      "la"
+    ]
   },
   {
     "code2": "PR",
@@ -2997,7 +3689,11 @@
       "zh-CN": "波多黎各自由邦"
     },
     "population": 3285874,
-    "area": 9104
+    "area": 9104,
+    "languages": [
+      "es",
+      "en"
+    ]
   },
   {
     "code2": "GU",
@@ -3012,7 +3708,10 @@
       "zh-CN": "关岛"
     },
     "population": 168775,
-    "area": 544
+    "area": 544,
+    "languages": [
+      "en"
+    ]
   },
   {
     "code2": "GL",
@@ -3027,7 +3726,11 @@
       "zh-CN": "格陵兰"
     },
     "population": 56367,
-    "area": 2166086
+    "area": 2166086,
+    "languages": [
+      "kl",
+      "da"
+    ]
   },
   {
     "code2": "FO",
@@ -3042,7 +3745,11 @@
       "zh-CN": "法罗群岛"
     },
     "population": 53117,
-    "area": 1393
+    "area": 1393,
+    "languages": [
+      "fo",
+      "da"
+    ]
   },
   {
     "code2": "NC",
@@ -3057,7 +3764,10 @@
       "zh-CN": "新喀里多尼亚"
     },
     "population": 271407,
-    "area": 18575
+    "area": 18575,
+    "languages": [
+      "fr"
+    ]
   },
   {
     "code2": "PF",
@@ -3072,7 +3782,10 @@
       "zh-CN": "法属波利尼西亚"
     },
     "population": 283007,
-    "area": 4167
+    "area": 4167,
+    "languages": [
+      "fr"
+    ]
   },
   {
     "code2": "BM",
@@ -3087,7 +3800,10 @@
       "zh-CN": "百慕大"
     },
     "population": 64055,
-    "area": 54
+    "area": 54,
+    "languages": [
+      "en"
+    ]
   },
   {
     "code2": "KY",
@@ -3102,7 +3818,10 @@
       "zh-CN": "开曼群岛"
     },
     "population": 68706,
-    "area": 264
+    "area": 264,
+    "languages": [
+      "en"
+    ]
   },
   {
     "code2": "VI",
@@ -3117,7 +3836,10 @@
       "zh-CN": "美属维尔京群岛"
     },
     "population": 100000,
-    "area": 347
+    "area": 347,
+    "languages": [
+      "en"
+    ]
   },
   {
     "code2": "CW",
@@ -3132,7 +3854,11 @@
       "zh-CN": "库拉索"
     },
     "population": 192000,
-    "area": 444
+    "area": 444,
+    "languages": [
+      "nl",
+      "en"
+    ]
   },
   {
     "code2": "AW",
@@ -3147,7 +3873,11 @@
       "zh-CN": "阿鲁巴"
     },
     "population": 112309,
-    "area": 180
+    "area": 180,
+    "languages": [
+      "nl",
+      "pap"
+    ]
   },
   {
     "code2": "GI",
@@ -3162,7 +3892,10 @@
       "zh-CN": "直布罗陀"
     },
     "population": 34571,
-    "area": 7
+    "area": 7,
+    "languages": [
+      "en"
+    ]
   },
   {
     "code2": "JE",
@@ -3177,7 +3910,11 @@
       "zh-CN": "泽西行政区"
     },
     "population": 106800,
-    "area": 116
+    "area": 116,
+    "languages": [
+      "en",
+      "fr"
+    ]
   },
   {
     "code2": "GG",
@@ -3192,7 +3929,11 @@
       "zh-CN": "根西行政区"
     },
     "population": 67334,
-    "area": 78
+    "area": 78,
+    "languages": [
+      "en",
+      "fr"
+    ]
   },
   {
     "code2": "IM",
@@ -3207,7 +3948,10 @@
       "zh-CN": "马恩岛"
     },
     "population": 84584,
-    "area": 572
+    "area": 572,
+    "languages": [
+      "en"
+    ]
   },
   {
     "code2": "TC",
@@ -3222,7 +3966,10 @@
       "zh-CN": "特克斯和凯科斯群岛"
     },
     "population": 45703,
-    "area": 948
+    "area": 948,
+    "languages": [
+      "en"
+    ]
   },
   {
     "code2": "VG",
@@ -3237,7 +3984,10 @@
       "zh-CN": "英属维尔京群岛"
     },
     "population": 30423,
-    "area": 151
+    "area": 151,
+    "languages": [
+      "en"
+    ]
   },
   {
     "code2": "AI",
@@ -3252,7 +4002,10 @@
       "zh-CN": "安圭拉"
     },
     "population": 18090,
-    "area": 91
+    "area": 91,
+    "languages": [
+      "en"
+    ]
   },
   {
     "code2": "MS",
@@ -3267,7 +4020,10 @@
       "zh-CN": "蒙特塞拉特"
     },
     "population": 4390,
-    "area": 102
+    "area": 102,
+    "languages": [
+      "en"
+    ]
   },
   {
     "code2": "SH",
@@ -3282,7 +4038,10 @@
       "zh-CN": "圣赫勒拿、阿森松和特里斯坦-达库尼亚"
     },
     "population": 5633,
-    "area": 394
+    "area": 394,
+    "languages": [
+      "en"
+    ]
   },
   {
     "code2": "FK",
@@ -3297,7 +4056,10 @@
       "zh-CN": "福克兰群岛"
     },
     "population": 2840,
-    "area": 12173
+    "area": 12173,
+    "languages": [
+      "en"
+    ]
   },
   {
     "code2": "GF",
@@ -3312,7 +4074,10 @@
       "zh-CN": "法属圭亚那"
     },
     "population": 294071,
-    "area": 83534
+    "area": 83534,
+    "languages": [
+      "fr"
+    ]
   },
   {
     "code2": "GP",
@@ -3327,7 +4092,10 @@
       "zh-CN": "瓜德罗普"
     },
     "population": 400000,
-    "area": 1628
+    "area": 1628,
+    "languages": [
+      "fr"
+    ]
   },
   {
     "code2": "MQ",
@@ -3342,7 +4110,10 @@
       "zh-CN": "马提尼克"
     },
     "population": 350000,
-    "area": 1128
+    "area": 1128,
+    "languages": [
+      "fr"
+    ]
   },
   {
     "code2": "RE",
@@ -3357,7 +4128,10 @@
       "zh-CN": "留尼汪"
     },
     "population": 895000,
-    "area": 2511
+    "area": 2511,
+    "languages": [
+      "fr"
+    ]
   },
   {
     "code2": "MF",
@@ -3372,7 +4146,10 @@
       "zh-CN": "圣马丁集体"
     },
     "population": 38002,
-    "area": 53
+    "area": 53,
+    "languages": [
+      "fr"
+    ]
   },
   {
     "code2": "PM",
@@ -3387,7 +4164,10 @@
       "zh-CN": "圣皮埃尔和密克隆"
     },
     "population": 5794,
-    "area": 242
+    "area": 242,
+    "languages": [
+      "fr"
+    ]
   },
   {
     "code2": "WF",
@@ -3402,7 +4182,10 @@
       "zh-CN": "瓦利斯和富图纳群岛"
     },
     "population": 11369,
-    "area": 142
+    "area": 142,
+    "languages": [
+      "fr"
+    ]
   },
   {
     "code2": "YT",
@@ -3417,7 +4200,10 @@
       "zh-CN": "马约特"
     },
     "population": 256518,
-    "area": 374
+    "area": 374,
+    "languages": [
+      "fr"
+    ]
   },
   {
     "code2": "AS",
@@ -3432,7 +4218,11 @@
       "zh-CN": "美属萨摩亚"
     },
     "population": 55312,
-    "area": 199
+    "area": 199,
+    "languages": [
+      "en",
+      "sm"
+    ]
   },
   {
     "code2": "MP",
@@ -3447,7 +4237,10 @@
       "zh-CN": "北马里亚纳群岛联邦"
     },
     "population": 57216,
-    "area": 464
+    "area": 464,
+    "languages": [
+      "en"
+    ]
   },
   {
     "code2": "CX",
@@ -3462,7 +4255,10 @@
       "zh-CN": "圣诞岛"
     },
     "population": 2072,
-    "area": 135
+    "area": 135,
+    "languages": [
+      "en"
+    ]
   },
   {
     "code2": "CC",
@@ -3477,7 +4273,10 @@
       "zh-CN": "科科斯（基林）群岛"
     },
     "population": 544,
-    "area": 14
+    "area": 14,
+    "languages": [
+      "en"
+    ]
   },
   {
     "code2": "NF",
@@ -3492,7 +4291,10 @@
       "zh-CN": "诺福克岛"
     },
     "population": 1748,
-    "area": 36
+    "area": 36,
+    "languages": [
+      "en"
+    ]
   },
   {
     "code2": "PN",
@@ -3507,7 +4309,10 @@
       "zh-CN": "皮特凯恩群岛"
     },
     "population": 50,
-    "area": 47
+    "area": 47,
+    "languages": [
+      "en"
+    ]
   },
   {
     "code2": "TK",
@@ -3522,7 +4327,11 @@
       "zh-CN": "托克劳"
     },
     "population": 1647,
-    "area": 12
+    "area": 12,
+    "languages": [
+      "en",
+      "tkl"
+    ]
   },
   {
     "code2": "NU",
@@ -3537,7 +4346,11 @@
       "zh-CN": "纽埃"
     },
     "population": 1549,
-    "area": 260
+    "area": 260,
+    "languages": [
+      "en",
+      "niu"
+    ]
   },
   {
     "code2": "CK",
@@ -3552,7 +4365,10 @@
       "zh-CN": "库克群岛"
     },
     "population": 17459,
-    "area": 236
+    "area": 236,
+    "languages": [
+      "en"
+    ]
   },
   {
     "code2": "EH",
@@ -3567,7 +4383,10 @@
       "zh-CN": "西撒哈拉"
     },
     "population": 612000,
-    "area": 266000
+    "area": 266000,
+    "languages": [
+      "ar"
+    ]
   },
   {
     "code2": "AX",
@@ -3582,7 +4401,10 @@
       "zh-CN": "奥兰群岛"
     },
     "population": 30129,
-    "area": 1580
+    "area": 1580,
+    "languages": [
+      "sv"
+    ]
   },
   {
     "code2": "BL",
@@ -3597,7 +4419,10 @@
       "zh-CN": "圣巴泰勒米集体"
     },
     "population": 9131,
-    "area": 21
+    "area": 21,
+    "languages": [
+      "fr"
+    ]
   },
   {
     "code2": "IO",
@@ -3612,7 +4437,10 @@
       "zh-CN": "英属印度洋领地"
     },
     "population": 3000,
-    "area": 60
+    "area": 60,
+    "languages": [
+      "en"
+    ]
   },
   {
     "code2": "SX",
@@ -3627,7 +4455,11 @@
       "zh-CN": "荷属圣马丁"
     },
     "population": 42876,
-    "area": 34
+    "area": 34,
+    "languages": [
+      "nl",
+      "en"
+    ]
   },
   {
     "code2": "BQ",
@@ -3642,7 +4474,10 @@
       "zh-CN": "博奈尔、圣尤斯特歇斯和萨巴"
     },
     "population": 26223,
-    "area": 328
+    "area": 328,
+    "languages": [
+      "nl"
+    ]
   },
   {
     "code2": "TF",
@@ -3657,7 +4492,10 @@
       "zh-CN": "法属南部和南极领地"
     },
     "population": 140,
-    "area": 7747
+    "area": 7747,
+    "languages": [
+      "fr"
+    ]
   },
   {
     "code2": "GS",
@@ -3672,7 +4510,10 @@
       "zh-CN": "南乔治亚和南桑威奇群岛"
     },
     "population": 30,
-    "area": 3903
+    "area": 3903,
+    "languages": [
+      "en"
+    ]
   },
   {
     "code2": "HM",
@@ -3687,7 +4528,10 @@
       "zh-CN": "赫德岛和麦克唐纳群岛"
     },
     "population": 0,
-    "area": 412
+    "area": 412,
+    "languages": [
+      "en"
+    ]
   },
   {
     "code2": "AQ",
@@ -3702,6 +4546,9 @@
       "zh-CN": "南极洲"
     },
     "population": 1000,
-    "area": 14000000
+    "area": 14000000,
+    "languages": [
+      "en"
+    ]
   }
 ]
