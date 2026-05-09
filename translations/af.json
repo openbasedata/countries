@@ -1,23 +1,23 @@
 {
   "AF": {
     "name": "Afganistan",
-    "fullName": "Afganistan"
+    "fullName": "Islamitiese Republiek van Afganistan"
   },
   "AL": {
     "name": "Albanië",
-    "fullName": "Albanië"
+    "fullName": "Republiek van Albanië"
   },
   "DZ": {
     "name": "Algerië",
-    "fullName": "Algerië"
+    "fullName": "Demokratiese Volksrepubliek van Algerië"
   },
   "AD": {
     "name": "Andorra",
-    "fullName": "Andorra"
+    "fullName": "Prinsdom van Andorra"
   },
   "AO": {
     "name": "Angola",
-    "fullName": "Angola"
+    "fullName": "Republiek van Angola"
   },
   "AG": {
     "name": "Antigua en Barbuda",
@@ -25,35 +25,35 @@
   },
   "AR": {
     "name": "Argentinië",
-    "fullName": "Argentinië"
+    "fullName": "Argentynse Republiek"
   },
   "AM": {
     "name": "Armenië",
-    "fullName": "Armenië"
+    "fullName": "Republiek van Armenië"
   },
   "AU": {
     "name": "Australië",
-    "fullName": "Australië"
+    "fullName": "Gemenebes van Australië"
   },
   "AT": {
     "name": "Oostenryk",
-    "fullName": "Oostenryk"
+    "fullName": "Republiek van Oostenryk"
   },
   "AZ": {
     "name": "Azerbeidjan",
-    "fullName": "Azerbeidjan"
+    "fullName": "Republiek van Azerbeidjan"
   },
   "BS": {
     "name": "Bahamas",
-    "fullName": "Bahamas"
+    "fullName": "Gemenebes van Bahamas"
   },
   "BH": {
     "name": "Bahrein",
-    "fullName": "Bahrein"
+    "fullName": "Koninkryk van Bahrein"
   },
   "BD": {
     "name": "Bangladesj",
-    "fullName": "Bangladesj"
+    "fullName": "Volksrepubliek van Bangladesj"
   },
   "BB": {
     "name": "Barbados",
@@ -61,11 +61,11 @@
   },
   "BY": {
     "name": "Belarus",
-    "fullName": "Belarus"
+    "fullName": "Republiek van Belarus"
   },
   "BE": {
     "name": "België",
-    "fullName": "België"
+    "fullName": "Koninkryk van België"
   },
   "BZ": {
     "name": "Belize",
@@ -73,15 +73,15 @@
   },
   "BJ": {
     "name": "Benin",
-    "fullName": "Benin"
+    "fullName": "Republiek van Benin"
   },
   "BT": {
     "name": "Bhoetan",
-    "fullName": "Bhoetan"
+    "fullName": "Koninkryk van Bhoetan"
   },
   "BO": {
     "name": "Bolivië",
-    "fullName": "Bolivië"
+    "fullName": "Veelvolkige Staat van Bolivië"
   },
   "BA": {
     "name": "Bosnië en Herzegowina",
@@ -89,11 +89,11 @@
   },
   "BW": {
     "name": "Botswana",
-    "fullName": "Botswana"
+    "fullName": "Republiek van Botswana"
   },
   "BR": {
     "name": "Brasilië",
-    "fullName": "Brasilië"
+    "fullName": "Federatiewe Republiek van Brasilië"
   },
   "BN": {
     "name": "Broenei",
@@ -101,7 +101,7 @@
   },
   "BG": {
     "name": "Bulgarye",
-    "fullName": "Bulgarye"
+    "fullName": "Republiek van Bulgarye"
   },
   "BF": {
     "name": "Burkina Faso",
@@ -109,19 +109,19 @@
   },
   "BI": {
     "name": "Burundi",
-    "fullName": "Burundi"
+    "fullName": "Republiek van Burundi"
   },
   "CV": {
     "name": "Kaap Verde",
-    "fullName": "Kaap Verde"
+    "fullName": "Republiek van Kaap Verde"
   },
   "KH": {
     "name": "Kambodja",
-    "fullName": "Kambodja"
+    "fullName": "Koninkryk van Kambodja"
   },
   "CM": {
     "name": "Kameroen",
-    "fullName": "Kameroen"
+    "fullName": "Republiek van Kameroen"
   },
   "CA": {
     "name": "Kanada",
@@ -133,23 +133,23 @@
   },
   "TD": {
     "name": "Tsjad",
-    "fullName": "Tsjad"
+    "fullName": "Republiek van Tsjad"
   },
   "CL": {
     "name": "Chili",
-    "fullName": "Chili"
+    "fullName": "Republiek van Chili"
   },
   "CN": {
     "name": "Sjina",
-    "fullName": "Sjina"
+    "fullName": "Volksrepubliek van Sjina"
   },
   "CO": {
     "name": "Colombië",
-    "fullName": "Colombië"
+    "fullName": "Republiek van Colombië"
   },
   "KM": {
     "name": "Comore",
-    "fullName": "Comore"
+    "fullName": "Unie van die Comore"
   },
   "CG": {
     "name": "Republiek van die Kongo",
@@ -161,23 +161,23 @@
   },
   "CR": {
     "name": "Costa Rica",
-    "fullName": "Costa Rica"
+    "fullName": "Republiek van Costa Rica"
   },
   "CI": {
     "name": "Ivoorkus",
-    "fullName": "Ivoorkus"
+    "fullName": "Republiek van Ivoorkus"
   },
   "HR": {
     "name": "Kroasië",
-    "fullName": "Kroasië"
+    "fullName": "Republiek van Kroasië"
   },
   "CU": {
     "name": "Kuba",
-    "fullName": "Kuba"
+    "fullName": "Republiek van Kuba"
   },
   "CY": {
     "name": "Siprus",
-    "fullName": "Siprus"
+    "fullName": "Republiek van Siprus"
   },
   "CZ": {
     "name": "Tjeggiese Republiek",
@@ -185,15 +185,15 @@
   },
   "DK": {
     "name": "Denemarke",
-    "fullName": "Denemarke"
+    "fullName": "Koninkryk van Denemarke"
   },
   "DJ": {
     "name": "Djiboeti",
-    "fullName": "Djiboeti"
+    "fullName": "Republiek van Djiboeti"
   },
   "DM": {
     "name": "Dominica",
-    "fullName": "Dominica"
+    "fullName": "Gemenebes van Dominica"
   },
   "DO": {
     "name": "Dominikaanse Republiek",
@@ -201,55 +201,55 @@
   },
   "EC": {
     "name": "Ecuador",
-    "fullName": "Ecuador"
+    "fullName": "Republiek van Ecuador"
   },
   "EG": {
     "name": "Egipte",
-    "fullName": "Egipte"
+    "fullName": "Arabiese Republiek van Egipte"
   },
   "SV": {
     "name": "El Salvador",
-    "fullName": "El Salvador"
+    "fullName": "Republiek van El Salvador"
   },
   "GQ": {
     "name": "Ekwatoriaal-Guinee",
-    "fullName": "Ekwatoriaal-Guinee"
+    "fullName": "Republiek van Ekwatoriaal-Guinee"
   },
   "ER": {
     "name": "Eritrea",
-    "fullName": "Eritrea"
+    "fullName": "Staat van Eritrea"
   },
   "EE": {
     "name": "Estland",
-    "fullName": "Estland"
+    "fullName": "Republiek van Estland"
   },
   "SZ": {
     "name": "Swaziland",
-    "fullName": "Swaziland"
+    "fullName": "Koninkryk van Swaziland"
   },
   "ET": {
     "name": "Ethiopië",
-    "fullName": "Ethiopië"
+    "fullName": "Federale Demokratiese Republiek van Ethiopië"
   },
   "FJ": {
     "name": "Fidji",
-    "fullName": "Fidji"
+    "fullName": "Republiek van Fidji"
   },
   "FI": {
     "name": "Finland",
-    "fullName": "Finland"
+    "fullName": "Republiek van Finland"
   },
   "FR": {
     "name": "Frankryk",
-    "fullName": "Frankryk"
+    "fullName": "Franse Republiek"
   },
   "GA": {
     "name": "Gaboen",
-    "fullName": "Gaboen"
+    "fullName": "Gaboenese Republiek"
   },
   "GM": {
     "name": "Gambië",
-    "fullName": "Gambië"
+    "fullName": "Republiek van Gambië"
   },
   "GE": {
     "name": "Georgië",
@@ -257,15 +257,15 @@
   },
   "DE": {
     "name": "Duitsland",
-    "fullName": "Duitsland"
+    "fullName": "Federale Republiek van Duitsland"
   },
   "GH": {
     "name": "Ghana",
-    "fullName": "Ghana"
+    "fullName": "Republiek van Ghana"
   },
   "GR": {
     "name": "Griekeland",
-    "fullName": "Griekeland"
+    "fullName": "Helleense Republiek"
   },
   "GD": {
     "name": "Grenada",
@@ -273,15 +273,15 @@
   },
   "GT": {
     "name": "Guatemala",
-    "fullName": "Guatemala"
+    "fullName": "Republiek van Guatemala"
   },
   "GN": {
     "name": "Guinee",
-    "fullName": "Guinee"
+    "fullName": "Republiek van Guinee"
   },
   "GW": {
     "name": "Guinee-Bissau",
-    "fullName": "Guinee-Bissau"
+    "fullName": "Republiek van Guinee-Bissau"
   },
   "GY": {
     "name": "Guyana",
@@ -289,11 +289,11 @@
   },
   "HT": {
     "name": "Haïti",
-    "fullName": "Haïti"
+    "fullName": "Republiek van Haïti"
   },
   "HN": {
     "name": "Honduras",
-    "fullName": "Honduras"
+    "fullName": "Republiek van Honduras"
   },
   "HU": {
     "name": "Hongarye",
@@ -301,31 +301,31 @@
   },
   "IS": {
     "name": "Ysland",
-    "fullName": "Ysland"
+    "fullName": "Republiek van Ysland"
   },
   "IN": {
     "name": "Indië",
-    "fullName": "Indië"
+    "fullName": "Republiek van Indië"
   },
   "ID": {
     "name": "Indonesië",
-    "fullName": "Indonesië"
+    "fullName": "Republiek van Indonesië"
   },
   "IR": {
     "name": "Iran",
-    "fullName": "Iran"
+    "fullName": "Islamitiese Republiek van Iran"
   },
   "IQ": {
     "name": "Irak",
-    "fullName": "Irak"
+    "fullName": "Republiek van Irak"
   },
   "IE": {
     "name": "Ierland",
-    "fullName": "Ierland"
+    "fullName": "Republiek van Ierland"
   },
   "IL": {
     "name": "Israel",
-    "fullName": "Israel"
+    "fullName": "Staat van Israel"
   },
   "IT": {
     "name": "Italië",
@@ -337,23 +337,23 @@
   },
   "JP": {
     "name": "Japan",
-    "fullName": "Japan"
+    "fullName": "Staat van Japan"
   },
   "JO": {
     "name": "Jordanië",
-    "fullName": "Jordanië"
+    "fullName": "Hasjemitiese Koninkryk van Jordanië"
   },
   "KZ": {
     "name": "Kazakstan",
-    "fullName": "Kazakstan"
+    "fullName": "Republiek van Kazakstan"
   },
   "KE": {
     "name": "Kenia",
-    "fullName": "Kenia"
+    "fullName": "Republiek van Kenia"
   },
   "KI": {
     "name": "Kiribati",
-    "fullName": "Kiribati"
+    "fullName": "Republiek van Kiribati"
   },
   "KP": {
     "name": "Noord-Korea",
@@ -361,59 +361,59 @@
   },
   "KR": {
     "name": "Suid-Korea",
-    "fullName": "Suid-Korea"
+    "fullName": "Republiek van Suid-Korea"
   },
   "KW": {
     "name": "Koeweit",
-    "fullName": "Koeweit"
+    "fullName": "Staat van Koeweit"
   },
   "KG": {
     "name": "Kirgisië",
-    "fullName": "Kirgisië"
+    "fullName": "Kirgiziese Republiek"
   },
   "LA": {
     "name": "Laos",
-    "fullName": "Laos"
+    "fullName": "Lao Demokratiese Volksrepubliek"
   },
   "LV": {
     "name": "Letland",
-    "fullName": "Letland"
+    "fullName": "Republiek van Letland"
   },
   "LB": {
     "name": "Libanon",
-    "fullName": "Libanon"
+    "fullName": "Libanese Republiek"
   },
   "LS": {
     "name": "Lesotho",
-    "fullName": "Lesotho"
+    "fullName": "Koninkryk van Lesotho"
   },
   "LR": {
     "name": "Liberië",
-    "fullName": "Liberië"
+    "fullName": "Republiek van Liberië"
   },
   "LY": {
     "name": "Libië",
-    "fullName": "Libië"
+    "fullName": "Staat van Libië"
   },
   "LI": {
     "name": "Liechtenstein",
-    "fullName": "Liechtenstein"
+    "fullName": "Prinsdom van Liechtenstein"
   },
   "LT": {
     "name": "Litaue",
-    "fullName": "Litaue"
+    "fullName": "Republiek van Litaue"
   },
   "LU": {
     "name": "Luxemburg",
-    "fullName": "Luxemburg"
+    "fullName": "Groot Hertogdom van Luxemburg"
   },
   "MG": {
     "name": "Madagaskar",
-    "fullName": "Madagaskar"
+    "fullName": "Republiek van Madagaskar"
   },
   "MW": {
     "name": "Malawi",
-    "fullName": "Malawi"
+    "fullName": "Republiek van Malawi"
   },
   "MY": {
     "name": "Maleisië",
@@ -421,31 +421,31 @@
   },
   "MV": {
     "name": "Maledive",
-    "fullName": "Maledive"
+    "fullName": "Republiek van Maledive"
   },
   "ML": {
     "name": "Mali",
-    "fullName": "Mali"
+    "fullName": "Republiek van Mali"
   },
   "MT": {
     "name": "Malta",
-    "fullName": "Malta"
+    "fullName": "Republiek van Malta"
   },
   "MH": {
     "name": "Marshalleilande",
-    "fullName": "Marshalleilande"
+    "fullName": "Republiek van Marshalleilande"
   },
   "MR": {
     "name": "Mauritanië",
-    "fullName": "Mauritanië"
+    "fullName": "Islamitiese Republiek van Mauritanië"
   },
   "MU": {
     "name": "Mauritius",
-    "fullName": "Mauritius"
+    "fullName": "Republiek van Mauritius"
   },
   "MX": {
     "name": "Meksiko",
-    "fullName": "Meksiko"
+    "fullName": "Verenigde Meksikaanse State"
   },
   "FM": {
     "name": "Mikronesië",
@@ -453,11 +453,11 @@
   },
   "MD": {
     "name": "Moldowa",
-    "fullName": "Moldowa"
+    "fullName": "Republiek van Moldowa"
   },
   "MC": {
     "name": "Monaco",
-    "fullName": "Monaco"
+    "fullName": "Prinsdom van Monaco"
   },
   "MN": {
     "name": "Mongolië",
@@ -469,31 +469,31 @@
   },
   "MA": {
     "name": "Marokko",
-    "fullName": "Marokko"
+    "fullName": "Koninkryk van Marokko"
   },
   "MZ": {
     "name": "Mosambiek",
-    "fullName": "Mosambiek"
+    "fullName": "Republiek van Mosambiek"
   },
   "MM": {
     "name": "Mianmar (Birma)",
-    "fullName": "Mianmar (Birma)"
+    "fullName": "Republiek van Mianmar (Birma)"
   },
   "NA": {
     "name": "Namibië",
-    "fullName": "Namibië"
+    "fullName": "Republiek van Namibië"
   },
   "NR": {
     "name": "Nauru",
-    "fullName": "Nauru"
+    "fullName": "Republiek van Nauru"
   },
   "NP": {
     "name": "Nepal",
-    "fullName": "Nepal"
+    "fullName": "Federale Demokratiese Republiek van Nepal"
   },
   "NL": {
     "name": "Nederland",
-    "fullName": "Nederland"
+    "fullName": "Koninkryk van Nederland"
   },
   "NZ": {
     "name": "Nieu-Seeland",
@@ -501,67 +501,67 @@
   },
   "NI": {
     "name": "Nicaragua",
-    "fullName": "Nicaragua"
+    "fullName": "Republiek van Nicaragua"
   },
   "NE": {
     "name": "Niger",
-    "fullName": "Niger"
+    "fullName": "Republiek van Niger"
   },
   "NG": {
     "name": "Nigerië",
-    "fullName": "Nigerië"
+    "fullName": "Federale Republiek van Nigerië"
   },
   "MK": {
     "name": "Macedonië",
-    "fullName": "Macedonië"
+    "fullName": "Republiek van Macedonië"
   },
   "NO": {
     "name": "Noorweë",
-    "fullName": "Noorweë"
+    "fullName": "Koninkryk van Noorweë"
   },
   "OM": {
     "name": "Oman",
-    "fullName": "Oman"
+    "fullName": "Sultanaat van Oman"
   },
   "PK": {
     "name": "Pakistan",
-    "fullName": "Pakistan"
+    "fullName": "Islamitiese Republiek van Pakistan"
   },
   "PW": {
     "name": "Palau",
-    "fullName": "Palau"
+    "fullName": "Republiek van Palau"
   },
   "PA": {
     "name": "Panama",
-    "fullName": "Panama"
+    "fullName": "Republiek van Panama"
   },
   "PG": {
     "name": "Papoea-Nieu-Guinee",
-    "fullName": "Papoea-Nieu-Guinee"
+    "fullName": "Onafhanklike Staat van Papoea-Nieu-Guinee"
   },
   "PY": {
     "name": "Paraguay",
-    "fullName": "Paraguay"
+    "fullName": "Republiek van Paraguay"
   },
   "PE": {
     "name": "Peru",
-    "fullName": "Peru"
+    "fullName": "Republiek van Peru"
   },
   "PH": {
     "name": "Filippyne",
-    "fullName": "Filippyne"
+    "fullName": "Republiek van Filippyne"
   },
   "PL": {
     "name": "Pole",
-    "fullName": "Pole"
+    "fullName": "Republiek van Pole"
   },
   "PT": {
     "name": "Portugal",
-    "fullName": "Portugal"
+    "fullName": "Portugese Republiek"
   },
   "QA": {
     "name": "Katar",
-    "fullName": "Katar"
+    "fullName": "Staat van Katar"
   },
   "RO": {
     "name": "Roemenië",
@@ -569,15 +569,15 @@
   },
   "RU": {
     "name": "Rusland",
-    "fullName": "Rusland"
+    "fullName": "Russiese Federasie"
   },
   "RW": {
     "name": "Rwanda",
-    "fullName": "Rwanda"
+    "fullName": "Republiek van Rwanda"
   },
   "KN": {
     "name": "Sint Kitts en Nevis",
-    "fullName": "Sint Kitts en Nevis"
+    "fullName": "Federasie van Sint Kitts en Nevis"
   },
   "LC": {
     "name": "Sint Lucia",
@@ -589,47 +589,47 @@
   },
   "WS": {
     "name": "Samoa",
-    "fullName": "Samoa"
+    "fullName": "Onafhanklike Staat van Samoa"
   },
   "SM": {
     "name": "San Marino",
-    "fullName": "San Marino"
+    "fullName": "Republiek van San Marino"
   },
   "ST": {
     "name": "Sao Tome en Principe",
-    "fullName": "Sao Tome en Principe"
+    "fullName": "Demokratiese Republiek van Sao Tome en Principe"
   },
   "SA": {
     "name": "Saoedi-Arabië",
-    "fullName": "Saoedi-Arabië"
+    "fullName": "Koninkryk van Saoedi-Arabië"
   },
   "SN": {
     "name": "Senegal",
-    "fullName": "Senegal"
+    "fullName": "Republiek van Senegal"
   },
   "RS": {
     "name": "Serwië",
-    "fullName": "Serwië"
+    "fullName": "Republiek van Serwië"
   },
   "SC": {
     "name": "Seychelle",
-    "fullName": "Seychelle"
+    "fullName": "Republiek van Seychelle"
   },
   "SL": {
     "name": "Sierra Leone",
-    "fullName": "Sierra Leone"
+    "fullName": "Republiek van Sierra Leone"
   },
   "SG": {
     "name": "Singapoer",
-    "fullName": "Singapoer"
+    "fullName": "Republiek van Singapoer"
   },
   "SK": {
     "name": "Slowakye",
-    "fullName": "Slowakye"
+    "fullName": "Slowaakse Republiek"
   },
   "SI": {
     "name": "Slowenië",
-    "fullName": "Slowenië"
+    "fullName": "Republiek van Slowenië"
   },
   "SB": {
     "name": "Solomoneilande",
@@ -637,39 +637,39 @@
   },
   "SO": {
     "name": "Somalië",
-    "fullName": "Somalië"
+    "fullName": "Federale Republiek van Somalië"
   },
   "ZA": {
     "name": "Suid-Afrika",
-    "fullName": "Suid-Afrika"
+    "fullName": "Republiek van Suid-Afrika"
   },
   "SS": {
     "name": "Suid-Soedan",
-    "fullName": "Suid-Soedan"
+    "fullName": "Republiek van Suid-Soedan"
   },
   "ES": {
     "name": "Spanje",
-    "fullName": "Spanje"
+    "fullName": "Koninkryk van Spanje"
   },
   "LK": {
     "name": "Sri Lanka",
-    "fullName": "Sri Lanka"
+    "fullName": "Demokratiese Sosialistiese Republiek van Sri Lanka"
   },
   "SD": {
     "name": "Soedan",
-    "fullName": "Soedan"
+    "fullName": "Republiek van Soedan"
   },
   "SR": {
     "name": "Suriname",
-    "fullName": "Suriname"
+    "fullName": "Republiek van Suriname"
   },
   "SE": {
     "name": "Swede",
-    "fullName": "Swede"
+    "fullName": "Koninkryk van Swede"
   },
   "CH": {
     "name": "Switserland",
-    "fullName": "Switserland"
+    "fullName": "Switserse Konfederasie"
   },
   "SY": {
     "name": "Sirië",
@@ -677,7 +677,7 @@
   },
   "TJ": {
     "name": "Tadjikistan",
-    "fullName": "Tadjikistan"
+    "fullName": "Republiek van Tadjikistan"
   },
   "TZ": {
     "name": "Tanzanië",
@@ -685,31 +685,31 @@
   },
   "TH": {
     "name": "Thailand",
-    "fullName": "Thailand"
+    "fullName": "Koninkryk van Thailand"
   },
   "TL": {
     "name": "Oos-Timor",
-    "fullName": "Oos-Timor"
+    "fullName": "Demokratiese Republiek van Oos-Timor"
   },
   "TG": {
     "name": "Togo",
-    "fullName": "Togo"
+    "fullName": "Togolese Republiek"
   },
   "TO": {
     "name": "Tonga",
-    "fullName": "Tonga"
+    "fullName": "Koninkryk van Tonga"
   },
   "TT": {
     "name": "Trinidad en Tobago",
-    "fullName": "Trinidad en Tobago"
+    "fullName": "Republiek van Trinidad en Tobago"
   },
   "TN": {
     "name": "Tunisië",
-    "fullName": "Tunisië"
+    "fullName": "Republiek van Tunisië"
   },
   "TR": {
     "name": "Turkye",
-    "fullName": "Turkye"
+    "fullName": "Republiek van Turkye"
   },
   "TM": {
     "name": "Turkmenië",
@@ -721,7 +721,7 @@
   },
   "UG": {
     "name": "Uganda",
-    "fullName": "Uganda"
+    "fullName": "Republiek van Uganda"
   },
   "UA": {
     "name": "Oekraïne",
@@ -733,7 +733,7 @@
   },
   "GB": {
     "name": "Verenigde Koninkryk",
-    "fullName": "Verenigde Koninkryk"
+    "fullName": "Verenigde Koninkryk van Groot-Brittanje en Noord-Ierland"
   },
   "US": {
     "name": "Verenigde State van Amerika",
@@ -745,11 +745,11 @@
   },
   "UZ": {
     "name": "Oesbekistan",
-    "fullName": "Oesbekistan"
+    "fullName": "Republiek van Oesbekistan"
   },
   "VU": {
     "name": "Vanuatu",
-    "fullName": "Vanuatu"
+    "fullName": "Republiek van Vanuatu"
   },
   "VE": {
     "name": "Venezuela",
@@ -761,43 +761,43 @@
   },
   "YE": {
     "name": "Jemen",
-    "fullName": "Jemen"
+    "fullName": "Republiek van Jemen"
   },
   "ZM": {
     "name": "Zambië",
-    "fullName": "Zambië"
+    "fullName": "Republiek van Zambië"
   },
   "ZW": {
     "name": "Zimbabwe",
-    "fullName": "Zimbabwe"
+    "fullName": "Republiek van Zimbabwe"
   },
   "HK": {
     "name": "Hongkong SAS Sjina",
-    "fullName": "Hongkong SAS Sjina"
+    "fullName": "Hongkong Spesiale Administratiewe Streek"
   },
   "MO": {
     "name": "Macau SAS Sjina",
-    "fullName": "Macau SAS Sjina"
+    "fullName": "Macau Spesiale Administratiewe Streek"
   },
   "TW": {
     "name": "Taiwan",
-    "fullName": "Taiwan"
+    "fullName": "Taiwan, Provinsie van Sjina"
   },
   "PS": {
     "name": "Palestynse gebiede",
-    "fullName": "Palestynse gebiede"
+    "fullName": "Staat van Palestynse gebiede"
   },
   "XK": {
     "name": "Kosovo",
-    "fullName": "Kosovo"
+    "fullName": "Republiek van Kosovo"
   },
   "VA": {
     "name": "Vatikaanstad",
-    "fullName": "Vatikaanstad"
+    "fullName": "Staat Vatikaanstad"
   },
   "PR": {
     "name": "Puerto Rico",
-    "fullName": "Puerto Rico"
+    "fullName": "Gemenebes van Puerto Rico"
   },
   "GU": {
     "name": "Guam",
@@ -829,7 +829,7 @@
   },
   "VI": {
     "name": "Amerikaanse Maagde-eilande",
-    "fullName": "Amerikaanse Maagde-eilande"
+    "fullName": "Verenigde State se Maagde-eilande"
   },
   "CW": {
     "name": "Curaçao",
@@ -845,11 +845,11 @@
   },
   "JE": {
     "name": "Jersey",
-    "fullName": "Jersey"
+    "fullName": "Baljuwskap van Jersey"
   },
   "GG": {
     "name": "Guernsey",
-    "fullName": "Guernsey"
+    "fullName": "Baljuwskap van Guernsey"
   },
   "IM": {
     "name": "Eiland Man",
@@ -873,7 +873,7 @@
   },
   "SH": {
     "name": "Sint Helena",
-    "fullName": "Sint Helena"
+    "fullName": "Sint Helena, Ascension en Tristan da Cunha"
   },
   "FK": {
     "name": "Falklandeilande",
@@ -897,7 +897,7 @@
   },
   "MF": {
     "name": "Sint Martin",
-    "fullName": "Sint Martin"
+    "fullName": "Kollektiwiteit van Sint Martin"
   },
   "PM": {
     "name": "Sint Pierre en Miquelon",
@@ -917,11 +917,11 @@
   },
   "MP": {
     "name": "Noordelike Mariana-eilande",
-    "fullName": "Noordelike Mariana-eilande"
+    "fullName": "Gemenebes van Noordelike Mariana-eilande"
   },
   "CX": {
     "name": "Kerseiland",
-    "fullName": "Kerseiland"
+    "fullName": "Gebied van Kerseiland"
   },
   "CC": {
     "name": "Cocos- (Keeling) eilande",
@@ -929,11 +929,11 @@
   },
   "NF": {
     "name": "Norfolkeiland",
-    "fullName": "Norfolkeiland"
+    "fullName": "Gebied van Norfolkeiland"
   },
   "PN": {
     "name": "Pitcairneilande",
-    "fullName": "Pitcairneilande"
+    "fullName": "Pitcairn-, Henderson-, Ducie- en Oeno-eilande"
   },
   "TK": {
     "name": "Tokelau",
@@ -957,7 +957,7 @@
   },
   "BL": {
     "name": "Sint Barthélemy",
-    "fullName": "Sint Barthélemy"
+    "fullName": "Kollektiwiteit van Sint Barthélemy"
   },
   "IO": {
     "name": "Britse Indiese Oseaangebied",
@@ -969,11 +969,11 @@
   },
   "BQ": {
     "name": "Karibiese Nederland",
-    "fullName": "Karibiese Nederland"
+    "fullName": "Bonaire, Sint Eustatius en Saba"
   },
   "TF": {
     "name": "Franse Suidelike Gebiede",
-    "fullName": "Franse Suidelike Gebiede"
+    "fullName": "Franse Suidelike en Antarktiese Gebiede"
   },
   "GS": {
     "name": "Suid-Georgië en die Suidelike Sandwicheilande",
@@ -981,7 +981,7 @@
   },
   "HM": {
     "name": "Heard en McDonaldeilande",
-    "fullName": "Heard en McDonaldeilande"
+    "fullName": "Gebied van Heard en McDonaldeilande"
   },
   "AQ": {
     "name": "Antarktika",
