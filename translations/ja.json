@@ -1,0 +1,1237 @@
+[
+  {
+    "code2": "AF",
+    "name": "アフガニスタン",
+    "fullName": "アフガニスタン・イスラム共和国"
+  },
+  {
+    "code2": "AL",
+    "name": "アルバニア",
+    "fullName": "アルバニア共和国"
+  },
+  {
+    "code2": "DZ",
+    "name": "アルジェリア",
+    "fullName": "アルジェリア民主人民共和国"
+  },
+  {
+    "code2": "AD",
+    "name": "アンドラ",
+    "fullName": "アンドラ公国"
+  },
+  {
+    "code2": "AO",
+    "name": "アンゴラ",
+    "fullName": "アンゴラ共和国"
+  },
+  {
+    "code2": "AG",
+    "name": "アンティグア・バーブーダ",
+    "fullName": "アンティグア・バーブーダ"
+  },
+  {
+    "code2": "AR",
+    "name": "アルゼンチン",
+    "fullName": "アルゼンチン共和国"
+  },
+  {
+    "code2": "AM",
+    "name": "アルメニア",
+    "fullName": "アルメニア共和国"
+  },
+  {
+    "code2": "AU",
+    "name": "オーストラリア",
+    "fullName": "オーストラリア連邦"
+  },
+  {
+    "code2": "AT",
+    "name": "オーストリア",
+    "fullName": "オーストリア共和国"
+  },
+  {
+    "code2": "AZ",
+    "name": "アゼルバイジャン",
+    "fullName": "アゼルバイジャン共和国"
+  },
+  {
+    "code2": "BS",
+    "name": "バハマ",
+    "fullName": "バハマ国"
+  },
+  {
+    "code2": "BH",
+    "name": "バーレーン",
+    "fullName": "バーレーン王国"
+  },
+  {
+    "code2": "BD",
+    "name": "バングラデシュ",
+    "fullName": "バングラデシュ人民共和国"
+  },
+  {
+    "code2": "BB",
+    "name": "バルバドス",
+    "fullName": "バルバドス"
+  },
+  {
+    "code2": "BY",
+    "name": "ベラルーシ",
+    "fullName": "ベラルーシ共和国"
+  },
+  {
+    "code2": "BE",
+    "name": "ベルギー",
+    "fullName": "ベルギー王国"
+  },
+  {
+    "code2": "BZ",
+    "name": "ベリーズ",
+    "fullName": "ベリーズ"
+  },
+  {
+    "code2": "BJ",
+    "name": "ベナン",
+    "fullName": "ベナン共和国"
+  },
+  {
+    "code2": "BT",
+    "name": "ブータン",
+    "fullName": "ブータン王国"
+  },
+  {
+    "code2": "BO",
+    "name": "ボリビア多民族国",
+    "fullName": "ボリビア多民族国"
+  },
+  {
+    "code2": "BA",
+    "name": "ボスニア・ヘルツェゴビナ",
+    "fullName": "ボスニア・ヘルツェゴビナ"
+  },
+  {
+    "code2": "BW",
+    "name": "ボツワナ",
+    "fullName": "ボツワナ共和国"
+  },
+  {
+    "code2": "BR",
+    "name": "ブラジル",
+    "fullName": "ブラジル連邦共和国"
+  },
+  {
+    "code2": "BN",
+    "name": "ブルネイ・ダルサラーム",
+    "fullName": "ブルネイ・ダルサラーム国"
+  },
+  {
+    "code2": "BG",
+    "name": "ブルガリア",
+    "fullName": "ブルガリア共和国"
+  },
+  {
+    "code2": "BF",
+    "name": "ブルキナファソ",
+    "fullName": "ブルキナファソ"
+  },
+  {
+    "code2": "BI",
+    "name": "ブルンジ",
+    "fullName": "ブルンジ共和国"
+  },
+  {
+    "code2": "CV",
+    "name": "カーボベルデ",
+    "fullName": "カーボヴェルデ共和国"
+  },
+  {
+    "code2": "KH",
+    "name": "カンボジア",
+    "fullName": "カンボジア王国"
+  },
+  {
+    "code2": "CM",
+    "name": "カメルーン",
+    "fullName": "カメルーン共和国"
+  },
+  {
+    "code2": "CA",
+    "name": "カナダ",
+    "fullName": "カナダ"
+  },
+  {
+    "code2": "CF",
+    "name": "中央アフリカ共和国",
+    "fullName": "中央アフリカ共和国"
+  },
+  {
+    "code2": "TD",
+    "name": "チャド",
+    "fullName": "チャド共和国"
+  },
+  {
+    "code2": "CL",
+    "name": "チリ",
+    "fullName": "チリ共和国"
+  },
+  {
+    "code2": "CN",
+    "name": "中華人民共和国",
+    "fullName": "中華人民共和国"
+  },
+  {
+    "code2": "CO",
+    "name": "コロンビア",
+    "fullName": "コロンビア共和国"
+  },
+  {
+    "code2": "KM",
+    "name": "コモロ",
+    "fullName": "コモロ連合"
+  },
+  {
+    "code2": "CG",
+    "name": "コンゴ共和国",
+    "fullName": "コンゴ共和国"
+  },
+  {
+    "code2": "CD",
+    "name": "コンゴ民主共和国",
+    "fullName": "コンゴ民主共和国"
+  },
+  {
+    "code2": "CR",
+    "name": "コスタリカ",
+    "fullName": "コスタリカ共和国"
+  },
+  {
+    "code2": "CI",
+    "name": "コートジボワール",
+    "fullName": "コートジボワール共和国"
+  },
+  {
+    "code2": "HR",
+    "name": "クロアチア",
+    "fullName": "クロアチア共和国"
+  },
+  {
+    "code2": "CU",
+    "name": "キューバ",
+    "fullName": "キューバ共和国"
+  },
+  {
+    "code2": "CY",
+    "name": "キプロス",
+    "fullName": "キプロス共和国"
+  },
+  {
+    "code2": "CZ",
+    "name": "チェコ",
+    "fullName": "チェコ共和国"
+  },
+  {
+    "code2": "DK",
+    "name": "デンマーク",
+    "fullName": "デンマーク王国"
+  },
+  {
+    "code2": "DJ",
+    "name": "ジブチ",
+    "fullName": "ジブチ共和国"
+  },
+  {
+    "code2": "DM",
+    "name": "ドミニカ国",
+    "fullName": "ドミニカ国"
+  },
+  {
+    "code2": "DO",
+    "name": "ドミニカ共和国",
+    "fullName": "ドミニカ共和国"
+  },
+  {
+    "code2": "EC",
+    "name": "エクアドル",
+    "fullName": "エクアドル共和国"
+  },
+  {
+    "code2": "EG",
+    "name": "エジプト",
+    "fullName": "エジプト・アラブ共和国"
+  },
+  {
+    "code2": "SV",
+    "name": "エルサルバドル",
+    "fullName": "エルサルバドル共和国"
+  },
+  {
+    "code2": "GQ",
+    "name": "赤道ギニア",
+    "fullName": "赤道ギニア共和国"
+  },
+  {
+    "code2": "ER",
+    "name": "エリトリア",
+    "fullName": "エリトリア国"
+  },
+  {
+    "code2": "EE",
+    "name": "エストニア",
+    "fullName": "エストニア共和国"
+  },
+  {
+    "code2": "SZ",
+    "name": "エスワティニ",
+    "fullName": "エスワティニ王国"
+  },
+  {
+    "code2": "ET",
+    "name": "エチオピア",
+    "fullName": "エチオピア連邦民主共和国"
+  },
+  {
+    "code2": "FJ",
+    "name": "フィジー",
+    "fullName": "フィジー共和国"
+  },
+  {
+    "code2": "FI",
+    "name": "フィンランド",
+    "fullName": "フィンランド共和国"
+  },
+  {
+    "code2": "FR",
+    "name": "フランス",
+    "fullName": "フランス共和国"
+  },
+  {
+    "code2": "GA",
+    "name": "ガボン",
+    "fullName": "ガボン共和国"
+  },
+  {
+    "code2": "GM",
+    "name": "ガンビア",
+    "fullName": "ガンビア共和国"
+  },
+  {
+    "code2": "GE",
+    "name": "ジョージア",
+    "fullName": "ジョージア"
+  },
+  {
+    "code2": "DE",
+    "name": "ドイツ",
+    "fullName": "ドイツ連邦共和国"
+  },
+  {
+    "code2": "GH",
+    "name": "ガーナ",
+    "fullName": "ガーナ共和国"
+  },
+  {
+    "code2": "GR",
+    "name": "ギリシャ",
+    "fullName": "ギリシア共和国"
+  },
+  {
+    "code2": "GD",
+    "name": "グレナダ",
+    "fullName": "グレナダ"
+  },
+  {
+    "code2": "GT",
+    "name": "グアテマラ",
+    "fullName": "グアテマラ共和国"
+  },
+  {
+    "code2": "GN",
+    "name": "ギニア",
+    "fullName": "ギニア共和国"
+  },
+  {
+    "code2": "GW",
+    "name": "ギニアビサウ",
+    "fullName": "ギニアビサウ共和国"
+  },
+  {
+    "code2": "GY",
+    "name": "ガイアナ",
+    "fullName": "ガイアナ共和国"
+  },
+  {
+    "code2": "HT",
+    "name": "ハイチ",
+    "fullName": "ハイチ共和国"
+  },
+  {
+    "code2": "HN",
+    "name": "ホンジュラス",
+    "fullName": "ホンジュラス共和国"
+  },
+  {
+    "code2": "HU",
+    "name": "ハンガリー",
+    "fullName": "ハンガリー"
+  },
+  {
+    "code2": "IS",
+    "name": "アイスランド",
+    "fullName": "アイスランド"
+  },
+  {
+    "code2": "IN",
+    "name": "インド",
+    "fullName": "インド共和国"
+  },
+  {
+    "code2": "ID",
+    "name": "インドネシア",
+    "fullName": "インドネシア共和国"
+  },
+  {
+    "code2": "IR",
+    "name": "イラン・イスラム共和国",
+    "fullName": "イラン・イスラム共和国"
+  },
+  {
+    "code2": "IQ",
+    "name": "イラク",
+    "fullName": "イラク共和国"
+  },
+  {
+    "code2": "IE",
+    "name": "アイルランド",
+    "fullName": "アイルランド"
+  },
+  {
+    "code2": "IL",
+    "name": "イスラエル",
+    "fullName": "イスラエル国"
+  },
+  {
+    "code2": "IT",
+    "name": "イタリア",
+    "fullName": "イタリア共和国"
+  },
+  {
+    "code2": "JM",
+    "name": "ジャマイカ",
+    "fullName": "ジャマイカ"
+  },
+  {
+    "code2": "JP",
+    "name": "日本",
+    "fullName": "日本"
+  },
+  {
+    "code2": "JO",
+    "name": "ヨルダン",
+    "fullName": "ヨルダン・ハシェミット王国"
+  },
+  {
+    "code2": "KZ",
+    "name": "カザフスタン",
+    "fullName": "カザフスタン共和国"
+  },
+  {
+    "code2": "KE",
+    "name": "ケニア",
+    "fullName": "ケニア共和国"
+  },
+  {
+    "code2": "KI",
+    "name": "キリバス",
+    "fullName": "キリバス共和国"
+  },
+  {
+    "code2": "KP",
+    "name": "朝鮮民主主義人民共和国",
+    "fullName": "朝鮮民主主義人民共和国"
+  },
+  {
+    "code2": "KR",
+    "name": "大韓民国",
+    "fullName": "大韓民国"
+  },
+  {
+    "code2": "KW",
+    "name": "クウェート",
+    "fullName": "クウェート国"
+  },
+  {
+    "code2": "KG",
+    "name": "キルギス",
+    "fullName": "キルギス共和国"
+  },
+  {
+    "code2": "LA",
+    "name": "ラオス人民民主共和国",
+    "fullName": "ラオス人民民主共和国"
+  },
+  {
+    "code2": "LV",
+    "name": "ラトビア",
+    "fullName": "ラトビア共和国"
+  },
+  {
+    "code2": "LB",
+    "name": "レバノン",
+    "fullName": "レバノン共和国"
+  },
+  {
+    "code2": "LS",
+    "name": "レソト",
+    "fullName": "レソト王国"
+  },
+  {
+    "code2": "LR",
+    "name": "リベリア",
+    "fullName": "リベリア共和国"
+  },
+  {
+    "code2": "LY",
+    "name": "リビア",
+    "fullName": "リビア"
+  },
+  {
+    "code2": "LI",
+    "name": "リヒテンシュタイン",
+    "fullName": "リヒテンシュタイン公国"
+  },
+  {
+    "code2": "LT",
+    "name": "リトアニア",
+    "fullName": "リトアニア共和国"
+  },
+  {
+    "code2": "LU",
+    "name": "ルクセンブルク",
+    "fullName": "ルクセンブルク大公国"
+  },
+  {
+    "code2": "MG",
+    "name": "マダガスカル",
+    "fullName": "マダガスカル共和国"
+  },
+  {
+    "code2": "MW",
+    "name": "マラウイ",
+    "fullName": "マラウイ共和国"
+  },
+  {
+    "code2": "MY",
+    "name": "マレーシア",
+    "fullName": "マレーシア"
+  },
+  {
+    "code2": "MV",
+    "name": "モルディブ",
+    "fullName": "モルディブ共和国"
+  },
+  {
+    "code2": "ML",
+    "name": "マリ",
+    "fullName": "マリ共和国"
+  },
+  {
+    "code2": "MT",
+    "name": "マルタ",
+    "fullName": "マルタ共和国"
+  },
+  {
+    "code2": "MH",
+    "name": "マーシャル諸島",
+    "fullName": "マーシャル諸島共和国"
+  },
+  {
+    "code2": "MR",
+    "name": "モーリタニア",
+    "fullName": "モーリタニア・イスラム共和国"
+  },
+  {
+    "code2": "MU",
+    "name": "モーリシャス",
+    "fullName": "モーリシャス共和国"
+  },
+  {
+    "code2": "MX",
+    "name": "メキシコ",
+    "fullName": "メキシコ合衆国"
+  },
+  {
+    "code2": "FM",
+    "name": "ミクロネシア連邦",
+    "fullName": "ミクロネシア連邦"
+  },
+  {
+    "code2": "MD",
+    "name": "モルドバ共和国",
+    "fullName": "モルドバ共和国"
+  },
+  {
+    "code2": "MC",
+    "name": "モナコ",
+    "fullName": "モナコ公国"
+  },
+  {
+    "code2": "MN",
+    "name": "モンゴル",
+    "fullName": "モンゴル国"
+  },
+  {
+    "code2": "ME",
+    "name": "モンテネグロ",
+    "fullName": "モンテネグロ"
+  },
+  {
+    "code2": "MA",
+    "name": "モロッコ",
+    "fullName": "モロッコ王国"
+  },
+  {
+    "code2": "MZ",
+    "name": "モザンビーク",
+    "fullName": "モザンビーク共和国"
+  },
+  {
+    "code2": "MM",
+    "name": "ミャンマー",
+    "fullName": "ミャンマー連邦共和国"
+  },
+  {
+    "code2": "NA",
+    "name": "ナミビア",
+    "fullName": "ナミビア共和国"
+  },
+  {
+    "code2": "NR",
+    "name": "ナウル",
+    "fullName": "ナウル共和国"
+  },
+  {
+    "code2": "NP",
+    "name": "ネパール",
+    "fullName": "ネパール連邦民主共和国"
+  },
+  {
+    "code2": "NL",
+    "name": "オランダ",
+    "fullName": "オランダ王国"
+  },
+  {
+    "code2": "NZ",
+    "name": "ニュージーランド",
+    "fullName": "ニュージーランド"
+  },
+  {
+    "code2": "NI",
+    "name": "ニカラグア",
+    "fullName": "ニカラグア共和国"
+  },
+  {
+    "code2": "NE",
+    "name": "ニジェール",
+    "fullName": "ニジェール共和国"
+  },
+  {
+    "code2": "NG",
+    "name": "ナイジェリア",
+    "fullName": "ナイジェリア連邦共和国"
+  },
+  {
+    "code2": "MK",
+    "name": "北マケドニア",
+    "fullName": "北マケドニア共和国"
+  },
+  {
+    "code2": "NO",
+    "name": "ノルウェー",
+    "fullName": "ノルウェー王国"
+  },
+  {
+    "code2": "OM",
+    "name": "オマーン",
+    "fullName": "オマーン国"
+  },
+  {
+    "code2": "PK",
+    "name": "パキスタン",
+    "fullName": "パキスタン・イスラム共和国"
+  },
+  {
+    "code2": "PW",
+    "name": "パラオ",
+    "fullName": "パラオ共和国"
+  },
+  {
+    "code2": "PA",
+    "name": "パナマ",
+    "fullName": "パナマ共和国"
+  },
+  {
+    "code2": "PG",
+    "name": "パプアニューギニア",
+    "fullName": "パプアニューギニア独立国"
+  },
+  {
+    "code2": "PY",
+    "name": "パラグアイ",
+    "fullName": "パラグアイ共和国"
+  },
+  {
+    "code2": "PE",
+    "name": "ペルー",
+    "fullName": "ペルー共和国"
+  },
+  {
+    "code2": "PH",
+    "name": "フィリピン",
+    "fullName": "フィリピン共和国"
+  },
+  {
+    "code2": "PL",
+    "name": "ポーランド",
+    "fullName": "ポーランド共和国"
+  },
+  {
+    "code2": "PT",
+    "name": "ポルトガル",
+    "fullName": "ポルトガル共和国"
+  },
+  {
+    "code2": "QA",
+    "name": "カタール",
+    "fullName": "カタール国"
+  },
+  {
+    "code2": "RO",
+    "name": "ルーマニア",
+    "fullName": "ルーマニア"
+  },
+  {
+    "code2": "RU",
+    "name": "ロシア連邦",
+    "fullName": "ロシア連邦"
+  },
+  {
+    "code2": "RW",
+    "name": "ルワンダ",
+    "fullName": "ルワンダ共和国"
+  },
+  {
+    "code2": "KN",
+    "name": "セントクリストファー・ネイビス",
+    "fullName": "セントクリストファー・ネイビス"
+  },
+  {
+    "code2": "LC",
+    "name": "セントルシア",
+    "fullName": "セントルシア"
+  },
+  {
+    "code2": "VC",
+    "name": "セントビンセントおよびグレナディーン諸島",
+    "fullName": "セントビンセント及びグレナディーン諸島"
+  },
+  {
+    "code2": "WS",
+    "name": "サモア",
+    "fullName": "サモア独立国"
+  },
+  {
+    "code2": "SM",
+    "name": "サンマリノ",
+    "fullName": "サンマリノ共和国"
+  },
+  {
+    "code2": "ST",
+    "name": "サントメ・プリンシペ",
+    "fullName": "サントメ・プリンシペ民主共和国"
+  },
+  {
+    "code2": "SA",
+    "name": "サウジアラビア",
+    "fullName": "サウジアラビア王国"
+  },
+  {
+    "code2": "SN",
+    "name": "セネガル",
+    "fullName": "セネガル共和国"
+  },
+  {
+    "code2": "RS",
+    "name": "セルビア",
+    "fullName": "セルビア共和国"
+  },
+  {
+    "code2": "SC",
+    "name": "セーシェル",
+    "fullName": "セーシェル共和国"
+  },
+  {
+    "code2": "SL",
+    "name": "シエラレオネ",
+    "fullName": "シエラレオネ共和国"
+  },
+  {
+    "code2": "SG",
+    "name": "シンガポール",
+    "fullName": "シンガポール共和国"
+  },
+  {
+    "code2": "SK",
+    "name": "スロバキア",
+    "fullName": "スロバキア共和国"
+  },
+  {
+    "code2": "SI",
+    "name": "スロベニア",
+    "fullName": "スロベニア共和国"
+  },
+  {
+    "code2": "SB",
+    "name": "ソロモン諸島",
+    "fullName": "ソロモン諸島"
+  },
+  {
+    "code2": "SO",
+    "name": "ソマリア",
+    "fullName": "ソマリア連邦共和国"
+  },
+  {
+    "code2": "ZA",
+    "name": "南アフリカ",
+    "fullName": "南アフリカ共和国"
+  },
+  {
+    "code2": "SS",
+    "name": "南スーダン",
+    "fullName": "南スーダン共和国"
+  },
+  {
+    "code2": "ES",
+    "name": "スペイン",
+    "fullName": "スペイン王国"
+  },
+  {
+    "code2": "LK",
+    "name": "スリランカ",
+    "fullName": "スリランカ民主社会主義共和国"
+  },
+  {
+    "code2": "SD",
+    "name": "スーダン",
+    "fullName": "スーダン共和国"
+  },
+  {
+    "code2": "SR",
+    "name": "スリナム",
+    "fullName": "スリナム共和国"
+  },
+  {
+    "code2": "SE",
+    "name": "スウェーデン",
+    "fullName": "スウェーデン王国"
+  },
+  {
+    "code2": "CH",
+    "name": "スイス",
+    "fullName": "スイス連邦"
+  },
+  {
+    "code2": "SY",
+    "name": "シリア・アラブ共和国",
+    "fullName": "シリア・アラブ共和国"
+  },
+  {
+    "code2": "TJ",
+    "name": "タジキスタン",
+    "fullName": "タジキスタン共和国"
+  },
+  {
+    "code2": "TZ",
+    "name": "タンザニア",
+    "fullName": "タンザニア連合共和国"
+  },
+  {
+    "code2": "TH",
+    "name": "タイ",
+    "fullName": "タイ王国"
+  },
+  {
+    "code2": "TL",
+    "name": "東ティモール",
+    "fullName": "東ティモール民主共和国"
+  },
+  {
+    "code2": "TG",
+    "name": "トーゴ",
+    "fullName": "トーゴ共和国"
+  },
+  {
+    "code2": "TO",
+    "name": "トンガ",
+    "fullName": "トンガ王国"
+  },
+  {
+    "code2": "TT",
+    "name": "トリニダード・トバゴ",
+    "fullName": "トリニダード・トバゴ共和国"
+  },
+  {
+    "code2": "TN",
+    "name": "チュニジア",
+    "fullName": "チュニジア共和国"
+  },
+  {
+    "code2": "TR",
+    "name": "トルコ",
+    "fullName": "トルコ共和国"
+  },
+  {
+    "code2": "TM",
+    "name": "トルクメニスタン",
+    "fullName": "トルクメニスタン"
+  },
+  {
+    "code2": "TV",
+    "name": "ツバル",
+    "fullName": "ツバル"
+  },
+  {
+    "code2": "UG",
+    "name": "ウガンダ",
+    "fullName": "ウガンダ共和国"
+  },
+  {
+    "code2": "UA",
+    "name": "ウクライナ",
+    "fullName": "ウクライナ"
+  },
+  {
+    "code2": "AE",
+    "name": "アラブ首長国連邦",
+    "fullName": "アラブ首長国連邦"
+  },
+  {
+    "code2": "GB",
+    "name": "イギリス",
+    "fullName": "グレートブリテン及び北アイルランド連合王国"
+  },
+  {
+    "code2": "US",
+    "name": "アメリカ合衆国",
+    "fullName": "アメリカ合衆国"
+  },
+  {
+    "code2": "UY",
+    "name": "ウルグアイ",
+    "fullName": "ウルグアイ東方共和国"
+  },
+  {
+    "code2": "UZ",
+    "name": "ウズベキスタン",
+    "fullName": "ウズベキスタン共和国"
+  },
+  {
+    "code2": "VU",
+    "name": "バヌアツ",
+    "fullName": "バヌアツ共和国"
+  },
+  {
+    "code2": "VE",
+    "name": "ベネズエラ・ボリバル共和国",
+    "fullName": "ベネズエラ・ボリバル共和国"
+  },
+  {
+    "code2": "VN",
+    "name": "ベトナム",
+    "fullName": "ベトナム社会主義共和国"
+  },
+  {
+    "code2": "YE",
+    "name": "イエメン",
+    "fullName": "イエメン共和国"
+  },
+  {
+    "code2": "ZM",
+    "name": "ザンビア",
+    "fullName": "ザンビア共和国"
+  },
+  {
+    "code2": "ZW",
+    "name": "ジンバブエ",
+    "fullName": "ジンバブエ共和国"
+  },
+  {
+    "code2": "HK",
+    "name": "香港",
+    "fullName": "香港・中国特別行政区"
+  },
+  {
+    "code2": "MO",
+    "name": "マカオ",
+    "fullName": "マカオ・中国特別行政区"
+  },
+  {
+    "code2": "TW",
+    "name": "台湾",
+    "fullName": "中国領・台湾"
+  },
+  {
+    "code2": "PS",
+    "name": "パレスチナ",
+    "fullName": "パレスチナ自治区"
+  },
+  {
+    "code2": "XK",
+    "name": "コソボ",
+    "fullName": "コソボ共和国"
+  },
+  {
+    "code2": "VA",
+    "name": "バチカン市国",
+    "fullName": "バチカン市国"
+  },
+  {
+    "code2": "PR",
+    "name": "プエルトリコ",
+    "fullName": "プエルトリコ"
+  },
+  {
+    "code2": "GU",
+    "name": "グアム",
+    "fullName": "グアム"
+  },
+  {
+    "code2": "GL",
+    "name": "グリーンランド",
+    "fullName": "グリーンランド"
+  },
+  {
+    "code2": "FO",
+    "name": "フェロー諸島",
+    "fullName": "フェロー諸島"
+  },
+  {
+    "code2": "NC",
+    "name": "ニューカレドニア",
+    "fullName": "ニューカレドニア"
+  },
+  {
+    "code2": "PF",
+    "name": "フランス領ポリネシア",
+    "fullName": "フランス領ポリネシア"
+  },
+  {
+    "code2": "BM",
+    "name": "バミューダ",
+    "fullName": "バミューダ"
+  },
+  {
+    "code2": "KY",
+    "name": "ケイマン諸島",
+    "fullName": "ケイマン諸島"
+  },
+  {
+    "code2": "VI",
+    "name": "アメリカ領ヴァージン諸島",
+    "fullName": "アメリカ領ヴァージン諸島"
+  },
+  {
+    "code2": "CW",
+    "name": "キュラソー",
+    "fullName": "キュラソー"
+  },
+  {
+    "code2": "AW",
+    "name": "アルバ",
+    "fullName": "アルバ"
+  },
+  {
+    "code2": "GI",
+    "name": "ジブラルタル",
+    "fullName": "ジブラルタル"
+  },
+  {
+    "code2": "JE",
+    "name": "ジャージー",
+    "fullName": "ジャージー"
+  },
+  {
+    "code2": "GG",
+    "name": "ガーンジー",
+    "fullName": "ガーンジー"
+  },
+  {
+    "code2": "IM",
+    "name": "マン島",
+    "fullName": "マン島"
+  },
+  {
+    "code2": "TC",
+    "name": "タークス・カイコス諸島",
+    "fullName": "タークス及びカイコス諸島"
+  },
+  {
+    "code2": "VG",
+    "name": "イギリス領ヴァージン諸島",
+    "fullName": "イギリス領ヴァージン諸島"
+  },
+  {
+    "code2": "AI",
+    "name": "アンギラ",
+    "fullName": "アンギラ"
+  },
+  {
+    "code2": "MS",
+    "name": "モントセラト",
+    "fullName": "モントセラト"
+  },
+  {
+    "code2": "SH",
+    "name": "セントヘレナ・アセンションおよびトリスタンダクーニャ",
+    "fullName": "セントヘレナ、アセンション及びトリスタン・ダ・クーニャ"
+  },
+  {
+    "code2": "FK",
+    "name": "フォークランド（マルビナス）諸島",
+    "fullName": "フォークランド諸島 (マルビナス)"
+  },
+  {
+    "code2": "GF",
+    "name": "フランス領ギアナ",
+    "fullName": "フランス領ギアナ"
+  },
+  {
+    "code2": "GP",
+    "name": "グアドループ",
+    "fullName": "グアドループ"
+  },
+  {
+    "code2": "MQ",
+    "name": "マルティニーク",
+    "fullName": "マルティニーク"
+  },
+  {
+    "code2": "RE",
+    "name": "レユニオン",
+    "fullName": "レユニオン"
+  },
+  {
+    "code2": "MF",
+    "name": "サン・マルタン（フランス領）",
+    "fullName": "サン・マルタン（フランス領）"
+  },
+  {
+    "code2": "PM",
+    "name": "サンピエール島・ミクロン島",
+    "fullName": "サンピエール及びミクロン"
+  },
+  {
+    "code2": "WF",
+    "name": "ウォリス・フツナ",
+    "fullName": "ウォリス・フツナ"
+  },
+  {
+    "code2": "YT",
+    "name": "マヨット",
+    "fullName": "マヨット"
+  },
+  {
+    "code2": "AS",
+    "name": "アメリカ領サモア",
+    "fullName": "アメリカ領サモア"
+  },
+  {
+    "code2": "MP",
+    "name": "北マリアナ諸島",
+    "fullName": "北マリアナ諸島連邦"
+  },
+  {
+    "code2": "CX",
+    "name": "クリスマス島",
+    "fullName": "クリスマス島"
+  },
+  {
+    "code2": "CC",
+    "name": "ココス（キーリング）諸島",
+    "fullName": "ココス (キーリング) 諸島"
+  },
+  {
+    "code2": "NF",
+    "name": "ノーフォーク島",
+    "fullName": "ノーフォーク島"
+  },
+  {
+    "code2": "PN",
+    "name": "ピトケアン",
+    "fullName": "ピトケアン"
+  },
+  {
+    "code2": "TK",
+    "name": "トケラウ",
+    "fullName": "トケラウ"
+  },
+  {
+    "code2": "NU",
+    "name": "ニウエ",
+    "fullName": "ニウエ"
+  },
+  {
+    "code2": "CK",
+    "name": "クック諸島",
+    "fullName": "クック諸島"
+  },
+  {
+    "code2": "EH",
+    "name": "西サハラ",
+    "fullName": "西サハラ"
+  },
+  {
+    "code2": "AX",
+    "name": "オーランド諸島",
+    "fullName": "オーランド諸島"
+  },
+  {
+    "code2": "BL",
+    "name": "サン・バルテルミー",
+    "fullName": "サン・バルテルミー"
+  },
+  {
+    "code2": "IO",
+    "name": "イギリス領インド洋地域",
+    "fullName": "イギリス領インド洋地域"
+  },
+  {
+    "code2": "SX",
+    "name": "シント・マールテン（オランダ領）",
+    "fullName": "シント・マールテン（オランダ領）"
+  },
+  {
+    "code2": "BQ",
+    "name": "ボネール、シント・ユースタティウスおよびサバ",
+    "fullName": "ボネール、シントユースタティウス及びサバ"
+  },
+  {
+    "code2": "TF",
+    "name": "フランス領南方・南極地域",
+    "fullName": "フランス領南方・南極地域"
+  },
+  {
+    "code2": "GS",
+    "name": "サウスジョージア・サウスサンドウィッチ諸島",
+    "fullName": "サウスジョージア及びサウスサンドウィッチ諸島"
+  },
+  {
+    "code2": "HM",
+    "name": "ハード島とマクドナルド諸島",
+    "fullName": "ハード島及びマクドナルド諸島"
+  },
+  {
+    "code2": "AQ",
+    "name": "南極",
+    "fullName": "南極大陸"
+  }
+]

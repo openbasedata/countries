@@ -1,0 +1,1237 @@
+[
+  {
+    "code2": "AF",
+    "name": "افغانستان",
+    "fullName": "افغانستان"
+  },
+  {
+    "code2": "AL",
+    "name": "البانيا",
+    "fullName": "البانيا"
+  },
+  {
+    "code2": "DZ",
+    "name": "الجيريا",
+    "fullName": "الجيريا"
+  },
+  {
+    "code2": "AD",
+    "name": "اندورا",
+    "fullName": "اندورا"
+  },
+  {
+    "code2": "AO",
+    "name": "انگولا",
+    "fullName": "انگولا"
+  },
+  {
+    "code2": "AG",
+    "name": "انٽيگا ۽ باربوڊا",
+    "fullName": "انٽيگا ۽ باربوڊا"
+  },
+  {
+    "code2": "AR",
+    "name": "ارجنٽينا",
+    "fullName": "ارجنٽينا"
+  },
+  {
+    "code2": "AM",
+    "name": "ارمینیا",
+    "fullName": "ارمینیا"
+  },
+  {
+    "code2": "AU",
+    "name": "آسٽريليا",
+    "fullName": "آسٽريليا"
+  },
+  {
+    "code2": "AT",
+    "name": "آسٽريا",
+    "fullName": "آسٽريا"
+  },
+  {
+    "code2": "AZ",
+    "name": "آذربائيجان",
+    "fullName": "آذربائيجان"
+  },
+  {
+    "code2": "BS",
+    "name": "باهاماس",
+    "fullName": "باهاماس"
+  },
+  {
+    "code2": "BH",
+    "name": "بحرين",
+    "fullName": "بحرين"
+  },
+  {
+    "code2": "BD",
+    "name": "بنگلاديش",
+    "fullName": "بنگلاديش"
+  },
+  {
+    "code2": "BB",
+    "name": "باربڊوس",
+    "fullName": "باربڊوس"
+  },
+  {
+    "code2": "BY",
+    "name": "بیلارس",
+    "fullName": "بیلارس"
+  },
+  {
+    "code2": "BE",
+    "name": "بيلجيم",
+    "fullName": "بيلجيم"
+  },
+  {
+    "code2": "BZ",
+    "name": "بيليز",
+    "fullName": "بيليز"
+  },
+  {
+    "code2": "BJ",
+    "name": "بينن",
+    "fullName": "بينن"
+  },
+  {
+    "code2": "BT",
+    "name": "ڀوٽان",
+    "fullName": "ڀوٽان"
+  },
+  {
+    "code2": "BO",
+    "name": "بوليويا",
+    "fullName": "بوليويا"
+  },
+  {
+    "code2": "BA",
+    "name": "بوسنيا ۽ ھرزيگوينا",
+    "fullName": "بوسنيا ۽ ھرزيگوينا"
+  },
+  {
+    "code2": "BW",
+    "name": "بوٽسوانا",
+    "fullName": "بوٽسوانا"
+  },
+  {
+    "code2": "BR",
+    "name": "برازيل",
+    "fullName": "برازيل"
+  },
+  {
+    "code2": "BN",
+    "name": "برونائي",
+    "fullName": "برونائي"
+  },
+  {
+    "code2": "BG",
+    "name": "بلغاريا",
+    "fullName": "بلغاريا"
+  },
+  {
+    "code2": "BF",
+    "name": "برڪينا فاسو",
+    "fullName": "برڪينا فاسو"
+  },
+  {
+    "code2": "BI",
+    "name": "برونڊي",
+    "fullName": "برونڊي"
+  },
+  {
+    "code2": "CV",
+    "name": "ڪيپ وردي",
+    "fullName": "ڪيپ وردي"
+  },
+  {
+    "code2": "KH",
+    "name": "ڪمبوڊيا",
+    "fullName": "ڪمبوڊيا"
+  },
+  {
+    "code2": "CM",
+    "name": "ڪيمرون",
+    "fullName": "ڪيمرون"
+  },
+  {
+    "code2": "CA",
+    "name": "ڪينيڊا",
+    "fullName": "ڪينيڊا"
+  },
+  {
+    "code2": "CF",
+    "name": "وچ آفريقي جمهوريه",
+    "fullName": "وچ آفريقي جمهوريه"
+  },
+  {
+    "code2": "TD",
+    "name": "چاڊ",
+    "fullName": "چاڊ"
+  },
+  {
+    "code2": "CL",
+    "name": "چلي",
+    "fullName": "چلي"
+  },
+  {
+    "code2": "CN",
+    "name": "چين",
+    "fullName": "چين"
+  },
+  {
+    "code2": "CO",
+    "name": "ڪولمبيا",
+    "fullName": "ڪولمبيا"
+  },
+  {
+    "code2": "KM",
+    "name": "ڪوموروس",
+    "fullName": "ڪوموروس"
+  },
+  {
+    "code2": "CG",
+    "name": "ڪانگو - برازاویل",
+    "fullName": "ڪانگو - برازاویل"
+  },
+  {
+    "code2": "CD",
+    "name": "ڪانگو -ڪنشاسا",
+    "fullName": "ڪانگو -ڪنشاسا"
+  },
+  {
+    "code2": "CR",
+    "name": "ڪوسٽا ريڪا",
+    "fullName": "ڪوسٽا ريڪا"
+  },
+  {
+    "code2": "CI",
+    "name": "ڪوٽ ڊي وار",
+    "fullName": "ڪوٽ ڊي وار"
+  },
+  {
+    "code2": "HR",
+    "name": "ڪروئيشيا",
+    "fullName": "ڪروئيشيا"
+  },
+  {
+    "code2": "CU",
+    "name": "ڪيوبا",
+    "fullName": "ڪيوبا"
+  },
+  {
+    "code2": "CY",
+    "name": "سائپرس",
+    "fullName": "سائپرس"
+  },
+  {
+    "code2": "CZ",
+    "name": "چيڪيا",
+    "fullName": "چيڪيا"
+  },
+  {
+    "code2": "DK",
+    "name": "ڊينمارڪ",
+    "fullName": "ڊينمارڪ"
+  },
+  {
+    "code2": "DJ",
+    "name": "ڊجبيوتي",
+    "fullName": "ڊجبيوتي"
+  },
+  {
+    "code2": "DM",
+    "name": "ڊومينيڪا",
+    "fullName": "ڊومينيڪا"
+  },
+  {
+    "code2": "DO",
+    "name": "ڊومينيڪن جمهوريه",
+    "fullName": "ڊومينيڪن جمهوريه"
+  },
+  {
+    "code2": "EC",
+    "name": "ايڪواڊور",
+    "fullName": "ايڪواڊور"
+  },
+  {
+    "code2": "EG",
+    "name": "مصر",
+    "fullName": "مصر"
+  },
+  {
+    "code2": "SV",
+    "name": "ال سلواڊور",
+    "fullName": "ال سلواڊور"
+  },
+  {
+    "code2": "GQ",
+    "name": "ايڪوٽوريل گائينا",
+    "fullName": "ايڪوٽوريل گائينا"
+  },
+  {
+    "code2": "ER",
+    "name": "ايريٽيريا",
+    "fullName": "ايريٽيريا"
+  },
+  {
+    "code2": "EE",
+    "name": "ايسٽونيا",
+    "fullName": "ايسٽونيا"
+  },
+  {
+    "code2": "SZ",
+    "name": "ايسواٽني",
+    "fullName": "ايسواٽني"
+  },
+  {
+    "code2": "ET",
+    "name": "ايٿوپيا",
+    "fullName": "ايٿوپيا"
+  },
+  {
+    "code2": "FJ",
+    "name": "فجي",
+    "fullName": "فجي"
+  },
+  {
+    "code2": "FI",
+    "name": "فن لينڊ",
+    "fullName": "فن لينڊ"
+  },
+  {
+    "code2": "FR",
+    "name": "فرانس",
+    "fullName": "فرانس"
+  },
+  {
+    "code2": "GA",
+    "name": "گبون",
+    "fullName": "گبون"
+  },
+  {
+    "code2": "GM",
+    "name": "گيمبيا",
+    "fullName": "گيمبيا"
+  },
+  {
+    "code2": "GE",
+    "name": "جارجيا",
+    "fullName": "جارجيا"
+  },
+  {
+    "code2": "DE",
+    "name": "جرمني",
+    "fullName": "جرمني"
+  },
+  {
+    "code2": "GH",
+    "name": "گهانا",
+    "fullName": "گهانا"
+  },
+  {
+    "code2": "GR",
+    "name": "يونان",
+    "fullName": "يونان"
+  },
+  {
+    "code2": "GD",
+    "name": "گرينڊا",
+    "fullName": "گرينڊا"
+  },
+  {
+    "code2": "GT",
+    "name": "گوئٽي مالا",
+    "fullName": "گوئٽي مالا"
+  },
+  {
+    "code2": "GN",
+    "name": "گني",
+    "fullName": "گني"
+  },
+  {
+    "code2": "GW",
+    "name": "گني بسائو",
+    "fullName": "گني بسائو"
+  },
+  {
+    "code2": "GY",
+    "name": "گيانا",
+    "fullName": "گيانا"
+  },
+  {
+    "code2": "HT",
+    "name": "هيٽي",
+    "fullName": "هيٽي"
+  },
+  {
+    "code2": "HN",
+    "name": "هنڊورس",
+    "fullName": "هنڊورس"
+  },
+  {
+    "code2": "HU",
+    "name": "هنگري",
+    "fullName": "هنگري"
+  },
+  {
+    "code2": "IS",
+    "name": "آئس لينڊ",
+    "fullName": "آئس لينڊ"
+  },
+  {
+    "code2": "IN",
+    "name": "ڀارت",
+    "fullName": "ڀارت"
+  },
+  {
+    "code2": "ID",
+    "name": "انڊونيشيا",
+    "fullName": "انڊونيشيا"
+  },
+  {
+    "code2": "IR",
+    "name": "ايران",
+    "fullName": "ايران"
+  },
+  {
+    "code2": "IQ",
+    "name": "عراق",
+    "fullName": "عراق"
+  },
+  {
+    "code2": "IE",
+    "name": "آئرلينڊ",
+    "fullName": "آئرلينڊ"
+  },
+  {
+    "code2": "IL",
+    "name": "اسرائيل",
+    "fullName": "اسرائيل"
+  },
+  {
+    "code2": "IT",
+    "name": "اٽلي",
+    "fullName": "اٽلي"
+  },
+  {
+    "code2": "JM",
+    "name": "جميڪا",
+    "fullName": "جميڪا"
+  },
+  {
+    "code2": "JP",
+    "name": "جاپان",
+    "fullName": "جاپان"
+  },
+  {
+    "code2": "JO",
+    "name": "اردن",
+    "fullName": "اردن"
+  },
+  {
+    "code2": "KZ",
+    "name": "قازقستان",
+    "fullName": "قازقستان"
+  },
+  {
+    "code2": "KE",
+    "name": "ڪينيا",
+    "fullName": "ڪينيا"
+  },
+  {
+    "code2": "KI",
+    "name": "ڪرباتي",
+    "fullName": "ڪرباتي"
+  },
+  {
+    "code2": "KP",
+    "name": "اتر ڪوريا",
+    "fullName": "اتر ڪوريا"
+  },
+  {
+    "code2": "KR",
+    "name": "ڏکڻ ڪوريا",
+    "fullName": "ڏکڻ ڪوريا"
+  },
+  {
+    "code2": "KW",
+    "name": "ڪويت",
+    "fullName": "ڪويت"
+  },
+  {
+    "code2": "KG",
+    "name": "ڪرغستان",
+    "fullName": "ڪرغستان"
+  },
+  {
+    "code2": "LA",
+    "name": "لائوس",
+    "fullName": "لائوس"
+  },
+  {
+    "code2": "LV",
+    "name": "لاتويا",
+    "fullName": "لاتويا"
+  },
+  {
+    "code2": "LB",
+    "name": "لبنان",
+    "fullName": "لبنان"
+  },
+  {
+    "code2": "LS",
+    "name": "ليسوٿو",
+    "fullName": "ليسوٿو"
+  },
+  {
+    "code2": "LR",
+    "name": "لائبیریا",
+    "fullName": "لائبیریا"
+  },
+  {
+    "code2": "LY",
+    "name": "لبيا",
+    "fullName": "لبيا"
+  },
+  {
+    "code2": "LI",
+    "name": "لچي ٽينسٽين",
+    "fullName": "لچي ٽينسٽين"
+  },
+  {
+    "code2": "LT",
+    "name": "لٿونيا",
+    "fullName": "لٿونيا"
+  },
+  {
+    "code2": "LU",
+    "name": "لگزمبرگ",
+    "fullName": "لگزمبرگ"
+  },
+  {
+    "code2": "MG",
+    "name": "مدگاسڪر",
+    "fullName": "مدگاسڪر"
+  },
+  {
+    "code2": "MW",
+    "name": "مالاوي",
+    "fullName": "مالاوي"
+  },
+  {
+    "code2": "MY",
+    "name": "ملائيشيا",
+    "fullName": "ملائيشيا"
+  },
+  {
+    "code2": "MV",
+    "name": "مالديپ",
+    "fullName": "مالديپ"
+  },
+  {
+    "code2": "ML",
+    "name": "مالي",
+    "fullName": "مالي"
+  },
+  {
+    "code2": "MT",
+    "name": "مالٽا",
+    "fullName": "مالٽا"
+  },
+  {
+    "code2": "MH",
+    "name": "مارشل ٻيٽ",
+    "fullName": "مارشل ٻيٽ"
+  },
+  {
+    "code2": "MR",
+    "name": "موريتانيا",
+    "fullName": "موريتانيا"
+  },
+  {
+    "code2": "MU",
+    "name": "موريشس",
+    "fullName": "موريشس"
+  },
+  {
+    "code2": "MX",
+    "name": "ميڪسيڪو",
+    "fullName": "ميڪسيڪو"
+  },
+  {
+    "code2": "FM",
+    "name": "مائڪرونيشيا",
+    "fullName": "مائڪرونيشيا"
+  },
+  {
+    "code2": "MD",
+    "name": "مالدووا",
+    "fullName": "مالدووا"
+  },
+  {
+    "code2": "MC",
+    "name": "موناڪو",
+    "fullName": "موناڪو"
+  },
+  {
+    "code2": "MN",
+    "name": "منگوليا",
+    "fullName": "منگوليا"
+  },
+  {
+    "code2": "ME",
+    "name": "مونٽي نيگرو",
+    "fullName": "مونٽي نيگرو"
+  },
+  {
+    "code2": "MA",
+    "name": "مراڪش",
+    "fullName": "مراڪش"
+  },
+  {
+    "code2": "MZ",
+    "name": "موزمبیق",
+    "fullName": "موزمبیق"
+  },
+  {
+    "code2": "MM",
+    "name": "ميانمار (برما)",
+    "fullName": "ميانمار (برما)"
+  },
+  {
+    "code2": "NA",
+    "name": "نيميبيا",
+    "fullName": "نيميبيا"
+  },
+  {
+    "code2": "NR",
+    "name": "نائورو",
+    "fullName": "نائورو"
+  },
+  {
+    "code2": "NP",
+    "name": "نيپال",
+    "fullName": "نيپال"
+  },
+  {
+    "code2": "NL",
+    "name": "نيدرلينڊ",
+    "fullName": "نيدرلينڊ"
+  },
+  {
+    "code2": "NZ",
+    "name": "نيو زيلينڊ",
+    "fullName": "نيو زيلينڊ"
+  },
+  {
+    "code2": "NI",
+    "name": "نڪراگوا",
+    "fullName": "نڪراگوا"
+  },
+  {
+    "code2": "NE",
+    "name": "نائيجر",
+    "fullName": "نائيجر"
+  },
+  {
+    "code2": "NG",
+    "name": "نائيجيريا",
+    "fullName": "نائيجيريا"
+  },
+  {
+    "code2": "MK",
+    "name": "اتر مقدونيا",
+    "fullName": "اتر مقدونيا"
+  },
+  {
+    "code2": "NO",
+    "name": "ناروي",
+    "fullName": "ناروي"
+  },
+  {
+    "code2": "OM",
+    "name": "عمان",
+    "fullName": "عمان"
+  },
+  {
+    "code2": "PK",
+    "name": "پاڪستان",
+    "fullName": "پاڪستان"
+  },
+  {
+    "code2": "PW",
+    "name": "پلائو",
+    "fullName": "پلائو"
+  },
+  {
+    "code2": "PA",
+    "name": "پناما",
+    "fullName": "پناما"
+  },
+  {
+    "code2": "PG",
+    "name": "پاپوا نیو گني",
+    "fullName": "پاپوا نیو گني"
+  },
+  {
+    "code2": "PY",
+    "name": "پيراگوءِ",
+    "fullName": "پيراگوءِ"
+  },
+  {
+    "code2": "PE",
+    "name": "پيرو",
+    "fullName": "پيرو"
+  },
+  {
+    "code2": "PH",
+    "name": "فلپائن",
+    "fullName": "فلپائن"
+  },
+  {
+    "code2": "PL",
+    "name": "پولينڊ",
+    "fullName": "پولينڊ"
+  },
+  {
+    "code2": "PT",
+    "name": "پرتگال",
+    "fullName": "پرتگال"
+  },
+  {
+    "code2": "QA",
+    "name": "قطر",
+    "fullName": "قطر"
+  },
+  {
+    "code2": "RO",
+    "name": "رومانيا",
+    "fullName": "رومانيا"
+  },
+  {
+    "code2": "RU",
+    "name": "روس",
+    "fullName": "روس"
+  },
+  {
+    "code2": "RW",
+    "name": "روانڊا",
+    "fullName": "روانڊا"
+  },
+  {
+    "code2": "KN",
+    "name": "سينٽ ڪٽس و نيوس",
+    "fullName": "سينٽ ڪٽس و نيوس"
+  },
+  {
+    "code2": "LC",
+    "name": "سينٽ لوسيا",
+    "fullName": "سينٽ لوسيا"
+  },
+  {
+    "code2": "VC",
+    "name": "سینٽ ونسنت ۽ گریناڊینز",
+    "fullName": "سینٽ ونسنت ۽ گریناڊینز"
+  },
+  {
+    "code2": "WS",
+    "name": "ساموا",
+    "fullName": "ساموا"
+  },
+  {
+    "code2": "SM",
+    "name": "سین مرینو",
+    "fullName": "سین مرینو"
+  },
+  {
+    "code2": "ST",
+    "name": "سائو ٽوم ۽ پرنسپیي",
+    "fullName": "سائو ٽوم ۽ پرنسپیي"
+  },
+  {
+    "code2": "SA",
+    "name": "سعودي عرب",
+    "fullName": "سعودي عرب"
+  },
+  {
+    "code2": "SN",
+    "name": "سينيگال",
+    "fullName": "سينيگال"
+  },
+  {
+    "code2": "RS",
+    "name": "سربيا",
+    "fullName": "سربيا"
+  },
+  {
+    "code2": "SC",
+    "name": "شي شلز",
+    "fullName": "شي شلز"
+  },
+  {
+    "code2": "SL",
+    "name": "سيرا ليون",
+    "fullName": "سيرا ليون"
+  },
+  {
+    "code2": "SG",
+    "name": "سنگاپور",
+    "fullName": "سنگاپور"
+  },
+  {
+    "code2": "SK",
+    "name": "سلوواڪيا",
+    "fullName": "سلوواڪيا"
+  },
+  {
+    "code2": "SI",
+    "name": "سلوینیا",
+    "fullName": "سلوینیا"
+  },
+  {
+    "code2": "SB",
+    "name": "سولومون ٻيٽَ",
+    "fullName": "سولومون ٻيٽَ"
+  },
+  {
+    "code2": "SO",
+    "name": "سوماليا",
+    "fullName": "سوماليا"
+  },
+  {
+    "code2": "ZA",
+    "name": "ڏکڻ آفريقا",
+    "fullName": "ڏکڻ آفريقا"
+  },
+  {
+    "code2": "SS",
+    "name": "ڏکڻ سوڊان",
+    "fullName": "ڏکڻ سوڊان"
+  },
+  {
+    "code2": "ES",
+    "name": "اسپين",
+    "fullName": "اسپين"
+  },
+  {
+    "code2": "LK",
+    "name": "سري لنڪا",
+    "fullName": "سري لنڪا"
+  },
+  {
+    "code2": "SD",
+    "name": "سوڊان",
+    "fullName": "سوڊان"
+  },
+  {
+    "code2": "SR",
+    "name": "سورينام",
+    "fullName": "سورينام"
+  },
+  {
+    "code2": "SE",
+    "name": "سوئيڊن",
+    "fullName": "سوئيڊن"
+  },
+  {
+    "code2": "CH",
+    "name": "سوئزرلينڊ",
+    "fullName": "سوئزرلينڊ"
+  },
+  {
+    "code2": "SY",
+    "name": "شام",
+    "fullName": "شام"
+  },
+  {
+    "code2": "TJ",
+    "name": "تاجڪستان",
+    "fullName": "تاجڪستان"
+  },
+  {
+    "code2": "TZ",
+    "name": "تنزانيا",
+    "fullName": "تنزانيا"
+  },
+  {
+    "code2": "TH",
+    "name": "ٿائيليند",
+    "fullName": "ٿائيليند"
+  },
+  {
+    "code2": "TL",
+    "name": "تيمور ليستي",
+    "fullName": "تيمور ليستي"
+  },
+  {
+    "code2": "TG",
+    "name": "ٽوگو",
+    "fullName": "ٽوگو"
+  },
+  {
+    "code2": "TO",
+    "name": "ٽونگا",
+    "fullName": "ٽونگا"
+  },
+  {
+    "code2": "TT",
+    "name": "ٽريني ڊيڊ ۽ ٽوباگو ٻيٽ",
+    "fullName": "ٽريني ڊيڊ ۽ ٽوباگو ٻيٽ"
+  },
+  {
+    "code2": "TN",
+    "name": "تيونيسيا",
+    "fullName": "تيونيسيا"
+  },
+  {
+    "code2": "TR",
+    "name": "ترڪي",
+    "fullName": "ترڪي"
+  },
+  {
+    "code2": "TM",
+    "name": "ترڪمانستان",
+    "fullName": "ترڪمانستان"
+  },
+  {
+    "code2": "TV",
+    "name": "توالو",
+    "fullName": "توالو"
+  },
+  {
+    "code2": "UG",
+    "name": "يوگنڊا",
+    "fullName": "يوگنڊا"
+  },
+  {
+    "code2": "UA",
+    "name": "يوڪرين",
+    "fullName": "يوڪرين"
+  },
+  {
+    "code2": "AE",
+    "name": "متحده عرب امارات",
+    "fullName": "متحده عرب امارات"
+  },
+  {
+    "code2": "GB",
+    "name": "برطانيہ",
+    "fullName": "برطانيہ"
+  },
+  {
+    "code2": "US",
+    "name": "آمريڪا جون گڏيل رياستون",
+    "fullName": "آمريڪا جون گڏيل رياستون"
+  },
+  {
+    "code2": "UY",
+    "name": "يوروگوءِ",
+    "fullName": "يوروگوءِ"
+  },
+  {
+    "code2": "UZ",
+    "name": "ازبڪستان",
+    "fullName": "ازبڪستان"
+  },
+  {
+    "code2": "VU",
+    "name": "وينيٽيو",
+    "fullName": "وينيٽيو"
+  },
+  {
+    "code2": "VE",
+    "name": "وينزويلا",
+    "fullName": "وينزويلا"
+  },
+  {
+    "code2": "VN",
+    "name": "ويتنام",
+    "fullName": "ويتنام"
+  },
+  {
+    "code2": "YE",
+    "name": "يمن",
+    "fullName": "يمن"
+  },
+  {
+    "code2": "ZM",
+    "name": "زيمبيا",
+    "fullName": "زيمبيا"
+  },
+  {
+    "code2": "ZW",
+    "name": "زمبابوي",
+    "fullName": "زمبابوي"
+  },
+  {
+    "code2": "HK",
+    "name": "هانگ ڪانگ SAR",
+    "fullName": "هانگ ڪانگ SAR"
+  },
+  {
+    "code2": "MO",
+    "name": "مڪائو SAR چين",
+    "fullName": "مڪائو SAR چين"
+  },
+  {
+    "code2": "TW",
+    "name": "تائیوان",
+    "fullName": "تائیوان"
+  },
+  {
+    "code2": "PS",
+    "name": "فلسطيني علائقا",
+    "fullName": "فلسطيني علائقا"
+  },
+  {
+    "code2": "XK",
+    "name": "ڪوسووو",
+    "fullName": "ڪوسووو"
+  },
+  {
+    "code2": "VA",
+    "name": "ويٽڪين سٽي",
+    "fullName": "ويٽڪين سٽي"
+  },
+  {
+    "code2": "PR",
+    "name": "پيوئرٽو ريڪو",
+    "fullName": "پيوئرٽو ريڪو"
+  },
+  {
+    "code2": "GU",
+    "name": "گوام",
+    "fullName": "گوام"
+  },
+  {
+    "code2": "GL",
+    "name": "گرين لينڊ",
+    "fullName": "گرين لينڊ"
+  },
+  {
+    "code2": "FO",
+    "name": "فارو ٻيٽ",
+    "fullName": "فارو ٻيٽ"
+  },
+  {
+    "code2": "NC",
+    "name": "نیو ڪالیڊونیا",
+    "fullName": "نیو ڪالیڊونیا"
+  },
+  {
+    "code2": "PF",
+    "name": "فرانسيسي پولينيشيا",
+    "fullName": "فرانسيسي پولينيشيا"
+  },
+  {
+    "code2": "BM",
+    "name": "برمودا",
+    "fullName": "برمودا"
+  },
+  {
+    "code2": "KY",
+    "name": "ڪي مين ٻيٽ",
+    "fullName": "ڪي مين ٻيٽ"
+  },
+  {
+    "code2": "VI",
+    "name": "آمريڪي ورجن ٻيٽ",
+    "fullName": "آمريڪي ورجن ٻيٽ"
+  },
+  {
+    "code2": "CW",
+    "name": "ڪيوراسائو",
+    "fullName": "ڪيوراسائو"
+  },
+  {
+    "code2": "AW",
+    "name": "عروبا",
+    "fullName": "عروبا"
+  },
+  {
+    "code2": "GI",
+    "name": "جبرالٽر",
+    "fullName": "جبرالٽر"
+  },
+  {
+    "code2": "JE",
+    "name": "جرسي",
+    "fullName": "جرسي"
+  },
+  {
+    "code2": "GG",
+    "name": "گورنسي",
+    "fullName": "گورنسي"
+  },
+  {
+    "code2": "IM",
+    "name": "انسانن جو ٻيٽ",
+    "fullName": "انسانن جو ٻيٽ"
+  },
+  {
+    "code2": "TC",
+    "name": "ترڪ ۽ ڪيڪوس ٻيٽ",
+    "fullName": "ترڪ ۽ ڪيڪوس ٻيٽ"
+  },
+  {
+    "code2": "VG",
+    "name": "برطانوي ورجن ٻيٽ",
+    "fullName": "برطانوي ورجن ٻيٽ"
+  },
+  {
+    "code2": "AI",
+    "name": "انگويلا",
+    "fullName": "انگويلا"
+  },
+  {
+    "code2": "MS",
+    "name": "مونٽسراٽ",
+    "fullName": "مونٽسراٽ"
+  },
+  {
+    "code2": "SH",
+    "name": "سينٽ ھيلينا",
+    "fullName": "سينٽ ھيلينا"
+  },
+  {
+    "code2": "FK",
+    "name": "فاڪ لينڊ ٻيٽ",
+    "fullName": "فاڪ لينڊ ٻيٽ"
+  },
+  {
+    "code2": "GF",
+    "name": "فرانسيسي گيانا",
+    "fullName": "فرانسيسي گيانا"
+  },
+  {
+    "code2": "GP",
+    "name": "گواڊیلوپ",
+    "fullName": "گواڊیلوپ"
+  },
+  {
+    "code2": "MQ",
+    "name": "مارتينڪ",
+    "fullName": "مارتينڪ"
+  },
+  {
+    "code2": "RE",
+    "name": "ري يونين",
+    "fullName": "ري يونين"
+  },
+  {
+    "code2": "MF",
+    "name": "سينٽ مارٽن",
+    "fullName": "سينٽ مارٽن"
+  },
+  {
+    "code2": "PM",
+    "name": "سینٽ پیئر و میڪوئیلون",
+    "fullName": "سینٽ پیئر و میڪوئیلون"
+  },
+  {
+    "code2": "WF",
+    "name": "والس ۽ فتونا",
+    "fullName": "والس ۽ فتونا"
+  },
+  {
+    "code2": "YT",
+    "name": "مياتي",
+    "fullName": "مياتي"
+  },
+  {
+    "code2": "AS",
+    "name": "آمريڪي ساموا",
+    "fullName": "آمريڪي ساموا"
+  },
+  {
+    "code2": "MP",
+    "name": "اتريان ماريانا ٻيٽ",
+    "fullName": "اتريان ماريانا ٻيٽ"
+  },
+  {
+    "code2": "CX",
+    "name": "ڪرسمس ٻيٽ",
+    "fullName": "ڪرسمس ٻيٽ"
+  },
+  {
+    "code2": "CC",
+    "name": "ڪوڪوس ٻيٽ",
+    "fullName": "ڪوڪوس ٻيٽ"
+  },
+  {
+    "code2": "NF",
+    "name": "نورفوڪ ٻيٽ",
+    "fullName": "نورفوڪ ٻيٽ"
+  },
+  {
+    "code2": "PN",
+    "name": "پٽڪئرن ٻيٽ",
+    "fullName": "پٽڪئرن ٻيٽ"
+  },
+  {
+    "code2": "TK",
+    "name": "ٽوڪلائو",
+    "fullName": "ٽوڪلائو"
+  },
+  {
+    "code2": "NU",
+    "name": "نووي",
+    "fullName": "نووي"
+  },
+  {
+    "code2": "CK",
+    "name": "ڪوڪ ٻيٽ",
+    "fullName": "ڪوڪ ٻيٽ"
+  },
+  {
+    "code2": "EH",
+    "name": "اولهه صحارا",
+    "fullName": "اولهه صحارا"
+  },
+  {
+    "code2": "AX",
+    "name": "الند ٻيٽ",
+    "fullName": "الند ٻيٽ"
+  },
+  {
+    "code2": "BL",
+    "name": "سینٽ برٿلیمی",
+    "fullName": "سینٽ برٿلیمی"
+  },
+  {
+    "code2": "IO",
+    "name": "برطانوي هندي سمنڊ خطو",
+    "fullName": "برطانوي هندي سمنڊ خطو"
+  },
+  {
+    "code2": "SX",
+    "name": "سنٽ مارٽن",
+    "fullName": "سنٽ مارٽن"
+  },
+  {
+    "code2": "BQ",
+    "name": "ڪيريبين نيدرلينڊ",
+    "fullName": "ڪيريبين نيدرلينڊ"
+  },
+  {
+    "code2": "TF",
+    "name": "فرانسيسي ڏاکڻي علائقا",
+    "fullName": "فرانسيسي ڏاکڻي علائقا"
+  },
+  {
+    "code2": "GS",
+    "name": "ڏکڻ جارجيا ۽ ڏکڻ سينڊوچ ٻيٽ",
+    "fullName": "ڏکڻ جارجيا ۽ ڏکڻ سينڊوچ ٻيٽ"
+  },
+  {
+    "code2": "HM",
+    "name": "هرڊ ۽ مڪڊونلڊ ٻيٽ",
+    "fullName": "هرڊ ۽ مڪڊونلڊ ٻيٽ"
+  },
+  {
+    "code2": "AQ",
+    "name": "انٽارڪٽيڪا",
+    "fullName": "انٽارڪٽيڪا"
+  }
+]

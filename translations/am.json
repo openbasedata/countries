@@ -1,0 +1,1237 @@
+[
+  {
+    "code2": "AF",
+    "name": "አፍጋኒስታን",
+    "fullName": "አፍጋኒስታን"
+  },
+  {
+    "code2": "AL",
+    "name": "አልባኒያ",
+    "fullName": "አልባኒያ"
+  },
+  {
+    "code2": "DZ",
+    "name": "አልጄሪያ",
+    "fullName": "አልጄሪያ"
+  },
+  {
+    "code2": "AD",
+    "name": "አንዶራ",
+    "fullName": "አንዶራ"
+  },
+  {
+    "code2": "AO",
+    "name": "አንጐላ",
+    "fullName": "አንጐላ"
+  },
+  {
+    "code2": "AG",
+    "name": "አንቲጓ እና ባሩዳ",
+    "fullName": "አንቲጓ እና ባሩዳ"
+  },
+  {
+    "code2": "AR",
+    "name": "አርጀንቲና",
+    "fullName": "አርጀንቲና"
+  },
+  {
+    "code2": "AM",
+    "name": "አርሜኒያ",
+    "fullName": "አርሜኒያ"
+  },
+  {
+    "code2": "AU",
+    "name": "አውስትራልያ",
+    "fullName": "አውስትራልያ"
+  },
+  {
+    "code2": "AT",
+    "name": "ኦስትሪያ",
+    "fullName": "ኦስትሪያ"
+  },
+  {
+    "code2": "AZ",
+    "name": "አዘርባጃን",
+    "fullName": "አዘርባጃን"
+  },
+  {
+    "code2": "BS",
+    "name": "ባሃማስ",
+    "fullName": "ባሃማስ"
+  },
+  {
+    "code2": "BH",
+    "name": "ባህሬን",
+    "fullName": "ባህሬን"
+  },
+  {
+    "code2": "BD",
+    "name": "ባንግላዲሽ",
+    "fullName": "ባንግላዲሽ"
+  },
+  {
+    "code2": "BB",
+    "name": "ባርቤዶስ",
+    "fullName": "ባርቤዶስ"
+  },
+  {
+    "code2": "BY",
+    "name": "ቤላሩስ",
+    "fullName": "ቤላሩስ"
+  },
+  {
+    "code2": "BE",
+    "name": "ቤልጄም",
+    "fullName": "ቤልጄም"
+  },
+  {
+    "code2": "BZ",
+    "name": "ቤሊዘ",
+    "fullName": "ቤሊዘ"
+  },
+  {
+    "code2": "BJ",
+    "name": "ቤኒን",
+    "fullName": "ቤኒን"
+  },
+  {
+    "code2": "BT",
+    "name": "ቡህታን",
+    "fullName": "ቡህታን"
+  },
+  {
+    "code2": "BO",
+    "name": "ቦሊቪያ",
+    "fullName": "ቦሊቪያ"
+  },
+  {
+    "code2": "BA",
+    "name": "ቦስኒያ እና ሄርዞጎቪኒያ",
+    "fullName": "ቦስኒያ እና ሄርዞጎቪኒያ"
+  },
+  {
+    "code2": "BW",
+    "name": "ቦትስዋና",
+    "fullName": "ቦትስዋና"
+  },
+  {
+    "code2": "BR",
+    "name": "ብራዚል",
+    "fullName": "ብራዚል"
+  },
+  {
+    "code2": "BN",
+    "name": "ብሩኒ",
+    "fullName": "ብሩኒ"
+  },
+  {
+    "code2": "BG",
+    "name": "ቡልጌሪያ",
+    "fullName": "ቡልጌሪያ"
+  },
+  {
+    "code2": "BF",
+    "name": "ቡርኪና ፋሶ",
+    "fullName": "ቡርኪና ፋሶ"
+  },
+  {
+    "code2": "BI",
+    "name": "ብሩንዲ",
+    "fullName": "ብሩንዲ"
+  },
+  {
+    "code2": "CV",
+    "name": "ኬፕ ቬርዴ",
+    "fullName": "ኬፕ ቬርዴ"
+  },
+  {
+    "code2": "KH",
+    "name": "ካምቦዲያ",
+    "fullName": "ካምቦዲያ"
+  },
+  {
+    "code2": "CM",
+    "name": "ካሜሩን",
+    "fullName": "ካሜሩን"
+  },
+  {
+    "code2": "CA",
+    "name": "ካናዳ",
+    "fullName": "ካናዳ"
+  },
+  {
+    "code2": "CF",
+    "name": "የመካከለኛው አፍሪካ ሪፐብሊክ",
+    "fullName": "የመካከለኛው አፍሪካ ሪፐብሊክ"
+  },
+  {
+    "code2": "TD",
+    "name": "ቻድ",
+    "fullName": "ቻድ"
+  },
+  {
+    "code2": "CL",
+    "name": "ቺሊ",
+    "fullName": "ቺሊ"
+  },
+  {
+    "code2": "CN",
+    "name": "ቻይና",
+    "fullName": "ቻይና"
+  },
+  {
+    "code2": "CO",
+    "name": "ኮሎምቢያ",
+    "fullName": "ኮሎምቢያ"
+  },
+  {
+    "code2": "KM",
+    "name": "ኮሞሮስ",
+    "fullName": "ኮሞሮስ"
+  },
+  {
+    "code2": "CG",
+    "name": "ኮንጎ ብራዛቪል",
+    "fullName": "ኮንጎ ብራዛቪል"
+  },
+  {
+    "code2": "CD",
+    "name": "ኮንጎ-ኪንሻሳ",
+    "fullName": "ኮንጎ-ኪንሻሳ"
+  },
+  {
+    "code2": "CR",
+    "name": "ኮስታ ሪካ",
+    "fullName": "ኮስታ ሪካ"
+  },
+  {
+    "code2": "CI",
+    "name": "ኮት ዲቯር",
+    "fullName": "ኮት ዲቯር"
+  },
+  {
+    "code2": "HR",
+    "name": "ክሮኤሽያ",
+    "fullName": "ክሮኤሽያ"
+  },
+  {
+    "code2": "CU",
+    "name": "ኩባ",
+    "fullName": "ኩባ"
+  },
+  {
+    "code2": "CY",
+    "name": "ሳይፕረስ",
+    "fullName": "ሳይፕረስ"
+  },
+  {
+    "code2": "CZ",
+    "name": "ቼክ ሪፑብሊክ",
+    "fullName": "ቼክ ሪፑብሊክ"
+  },
+  {
+    "code2": "DK",
+    "name": "ዴንማርክ",
+    "fullName": "ዴንማርክ"
+  },
+  {
+    "code2": "DJ",
+    "name": "ጂቡቲ",
+    "fullName": "ጂቡቲ"
+  },
+  {
+    "code2": "DM",
+    "name": "ዶሚኒካ",
+    "fullName": "ዶሚኒካ"
+  },
+  {
+    "code2": "DO",
+    "name": "ዶሚኒክ ሪፑብሊክ",
+    "fullName": "ዶሚኒክ ሪፑብሊክ"
+  },
+  {
+    "code2": "EC",
+    "name": "ኢኳዶር",
+    "fullName": "ኢኳዶር"
+  },
+  {
+    "code2": "EG",
+    "name": "ግብጽ",
+    "fullName": "ግብጽ"
+  },
+  {
+    "code2": "SV",
+    "name": "ኤል ሳልቫዶር",
+    "fullName": "ኤል ሳልቫዶር"
+  },
+  {
+    "code2": "GQ",
+    "name": "ኢኳቶሪያል ጊኒ",
+    "fullName": "ኢኳቶሪያል ጊኒ"
+  },
+  {
+    "code2": "ER",
+    "name": "ኤርትራ",
+    "fullName": "ኤርትራ"
+  },
+  {
+    "code2": "EE",
+    "name": "ኤስቶኒያ",
+    "fullName": "ኤስቶኒያ"
+  },
+  {
+    "code2": "SZ",
+    "name": "ሱዋዚላንድ",
+    "fullName": "ሱዋዚላንድ"
+  },
+  {
+    "code2": "ET",
+    "name": "ኢትዮጵያ",
+    "fullName": "ኢትዮጵያ"
+  },
+  {
+    "code2": "FJ",
+    "name": "ፊጂ",
+    "fullName": "ፊጂ"
+  },
+  {
+    "code2": "FI",
+    "name": "ፊንላንድ",
+    "fullName": "ፊንላንድ"
+  },
+  {
+    "code2": "FR",
+    "name": "ፈረንሳይ",
+    "fullName": "ፈረንሳይ"
+  },
+  {
+    "code2": "GA",
+    "name": "ጋቦን",
+    "fullName": "ጋቦን"
+  },
+  {
+    "code2": "GM",
+    "name": "ጋምቢያ",
+    "fullName": "ጋምቢያ"
+  },
+  {
+    "code2": "GE",
+    "name": "ጆርጂያ",
+    "fullName": "ጆርጂያ"
+  },
+  {
+    "code2": "DE",
+    "name": "ጀርመን",
+    "fullName": "ጀርመን"
+  },
+  {
+    "code2": "GH",
+    "name": "ጋና",
+    "fullName": "ጋና"
+  },
+  {
+    "code2": "GR",
+    "name": "ግሪክ",
+    "fullName": "ግሪክ"
+  },
+  {
+    "code2": "GD",
+    "name": "ግሬናዳ",
+    "fullName": "ግሬናዳ"
+  },
+  {
+    "code2": "GT",
+    "name": "ጉዋቲማላ",
+    "fullName": "ጉዋቲማላ"
+  },
+  {
+    "code2": "GN",
+    "name": "ጊኒ",
+    "fullName": "ጊኒ"
+  },
+  {
+    "code2": "GW",
+    "name": "ጊኒ ቢሳኦ",
+    "fullName": "ጊኒ ቢሳኦ"
+  },
+  {
+    "code2": "GY",
+    "name": "ጉያና",
+    "fullName": "ጉያና"
+  },
+  {
+    "code2": "HT",
+    "name": "ሀይቲ",
+    "fullName": "ሀይቲ"
+  },
+  {
+    "code2": "HN",
+    "name": "ሆንዱራስ",
+    "fullName": "ሆንዱራስ"
+  },
+  {
+    "code2": "HU",
+    "name": "ሀንጋሪ",
+    "fullName": "ሀንጋሪ"
+  },
+  {
+    "code2": "IS",
+    "name": "አይስላንድ",
+    "fullName": "አይስላንድ"
+  },
+  {
+    "code2": "IN",
+    "name": "ህንድ",
+    "fullName": "ህንድ"
+  },
+  {
+    "code2": "ID",
+    "name": "ኢንዶኔዢያ",
+    "fullName": "ኢንዶኔዢያ"
+  },
+  {
+    "code2": "IR",
+    "name": "ኢራን",
+    "fullName": "ኢራን"
+  },
+  {
+    "code2": "IQ",
+    "name": "ኢራቅ",
+    "fullName": "ኢራቅ"
+  },
+  {
+    "code2": "IE",
+    "name": "አየርላንድ",
+    "fullName": "አየርላንድ"
+  },
+  {
+    "code2": "IL",
+    "name": "እስራኤል",
+    "fullName": "እስራኤል"
+  },
+  {
+    "code2": "IT",
+    "name": "ጣሊያን",
+    "fullName": "ጣሊያን"
+  },
+  {
+    "code2": "JM",
+    "name": "ጃማይካ",
+    "fullName": "ጃማይካ"
+  },
+  {
+    "code2": "JP",
+    "name": "ጃፓን",
+    "fullName": "ጃፓን"
+  },
+  {
+    "code2": "JO",
+    "name": "ጆርዳን",
+    "fullName": "ጆርዳን"
+  },
+  {
+    "code2": "KZ",
+    "name": "ካዛኪስታን",
+    "fullName": "ካዛኪስታን"
+  },
+  {
+    "code2": "KE",
+    "name": "ኬንያ",
+    "fullName": "ኬንያ"
+  },
+  {
+    "code2": "KI",
+    "name": "ኪሪባቲ",
+    "fullName": "ኪሪባቲ"
+  },
+  {
+    "code2": "KP",
+    "name": "ሰሜን ኮሪያ",
+    "fullName": "ሰሜን ኮሪያ"
+  },
+  {
+    "code2": "KR",
+    "name": "ደቡብ ኮሪያ",
+    "fullName": "ደቡብ ኮሪያ"
+  },
+  {
+    "code2": "KW",
+    "name": "ክዌት",
+    "fullName": "ክዌት"
+  },
+  {
+    "code2": "KG",
+    "name": "ኪርጊስታን",
+    "fullName": "ኪርጊስታን"
+  },
+  {
+    "code2": "LA",
+    "name": "ላኦስ",
+    "fullName": "ላኦስ"
+  },
+  {
+    "code2": "LV",
+    "name": "ላትቪያ",
+    "fullName": "ላትቪያ"
+  },
+  {
+    "code2": "LB",
+    "name": "ሊባኖስ",
+    "fullName": "ሊባኖስ"
+  },
+  {
+    "code2": "LS",
+    "name": "ሌሶቶ",
+    "fullName": "ሌሶቶ"
+  },
+  {
+    "code2": "LR",
+    "name": "ላይቤሪያ",
+    "fullName": "ላይቤሪያ"
+  },
+  {
+    "code2": "LY",
+    "name": "ሊቢያ",
+    "fullName": "ሊቢያ"
+  },
+  {
+    "code2": "LI",
+    "name": "ሊችተንስታይን",
+    "fullName": "ሊችተንስታይን"
+  },
+  {
+    "code2": "LT",
+    "name": "ሊቱዌኒያ",
+    "fullName": "ሊቱዌኒያ"
+  },
+  {
+    "code2": "LU",
+    "name": "ሉክሰምበርግ",
+    "fullName": "ሉክሰምበርግ"
+  },
+  {
+    "code2": "MG",
+    "name": "ማዳጋስካር",
+    "fullName": "ማዳጋስካር"
+  },
+  {
+    "code2": "MW",
+    "name": "ማላዊ",
+    "fullName": "ማላዊ"
+  },
+  {
+    "code2": "MY",
+    "name": "ማሌዢያ",
+    "fullName": "ማሌዢያ"
+  },
+  {
+    "code2": "MV",
+    "name": "ማልዲቭስ",
+    "fullName": "ማልዲቭስ"
+  },
+  {
+    "code2": "ML",
+    "name": "ማሊ",
+    "fullName": "ማሊ"
+  },
+  {
+    "code2": "MT",
+    "name": "ማልታ",
+    "fullName": "ማልታ"
+  },
+  {
+    "code2": "MH",
+    "name": "ማርሻል አይላንድ",
+    "fullName": "ማርሻል አይላንድ"
+  },
+  {
+    "code2": "MR",
+    "name": "ሞሪቴኒያ",
+    "fullName": "ሞሪቴኒያ"
+  },
+  {
+    "code2": "MU",
+    "name": "ሞሪሸስ",
+    "fullName": "ሞሪሸስ"
+  },
+  {
+    "code2": "MX",
+    "name": "ሜክሲኮ",
+    "fullName": "ሜክሲኮ"
+  },
+  {
+    "code2": "FM",
+    "name": "ሚክሮኔዢያ",
+    "fullName": "ሚክሮኔዢያ"
+  },
+  {
+    "code2": "MD",
+    "name": "ሞልዶቫ",
+    "fullName": "ሞልዶቫ"
+  },
+  {
+    "code2": "MC",
+    "name": "ሞናኮ",
+    "fullName": "ሞናኮ"
+  },
+  {
+    "code2": "MN",
+    "name": "ሞንጎሊያ",
+    "fullName": "ሞንጎሊያ"
+  },
+  {
+    "code2": "ME",
+    "name": "ሞንተኔግሮ",
+    "fullName": "ሞንተኔግሮ"
+  },
+  {
+    "code2": "MA",
+    "name": "ሞሮኮ",
+    "fullName": "ሞሮኮ"
+  },
+  {
+    "code2": "MZ",
+    "name": "ሞዛምቢክ",
+    "fullName": "ሞዛምቢክ"
+  },
+  {
+    "code2": "MM",
+    "name": "ማይናማር(በርማ)",
+    "fullName": "ማይናማር(በርማ)"
+  },
+  {
+    "code2": "NA",
+    "name": "ናሚቢያ",
+    "fullName": "ናሚቢያ"
+  },
+  {
+    "code2": "NR",
+    "name": "ናኡሩ",
+    "fullName": "ናኡሩ"
+  },
+  {
+    "code2": "NP",
+    "name": "ኔፓል",
+    "fullName": "ኔፓል"
+  },
+  {
+    "code2": "NL",
+    "name": "ኔዘርላንድ",
+    "fullName": "ኔዘርላንድ"
+  },
+  {
+    "code2": "NZ",
+    "name": "ኒው ዚላንድ",
+    "fullName": "ኒው ዚላንድ"
+  },
+  {
+    "code2": "NI",
+    "name": "ኒካራጓ",
+    "fullName": "ኒካራጓ"
+  },
+  {
+    "code2": "NE",
+    "name": "ኒጀር",
+    "fullName": "ኒጀር"
+  },
+  {
+    "code2": "NG",
+    "name": "ናይጄሪያ",
+    "fullName": "ናይጄሪያ"
+  },
+  {
+    "code2": "MK",
+    "name": "መቄዶንያ",
+    "fullName": "መቄዶንያ"
+  },
+  {
+    "code2": "NO",
+    "name": "ኖርዌ",
+    "fullName": "ኖርዌ"
+  },
+  {
+    "code2": "OM",
+    "name": "ኦማን",
+    "fullName": "ኦማን"
+  },
+  {
+    "code2": "PK",
+    "name": "ፓኪስታን",
+    "fullName": "ፓኪስታን"
+  },
+  {
+    "code2": "PW",
+    "name": "ፓላው",
+    "fullName": "ፓላው"
+  },
+  {
+    "code2": "PA",
+    "name": "ፓናማ",
+    "fullName": "ፓናማ"
+  },
+  {
+    "code2": "PG",
+    "name": "ፓፑዋ ኒው ጊኒ",
+    "fullName": "ፓፑዋ ኒው ጊኒ"
+  },
+  {
+    "code2": "PY",
+    "name": "ፓራጓይ",
+    "fullName": "ፓራጓይ"
+  },
+  {
+    "code2": "PE",
+    "name": "ፔሩ",
+    "fullName": "ፔሩ"
+  },
+  {
+    "code2": "PH",
+    "name": "ፊሊፒንስ",
+    "fullName": "ፊሊፒንስ"
+  },
+  {
+    "code2": "PL",
+    "name": "ፖላንድ",
+    "fullName": "ፖላንድ"
+  },
+  {
+    "code2": "PT",
+    "name": "ፖርቱጋል",
+    "fullName": "ፖርቱጋል"
+  },
+  {
+    "code2": "QA",
+    "name": "ኳታር",
+    "fullName": "ኳታር"
+  },
+  {
+    "code2": "RO",
+    "name": "ሮሜኒያ",
+    "fullName": "ሮሜኒያ"
+  },
+  {
+    "code2": "RU",
+    "name": "ራሺያ",
+    "fullName": "ራሺያ"
+  },
+  {
+    "code2": "RW",
+    "name": "ሩዋንዳ",
+    "fullName": "ሩዋንዳ"
+  },
+  {
+    "code2": "KN",
+    "name": "ቅዱስ ኪትስ እና ኔቪስ",
+    "fullName": "ቅዱስ ኪትስ እና ኔቪስ"
+  },
+  {
+    "code2": "LC",
+    "name": "ሴንት ሉቺያ",
+    "fullName": "ሴንት ሉቺያ"
+  },
+  {
+    "code2": "VC",
+    "name": "ቅዱስ ቪንሴንት እና ግሬናዲንስ",
+    "fullName": "ቅዱስ ቪንሴንት እና ግሬናዲንስ"
+  },
+  {
+    "code2": "WS",
+    "name": "ሳሞአ",
+    "fullName": "ሳሞአ"
+  },
+  {
+    "code2": "SM",
+    "name": "ሳን ማሪኖ",
+    "fullName": "ሳን ማሪኖ"
+  },
+  {
+    "code2": "ST",
+    "name": "ሳኦ ቶሜ እና ፕሪንሲፔ",
+    "fullName": "ሳኦ ቶሜ እና ፕሪንሲፔ"
+  },
+  {
+    "code2": "SA",
+    "name": "ሳውድአረቢያ",
+    "fullName": "ሳውድአረቢያ"
+  },
+  {
+    "code2": "SN",
+    "name": "ሴኔጋል",
+    "fullName": "ሴኔጋል"
+  },
+  {
+    "code2": "RS",
+    "name": "ሰርብያ",
+    "fullName": "ሰርብያ"
+  },
+  {
+    "code2": "SC",
+    "name": "ሲሼልስ",
+    "fullName": "ሲሼልስ"
+  },
+  {
+    "code2": "SL",
+    "name": "ሴራሊዮን",
+    "fullName": "ሴራሊዮን"
+  },
+  {
+    "code2": "SG",
+    "name": "ሲንጋፖር",
+    "fullName": "ሲንጋፖር"
+  },
+  {
+    "code2": "SK",
+    "name": "ስሎቫኪያ",
+    "fullName": "ስሎቫኪያ"
+  },
+  {
+    "code2": "SI",
+    "name": "ስሎቬኒያ",
+    "fullName": "ስሎቬኒያ"
+  },
+  {
+    "code2": "SB",
+    "name": "ሰሎሞን ደሴት",
+    "fullName": "ሰሎሞን ደሴት"
+  },
+  {
+    "code2": "SO",
+    "name": "ሱማሌ",
+    "fullName": "ሱማሌ"
+  },
+  {
+    "code2": "ZA",
+    "name": "ደቡብ አፍሪካ",
+    "fullName": "ደቡብ አፍሪካ"
+  },
+  {
+    "code2": "SS",
+    "name": "ደቡብ ሱዳን",
+    "fullName": "ደቡብ ሱዳን"
+  },
+  {
+    "code2": "ES",
+    "name": "ስፔን",
+    "fullName": "ስፔን"
+  },
+  {
+    "code2": "LK",
+    "name": "ሲሪላንካ",
+    "fullName": "ሲሪላንካ"
+  },
+  {
+    "code2": "SD",
+    "name": "ሱዳን",
+    "fullName": "ሱዳን"
+  },
+  {
+    "code2": "SR",
+    "name": "ሱሪናም",
+    "fullName": "ሱሪናም"
+  },
+  {
+    "code2": "SE",
+    "name": "ስዊድን",
+    "fullName": "ስዊድን"
+  },
+  {
+    "code2": "CH",
+    "name": "ስዊዘርላንድ",
+    "fullName": "ስዊዘርላንድ"
+  },
+  {
+    "code2": "SY",
+    "name": "ሲሪያ",
+    "fullName": "ሲሪያ"
+  },
+  {
+    "code2": "TJ",
+    "name": "ታጃኪስታን",
+    "fullName": "ታጃኪስታን"
+  },
+  {
+    "code2": "TZ",
+    "name": "ታንዛኒያ",
+    "fullName": "ታንዛኒያ"
+  },
+  {
+    "code2": "TH",
+    "name": "ታይላንድ",
+    "fullName": "ታይላንድ"
+  },
+  {
+    "code2": "TL",
+    "name": "ምስራቅ ሌስት",
+    "fullName": "ምስራቅ ሌስት"
+  },
+  {
+    "code2": "TG",
+    "name": "ቶጐ",
+    "fullName": "ቶጐ"
+  },
+  {
+    "code2": "TO",
+    "name": "ቶንጋ",
+    "fullName": "ቶንጋ"
+  },
+  {
+    "code2": "TT",
+    "name": "ትሪናዳድ እና ቶቤጎ",
+    "fullName": "ትሪናዳድ እና ቶቤጎ"
+  },
+  {
+    "code2": "TN",
+    "name": "ቱኒዚያ",
+    "fullName": "ቱኒዚያ"
+  },
+  {
+    "code2": "TR",
+    "name": "ቱርክ",
+    "fullName": "ቱርክ"
+  },
+  {
+    "code2": "TM",
+    "name": "ቱርክሜኒስታን",
+    "fullName": "ቱርክሜኒስታን"
+  },
+  {
+    "code2": "TV",
+    "name": "ቱቫሉ",
+    "fullName": "ቱቫሉ"
+  },
+  {
+    "code2": "UG",
+    "name": "ዩጋንዳ",
+    "fullName": "ዩጋንዳ"
+  },
+  {
+    "code2": "UA",
+    "name": "ዩክሬን",
+    "fullName": "ዩክሬን"
+  },
+  {
+    "code2": "AE",
+    "name": "የተባበሩት አረብ ኤምሬትስ",
+    "fullName": "የተባበሩት አረብ ኤምሬትስ"
+  },
+  {
+    "code2": "GB",
+    "name": "እንግሊዝ",
+    "fullName": "እንግሊዝ"
+  },
+  {
+    "code2": "US",
+    "name": "ዩናይትድ ስቴትስ",
+    "fullName": "ዩናይትድ ስቴትስ"
+  },
+  {
+    "code2": "UY",
+    "name": "ኡራጓይ",
+    "fullName": "ኡራጓይ"
+  },
+  {
+    "code2": "UZ",
+    "name": "ኡዝቤኪስታን",
+    "fullName": "ኡዝቤኪስታን"
+  },
+  {
+    "code2": "VU",
+    "name": "ቫኑአቱ",
+    "fullName": "ቫኑአቱ"
+  },
+  {
+    "code2": "VE",
+    "name": "ቬንዙዌላ",
+    "fullName": "ቬንዙዌላ"
+  },
+  {
+    "code2": "VN",
+    "name": "ቬትናም",
+    "fullName": "ቬትናም"
+  },
+  {
+    "code2": "YE",
+    "name": "የመን",
+    "fullName": "የመን"
+  },
+  {
+    "code2": "ZM",
+    "name": "ዛምቢያ",
+    "fullName": "ዛምቢያ"
+  },
+  {
+    "code2": "ZW",
+    "name": "ዚምቧቤ",
+    "fullName": "ዚምቧቤ"
+  },
+  {
+    "code2": "HK",
+    "name": "ሆንግ ኮንግ SAR ቻይና",
+    "fullName": "ሆንግ ኮንግ SAR ቻይና"
+  },
+  {
+    "code2": "MO",
+    "name": "ማካኡ ልዩ የአስተዳደር ክልል ቻይና",
+    "fullName": "ማካኡ ልዩ የአስተዳደር ክልል ቻይና"
+  },
+  {
+    "code2": "TW",
+    "name": "ታይዋን",
+    "fullName": "ታይዋን"
+  },
+  {
+    "code2": "PS",
+    "name": "የፍልስጤም ግዛት",
+    "fullName": "የፍልስጤም ግዛት"
+  },
+  {
+    "code2": "XK",
+    "name": "ኮሶቮ",
+    "fullName": "ኮሶቮ"
+  },
+  {
+    "code2": "VA",
+    "name": "ቫቲካን ከተማ",
+    "fullName": "ቫቲካን ከተማ"
+  },
+  {
+    "code2": "PR",
+    "name": "ፖርታ ሪኮ",
+    "fullName": "ፖርታ ሪኮ"
+  },
+  {
+    "code2": "GU",
+    "name": "ጉዋም",
+    "fullName": "ጉዋም"
+  },
+  {
+    "code2": "GL",
+    "name": "ግሪንላንድ",
+    "fullName": "ግሪንላንድ"
+  },
+  {
+    "code2": "FO",
+    "name": "የፋሮ ደሴቶች",
+    "fullName": "የፋሮ ደሴቶች"
+  },
+  {
+    "code2": "NC",
+    "name": "ኒው ካሌዶኒያ",
+    "fullName": "ኒው ካሌዶኒያ"
+  },
+  {
+    "code2": "PF",
+    "name": "የፈረንሳይ ፖሊኔዢያ",
+    "fullName": "የፈረንሳይ ፖሊኔዢያ"
+  },
+  {
+    "code2": "BM",
+    "name": "ቤርሙዳ",
+    "fullName": "ቤርሙዳ"
+  },
+  {
+    "code2": "KY",
+    "name": "ካይማን ደሴቶች",
+    "fullName": "ካይማን ደሴቶች"
+  },
+  {
+    "code2": "VI",
+    "name": "የአሜሪካ ቨርጂን ደሴቶች",
+    "fullName": "የአሜሪካ ቨርጂን ደሴቶች"
+  },
+  {
+    "code2": "CW",
+    "name": "ኩራሳዎ",
+    "fullName": "ኩራሳዎ"
+  },
+  {
+    "code2": "AW",
+    "name": "አሩባ",
+    "fullName": "አሩባ"
+  },
+  {
+    "code2": "GI",
+    "name": "ጂብራልተር",
+    "fullName": "ጂብራልተር"
+  },
+  {
+    "code2": "JE",
+    "name": "ጀርሲ",
+    "fullName": "ጀርሲ"
+  },
+  {
+    "code2": "GG",
+    "name": "ጉርነሲ",
+    "fullName": "ጉርነሲ"
+  },
+  {
+    "code2": "IM",
+    "name": "አይል ኦፍ ማን",
+    "fullName": "አይል ኦፍ ማን"
+  },
+  {
+    "code2": "TC",
+    "name": "የቱርኮችና የካኢኮስ ደሴቶች",
+    "fullName": "የቱርኮችና የካኢኮስ ደሴቶች"
+  },
+  {
+    "code2": "VG",
+    "name": "የእንግሊዝ ቨርጂን ደሴቶች",
+    "fullName": "የእንግሊዝ ቨርጂን ደሴቶች"
+  },
+  {
+    "code2": "AI",
+    "name": "አንጉኢላ",
+    "fullName": "አንጉኢላ"
+  },
+  {
+    "code2": "MS",
+    "name": "ሞንትሴራት",
+    "fullName": "ሞንትሴራት"
+  },
+  {
+    "code2": "SH",
+    "name": "ሴንት ሄለና",
+    "fullName": "ሴንት ሄለና"
+  },
+  {
+    "code2": "FK",
+    "name": "የፎክላንድ ደሴቶች",
+    "fullName": "የፎክላንድ ደሴቶች"
+  },
+  {
+    "code2": "GF",
+    "name": "የፈረንሳይ ጉዊአና",
+    "fullName": "የፈረንሳይ ጉዊአና"
+  },
+  {
+    "code2": "GP",
+    "name": "ጉዋደሉፕ",
+    "fullName": "ጉዋደሉፕ"
+  },
+  {
+    "code2": "MQ",
+    "name": "ማርቲኒክ",
+    "fullName": "ማርቲኒክ"
+  },
+  {
+    "code2": "RE",
+    "name": "ሪዩኒየን",
+    "fullName": "ሪዩኒየን"
+  },
+  {
+    "code2": "MF",
+    "name": "ሴንት ማርቲን",
+    "fullName": "ሴንት ማርቲን"
+  },
+  {
+    "code2": "PM",
+    "name": "ቅዱስ ፒዬር እና ሚኩኤሎን",
+    "fullName": "ቅዱስ ፒዬር እና ሚኩኤሎን"
+  },
+  {
+    "code2": "WF",
+    "name": "ዋሊስ እና ፉቱና ደሴቶች",
+    "fullName": "ዋሊስ እና ፉቱና ደሴቶች"
+  },
+  {
+    "code2": "YT",
+    "name": "ሜይኦቴ",
+    "fullName": "ሜይኦቴ"
+  },
+  {
+    "code2": "AS",
+    "name": "የአሜሪካ ሳሞአ",
+    "fullName": "የአሜሪካ ሳሞአ"
+  },
+  {
+    "code2": "MP",
+    "name": "የሰሜናዊ ማሪያና ደሴቶች",
+    "fullName": "የሰሜናዊ ማሪያና ደሴቶች"
+  },
+  {
+    "code2": "CX",
+    "name": "የገና ደሴት",
+    "fullName": "የገና ደሴት"
+  },
+  {
+    "code2": "CC",
+    "name": "ኮኮስ(ኬሊንግ) ደሴቶች",
+    "fullName": "ኮኮስ(ኬሊንግ) ደሴቶች"
+  },
+  {
+    "code2": "NF",
+    "name": "ኖርፎልክ ደሴት",
+    "fullName": "ኖርፎልክ ደሴት"
+  },
+  {
+    "code2": "PN",
+    "name": "ፒትካኢርን አይስላንድ",
+    "fullName": "ፒትካኢርን አይስላንድ"
+  },
+  {
+    "code2": "TK",
+    "name": "ቶክላው",
+    "fullName": "ቶክላው"
+  },
+  {
+    "code2": "NU",
+    "name": "ኒኡይ",
+    "fullName": "ኒኡይ"
+  },
+  {
+    "code2": "CK",
+    "name": "ኩክ ደሴቶች",
+    "fullName": "ኩክ ደሴቶች"
+  },
+  {
+    "code2": "EH",
+    "name": "ምዕራባዊ ሳህራ",
+    "fullName": "ምዕራባዊ ሳህራ"
+  },
+  {
+    "code2": "AX",
+    "name": "የአላንድ ደሴቶች",
+    "fullName": "የአላንድ ደሴቶች"
+  },
+  {
+    "code2": "BL",
+    "name": "ቅዱስ በርቴሎሜ",
+    "fullName": "ቅዱስ በርቴሎሜ"
+  },
+  {
+    "code2": "IO",
+    "name": "የብሪታኒያ ህንድ ውቂያኖስ ግዛት",
+    "fullName": "የብሪታኒያ ህንድ ውቂያኖስ ግዛት"
+  },
+  {
+    "code2": "SX",
+    "name": "ሲንት ማርተን",
+    "fullName": "ሲንት ማርተን"
+  },
+  {
+    "code2": "BQ",
+    "name": "የካሪቢያን ኔዘርላንድስ",
+    "fullName": "የካሪቢያን ኔዘርላንድስ"
+  },
+  {
+    "code2": "TF",
+    "name": "የፈረንሳይ ደቡባዊ ግዛቶች",
+    "fullName": "የፈረንሳይ ደቡባዊ ግዛቶች"
+  },
+  {
+    "code2": "GS",
+    "name": "ደቡብ ጆርጂያ እና የደቡብ ሳንድዊች ደሴቶች",
+    "fullName": "ደቡብ ጆርጂያ እና የደቡብ ሳንድዊች ደሴቶች"
+  },
+  {
+    "code2": "HM",
+    "name": "ኽርድ ደሴቶችና ማክዶናልድ ደሴቶች",
+    "fullName": "ኽርድ ደሴቶችና ማክዶናልድ ደሴቶች"
+  },
+  {
+    "code2": "AQ",
+    "name": "አንታርክቲካ",
+    "fullName": "አንታርክቲካ"
+  }
+]

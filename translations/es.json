@@ -1,0 +1,1237 @@
+[
+  {
+    "code2": "AF",
+    "name": "Afganistán",
+    "fullName": "República Islámica de Afganistán"
+  },
+  {
+    "code2": "AL",
+    "name": "Albania",
+    "fullName": "República de Albania"
+  },
+  {
+    "code2": "DZ",
+    "name": "Argelia",
+    "fullName": "República Democrática Popular de Argelia"
+  },
+  {
+    "code2": "AD",
+    "name": "Andorra",
+    "fullName": "Principado de Andorra"
+  },
+  {
+    "code2": "AO",
+    "name": "Angola",
+    "fullName": "República de Angola"
+  },
+  {
+    "code2": "AG",
+    "name": "Antigua y Barbuda",
+    "fullName": "Antigua y Barbuda"
+  },
+  {
+    "code2": "AR",
+    "name": "Argentina",
+    "fullName": "República Argentina"
+  },
+  {
+    "code2": "AM",
+    "name": "Armenia",
+    "fullName": "República de Armenia"
+  },
+  {
+    "code2": "AU",
+    "name": "Australia",
+    "fullName": "Australia"
+  },
+  {
+    "code2": "AT",
+    "name": "Austria",
+    "fullName": "República de Austria"
+  },
+  {
+    "code2": "AZ",
+    "name": "Azerbaiyán",
+    "fullName": "República de Azerbaiyán"
+  },
+  {
+    "code2": "BS",
+    "name": "Bahamas",
+    "fullName": "Commonwealth de las Bahamas"
+  },
+  {
+    "code2": "BH",
+    "name": "Bahrein",
+    "fullName": "Reino de Baréin"
+  },
+  {
+    "code2": "BD",
+    "name": "Bangladesh",
+    "fullName": "República Popular de Bangladés"
+  },
+  {
+    "code2": "BB",
+    "name": "Barbados",
+    "fullName": "Barbados"
+  },
+  {
+    "code2": "BY",
+    "name": "Bielorrusia",
+    "fullName": "República de Bielorrusia"
+  },
+  {
+    "code2": "BE",
+    "name": "Bélgica",
+    "fullName": "Reino de Bélgica"
+  },
+  {
+    "code2": "BZ",
+    "name": "Belice",
+    "fullName": "Belice"
+  },
+  {
+    "code2": "BJ",
+    "name": "Benin",
+    "fullName": "República de Benín"
+  },
+  {
+    "code2": "BT",
+    "name": "Bután",
+    "fullName": "Reino de Bután"
+  },
+  {
+    "code2": "BO",
+    "name": "Bolivia",
+    "fullName": "Estado plurinacional de Bolivia"
+  },
+  {
+    "code2": "BA",
+    "name": "Bosnia y Herzegovina",
+    "fullName": "Bosnia y Herzegovina"
+  },
+  {
+    "code2": "BW",
+    "name": "Botswana",
+    "fullName": "República de Botsuana"
+  },
+  {
+    "code2": "BR",
+    "name": "Brasil",
+    "fullName": "República Federativa de Brasil"
+  },
+  {
+    "code2": "BN",
+    "name": "Brunei Darussalam",
+    "fullName": "Brunei Darussalam"
+  },
+  {
+    "code2": "BG",
+    "name": "Bulgaria",
+    "fullName": "República de Bulgaria"
+  },
+  {
+    "code2": "BF",
+    "name": "Burkina Faso",
+    "fullName": "Burquina Faso"
+  },
+  {
+    "code2": "BI",
+    "name": "Burundi",
+    "fullName": "República de Burundi"
+  },
+  {
+    "code2": "CV",
+    "name": "Cabo Verde",
+    "fullName": "República de Cabo Verde"
+  },
+  {
+    "code2": "KH",
+    "name": "Camboya",
+    "fullName": "Reino de Camboya"
+  },
+  {
+    "code2": "CM",
+    "name": "Camerún",
+    "fullName": "República del Camerún"
+  },
+  {
+    "code2": "CA",
+    "name": "Canadá",
+    "fullName": "Canadá"
+  },
+  {
+    "code2": "CF",
+    "name": "República Centroafricana",
+    "fullName": "República Centroafricana"
+  },
+  {
+    "code2": "TD",
+    "name": "Chad",
+    "fullName": "República del Chad"
+  },
+  {
+    "code2": "CL",
+    "name": "Chile",
+    "fullName": "República de Chile"
+  },
+  {
+    "code2": "CN",
+    "name": "China",
+    "fullName": "República Popular China"
+  },
+  {
+    "code2": "CO",
+    "name": "Colombia",
+    "fullName": "República de Colombia"
+  },
+  {
+    "code2": "KM",
+    "name": "Comoras",
+    "fullName": "Unión de las Comores"
+  },
+  {
+    "code2": "CG",
+    "name": "Congo",
+    "fullName": "República del Congo"
+  },
+  {
+    "code2": "CD",
+    "name": "Congo (República Democrática del)",
+    "fullName": "Congo, República Democrática del"
+  },
+  {
+    "code2": "CR",
+    "name": "Costa Rica",
+    "fullName": "República de Costa Rica"
+  },
+  {
+    "code2": "CI",
+    "name": "Costa de Marfil",
+    "fullName": "República de Costa de Marfíl"
+  },
+  {
+    "code2": "HR",
+    "name": "Croacia",
+    "fullName": "República de Croacia"
+  },
+  {
+    "code2": "CU",
+    "name": "Cuba",
+    "fullName": "República de Cuba"
+  },
+  {
+    "code2": "CY",
+    "name": "Chipre",
+    "fullName": "República de Chipre"
+  },
+  {
+    "code2": "CZ",
+    "name": "República Checa",
+    "fullName": "República Checa"
+  },
+  {
+    "code2": "DK",
+    "name": "Dinamarca",
+    "fullName": "Reino de Dinamarca"
+  },
+  {
+    "code2": "DJ",
+    "name": "Yibuti",
+    "fullName": "República de Yibuti"
+  },
+  {
+    "code2": "DM",
+    "name": "Dominica",
+    "fullName": "Commonwealth de Dominica"
+  },
+  {
+    "code2": "DO",
+    "name": "República Dominicana",
+    "fullName": "República Dominicana"
+  },
+  {
+    "code2": "EC",
+    "name": "Ecuador",
+    "fullName": "República del Ecuador"
+  },
+  {
+    "code2": "EG",
+    "name": "Egipto",
+    "fullName": "República Árabe de Egipto"
+  },
+  {
+    "code2": "SV",
+    "name": "El Salvador",
+    "fullName": "República de El Salvador"
+  },
+  {
+    "code2": "GQ",
+    "name": "Guinea Ecuatorial",
+    "fullName": "República de Guinea Ecuatorial"
+  },
+  {
+    "code2": "ER",
+    "name": "Eritrea",
+    "fullName": "Estado de Eritrea"
+  },
+  {
+    "code2": "EE",
+    "name": "Estonia",
+    "fullName": "República de Estonia"
+  },
+  {
+    "code2": "SZ",
+    "name": "Esuatini",
+    "fullName": "Reino de Esuatini"
+  },
+  {
+    "code2": "ET",
+    "name": "Etiopía",
+    "fullName": "República Federal Democrática de Etiopía"
+  },
+  {
+    "code2": "FJ",
+    "name": "Fiji",
+    "fullName": "República de Fiyi"
+  },
+  {
+    "code2": "FI",
+    "name": "Finlandia",
+    "fullName": "República de Finlandia"
+  },
+  {
+    "code2": "FR",
+    "name": "Francia",
+    "fullName": "República Francesa"
+  },
+  {
+    "code2": "GA",
+    "name": "Gabón",
+    "fullName": "República Gabonesa"
+  },
+  {
+    "code2": "GM",
+    "name": "Gambia",
+    "fullName": "República de Gambia"
+  },
+  {
+    "code2": "GE",
+    "name": "Georgia",
+    "fullName": "Georgia"
+  },
+  {
+    "code2": "DE",
+    "name": "Alemania",
+    "fullName": "República Federal de Alemania"
+  },
+  {
+    "code2": "GH",
+    "name": "Ghana",
+    "fullName": "República de Ghana"
+  },
+  {
+    "code2": "GR",
+    "name": "Grecia",
+    "fullName": "República Helénica"
+  },
+  {
+    "code2": "GD",
+    "name": "Granada",
+    "fullName": "Granada"
+  },
+  {
+    "code2": "GT",
+    "name": "Guatemala",
+    "fullName": "República de Guatemala"
+  },
+  {
+    "code2": "GN",
+    "name": "Guinea",
+    "fullName": "República de Guinea"
+  },
+  {
+    "code2": "GW",
+    "name": "Guinea Bissau",
+    "fullName": "República de Guinea-Bissau"
+  },
+  {
+    "code2": "GY",
+    "name": "Guyana",
+    "fullName": "República de Guyana"
+  },
+  {
+    "code2": "HT",
+    "name": "Haití",
+    "fullName": "República de Haití"
+  },
+  {
+    "code2": "HN",
+    "name": "Honduras",
+    "fullName": "República de Honduras"
+  },
+  {
+    "code2": "HU",
+    "name": "Hungría",
+    "fullName": "Hungría"
+  },
+  {
+    "code2": "IS",
+    "name": "Islandia",
+    "fullName": "Islandia"
+  },
+  {
+    "code2": "IN",
+    "name": "India",
+    "fullName": "República de la India"
+  },
+  {
+    "code2": "ID",
+    "name": "Indonesia",
+    "fullName": "República de Indonesia"
+  },
+  {
+    "code2": "IR",
+    "name": "República Islámica de Irán",
+    "fullName": "República Islámica de Irán"
+  },
+  {
+    "code2": "IQ",
+    "name": "Iraq",
+    "fullName": "República de Irak"
+  },
+  {
+    "code2": "IE",
+    "name": "Irlanda",
+    "fullName": "Irlanda"
+  },
+  {
+    "code2": "IL",
+    "name": "Israel",
+    "fullName": "Estado de Israel"
+  },
+  {
+    "code2": "IT",
+    "name": "Italia",
+    "fullName": "República Italiana"
+  },
+  {
+    "code2": "JM",
+    "name": "Jamaica",
+    "fullName": "Jamaica"
+  },
+  {
+    "code2": "JP",
+    "name": "Japón",
+    "fullName": "Japón"
+  },
+  {
+    "code2": "JO",
+    "name": "Jordania",
+    "fullName": "Reino Hachemí de Jordania"
+  },
+  {
+    "code2": "KZ",
+    "name": "Kazajistán",
+    "fullName": "República de Kazajistán"
+  },
+  {
+    "code2": "KE",
+    "name": "Kenia",
+    "fullName": "República de Kenia"
+  },
+  {
+    "code2": "KI",
+    "name": "Kiribati",
+    "fullName": "República de Kiribati"
+  },
+  {
+    "code2": "KP",
+    "name": "República Popular Democrática de Corea",
+    "fullName": "República Popular Democrática de Corea"
+  },
+  {
+    "code2": "KR",
+    "name": "República de Corea",
+    "fullName": "Corea, República de"
+  },
+  {
+    "code2": "KW",
+    "name": "Kuwait",
+    "fullName": "Estado de Kuwait"
+  },
+  {
+    "code2": "KG",
+    "name": "Kirguistán",
+    "fullName": "República Kirguiza"
+  },
+  {
+    "code2": "LA",
+    "name": "República Democrática Popular de Lao",
+    "fullName": "República Democrática Popular de Lao"
+  },
+  {
+    "code2": "LV",
+    "name": "Letonia",
+    "fullName": "República de Letonia"
+  },
+  {
+    "code2": "LB",
+    "name": "Líbano",
+    "fullName": "República Libanesa"
+  },
+  {
+    "code2": "LS",
+    "name": "Lesoto",
+    "fullName": "Reino de Lesoto"
+  },
+  {
+    "code2": "LR",
+    "name": "Liberia",
+    "fullName": "República de Liberia"
+  },
+  {
+    "code2": "LY",
+    "name": "Libia",
+    "fullName": "Libia"
+  },
+  {
+    "code2": "LI",
+    "name": "Liechtenstein",
+    "fullName": "Principado de Liechtenstein"
+  },
+  {
+    "code2": "LT",
+    "name": "Lituania",
+    "fullName": "República de Lituania"
+  },
+  {
+    "code2": "LU",
+    "name": "Luxemburgo",
+    "fullName": "Gran Ducado de Luxemburgo"
+  },
+  {
+    "code2": "MG",
+    "name": "Madagascar",
+    "fullName": "República de Madagascar"
+  },
+  {
+    "code2": "MW",
+    "name": "Malaui",
+    "fullName": "República de Malawi"
+  },
+  {
+    "code2": "MY",
+    "name": "Malasia",
+    "fullName": "Malasia"
+  },
+  {
+    "code2": "MV",
+    "name": "Maldivas",
+    "fullName": "República de Maldivas"
+  },
+  {
+    "code2": "ML",
+    "name": "Malí",
+    "fullName": "República de Mali"
+  },
+  {
+    "code2": "MT",
+    "name": "Malta",
+    "fullName": "República de Malta"
+  },
+  {
+    "code2": "MH",
+    "name": "Islas Marshall",
+    "fullName": "República de las Islas Marshall"
+  },
+  {
+    "code2": "MR",
+    "name": "Mauritania",
+    "fullName": "República Islámica de Mauritania"
+  },
+  {
+    "code2": "MU",
+    "name": "Mauricio",
+    "fullName": "República de Mauricio"
+  },
+  {
+    "code2": "MX",
+    "name": "México",
+    "fullName": "Estados Unidos Mexicanos"
+  },
+  {
+    "code2": "FM",
+    "name": "Micronesia",
+    "fullName": "Estados Federados de Micronesia"
+  },
+  {
+    "code2": "MD",
+    "name": "Moldavia",
+    "fullName": "República de Moldavia"
+  },
+  {
+    "code2": "MC",
+    "name": "Mónaco",
+    "fullName": "Principado de Mónaco"
+  },
+  {
+    "code2": "MN",
+    "name": "Mongolia",
+    "fullName": "Mongolia"
+  },
+  {
+    "code2": "ME",
+    "name": "Montenegro",
+    "fullName": "Montenegro"
+  },
+  {
+    "code2": "MA",
+    "name": "Marruecos",
+    "fullName": "Reino de Marruecos"
+  },
+  {
+    "code2": "MZ",
+    "name": "Mozambique",
+    "fullName": "República de Mozambique"
+  },
+  {
+    "code2": "MM",
+    "name": "Myanmar",
+    "fullName": "República de la Unión de Myanmar"
+  },
+  {
+    "code2": "NA",
+    "name": "Namibia",
+    "fullName": "República de Namibia"
+  },
+  {
+    "code2": "NR",
+    "name": "Nauru",
+    "fullName": "República de Nauru"
+  },
+  {
+    "code2": "NP",
+    "name": "Nepal",
+    "fullName": "República Federal Democrática de Nepal"
+  },
+  {
+    "code2": "NL",
+    "name": "Países Bajos",
+    "fullName": "Reino de los Países Bajos"
+  },
+  {
+    "code2": "NZ",
+    "name": "Nueva Zelanda",
+    "fullName": "Nueva Zelanda"
+  },
+  {
+    "code2": "NI",
+    "name": "Nicaragua",
+    "fullName": "República de Nicaragua"
+  },
+  {
+    "code2": "NE",
+    "name": "Níger",
+    "fullName": "República del Níger"
+  },
+  {
+    "code2": "NG",
+    "name": "Nigeria",
+    "fullName": "República Federal de Nigeria"
+  },
+  {
+    "code2": "MK",
+    "name": "Macedonia del Norte",
+    "fullName": "República de Macedonia del Norte"
+  },
+  {
+    "code2": "NO",
+    "name": "Noruega",
+    "fullName": "Reino de Noruega"
+  },
+  {
+    "code2": "OM",
+    "name": "Omán",
+    "fullName": "Sultanato de Omán"
+  },
+  {
+    "code2": "PK",
+    "name": "Pakistán",
+    "fullName": "República Islámica de Pakistán"
+  },
+  {
+    "code2": "PW",
+    "name": "Palau",
+    "fullName": "República de Palau"
+  },
+  {
+    "code2": "PA",
+    "name": "Panamá",
+    "fullName": "República de Panamá"
+  },
+  {
+    "code2": "PG",
+    "name": "Papua Nueva Guinea",
+    "fullName": "Estado Independiente de Papúa Nueva Guinea"
+  },
+  {
+    "code2": "PY",
+    "name": "Paraguay",
+    "fullName": "República del Paraguay"
+  },
+  {
+    "code2": "PE",
+    "name": "Perú",
+    "fullName": "República del Perú"
+  },
+  {
+    "code2": "PH",
+    "name": "Filipinas",
+    "fullName": "República de Filipinas"
+  },
+  {
+    "code2": "PL",
+    "name": "Polonia",
+    "fullName": "República de Polonia"
+  },
+  {
+    "code2": "PT",
+    "name": "Portugal",
+    "fullName": "República Portuguesa"
+  },
+  {
+    "code2": "QA",
+    "name": "Catar",
+    "fullName": "Estado de Qatar"
+  },
+  {
+    "code2": "RO",
+    "name": "Rumanía",
+    "fullName": "Rumanía"
+  },
+  {
+    "code2": "RU",
+    "name": "Rusia",
+    "fullName": "Federación Rusa"
+  },
+  {
+    "code2": "RW",
+    "name": "Ruanda",
+    "fullName": "República de Ruanda"
+  },
+  {
+    "code2": "KN",
+    "name": "Saint Kitts y Nevis",
+    "fullName": "San Cristóbal y Nieves"
+  },
+  {
+    "code2": "LC",
+    "name": "Santa Lucía",
+    "fullName": "Santa Lucía"
+  },
+  {
+    "code2": "VC",
+    "name": "San Vicente y las Granadinas",
+    "fullName": "San Vicente y las Granadinas"
+  },
+  {
+    "code2": "WS",
+    "name": "Samoa",
+    "fullName": "Estado Independiente de Samoa"
+  },
+  {
+    "code2": "SM",
+    "name": "San Marino",
+    "fullName": "República de San Marino"
+  },
+  {
+    "code2": "ST",
+    "name": "Santo Tomé y Príncipe",
+    "fullName": "República Democrática de Santo Tomé y Príncipe"
+  },
+  {
+    "code2": "SA",
+    "name": "Arabia Saudita",
+    "fullName": "Reino de Arabia Saudí"
+  },
+  {
+    "code2": "SN",
+    "name": "Senegal",
+    "fullName": "República del Senegal"
+  },
+  {
+    "code2": "RS",
+    "name": "Serbia",
+    "fullName": "República de Serbia"
+  },
+  {
+    "code2": "SC",
+    "name": "Seychelles",
+    "fullName": "República de las Seychelles"
+  },
+  {
+    "code2": "SL",
+    "name": "Sierra Leona",
+    "fullName": "República de Sierra Leona"
+  },
+  {
+    "code2": "SG",
+    "name": "Singapur",
+    "fullName": "República de Singapur"
+  },
+  {
+    "code2": "SK",
+    "name": "Eslovaquia",
+    "fullName": "República Eslovaca"
+  },
+  {
+    "code2": "SI",
+    "name": "Eslovenia",
+    "fullName": "República de Eslovenia"
+  },
+  {
+    "code2": "SB",
+    "name": "Islas Salomón",
+    "fullName": "Islas Salomón"
+  },
+  {
+    "code2": "SO",
+    "name": "Somalia",
+    "fullName": "República Federal de Somalia"
+  },
+  {
+    "code2": "ZA",
+    "name": "Sudáfrica",
+    "fullName": "República de Sudáfrica"
+  },
+  {
+    "code2": "SS",
+    "name": "Sudán del Sur",
+    "fullName": "República de Sudán del Sur"
+  },
+  {
+    "code2": "ES",
+    "name": "España",
+    "fullName": "Reino de España"
+  },
+  {
+    "code2": "LK",
+    "name": "Sri Lanka",
+    "fullName": "República Socialista Democrática de Sri Lanka"
+  },
+  {
+    "code2": "SD",
+    "name": "Sudán",
+    "fullName": "República de Sudán"
+  },
+  {
+    "code2": "SR",
+    "name": "Suriname",
+    "fullName": "República de Surinam"
+  },
+  {
+    "code2": "SE",
+    "name": "Suecia",
+    "fullName": "Reino de Suecia"
+  },
+  {
+    "code2": "CH",
+    "name": "Suiza",
+    "fullName": "Confederación Suiza"
+  },
+  {
+    "code2": "SY",
+    "name": "República Árabe Siria",
+    "fullName": "República árabe de Siria"
+  },
+  {
+    "code2": "TJ",
+    "name": "Tayikistán",
+    "fullName": "República de Tayikistán"
+  },
+  {
+    "code2": "TZ",
+    "name": "Tanzania",
+    "fullName": "República Unida de Tanzania"
+  },
+  {
+    "code2": "TH",
+    "name": "Tailandia",
+    "fullName": "Reino de Tailandia"
+  },
+  {
+    "code2": "TL",
+    "name": "Timor-Leste",
+    "fullName": "República Democrática de Timor Oriental"
+  },
+  {
+    "code2": "TG",
+    "name": "Togo",
+    "fullName": "República Togolesa"
+  },
+  {
+    "code2": "TO",
+    "name": "Tonga",
+    "fullName": "Reino de Tonga"
+  },
+  {
+    "code2": "TT",
+    "name": "Trinidad y Tobago",
+    "fullName": "República de Trinidad y Tobago"
+  },
+  {
+    "code2": "TN",
+    "name": "Túnez",
+    "fullName": "República de Túnez"
+  },
+  {
+    "code2": "TR",
+    "name": "Turquía",
+    "fullName": "República de Turquía"
+  },
+  {
+    "code2": "TM",
+    "name": "Turkmenistán",
+    "fullName": "Turkmenistán"
+  },
+  {
+    "code2": "TV",
+    "name": "Tuvalu",
+    "fullName": "Tuvalu"
+  },
+  {
+    "code2": "UG",
+    "name": "Uganda",
+    "fullName": "República de Uganda"
+  },
+  {
+    "code2": "UA",
+    "name": "Ucrania",
+    "fullName": "Ucrania"
+  },
+  {
+    "code2": "AE",
+    "name": "Emiratos Árabes Unidos",
+    "fullName": "Emiratos Árabes Unidos"
+  },
+  {
+    "code2": "GB",
+    "name": "Reino Unido",
+    "fullName": "Reino Unido de Gran Bretaña e Irlanda del Norte"
+  },
+  {
+    "code2": "US",
+    "name": "Estados Unidos",
+    "fullName": "Estados Unidos de América"
+  },
+  {
+    "code2": "UY",
+    "name": "Uruguay",
+    "fullName": "República Oriental del Uruguay"
+  },
+  {
+    "code2": "UZ",
+    "name": "Uzbekistán",
+    "fullName": "República de Uzbekistán"
+  },
+  {
+    "code2": "VU",
+    "name": "Vanuatu",
+    "fullName": "República de Vanuatu"
+  },
+  {
+    "code2": "VE",
+    "name": "Venezuela",
+    "fullName": "República Bolivariana de Venezuela"
+  },
+  {
+    "code2": "VN",
+    "name": "Vietnam",
+    "fullName": "República Socialista de Vietnam"
+  },
+  {
+    "code2": "YE",
+    "name": "Yemen",
+    "fullName": "República del Yemen"
+  },
+  {
+    "code2": "ZM",
+    "name": "Zambia",
+    "fullName": "República de Zambia"
+  },
+  {
+    "code2": "ZW",
+    "name": "Zimbabue",
+    "fullName": "República de Zimbabue"
+  },
+  {
+    "code2": "HK",
+    "name": "Hong Kong",
+    "fullName": "Región Administrativa Especial China de Hong Kong"
+  },
+  {
+    "code2": "MO",
+    "name": "Macao",
+    "fullName": "Región Administrativa Especial China de Macao"
+  },
+  {
+    "code2": "TW",
+    "name": "Taiwán",
+    "fullName": "Taiwán, Provincia de China"
+  },
+  {
+    "code2": "PS",
+    "name": "Palestina",
+    "fullName": "Estado de Palestina"
+  },
+  {
+    "code2": "XK",
+    "name": "Kosovo",
+    "fullName": "República de Kosovo"
+  },
+  {
+    "code2": "VA",
+    "name": "Santa Sede",
+    "fullName": "Santa Sede (Ciudad Estado del Vaticano)"
+  },
+  {
+    "code2": "PR",
+    "name": "Puerto Rico",
+    "fullName": "Puerto Rico"
+  },
+  {
+    "code2": "GU",
+    "name": "Guam",
+    "fullName": "Guam"
+  },
+  {
+    "code2": "GL",
+    "name": "Groenlandia",
+    "fullName": "Groenlandia"
+  },
+  {
+    "code2": "FO",
+    "name": "Islas Feroe",
+    "fullName": "Islas Feroe"
+  },
+  {
+    "code2": "NC",
+    "name": "Nueva Caledonia",
+    "fullName": "Nueva Caledonia"
+  },
+  {
+    "code2": "PF",
+    "name": "Polinesia Francesa",
+    "fullName": "Polinesia Francesa"
+  },
+  {
+    "code2": "BM",
+    "name": "Bermudas",
+    "fullName": "Islas Bermudas"
+  },
+  {
+    "code2": "KY",
+    "name": "Islas Caimán",
+    "fullName": "Islas Caimán"
+  },
+  {
+    "code2": "VI",
+    "name": "Islas Vírgenes de los Estados Unidos",
+    "fullName": "Islas Vírgenes de los Estados Unidos"
+  },
+  {
+    "code2": "CW",
+    "name": "Curaçao",
+    "fullName": "Curazao"
+  },
+  {
+    "code2": "AW",
+    "name": "Aruba",
+    "fullName": "Aruba"
+  },
+  {
+    "code2": "GI",
+    "name": "Gibraltar",
+    "fullName": "Gibraltar"
+  },
+  {
+    "code2": "JE",
+    "name": "Jersey",
+    "fullName": "Jersey"
+  },
+  {
+    "code2": "GG",
+    "name": "Guernsey",
+    "fullName": "Guernsey"
+  },
+  {
+    "code2": "IM",
+    "name": "Isla de Man",
+    "fullName": "Isla de Man"
+  },
+  {
+    "code2": "TC",
+    "name": "Islas Turcas y Caicos",
+    "fullName": "Islas Turcas y Caicos"
+  },
+  {
+    "code2": "VG",
+    "name": "Islas Vírgenes británicas",
+    "fullName": "Islas Vírgenes Británicas"
+  },
+  {
+    "code2": "AI",
+    "name": "Anguila",
+    "fullName": "Anguila"
+  },
+  {
+    "code2": "MS",
+    "name": "Montserrat",
+    "fullName": "Montserrat"
+  },
+  {
+    "code2": "SH",
+    "name": "Santa Helena, Ascensión y Tristán de Acuña",
+    "fullName": "Santa Elena, Ascensión y Tristán de Acuña"
+  },
+  {
+    "code2": "FK",
+    "name": "Islas Malvinas",
+    "fullName": "Islas Falkland (Malvinas)"
+  },
+  {
+    "code2": "GF",
+    "name": "Guayana Francesa",
+    "fullName": "Guayana Francesa"
+  },
+  {
+    "code2": "GP",
+    "name": "Guadalupe",
+    "fullName": "Guadalupe"
+  },
+  {
+    "code2": "MQ",
+    "name": "Martinica",
+    "fullName": "Martinica"
+  },
+  {
+    "code2": "RE",
+    "name": "Reunión",
+    "fullName": "Reunión"
+  },
+  {
+    "code2": "MF",
+    "name": "Saint Martin (francesa)",
+    "fullName": "San Martín (zona francesa)"
+  },
+  {
+    "code2": "PM",
+    "name": "San Pedro y Miquelón",
+    "fullName": "San Pedro y Miquelon"
+  },
+  {
+    "code2": "WF",
+    "name": "Wallis y Futuna",
+    "fullName": "Wallis y Futuna"
+  },
+  {
+    "code2": "YT",
+    "name": "Mayotte",
+    "fullName": "Mayotte"
+  },
+  {
+    "code2": "AS",
+    "name": "Samoa Americana",
+    "fullName": "Samoa Estadounidense"
+  },
+  {
+    "code2": "MP",
+    "name": "Islas Marianas del Norte",
+    "fullName": "Commonwealth de las Islas Marianas del Norte"
+  },
+  {
+    "code2": "CX",
+    "name": "Isla de Navidad",
+    "fullName": "Isla de Navidad"
+  },
+  {
+    "code2": "CC",
+    "name": "Islas Cocos (Keeling)",
+    "fullName": "Islas Cocos (Keeling)"
+  },
+  {
+    "code2": "NF",
+    "name": "Isla Norfolk",
+    "fullName": "Isla Norfolk"
+  },
+  {
+    "code2": "PN",
+    "name": "Pitcairn",
+    "fullName": "Pitcairn"
+  },
+  {
+    "code2": "TK",
+    "name": "Tokelau",
+    "fullName": "Tokelau"
+  },
+  {
+    "code2": "NU",
+    "name": "Niue",
+    "fullName": "Niue"
+  },
+  {
+    "code2": "CK",
+    "name": "Islas Cook",
+    "fullName": "Islas Cook"
+  },
+  {
+    "code2": "EH",
+    "name": "Sahara Occidental",
+    "fullName": "Sahara Occidental"
+  },
+  {
+    "code2": "AX",
+    "name": "Islas Åland",
+    "fullName": "Islas Äland"
+  },
+  {
+    "code2": "BL",
+    "name": "Saint Barthélemy",
+    "fullName": "San Bartolomé"
+  },
+  {
+    "code2": "IO",
+    "name": "Territorio Británico del Océano Índico",
+    "fullName": "Territorio Británico del Océano Índico"
+  },
+  {
+    "code2": "SX",
+    "name": "Sint Maarten (neerlandesa)",
+    "fullName": "Isla de San Martín (zona holandesa)"
+  },
+  {
+    "code2": "BQ",
+    "name": "Bonaire, San Eustaquio y Saba",
+    "fullName": "Islas BES (Caribe Neerlandés)"
+  },
+  {
+    "code2": "TF",
+    "name": "Tierras Australes Francesas",
+    "fullName": "Territorios Franceses del Sur"
+  },
+  {
+    "code2": "GS",
+    "name": "Georgia del Sur y las Islas Sandwich del Sur",
+    "fullName": "Islas Georgias del Sur y Sándwich del Sur"
+  },
+  {
+    "code2": "HM",
+    "name": "Heard e Islas McDonald",
+    "fullName": "Isla Heard e Islas McDonald"
+  },
+  {
+    "code2": "AQ",
+    "name": "Antártida",
+    "fullName": "Antártida"
+  }
+]

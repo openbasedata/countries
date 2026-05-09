@@ -1,0 +1,1237 @@
+[
+  {
+    "code2": "AF",
+    "name": "افغانستان",
+    "fullName": "افغانستان"
+  },
+  {
+    "code2": "AL",
+    "name": "آلبانی",
+    "fullName": "آلبانی"
+  },
+  {
+    "code2": "DZ",
+    "name": "الجزایر",
+    "fullName": "الجزایر"
+  },
+  {
+    "code2": "AD",
+    "name": "آندورا",
+    "fullName": "آندورا"
+  },
+  {
+    "code2": "AO",
+    "name": "آنگولا",
+    "fullName": "آنگولا"
+  },
+  {
+    "code2": "AG",
+    "name": "آنتیگوا و باربودا",
+    "fullName": "آنتیگوا و باربودا"
+  },
+  {
+    "code2": "AR",
+    "name": "آرژانتین",
+    "fullName": "آرژانتین"
+  },
+  {
+    "code2": "AM",
+    "name": "ارمنستان",
+    "fullName": "ارمنستان"
+  },
+  {
+    "code2": "AU",
+    "name": "استرالیا",
+    "fullName": "استرالیا"
+  },
+  {
+    "code2": "AT",
+    "name": "اتریش",
+    "fullName": "اتریش"
+  },
+  {
+    "code2": "AZ",
+    "name": "جمهوری آذربایجان",
+    "fullName": "جمهوری آذربایجان"
+  },
+  {
+    "code2": "BS",
+    "name": "باهاما",
+    "fullName": "باهاما"
+  },
+  {
+    "code2": "BH",
+    "name": "بحرین",
+    "fullName": "بحرین"
+  },
+  {
+    "code2": "BD",
+    "name": "بنگلادش",
+    "fullName": "بنگلادش"
+  },
+  {
+    "code2": "BB",
+    "name": "باربادوس",
+    "fullName": "باربادوس"
+  },
+  {
+    "code2": "BY",
+    "name": "بلاروس",
+    "fullName": "بلاروس"
+  },
+  {
+    "code2": "BE",
+    "name": "بلژیک",
+    "fullName": "بلژیک"
+  },
+  {
+    "code2": "BZ",
+    "name": "بلیز",
+    "fullName": "بلیز"
+  },
+  {
+    "code2": "BJ",
+    "name": "بنین",
+    "fullName": "بنین"
+  },
+  {
+    "code2": "BT",
+    "name": "بوتان",
+    "fullName": "بوتان"
+  },
+  {
+    "code2": "BO",
+    "name": "بولیوی",
+    "fullName": "بولیوی"
+  },
+  {
+    "code2": "BA",
+    "name": "بوسنی و هرزگوین",
+    "fullName": "بوسنی و هرزگوین"
+  },
+  {
+    "code2": "BW",
+    "name": "بوتسوانا",
+    "fullName": "بوتسوانا"
+  },
+  {
+    "code2": "BR",
+    "name": "برزیل",
+    "fullName": "برزیل"
+  },
+  {
+    "code2": "BN",
+    "name": "برونئی",
+    "fullName": "برونئی"
+  },
+  {
+    "code2": "BG",
+    "name": "بلغارستان",
+    "fullName": "بلغارستان"
+  },
+  {
+    "code2": "BF",
+    "name": "بورکینافاسو",
+    "fullName": "بورکینافاسو"
+  },
+  {
+    "code2": "BI",
+    "name": "بوروندی",
+    "fullName": "بوروندی"
+  },
+  {
+    "code2": "CV",
+    "name": "کیپ‌ورد",
+    "fullName": "کیپ‌ورد"
+  },
+  {
+    "code2": "KH",
+    "name": "کامبوج",
+    "fullName": "کامبوج"
+  },
+  {
+    "code2": "CM",
+    "name": "کامرون",
+    "fullName": "کامرون"
+  },
+  {
+    "code2": "CA",
+    "name": "کانادا",
+    "fullName": "کانادا"
+  },
+  {
+    "code2": "CF",
+    "name": "جمهوری افریقای مرکزی",
+    "fullName": "جمهوری افریقای مرکزی"
+  },
+  {
+    "code2": "TD",
+    "name": "چاد",
+    "fullName": "چاد"
+  },
+  {
+    "code2": "CL",
+    "name": "شیلی",
+    "fullName": "شیلی"
+  },
+  {
+    "code2": "CN",
+    "name": "چین",
+    "fullName": "چین"
+  },
+  {
+    "code2": "CO",
+    "name": "کلمبیا",
+    "fullName": "کلمبیا"
+  },
+  {
+    "code2": "KM",
+    "name": "کومورو",
+    "fullName": "کومورو"
+  },
+  {
+    "code2": "CG",
+    "name": "کنگو - برازویل",
+    "fullName": "کنگو - برازویل"
+  },
+  {
+    "code2": "CD",
+    "name": "کنگو - کینشاسا",
+    "fullName": "کنگو - کینشاسا"
+  },
+  {
+    "code2": "CR",
+    "name": "کاستاریکا",
+    "fullName": "کاستاریکا"
+  },
+  {
+    "code2": "CI",
+    "name": "ساحل عاج",
+    "fullName": "ساحل عاج"
+  },
+  {
+    "code2": "HR",
+    "name": "کرواسی",
+    "fullName": "کرواسی"
+  },
+  {
+    "code2": "CU",
+    "name": "کوبا",
+    "fullName": "کوبا"
+  },
+  {
+    "code2": "CY",
+    "name": "قبرس",
+    "fullName": "قبرس"
+  },
+  {
+    "code2": "CZ",
+    "name": "جمهوری چک",
+    "fullName": "جمهوری چک"
+  },
+  {
+    "code2": "DK",
+    "name": "دانمارک",
+    "fullName": "دانمارک"
+  },
+  {
+    "code2": "DJ",
+    "name": "جیبوتی",
+    "fullName": "جیبوتی"
+  },
+  {
+    "code2": "DM",
+    "name": "دومینیکا",
+    "fullName": "دومینیکا"
+  },
+  {
+    "code2": "DO",
+    "name": "جمهوری دومینیکن",
+    "fullName": "جمهوری دومینیکن"
+  },
+  {
+    "code2": "EC",
+    "name": "اکوادور",
+    "fullName": "اکوادور"
+  },
+  {
+    "code2": "EG",
+    "name": "مصر",
+    "fullName": "مصر"
+  },
+  {
+    "code2": "SV",
+    "name": "السالوادور",
+    "fullName": "السالوادور"
+  },
+  {
+    "code2": "GQ",
+    "name": "گینهٔ استوایی",
+    "fullName": "گینهٔ استوایی"
+  },
+  {
+    "code2": "ER",
+    "name": "اریتره",
+    "fullName": "اریتره"
+  },
+  {
+    "code2": "EE",
+    "name": "استونی",
+    "fullName": "استونی"
+  },
+  {
+    "code2": "SZ",
+    "name": "سوازیلند",
+    "fullName": "سوازیلند"
+  },
+  {
+    "code2": "ET",
+    "name": "اتیوپی",
+    "fullName": "اتیوپی"
+  },
+  {
+    "code2": "FJ",
+    "name": "فیجی",
+    "fullName": "فیجی"
+  },
+  {
+    "code2": "FI",
+    "name": "فنلاند",
+    "fullName": "فنلاند"
+  },
+  {
+    "code2": "FR",
+    "name": "فرانسه",
+    "fullName": "فرانسه"
+  },
+  {
+    "code2": "GA",
+    "name": "گابن",
+    "fullName": "گابن"
+  },
+  {
+    "code2": "GM",
+    "name": "گامبیا",
+    "fullName": "گامبیا"
+  },
+  {
+    "code2": "GE",
+    "name": "گرجستان",
+    "fullName": "گرجستان"
+  },
+  {
+    "code2": "DE",
+    "name": "آلمان",
+    "fullName": "آلمان"
+  },
+  {
+    "code2": "GH",
+    "name": "غنا",
+    "fullName": "غنا"
+  },
+  {
+    "code2": "GR",
+    "name": "یونان",
+    "fullName": "یونان"
+  },
+  {
+    "code2": "GD",
+    "name": "گرنادا",
+    "fullName": "گرنادا"
+  },
+  {
+    "code2": "GT",
+    "name": "گواتمالا",
+    "fullName": "گواتمالا"
+  },
+  {
+    "code2": "GN",
+    "name": "گینه",
+    "fullName": "گینه"
+  },
+  {
+    "code2": "GW",
+    "name": "گینهٔ بیسائو",
+    "fullName": "گینهٔ بیسائو"
+  },
+  {
+    "code2": "GY",
+    "name": "گویان",
+    "fullName": "گویان"
+  },
+  {
+    "code2": "HT",
+    "name": "هائیتی",
+    "fullName": "هائیتی"
+  },
+  {
+    "code2": "HN",
+    "name": "هندوراس",
+    "fullName": "هندوراس"
+  },
+  {
+    "code2": "HU",
+    "name": "مجارستان",
+    "fullName": "مجارستان"
+  },
+  {
+    "code2": "IS",
+    "name": "ایسلند",
+    "fullName": "ایسلند"
+  },
+  {
+    "code2": "IN",
+    "name": "هند",
+    "fullName": "هند"
+  },
+  {
+    "code2": "ID",
+    "name": "اندونزی",
+    "fullName": "اندونزی"
+  },
+  {
+    "code2": "IR",
+    "name": "ایران",
+    "fullName": "ایران"
+  },
+  {
+    "code2": "IQ",
+    "name": "عراق",
+    "fullName": "عراق"
+  },
+  {
+    "code2": "IE",
+    "name": "ایرلند",
+    "fullName": "ایرلند"
+  },
+  {
+    "code2": "IL",
+    "name": "اسرائیل",
+    "fullName": "اسرائیل"
+  },
+  {
+    "code2": "IT",
+    "name": "ایتالیا",
+    "fullName": "ایتالیا"
+  },
+  {
+    "code2": "JM",
+    "name": "جامائیکا",
+    "fullName": "جامائیکا"
+  },
+  {
+    "code2": "JP",
+    "name": "ژاپن",
+    "fullName": "ژاپن"
+  },
+  {
+    "code2": "JO",
+    "name": "اردن",
+    "fullName": "اردن"
+  },
+  {
+    "code2": "KZ",
+    "name": "قزاقستان",
+    "fullName": "قزاقستان"
+  },
+  {
+    "code2": "KE",
+    "name": "کنیا",
+    "fullName": "کنیا"
+  },
+  {
+    "code2": "KI",
+    "name": "کیریباتی",
+    "fullName": "کیریباتی"
+  },
+  {
+    "code2": "KP",
+    "name": "کرهٔ شمالی",
+    "fullName": "کرهٔ شمالی"
+  },
+  {
+    "code2": "KR",
+    "name": "کرهٔ جنوبی",
+    "fullName": "کرهٔ جنوبی"
+  },
+  {
+    "code2": "KW",
+    "name": "کویت",
+    "fullName": "کویت"
+  },
+  {
+    "code2": "KG",
+    "name": "قرقیزستان",
+    "fullName": "قرقیزستان"
+  },
+  {
+    "code2": "LA",
+    "name": "لائوس",
+    "fullName": "لائوس"
+  },
+  {
+    "code2": "LV",
+    "name": "لتونی",
+    "fullName": "لتونی"
+  },
+  {
+    "code2": "LB",
+    "name": "لبنان",
+    "fullName": "لبنان"
+  },
+  {
+    "code2": "LS",
+    "name": "لسوتو",
+    "fullName": "لسوتو"
+  },
+  {
+    "code2": "LR",
+    "name": "لیبریا",
+    "fullName": "لیبریا"
+  },
+  {
+    "code2": "LY",
+    "name": "لیبی",
+    "fullName": "لیبی"
+  },
+  {
+    "code2": "LI",
+    "name": "لیختن‌اشتاین",
+    "fullName": "لیختن‌اشتاین"
+  },
+  {
+    "code2": "LT",
+    "name": "لیتوانی",
+    "fullName": "لیتوانی"
+  },
+  {
+    "code2": "LU",
+    "name": "لوکزامبورگ",
+    "fullName": "لوکزامبورگ"
+  },
+  {
+    "code2": "MG",
+    "name": "ماداگاسکار",
+    "fullName": "ماداگاسکار"
+  },
+  {
+    "code2": "MW",
+    "name": "مالاوی",
+    "fullName": "مالاوی"
+  },
+  {
+    "code2": "MY",
+    "name": "مالزی",
+    "fullName": "مالزی"
+  },
+  {
+    "code2": "MV",
+    "name": "مالدیو",
+    "fullName": "مالدیو"
+  },
+  {
+    "code2": "ML",
+    "name": "مالی",
+    "fullName": "مالی"
+  },
+  {
+    "code2": "MT",
+    "name": "مالت",
+    "fullName": "مالت"
+  },
+  {
+    "code2": "MH",
+    "name": "جزایر مارشال",
+    "fullName": "جزایر مارشال"
+  },
+  {
+    "code2": "MR",
+    "name": "موریتانی",
+    "fullName": "موریتانی"
+  },
+  {
+    "code2": "MU",
+    "name": "موریس",
+    "fullName": "موریس"
+  },
+  {
+    "code2": "MX",
+    "name": "مکزیک",
+    "fullName": "مکزیک"
+  },
+  {
+    "code2": "FM",
+    "name": "میکرونزی",
+    "fullName": "میکرونزی"
+  },
+  {
+    "code2": "MD",
+    "name": "مولداوی",
+    "fullName": "مولداوی"
+  },
+  {
+    "code2": "MC",
+    "name": "موناکو",
+    "fullName": "موناکو"
+  },
+  {
+    "code2": "MN",
+    "name": "مغولستان",
+    "fullName": "مغولستان"
+  },
+  {
+    "code2": "ME",
+    "name": "مونته‌نگرو",
+    "fullName": "مونته‌نگرو"
+  },
+  {
+    "code2": "MA",
+    "name": "مراکش",
+    "fullName": "مراکش"
+  },
+  {
+    "code2": "MZ",
+    "name": "موزامبیک",
+    "fullName": "موزامبیک"
+  },
+  {
+    "code2": "MM",
+    "name": "میانمار (برمه)",
+    "fullName": "میانمار (برمه)"
+  },
+  {
+    "code2": "NA",
+    "name": "نامیبیا",
+    "fullName": "نامیبیا"
+  },
+  {
+    "code2": "NR",
+    "name": "نائورو",
+    "fullName": "نائورو"
+  },
+  {
+    "code2": "NP",
+    "name": "نپال",
+    "fullName": "نپال"
+  },
+  {
+    "code2": "NL",
+    "name": "هلند",
+    "fullName": "هلند"
+  },
+  {
+    "code2": "NZ",
+    "name": "نیوزیلند",
+    "fullName": "نیوزیلند"
+  },
+  {
+    "code2": "NI",
+    "name": "نیکاراگوئه",
+    "fullName": "نیکاراگوئه"
+  },
+  {
+    "code2": "NE",
+    "name": "نیجر",
+    "fullName": "نیجر"
+  },
+  {
+    "code2": "NG",
+    "name": "نیجریه",
+    "fullName": "نیجریه"
+  },
+  {
+    "code2": "MK",
+    "name": "مقدونیه شمالی",
+    "fullName": "مقدونیه شمالی"
+  },
+  {
+    "code2": "NO",
+    "name": "نروژ",
+    "fullName": "نروژ"
+  },
+  {
+    "code2": "OM",
+    "name": "عمان",
+    "fullName": "عمان"
+  },
+  {
+    "code2": "PK",
+    "name": "پاکستان",
+    "fullName": "پاکستان"
+  },
+  {
+    "code2": "PW",
+    "name": "پالائو",
+    "fullName": "پالائو"
+  },
+  {
+    "code2": "PA",
+    "name": "پاناما",
+    "fullName": "پاناما"
+  },
+  {
+    "code2": "PG",
+    "name": "پاپوا گینهٔ نو",
+    "fullName": "پاپوا گینهٔ نو"
+  },
+  {
+    "code2": "PY",
+    "name": "پاراگوئه",
+    "fullName": "پاراگوئه"
+  },
+  {
+    "code2": "PE",
+    "name": "پرو",
+    "fullName": "پرو"
+  },
+  {
+    "code2": "PH",
+    "name": "فیلیپین",
+    "fullName": "فیلیپین"
+  },
+  {
+    "code2": "PL",
+    "name": "لهستان",
+    "fullName": "لهستان"
+  },
+  {
+    "code2": "PT",
+    "name": "پرتغال",
+    "fullName": "پرتغال"
+  },
+  {
+    "code2": "QA",
+    "name": "قطر",
+    "fullName": "قطر"
+  },
+  {
+    "code2": "RO",
+    "name": "رومانی",
+    "fullName": "رومانی"
+  },
+  {
+    "code2": "RU",
+    "name": "روسیه",
+    "fullName": "روسیه"
+  },
+  {
+    "code2": "RW",
+    "name": "رواندا",
+    "fullName": "رواندا"
+  },
+  {
+    "code2": "KN",
+    "name": "سنت کیتس و نویس",
+    "fullName": "سنت کیتس و نویس"
+  },
+  {
+    "code2": "LC",
+    "name": "سنت لوسیا",
+    "fullName": "سنت لوسیا"
+  },
+  {
+    "code2": "VC",
+    "name": "سنت وینسنت و گرنادین",
+    "fullName": "سنت وینسنت و گرنادین"
+  },
+  {
+    "code2": "WS",
+    "name": "ساموآ",
+    "fullName": "ساموآ"
+  },
+  {
+    "code2": "SM",
+    "name": "سان‌مارینو",
+    "fullName": "سان‌مارینو"
+  },
+  {
+    "code2": "ST",
+    "name": "سائوتومه و پرینسیپ",
+    "fullName": "سائوتومه و پرینسیپ"
+  },
+  {
+    "code2": "SA",
+    "name": "عربستان سعودی",
+    "fullName": "عربستان سعودی"
+  },
+  {
+    "code2": "SN",
+    "name": "سنگال",
+    "fullName": "سنگال"
+  },
+  {
+    "code2": "RS",
+    "name": "صربستان",
+    "fullName": "صربستان"
+  },
+  {
+    "code2": "SC",
+    "name": "سیشل",
+    "fullName": "سیشل"
+  },
+  {
+    "code2": "SL",
+    "name": "سیرالئون",
+    "fullName": "سیرالئون"
+  },
+  {
+    "code2": "SG",
+    "name": "سنگاپور",
+    "fullName": "سنگاپور"
+  },
+  {
+    "code2": "SK",
+    "name": "اسلواکی",
+    "fullName": "اسلواکی"
+  },
+  {
+    "code2": "SI",
+    "name": "اسلوونی",
+    "fullName": "اسلوونی"
+  },
+  {
+    "code2": "SB",
+    "name": "جزایر سلیمان",
+    "fullName": "جزایر سلیمان"
+  },
+  {
+    "code2": "SO",
+    "name": "سومالی",
+    "fullName": "سومالی"
+  },
+  {
+    "code2": "ZA",
+    "name": "افریقای جنوبی",
+    "fullName": "افریقای جنوبی"
+  },
+  {
+    "code2": "SS",
+    "name": "سودان جنوبی",
+    "fullName": "سودان جنوبی"
+  },
+  {
+    "code2": "ES",
+    "name": "اسپانیا",
+    "fullName": "اسپانیا"
+  },
+  {
+    "code2": "LK",
+    "name": "سری‌لانکا",
+    "fullName": "سری‌لانکا"
+  },
+  {
+    "code2": "SD",
+    "name": "سودان",
+    "fullName": "سودان"
+  },
+  {
+    "code2": "SR",
+    "name": "سورینام",
+    "fullName": "سورینام"
+  },
+  {
+    "code2": "SE",
+    "name": "سوئد",
+    "fullName": "سوئد"
+  },
+  {
+    "code2": "CH",
+    "name": "سوئیس",
+    "fullName": "سوئیس"
+  },
+  {
+    "code2": "SY",
+    "name": "سوریه",
+    "fullName": "سوریه"
+  },
+  {
+    "code2": "TJ",
+    "name": "تاجیکستان",
+    "fullName": "تاجیکستان"
+  },
+  {
+    "code2": "TZ",
+    "name": "تانزانیا",
+    "fullName": "تانزانیا"
+  },
+  {
+    "code2": "TH",
+    "name": "تایلند",
+    "fullName": "تایلند"
+  },
+  {
+    "code2": "TL",
+    "name": "تیمور-لسته",
+    "fullName": "تیمور-لسته"
+  },
+  {
+    "code2": "TG",
+    "name": "توگو",
+    "fullName": "توگو"
+  },
+  {
+    "code2": "TO",
+    "name": "تونگا",
+    "fullName": "تونگا"
+  },
+  {
+    "code2": "TT",
+    "name": "ترینیداد و توباگو",
+    "fullName": "ترینیداد و توباگو"
+  },
+  {
+    "code2": "TN",
+    "name": "تونس",
+    "fullName": "تونس"
+  },
+  {
+    "code2": "TR",
+    "name": "ترکیه",
+    "fullName": "ترکیه"
+  },
+  {
+    "code2": "TM",
+    "name": "ترکمنستان",
+    "fullName": "ترکمنستان"
+  },
+  {
+    "code2": "TV",
+    "name": "تووالو",
+    "fullName": "تووالو"
+  },
+  {
+    "code2": "UG",
+    "name": "اوگاندا",
+    "fullName": "اوگاندا"
+  },
+  {
+    "code2": "UA",
+    "name": "اوکراین",
+    "fullName": "اوکراین"
+  },
+  {
+    "code2": "AE",
+    "name": "امارات متحدهٔ عربی",
+    "fullName": "امارات متحدهٔ عربی"
+  },
+  {
+    "code2": "GB",
+    "name": "بریتانیا",
+    "fullName": "بریتانیا"
+  },
+  {
+    "code2": "US",
+    "name": "ایالات متحده",
+    "fullName": "ایالات متحده"
+  },
+  {
+    "code2": "UY",
+    "name": "اروگوئه",
+    "fullName": "اروگوئه"
+  },
+  {
+    "code2": "UZ",
+    "name": "ازبکستان",
+    "fullName": "ازبکستان"
+  },
+  {
+    "code2": "VU",
+    "name": "وانواتو",
+    "fullName": "وانواتو"
+  },
+  {
+    "code2": "VE",
+    "name": "ونزوئلا",
+    "fullName": "ونزوئلا"
+  },
+  {
+    "code2": "VN",
+    "name": "ویتنام",
+    "fullName": "ویتنام"
+  },
+  {
+    "code2": "YE",
+    "name": "یمن",
+    "fullName": "یمن"
+  },
+  {
+    "code2": "ZM",
+    "name": "زامبیا",
+    "fullName": "زامبیا"
+  },
+  {
+    "code2": "ZW",
+    "name": "زیمبابوه",
+    "fullName": "زیمبابوه"
+  },
+  {
+    "code2": "HK",
+    "name": "هنگ‌کنگ",
+    "fullName": "هنگ‌کنگ"
+  },
+  {
+    "code2": "MO",
+    "name": "ماکائو",
+    "fullName": "ماکائو"
+  },
+  {
+    "code2": "TW",
+    "name": "تایوان",
+    "fullName": "تایوان"
+  },
+  {
+    "code2": "PS",
+    "name": "سرزمین‌های فلسطینی",
+    "fullName": "سرزمین‌های فلسطینی"
+  },
+  {
+    "code2": "XK",
+    "name": "کوزوو",
+    "fullName": "کوزوو"
+  },
+  {
+    "code2": "VA",
+    "name": "واتیکان",
+    "fullName": "واتیکان"
+  },
+  {
+    "code2": "PR",
+    "name": "پورتوریکو",
+    "fullName": "پورتوریکو"
+  },
+  {
+    "code2": "GU",
+    "name": "گوام",
+    "fullName": "گوام"
+  },
+  {
+    "code2": "GL",
+    "name": "گرینلند",
+    "fullName": "گرینلند"
+  },
+  {
+    "code2": "FO",
+    "name": "جزایر فارو",
+    "fullName": "جزایر فارو"
+  },
+  {
+    "code2": "NC",
+    "name": "کالدونیای جدید",
+    "fullName": "کالدونیای جدید"
+  },
+  {
+    "code2": "PF",
+    "name": "پلی‌نزی فرانسه",
+    "fullName": "پلی‌نزی فرانسه"
+  },
+  {
+    "code2": "BM",
+    "name": "برمودا",
+    "fullName": "برمودا"
+  },
+  {
+    "code2": "KY",
+    "name": "جزایر کِیمن",
+    "fullName": "جزایر کِیمن"
+  },
+  {
+    "code2": "VI",
+    "name": "جزایر ویرجین ایالات متحده",
+    "fullName": "جزایر ویرجین ایالات متحده"
+  },
+  {
+    "code2": "CW",
+    "name": "کوراسائو",
+    "fullName": "کوراسائو"
+  },
+  {
+    "code2": "AW",
+    "name": "آروبا",
+    "fullName": "آروبا"
+  },
+  {
+    "code2": "GI",
+    "name": "جبل‌الطارق",
+    "fullName": "جبل‌الطارق"
+  },
+  {
+    "code2": "JE",
+    "name": "جرزی",
+    "fullName": "جرزی"
+  },
+  {
+    "code2": "GG",
+    "name": "گرنزی",
+    "fullName": "گرنزی"
+  },
+  {
+    "code2": "IM",
+    "name": "جزیرهٔ من",
+    "fullName": "جزیرهٔ من"
+  },
+  {
+    "code2": "TC",
+    "name": "جزایر تورکس و کایکوس",
+    "fullName": "جزایر تورکس و کایکوس"
+  },
+  {
+    "code2": "VG",
+    "name": "جزایر ویرجین بریتانیا",
+    "fullName": "جزایر ویرجین بریتانیا"
+  },
+  {
+    "code2": "AI",
+    "name": "آنگویلا",
+    "fullName": "آنگویلا"
+  },
+  {
+    "code2": "MS",
+    "name": "مونت‌سرات",
+    "fullName": "مونت‌سرات"
+  },
+  {
+    "code2": "SH",
+    "name": "سنت هلن",
+    "fullName": "سنت هلن"
+  },
+  {
+    "code2": "FK",
+    "name": "جزایر فالکلند",
+    "fullName": "جزایر فالکلند"
+  },
+  {
+    "code2": "GF",
+    "name": "گویان فرانسه",
+    "fullName": "گویان فرانسه"
+  },
+  {
+    "code2": "GP",
+    "name": "گوادلوپ",
+    "fullName": "گوادلوپ"
+  },
+  {
+    "code2": "MQ",
+    "name": "مارتینیک",
+    "fullName": "مارتینیک"
+  },
+  {
+    "code2": "RE",
+    "name": "رئونیون",
+    "fullName": "رئونیون"
+  },
+  {
+    "code2": "MF",
+    "name": "سنت مارتین",
+    "fullName": "سنت مارتین"
+  },
+  {
+    "code2": "PM",
+    "name": "سن پیر و میکلن",
+    "fullName": "سن پیر و میکلن"
+  },
+  {
+    "code2": "WF",
+    "name": "والیس و فوتونا",
+    "fullName": "والیس و فوتونا"
+  },
+  {
+    "code2": "YT",
+    "name": "مایوت",
+    "fullName": "مایوت"
+  },
+  {
+    "code2": "AS",
+    "name": "ساموآی امریکا",
+    "fullName": "ساموآی امریکا"
+  },
+  {
+    "code2": "MP",
+    "name": "جزایر ماریانای شمالی",
+    "fullName": "جزایر ماریانای شمالی"
+  },
+  {
+    "code2": "CX",
+    "name": "جزیرهٔ کریسمس",
+    "fullName": "جزیرهٔ کریسمس"
+  },
+  {
+    "code2": "CC",
+    "name": "جزایر کوکوس",
+    "fullName": "جزایر کوکوس"
+  },
+  {
+    "code2": "NF",
+    "name": "جزیرهٔ نورفولک",
+    "fullName": "جزیرهٔ نورفولک"
+  },
+  {
+    "code2": "PN",
+    "name": "جزایر پیت‌کرن",
+    "fullName": "جزایر پیت‌کرن"
+  },
+  {
+    "code2": "TK",
+    "name": "توکلائو",
+    "fullName": "توکلائو"
+  },
+  {
+    "code2": "NU",
+    "name": "نیوئه",
+    "fullName": "نیوئه"
+  },
+  {
+    "code2": "CK",
+    "name": "جزایر کوک",
+    "fullName": "جزایر کوک"
+  },
+  {
+    "code2": "EH",
+    "name": "صحرای غربی",
+    "fullName": "صحرای غربی"
+  },
+  {
+    "code2": "AX",
+    "name": "جزایر آلاند",
+    "fullName": "جزایر آلاند"
+  },
+  {
+    "code2": "BL",
+    "name": "سن بارتلمی",
+    "fullName": "سن بارتلمی"
+  },
+  {
+    "code2": "IO",
+    "name": "قلمرو بریتانیا در اقیانوس هند",
+    "fullName": "قلمرو بریتانیا در اقیانوس هند"
+  },
+  {
+    "code2": "SX",
+    "name": "سنت مارتن",
+    "fullName": "سنت مارتن"
+  },
+  {
+    "code2": "BQ",
+    "name": "جزایر کارائیب هلند",
+    "fullName": "جزایر کارائیب هلند"
+  },
+  {
+    "code2": "TF",
+    "name": "قلمروهای جنوبی فرانسه",
+    "fullName": "قلمروهای جنوبی فرانسه"
+  },
+  {
+    "code2": "GS",
+    "name": "جزایر جورجیای جنوبی و ساندویچ جنوبی",
+    "fullName": "جزایر جورجیای جنوبی و ساندویچ جنوبی"
+  },
+  {
+    "code2": "HM",
+    "name": "جزیرهٔ هرد و جزایر مک‌دونالد",
+    "fullName": "جزیرهٔ هرد و جزایر مک‌دونالد"
+  },
+  {
+    "code2": "AQ",
+    "name": "جنوبگان",
+    "fullName": "جنوبگان"
+  }
+]

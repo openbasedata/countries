@@ -1,0 +1,1243 @@
+[
+  {
+    "code2": "AF",
+    "name": "Afganistanas",
+    "fullName": "Afganistanas"
+  },
+  {
+    "code2": "AL",
+    "name": "Albanija",
+    "fullName": "Albanija"
+  },
+  {
+    "code2": "DZ",
+    "name": "Alžyras",
+    "fullName": "Alžyras"
+  },
+  {
+    "code2": "AD",
+    "name": "Andora",
+    "fullName": "Andora"
+  },
+  {
+    "code2": "AO",
+    "name": "Angola",
+    "fullName": "Angola"
+  },
+  {
+    "code2": "AG",
+    "name": "Antigva ir Barbuda",
+    "fullName": "Antigva ir Barbuda"
+  },
+  {
+    "code2": "AR",
+    "name": "Argentina",
+    "fullName": "Argentina"
+  },
+  {
+    "code2": "AM",
+    "name": "Armėnija",
+    "fullName": "Armėnija"
+  },
+  {
+    "code2": "AU",
+    "name": "Australija",
+    "fullName": "Australija"
+  },
+  {
+    "code2": "AT",
+    "name": "Austrija",
+    "fullName": "Austrija"
+  },
+  {
+    "code2": "AZ",
+    "name": "Azerbaidžanas",
+    "fullName": "Azerbaidžanas"
+  },
+  {
+    "code2": "BS",
+    "name": "Bahamos",
+    "fullName": "Bahamos"
+  },
+  {
+    "code2": "BH",
+    "name": "Bahreinas",
+    "fullName": "Bahreinas"
+  },
+  {
+    "code2": "BD",
+    "name": "Bangladešas",
+    "fullName": "Bangladešas"
+  },
+  {
+    "code2": "BB",
+    "name": "Barbadosas",
+    "fullName": "Barbadosas"
+  },
+  {
+    "code2": "BY",
+    "name": "Baltarusija",
+    "fullName": "Baltarusija"
+  },
+  {
+    "code2": "BE",
+    "name": "Belgija",
+    "fullName": "Belgija"
+  },
+  {
+    "code2": "BZ",
+    "name": "Belizas",
+    "fullName": "Belizas"
+  },
+  {
+    "code2": "BJ",
+    "name": "Beninas",
+    "fullName": "Beninas"
+  },
+  {
+    "code2": "BT",
+    "name": "Butanas",
+    "fullName": "Butanas"
+  },
+  {
+    "code2": "BO",
+    "name": "Bolivija",
+    "fullName": "Bolivija"
+  },
+  {
+    "code2": "BA",
+    "name": "Bosnija ir Hercegovina",
+    "fullName": "Bosnija ir Hercegovina"
+  },
+  {
+    "code2": "BW",
+    "name": "Botsvana",
+    "fullName": "Botsvana"
+  },
+  {
+    "code2": "BR",
+    "name": "Brazilija",
+    "fullName": "Brazilija"
+  },
+  {
+    "code2": "BN",
+    "name": "Brunėjus",
+    "fullName": "Brunėjus"
+  },
+  {
+    "code2": "BG",
+    "name": "Bulgarija",
+    "fullName": "Bulgarija"
+  },
+  {
+    "code2": "BF",
+    "name": "Burkina Fasas",
+    "fullName": "Burkina Fasas"
+  },
+  {
+    "code2": "BI",
+    "name": "Burundis",
+    "fullName": "Burundis"
+  },
+  {
+    "code2": "CV",
+    "name": "Žaliasis Kyšulys",
+    "fullName": "Žaliasis Kyšulys"
+  },
+  {
+    "code2": "KH",
+    "name": "Kambodža",
+    "fullName": "Kambodža"
+  },
+  {
+    "code2": "CM",
+    "name": "Kamerūnas",
+    "fullName": "Kamerūnas"
+  },
+  {
+    "code2": "CA",
+    "name": "Kanada",
+    "fullName": "Kanada"
+  },
+  {
+    "code2": "CF",
+    "name": "Centrinės Afrikos Respublika",
+    "fullName": "Centrinės Afrikos Respublika"
+  },
+  {
+    "code2": "TD",
+    "name": "Čadas",
+    "fullName": "Čadas"
+  },
+  {
+    "code2": "CL",
+    "name": "Čilė",
+    "fullName": "Čilė"
+  },
+  {
+    "code2": "CN",
+    "name": "Kinija",
+    "fullName": "Kinija"
+  },
+  {
+    "code2": "CO",
+    "name": "Kolumbija",
+    "fullName": "Kolumbija"
+  },
+  {
+    "code2": "KM",
+    "name": "Komorai",
+    "fullName": "Komorai"
+  },
+  {
+    "code2": "CG",
+    "name": "Kongas-Brazavilis",
+    "fullName": "Kongas-Brazavilis"
+  },
+  {
+    "code2": "CD",
+    "name": "Kongas-Kinšasa",
+    "fullName": "Kongas-Kinšasa"
+  },
+  {
+    "code2": "CR",
+    "name": "Kosta Rika",
+    "fullName": "Kosta Rika"
+  },
+  {
+    "code2": "CI",
+    "name": "Dramblio Kaulo Krantas",
+    "fullName": "Dramblio Kaulo Krantas"
+  },
+  {
+    "code2": "HR",
+    "name": "Kroatija",
+    "fullName": "Kroatija"
+  },
+  {
+    "code2": "CU",
+    "name": "Kuba",
+    "fullName": "Kuba"
+  },
+  {
+    "code2": "CY",
+    "name": "Kipras",
+    "fullName": "Kipras"
+  },
+  {
+    "code2": "CZ",
+    "name": "Čekija",
+    "fullName": "Čekija"
+  },
+  {
+    "code2": "DK",
+    "name": "Danija",
+    "fullName": "Danija"
+  },
+  {
+    "code2": "DJ",
+    "name": "Džibutis",
+    "fullName": "Džibutis"
+  },
+  {
+    "code2": "DM",
+    "name": "Dominika",
+    "fullName": "Dominika"
+  },
+  {
+    "code2": "DO",
+    "name": "Dominikos Respublika",
+    "fullName": "Dominikos Respublika"
+  },
+  {
+    "code2": "EC",
+    "name": "Ekvadoras",
+    "fullName": "Ekvadoras"
+  },
+  {
+    "code2": "EG",
+    "name": "Egiptas",
+    "fullName": "Egiptas"
+  },
+  {
+    "code2": "SV",
+    "name": "Salvadoras",
+    "fullName": "Salvadoras"
+  },
+  {
+    "code2": "GQ",
+    "name": "Pusiaujo Gvinėja",
+    "fullName": "Pusiaujo Gvinėja"
+  },
+  {
+    "code2": "ER",
+    "name": "Eritrėja",
+    "fullName": "Eritrėja"
+  },
+  {
+    "code2": "EE",
+    "name": "Estija",
+    "fullName": "Estija"
+  },
+  {
+    "code2": "SZ",
+    "name": "Svazilandas",
+    "fullName": "Svazilandas"
+  },
+  {
+    "code2": "ET",
+    "name": "Etiopija",
+    "fullName": "Etiopija"
+  },
+  {
+    "code2": "FJ",
+    "name": "Fidžis",
+    "fullName": "Fidžis"
+  },
+  {
+    "code2": "FI",
+    "name": "Suomija",
+    "fullName": "Suomija"
+  },
+  {
+    "code2": "FR",
+    "name": "Prancūzija",
+    "fullName": "Prancūzija"
+  },
+  {
+    "code2": "GA",
+    "name": "Gabonas",
+    "fullName": "Gabonas"
+  },
+  {
+    "code2": "GM",
+    "name": "Gambija",
+    "fullName": "Gambija"
+  },
+  {
+    "code2": "GE",
+    "name": [
+      "Sakartvelas",
+      "Gruzija"
+    ],
+    "fullName": [
+      "Sakartvelas",
+      "Gruzija"
+    ]
+  },
+  {
+    "code2": "DE",
+    "name": "Vokietija",
+    "fullName": "Vokietija"
+  },
+  {
+    "code2": "GH",
+    "name": "Gana",
+    "fullName": "Gana"
+  },
+  {
+    "code2": "GR",
+    "name": "Graikija",
+    "fullName": "Graikija"
+  },
+  {
+    "code2": "GD",
+    "name": "Grenada",
+    "fullName": "Grenada"
+  },
+  {
+    "code2": "GT",
+    "name": "Gvatemala",
+    "fullName": "Gvatemala"
+  },
+  {
+    "code2": "GN",
+    "name": "Gvinėja",
+    "fullName": "Gvinėja"
+  },
+  {
+    "code2": "GW",
+    "name": "Bisau Gvinėja",
+    "fullName": "Bisau Gvinėja"
+  },
+  {
+    "code2": "GY",
+    "name": "Gajana",
+    "fullName": "Gajana"
+  },
+  {
+    "code2": "HT",
+    "name": "Haitis",
+    "fullName": "Haitis"
+  },
+  {
+    "code2": "HN",
+    "name": "Hondūras",
+    "fullName": "Hondūras"
+  },
+  {
+    "code2": "HU",
+    "name": "Vengrija",
+    "fullName": "Vengrija"
+  },
+  {
+    "code2": "IS",
+    "name": "Islandija",
+    "fullName": "Islandija"
+  },
+  {
+    "code2": "IN",
+    "name": "Indija",
+    "fullName": "Indija"
+  },
+  {
+    "code2": "ID",
+    "name": "Indonezija",
+    "fullName": "Indonezija"
+  },
+  {
+    "code2": "IR",
+    "name": "Iranas",
+    "fullName": "Iranas"
+  },
+  {
+    "code2": "IQ",
+    "name": "Irakas",
+    "fullName": "Irakas"
+  },
+  {
+    "code2": "IE",
+    "name": "Airija",
+    "fullName": "Airija"
+  },
+  {
+    "code2": "IL",
+    "name": "Izraelis",
+    "fullName": "Izraelis"
+  },
+  {
+    "code2": "IT",
+    "name": "Italija",
+    "fullName": "Italija"
+  },
+  {
+    "code2": "JM",
+    "name": "Jamaika",
+    "fullName": "Jamaika"
+  },
+  {
+    "code2": "JP",
+    "name": "Japonija",
+    "fullName": "Japonija"
+  },
+  {
+    "code2": "JO",
+    "name": "Jordanija",
+    "fullName": "Jordanija"
+  },
+  {
+    "code2": "KZ",
+    "name": "Kazachstanas",
+    "fullName": "Kazachstanas"
+  },
+  {
+    "code2": "KE",
+    "name": "Kenija",
+    "fullName": "Kenija"
+  },
+  {
+    "code2": "KI",
+    "name": "Kiribatis",
+    "fullName": "Kiribatis"
+  },
+  {
+    "code2": "KP",
+    "name": "Šiaurės Korėja",
+    "fullName": "Šiaurės Korėja"
+  },
+  {
+    "code2": "KR",
+    "name": "Pietų Korėja",
+    "fullName": "Pietų Korėja"
+  },
+  {
+    "code2": "KW",
+    "name": "Kuveitas",
+    "fullName": "Kuveitas"
+  },
+  {
+    "code2": "KG",
+    "name": "Kirgizija",
+    "fullName": "Kirgizija"
+  },
+  {
+    "code2": "LA",
+    "name": "Laosas",
+    "fullName": "Laosas"
+  },
+  {
+    "code2": "LV",
+    "name": "Latvija",
+    "fullName": "Latvija"
+  },
+  {
+    "code2": "LB",
+    "name": "Libanas",
+    "fullName": "Libanas"
+  },
+  {
+    "code2": "LS",
+    "name": "Lesotas",
+    "fullName": "Lesotas"
+  },
+  {
+    "code2": "LR",
+    "name": "Liberija",
+    "fullName": "Liberija"
+  },
+  {
+    "code2": "LY",
+    "name": "Libija",
+    "fullName": "Libija"
+  },
+  {
+    "code2": "LI",
+    "name": "Lichtenšteinas",
+    "fullName": "Lichtenšteinas"
+  },
+  {
+    "code2": "LT",
+    "name": "Lietuva",
+    "fullName": "Lietuva"
+  },
+  {
+    "code2": "LU",
+    "name": "Liuksemburgas",
+    "fullName": "Liuksemburgas"
+  },
+  {
+    "code2": "MG",
+    "name": "Madagaskaras",
+    "fullName": "Madagaskaras"
+  },
+  {
+    "code2": "MW",
+    "name": "Malavis",
+    "fullName": "Malavis"
+  },
+  {
+    "code2": "MY",
+    "name": "Malaizija",
+    "fullName": "Malaizija"
+  },
+  {
+    "code2": "MV",
+    "name": "Maldyvai",
+    "fullName": "Maldyvai"
+  },
+  {
+    "code2": "ML",
+    "name": "Malis",
+    "fullName": "Malis"
+  },
+  {
+    "code2": "MT",
+    "name": "Malta",
+    "fullName": "Malta"
+  },
+  {
+    "code2": "MH",
+    "name": "Maršalo Salos",
+    "fullName": "Maršalo Salos"
+  },
+  {
+    "code2": "MR",
+    "name": "Mauritanija",
+    "fullName": "Mauritanija"
+  },
+  {
+    "code2": "MU",
+    "name": "Mauricijus",
+    "fullName": "Mauricijus"
+  },
+  {
+    "code2": "MX",
+    "name": "Meksika",
+    "fullName": "Meksika"
+  },
+  {
+    "code2": "FM",
+    "name": "Mikronezija",
+    "fullName": "Mikronezija"
+  },
+  {
+    "code2": "MD",
+    "name": "Moldova",
+    "fullName": "Moldova"
+  },
+  {
+    "code2": "MC",
+    "name": "Monakas",
+    "fullName": "Monakas"
+  },
+  {
+    "code2": "MN",
+    "name": "Mongolija",
+    "fullName": "Mongolija"
+  },
+  {
+    "code2": "ME",
+    "name": "Juodkalnija",
+    "fullName": "Juodkalnija"
+  },
+  {
+    "code2": "MA",
+    "name": "Marokas",
+    "fullName": "Marokas"
+  },
+  {
+    "code2": "MZ",
+    "name": "Mozambikas",
+    "fullName": "Mozambikas"
+  },
+  {
+    "code2": "MM",
+    "name": "Mianmaras (Birma)",
+    "fullName": "Mianmaras (Birma)"
+  },
+  {
+    "code2": "NA",
+    "name": "Namibija",
+    "fullName": "Namibija"
+  },
+  {
+    "code2": "NR",
+    "name": "Nauru",
+    "fullName": "Nauru"
+  },
+  {
+    "code2": "NP",
+    "name": "Nepalas",
+    "fullName": "Nepalas"
+  },
+  {
+    "code2": "NL",
+    "name": "Nyderlandai",
+    "fullName": "Nyderlandai"
+  },
+  {
+    "code2": "NZ",
+    "name": "Naujoji Zelandija",
+    "fullName": "Naujoji Zelandija"
+  },
+  {
+    "code2": "NI",
+    "name": "Nikaragva",
+    "fullName": "Nikaragva"
+  },
+  {
+    "code2": "NE",
+    "name": "Nigeris",
+    "fullName": "Nigeris"
+  },
+  {
+    "code2": "NG",
+    "name": "Nigerija",
+    "fullName": "Nigerija"
+  },
+  {
+    "code2": "MK",
+    "name": "Šiaurės Makedonija",
+    "fullName": "Šiaurės Makedonija"
+  },
+  {
+    "code2": "NO",
+    "name": "Norvegija",
+    "fullName": "Norvegija"
+  },
+  {
+    "code2": "OM",
+    "name": "Omanas",
+    "fullName": "Omanas"
+  },
+  {
+    "code2": "PK",
+    "name": "Pakistanas",
+    "fullName": "Pakistanas"
+  },
+  {
+    "code2": "PW",
+    "name": "Palau",
+    "fullName": "Palau"
+  },
+  {
+    "code2": "PA",
+    "name": "Panama",
+    "fullName": "Panama"
+  },
+  {
+    "code2": "PG",
+    "name": "Papua Naujoji Gvinėja",
+    "fullName": "Papua Naujoji Gvinėja"
+  },
+  {
+    "code2": "PY",
+    "name": "Paragvajus",
+    "fullName": "Paragvajus"
+  },
+  {
+    "code2": "PE",
+    "name": "Peru",
+    "fullName": "Peru"
+  },
+  {
+    "code2": "PH",
+    "name": "Filipinai",
+    "fullName": "Filipinai"
+  },
+  {
+    "code2": "PL",
+    "name": "Lenkija",
+    "fullName": "Lenkija"
+  },
+  {
+    "code2": "PT",
+    "name": "Portugalija",
+    "fullName": "Portugalija"
+  },
+  {
+    "code2": "QA",
+    "name": "Kataras",
+    "fullName": "Kataras"
+  },
+  {
+    "code2": "RO",
+    "name": "Rumunija",
+    "fullName": "Rumunija"
+  },
+  {
+    "code2": "RU",
+    "name": "Rusija",
+    "fullName": "Rusija"
+  },
+  {
+    "code2": "RW",
+    "name": "Ruanda",
+    "fullName": "Ruanda"
+  },
+  {
+    "code2": "KN",
+    "name": "Sent Kitsas ir Nevis",
+    "fullName": "Sent Kitsas ir Nevis"
+  },
+  {
+    "code2": "LC",
+    "name": "Sent Lusija",
+    "fullName": "Sent Lusija"
+  },
+  {
+    "code2": "VC",
+    "name": "Šventasis Vincentas ir Grenadinai",
+    "fullName": "Šventasis Vincentas ir Grenadinai"
+  },
+  {
+    "code2": "WS",
+    "name": "Samoa",
+    "fullName": "Samoa"
+  },
+  {
+    "code2": "SM",
+    "name": "San Marinas",
+    "fullName": "San Marinas"
+  },
+  {
+    "code2": "ST",
+    "name": "San Tomė ir Prinsipė",
+    "fullName": "San Tomė ir Prinsipė"
+  },
+  {
+    "code2": "SA",
+    "name": "Saudo Arabija",
+    "fullName": "Saudo Arabija"
+  },
+  {
+    "code2": "SN",
+    "name": "Senegalas",
+    "fullName": "Senegalas"
+  },
+  {
+    "code2": "RS",
+    "name": "Serbija",
+    "fullName": "Serbija"
+  },
+  {
+    "code2": "SC",
+    "name": "Seišeliai",
+    "fullName": "Seišeliai"
+  },
+  {
+    "code2": "SL",
+    "name": "Siera Leonė",
+    "fullName": "Siera Leonė"
+  },
+  {
+    "code2": "SG",
+    "name": "Singapūras",
+    "fullName": "Singapūras"
+  },
+  {
+    "code2": "SK",
+    "name": "Slovakija",
+    "fullName": "Slovakija"
+  },
+  {
+    "code2": "SI",
+    "name": "Slovėnija",
+    "fullName": "Slovėnija"
+  },
+  {
+    "code2": "SB",
+    "name": "Saliamono Salos",
+    "fullName": "Saliamono Salos"
+  },
+  {
+    "code2": "SO",
+    "name": "Somalis",
+    "fullName": "Somalis"
+  },
+  {
+    "code2": "ZA",
+    "name": "Pietų Afrika",
+    "fullName": "Pietų Afrika"
+  },
+  {
+    "code2": "SS",
+    "name": "Pietų Sudanas",
+    "fullName": "Pietų Sudanas"
+  },
+  {
+    "code2": "ES",
+    "name": "Ispanija",
+    "fullName": "Ispanija"
+  },
+  {
+    "code2": "LK",
+    "name": "Šri Lanka",
+    "fullName": "Šri Lanka"
+  },
+  {
+    "code2": "SD",
+    "name": "Sudanas",
+    "fullName": "Sudanas"
+  },
+  {
+    "code2": "SR",
+    "name": "Surinamas",
+    "fullName": "Surinamas"
+  },
+  {
+    "code2": "SE",
+    "name": "Švedija",
+    "fullName": "Švedija"
+  },
+  {
+    "code2": "CH",
+    "name": "Šveicarija",
+    "fullName": "Šveicarija"
+  },
+  {
+    "code2": "SY",
+    "name": "Sirija",
+    "fullName": "Sirija"
+  },
+  {
+    "code2": "TJ",
+    "name": "Tadžikija",
+    "fullName": "Tadžikija"
+  },
+  {
+    "code2": "TZ",
+    "name": "Tanzanija",
+    "fullName": "Tanzanija"
+  },
+  {
+    "code2": "TH",
+    "name": "Tailandas",
+    "fullName": "Tailandas"
+  },
+  {
+    "code2": "TL",
+    "name": "Rytų Timoras",
+    "fullName": "Rytų Timoras"
+  },
+  {
+    "code2": "TG",
+    "name": "Togas",
+    "fullName": "Togas"
+  },
+  {
+    "code2": "TO",
+    "name": "Tonga",
+    "fullName": "Tonga"
+  },
+  {
+    "code2": "TT",
+    "name": "Trinidadas ir Tobagas",
+    "fullName": "Trinidadas ir Tobagas"
+  },
+  {
+    "code2": "TN",
+    "name": "Tunisas",
+    "fullName": "Tunisas"
+  },
+  {
+    "code2": "TR",
+    "name": "Turkija",
+    "fullName": "Turkija"
+  },
+  {
+    "code2": "TM",
+    "name": "Turkmėnistanas",
+    "fullName": "Turkmėnistanas"
+  },
+  {
+    "code2": "TV",
+    "name": "Tuvalu",
+    "fullName": "Tuvalu"
+  },
+  {
+    "code2": "UG",
+    "name": "Uganda",
+    "fullName": "Uganda"
+  },
+  {
+    "code2": "UA",
+    "name": "Ukraina",
+    "fullName": "Ukraina"
+  },
+  {
+    "code2": "AE",
+    "name": "Jungtiniai Arabų Emyratai",
+    "fullName": "Jungtiniai Arabų Emyratai"
+  },
+  {
+    "code2": "GB",
+    "name": "Jungtinė Karalystė",
+    "fullName": "Jungtinė Karalystė"
+  },
+  {
+    "code2": "US",
+    "name": "Jungtinės Valstijos",
+    "fullName": "Jungtinės Valstijos"
+  },
+  {
+    "code2": "UY",
+    "name": "Urugvajus",
+    "fullName": "Urugvajus"
+  },
+  {
+    "code2": "UZ",
+    "name": "Uzbekistanas",
+    "fullName": "Uzbekistanas"
+  },
+  {
+    "code2": "VU",
+    "name": "Vanuatu",
+    "fullName": "Vanuatu"
+  },
+  {
+    "code2": "VE",
+    "name": "Venesuela",
+    "fullName": "Venesuela"
+  },
+  {
+    "code2": "VN",
+    "name": "Vietnamas",
+    "fullName": "Vietnamas"
+  },
+  {
+    "code2": "YE",
+    "name": "Jemenas",
+    "fullName": "Jemenas"
+  },
+  {
+    "code2": "ZM",
+    "name": "Zambija",
+    "fullName": "Zambija"
+  },
+  {
+    "code2": "ZW",
+    "name": "Zimbabvė",
+    "fullName": "Zimbabvė"
+  },
+  {
+    "code2": "HK",
+    "name": "Honkongas",
+    "fullName": "Honkongas"
+  },
+  {
+    "code2": "MO",
+    "name": "Makao",
+    "fullName": "Makao"
+  },
+  {
+    "code2": "TW",
+    "name": "Taivanas",
+    "fullName": "Taivanas"
+  },
+  {
+    "code2": "PS",
+    "name": "Palestinos teritorija",
+    "fullName": "Palestinos teritorija"
+  },
+  {
+    "code2": "XK",
+    "name": "Kosovas",
+    "fullName": "Kosovas"
+  },
+  {
+    "code2": "VA",
+    "name": "Vatikano Miesto Valstybė",
+    "fullName": "Vatikano Miesto Valstybė"
+  },
+  {
+    "code2": "PR",
+    "name": "Puerto Rikas",
+    "fullName": "Puerto Rikas"
+  },
+  {
+    "code2": "GU",
+    "name": "Guamas",
+    "fullName": "Guamas"
+  },
+  {
+    "code2": "GL",
+    "name": "Grenlandija",
+    "fullName": "Grenlandija"
+  },
+  {
+    "code2": "FO",
+    "name": "Farerų Salos",
+    "fullName": "Farerų Salos"
+  },
+  {
+    "code2": "NC",
+    "name": "Naujoji Kaledonija",
+    "fullName": "Naujoji Kaledonija"
+  },
+  {
+    "code2": "PF",
+    "name": "Prancūzijos Polinezija",
+    "fullName": "Prancūzijos Polinezija"
+  },
+  {
+    "code2": "BM",
+    "name": "Bermuda",
+    "fullName": "Bermuda"
+  },
+  {
+    "code2": "KY",
+    "name": "Kaimanų Salos",
+    "fullName": "Kaimanų Salos"
+  },
+  {
+    "code2": "VI",
+    "name": "Jungtinių Valstijų Mergelių Salos",
+    "fullName": "Jungtinių Valstijų Mergelių Salos"
+  },
+  {
+    "code2": "CW",
+    "name": "Kiurasao",
+    "fullName": "Kiurasao"
+  },
+  {
+    "code2": "AW",
+    "name": "Aruba",
+    "fullName": "Aruba"
+  },
+  {
+    "code2": "GI",
+    "name": "Gibraltaras",
+    "fullName": "Gibraltaras"
+  },
+  {
+    "code2": "JE",
+    "name": "Džersis",
+    "fullName": "Džersis"
+  },
+  {
+    "code2": "GG",
+    "name": "Gernsis",
+    "fullName": "Gernsis"
+  },
+  {
+    "code2": "IM",
+    "name": "Meno Sala",
+    "fullName": "Meno Sala"
+  },
+  {
+    "code2": "TC",
+    "name": "Terkso ir Kaikoso Salos",
+    "fullName": "Terkso ir Kaikoso Salos"
+  },
+  {
+    "code2": "VG",
+    "name": "Didžiosios Britanijos Mergelių Salos",
+    "fullName": "Didžiosios Britanijos Mergelių Salos"
+  },
+  {
+    "code2": "AI",
+    "name": "Angilija",
+    "fullName": "Angilija"
+  },
+  {
+    "code2": "MS",
+    "name": "Montseratas",
+    "fullName": "Montseratas"
+  },
+  {
+    "code2": "SH",
+    "name": "Šv. Elenos Sala",
+    "fullName": "Šv. Elenos Sala"
+  },
+  {
+    "code2": "FK",
+    "name": "Folklando Salos",
+    "fullName": "Folklando Salos"
+  },
+  {
+    "code2": "GF",
+    "name": "Prancūzijos Gviana",
+    "fullName": "Prancūzijos Gviana"
+  },
+  {
+    "code2": "GP",
+    "name": "Gvadelupa",
+    "fullName": "Gvadelupa"
+  },
+  {
+    "code2": "MQ",
+    "name": "Martinika",
+    "fullName": "Martinika"
+  },
+  {
+    "code2": "RE",
+    "name": "Reunjonas",
+    "fullName": "Reunjonas"
+  },
+  {
+    "code2": "MF",
+    "name": "Sen Martenas",
+    "fullName": "Sen Martenas"
+  },
+  {
+    "code2": "PM",
+    "name": "Sen Pjeras ir Mikelonas",
+    "fullName": "Sen Pjeras ir Mikelonas"
+  },
+  {
+    "code2": "WF",
+    "name": "Volisas ir Futūna",
+    "fullName": "Volisas ir Futūna"
+  },
+  {
+    "code2": "YT",
+    "name": "Majotas",
+    "fullName": "Majotas"
+  },
+  {
+    "code2": "AS",
+    "name": "Amerikos Samoa",
+    "fullName": "Amerikos Samoa"
+  },
+  {
+    "code2": "MP",
+    "name": "Marianos Šiaurinės Salos",
+    "fullName": "Marianos Šiaurinės Salos"
+  },
+  {
+    "code2": "CX",
+    "name": "Kalėdų Sala",
+    "fullName": "Kalėdų Sala"
+  },
+  {
+    "code2": "CC",
+    "name": "Kokosų (Kilingo) Salos",
+    "fullName": "Kokosų (Kilingo) Salos"
+  },
+  {
+    "code2": "NF",
+    "name": "Norfolko sala",
+    "fullName": "Norfolko sala"
+  },
+  {
+    "code2": "PN",
+    "name": "Pitkerno salos",
+    "fullName": "Pitkerno salos"
+  },
+  {
+    "code2": "TK",
+    "name": "Tokelau",
+    "fullName": "Tokelau"
+  },
+  {
+    "code2": "NU",
+    "name": "Niujė",
+    "fullName": "Niujė"
+  },
+  {
+    "code2": "CK",
+    "name": "Kuko Salos",
+    "fullName": "Kuko Salos"
+  },
+  {
+    "code2": "EH",
+    "name": "Vakarų Sachara",
+    "fullName": "Vakarų Sachara"
+  },
+  {
+    "code2": "AX",
+    "name": "Alandų Salos",
+    "fullName": "Alandų Salos"
+  },
+  {
+    "code2": "BL",
+    "name": "Sen Bartelemi",
+    "fullName": "Sen Bartelemi"
+  },
+  {
+    "code2": "IO",
+    "name": "Indijos Vandenyno Britų Sritis",
+    "fullName": "Indijos Vandenyno Britų Sritis"
+  },
+  {
+    "code2": "SX",
+    "name": "Sint Martenas",
+    "fullName": "Sint Martenas"
+  },
+  {
+    "code2": "BQ",
+    "name": "Karibų Nyderlandai",
+    "fullName": "Karibų Nyderlandai"
+  },
+  {
+    "code2": "TF",
+    "name": "Prancūzijos Pietų sritys",
+    "fullName": "Prancūzijos Pietų sritys"
+  },
+  {
+    "code2": "GS",
+    "name": "Pietų Džordžija ir Pietų Sandvičo salos",
+    "fullName": "Pietų Džordžija ir Pietų Sandvičo salos"
+  },
+  {
+    "code2": "HM",
+    "name": "Herdo ir Makdonaldo Salos",
+    "fullName": "Herdo ir Makdonaldo Salos"
+  },
+  {
+    "code2": "AQ",
+    "name": "Antarktida",
+    "fullName": "Antarktida"
+  }
+]

@@ -1,0 +1,1237 @@
+[
+  {
+    "code2": "AF",
+    "name": "Afganistan",
+    "fullName": "Afganistan"
+  },
+  {
+    "code2": "AL",
+    "name": "Albanija",
+    "fullName": "Albanija"
+  },
+  {
+    "code2": "DZ",
+    "name": "Alžirija",
+    "fullName": "Alžirija"
+  },
+  {
+    "code2": "AD",
+    "name": "Andora",
+    "fullName": "Andora"
+  },
+  {
+    "code2": "AO",
+    "name": "Angola",
+    "fullName": "Angola"
+  },
+  {
+    "code2": "AG",
+    "name": "Antigva in Barbuda",
+    "fullName": "Antigva in Barbuda"
+  },
+  {
+    "code2": "AR",
+    "name": "Argentina",
+    "fullName": "Argentina"
+  },
+  {
+    "code2": "AM",
+    "name": "Armenija",
+    "fullName": "Armenija"
+  },
+  {
+    "code2": "AU",
+    "name": "Avstralija",
+    "fullName": "Avstralija"
+  },
+  {
+    "code2": "AT",
+    "name": "Avstrija",
+    "fullName": "Avstrija"
+  },
+  {
+    "code2": "AZ",
+    "name": "Azerbajdžan",
+    "fullName": "Azerbajdžan"
+  },
+  {
+    "code2": "BS",
+    "name": "Bahami",
+    "fullName": "Bahami"
+  },
+  {
+    "code2": "BH",
+    "name": "Bahrajn",
+    "fullName": "Bahrajn"
+  },
+  {
+    "code2": "BD",
+    "name": "Bangladeš",
+    "fullName": "Bangladeš"
+  },
+  {
+    "code2": "BB",
+    "name": "Barbados",
+    "fullName": "Barbados"
+  },
+  {
+    "code2": "BY",
+    "name": "Belorusija",
+    "fullName": "Belorusija"
+  },
+  {
+    "code2": "BE",
+    "name": "Belgija",
+    "fullName": "Belgija"
+  },
+  {
+    "code2": "BZ",
+    "name": "Belize",
+    "fullName": "Belize"
+  },
+  {
+    "code2": "BJ",
+    "name": "Benin",
+    "fullName": "Benin"
+  },
+  {
+    "code2": "BT",
+    "name": "Butan",
+    "fullName": "Butan"
+  },
+  {
+    "code2": "BO",
+    "name": "Bolivija",
+    "fullName": "Bolivija"
+  },
+  {
+    "code2": "BA",
+    "name": "Bosna in Hercegovina",
+    "fullName": "Bosna in Hercegovina"
+  },
+  {
+    "code2": "BW",
+    "name": "Bocvana",
+    "fullName": "Bocvana"
+  },
+  {
+    "code2": "BR",
+    "name": "Brazilija",
+    "fullName": "Brazilija"
+  },
+  {
+    "code2": "BN",
+    "name": "Brunej",
+    "fullName": "Brunej"
+  },
+  {
+    "code2": "BG",
+    "name": "Bolgarija",
+    "fullName": "Bolgarija"
+  },
+  {
+    "code2": "BF",
+    "name": "Burkina Faso",
+    "fullName": "Burkina Faso"
+  },
+  {
+    "code2": "BI",
+    "name": "Burundi",
+    "fullName": "Burundi"
+  },
+  {
+    "code2": "CV",
+    "name": "Zelenortski otoki",
+    "fullName": "Zelenortski otoki"
+  },
+  {
+    "code2": "KH",
+    "name": "Kambodža",
+    "fullName": "Kambodža"
+  },
+  {
+    "code2": "CM",
+    "name": "Kamerun",
+    "fullName": "Kamerun"
+  },
+  {
+    "code2": "CA",
+    "name": "Kanada",
+    "fullName": "Kanada"
+  },
+  {
+    "code2": "CF",
+    "name": "Centralnoafriška republika",
+    "fullName": "Centralnoafriška republika"
+  },
+  {
+    "code2": "TD",
+    "name": "Čad",
+    "fullName": "Čad"
+  },
+  {
+    "code2": "CL",
+    "name": "Čile",
+    "fullName": "Čile"
+  },
+  {
+    "code2": "CN",
+    "name": "Kitajska",
+    "fullName": "Kitajska"
+  },
+  {
+    "code2": "CO",
+    "name": "Kolumbija",
+    "fullName": "Kolumbija"
+  },
+  {
+    "code2": "KM",
+    "name": "Komori",
+    "fullName": "Komori"
+  },
+  {
+    "code2": "CG",
+    "name": "Kongo - Brazzaville",
+    "fullName": "Kongo - Brazzaville"
+  },
+  {
+    "code2": "CD",
+    "name": "Demokratična republika Kongo",
+    "fullName": "Demokratična republika Kongo"
+  },
+  {
+    "code2": "CR",
+    "name": "Kostarika",
+    "fullName": "Kostarika"
+  },
+  {
+    "code2": "CI",
+    "name": "Slonokoščena obala",
+    "fullName": "Slonokoščena obala"
+  },
+  {
+    "code2": "HR",
+    "name": "Hrvaška",
+    "fullName": "Hrvaška"
+  },
+  {
+    "code2": "CU",
+    "name": "Kuba",
+    "fullName": "Kuba"
+  },
+  {
+    "code2": "CY",
+    "name": "Ciper",
+    "fullName": "Ciper"
+  },
+  {
+    "code2": "CZ",
+    "name": "Češka",
+    "fullName": "Češka"
+  },
+  {
+    "code2": "DK",
+    "name": "Danska",
+    "fullName": "Danska"
+  },
+  {
+    "code2": "DJ",
+    "name": "Džibuti",
+    "fullName": "Džibuti"
+  },
+  {
+    "code2": "DM",
+    "name": "Dominika",
+    "fullName": "Dominika"
+  },
+  {
+    "code2": "DO",
+    "name": "Dominikanska republika",
+    "fullName": "Dominikanska republika"
+  },
+  {
+    "code2": "EC",
+    "name": "Ekvador",
+    "fullName": "Ekvador"
+  },
+  {
+    "code2": "EG",
+    "name": "Egipt",
+    "fullName": "Egipt"
+  },
+  {
+    "code2": "SV",
+    "name": "Salvador",
+    "fullName": "Salvador"
+  },
+  {
+    "code2": "GQ",
+    "name": "Ekvatorialna Gvineja",
+    "fullName": "Ekvatorialna Gvineja"
+  },
+  {
+    "code2": "ER",
+    "name": "Eritreja",
+    "fullName": "Eritreja"
+  },
+  {
+    "code2": "EE",
+    "name": "Estonija",
+    "fullName": "Estonija"
+  },
+  {
+    "code2": "SZ",
+    "name": "Svazi",
+    "fullName": "Svazi"
+  },
+  {
+    "code2": "ET",
+    "name": "Etiopija",
+    "fullName": "Etiopija"
+  },
+  {
+    "code2": "FJ",
+    "name": "Fidži",
+    "fullName": "Fidži"
+  },
+  {
+    "code2": "FI",
+    "name": "Finska",
+    "fullName": "Finska"
+  },
+  {
+    "code2": "FR",
+    "name": "Francija",
+    "fullName": "Francija"
+  },
+  {
+    "code2": "GA",
+    "name": "Gabon",
+    "fullName": "Gabon"
+  },
+  {
+    "code2": "GM",
+    "name": "Gambija",
+    "fullName": "Gambija"
+  },
+  {
+    "code2": "GE",
+    "name": "Gruzija",
+    "fullName": "Gruzija"
+  },
+  {
+    "code2": "DE",
+    "name": "Nemčija",
+    "fullName": "Nemčija"
+  },
+  {
+    "code2": "GH",
+    "name": "Gana",
+    "fullName": "Gana"
+  },
+  {
+    "code2": "GR",
+    "name": "Grčija",
+    "fullName": "Grčija"
+  },
+  {
+    "code2": "GD",
+    "name": "Grenada",
+    "fullName": "Grenada"
+  },
+  {
+    "code2": "GT",
+    "name": "Gvatemala",
+    "fullName": "Gvatemala"
+  },
+  {
+    "code2": "GN",
+    "name": "Gvineja",
+    "fullName": "Gvineja"
+  },
+  {
+    "code2": "GW",
+    "name": "Gvineja Bissau",
+    "fullName": "Gvineja Bissau"
+  },
+  {
+    "code2": "GY",
+    "name": "Gvajana",
+    "fullName": "Gvajana"
+  },
+  {
+    "code2": "HT",
+    "name": "Haiti",
+    "fullName": "Haiti"
+  },
+  {
+    "code2": "HN",
+    "name": "Honduras",
+    "fullName": "Honduras"
+  },
+  {
+    "code2": "HU",
+    "name": "Madžarska",
+    "fullName": "Madžarska"
+  },
+  {
+    "code2": "IS",
+    "name": "Islandija",
+    "fullName": "Islandija"
+  },
+  {
+    "code2": "IN",
+    "name": "Indija",
+    "fullName": "Indija"
+  },
+  {
+    "code2": "ID",
+    "name": "Indonezija",
+    "fullName": "Indonezija"
+  },
+  {
+    "code2": "IR",
+    "name": "Iran",
+    "fullName": "Iran"
+  },
+  {
+    "code2": "IQ",
+    "name": "Irak",
+    "fullName": "Irak"
+  },
+  {
+    "code2": "IE",
+    "name": "Irska",
+    "fullName": "Irska"
+  },
+  {
+    "code2": "IL",
+    "name": "Izrael",
+    "fullName": "Izrael"
+  },
+  {
+    "code2": "IT",
+    "name": "Italija",
+    "fullName": "Italija"
+  },
+  {
+    "code2": "JM",
+    "name": "Jamajka",
+    "fullName": "Jamajka"
+  },
+  {
+    "code2": "JP",
+    "name": "Japonska",
+    "fullName": "Japonska"
+  },
+  {
+    "code2": "JO",
+    "name": "Jordanija",
+    "fullName": "Jordanija"
+  },
+  {
+    "code2": "KZ",
+    "name": "Kazahstan",
+    "fullName": "Kazahstan"
+  },
+  {
+    "code2": "KE",
+    "name": "Kenija",
+    "fullName": "Kenija"
+  },
+  {
+    "code2": "KI",
+    "name": "Kiribati",
+    "fullName": "Kiribati"
+  },
+  {
+    "code2": "KP",
+    "name": "Severna Koreja",
+    "fullName": "Severna Koreja"
+  },
+  {
+    "code2": "KR",
+    "name": "Južna Koreja",
+    "fullName": "Južna Koreja"
+  },
+  {
+    "code2": "KW",
+    "name": "Kuvajt",
+    "fullName": "Kuvajt"
+  },
+  {
+    "code2": "KG",
+    "name": "Kirgizistan",
+    "fullName": "Kirgizistan"
+  },
+  {
+    "code2": "LA",
+    "name": "Laos",
+    "fullName": "Laos"
+  },
+  {
+    "code2": "LV",
+    "name": "Latvija",
+    "fullName": "Latvija"
+  },
+  {
+    "code2": "LB",
+    "name": "Libanon",
+    "fullName": "Libanon"
+  },
+  {
+    "code2": "LS",
+    "name": "Lesoto",
+    "fullName": "Lesoto"
+  },
+  {
+    "code2": "LR",
+    "name": "Liberija",
+    "fullName": "Liberija"
+  },
+  {
+    "code2": "LY",
+    "name": "Libija",
+    "fullName": "Libija"
+  },
+  {
+    "code2": "LI",
+    "name": "Lihtenštajn",
+    "fullName": "Lihtenštajn"
+  },
+  {
+    "code2": "LT",
+    "name": "Litva",
+    "fullName": "Litva"
+  },
+  {
+    "code2": "LU",
+    "name": "Luksemburg",
+    "fullName": "Luksemburg"
+  },
+  {
+    "code2": "MG",
+    "name": "Madagaskar",
+    "fullName": "Madagaskar"
+  },
+  {
+    "code2": "MW",
+    "name": "Malavi",
+    "fullName": "Malavi"
+  },
+  {
+    "code2": "MY",
+    "name": "Malezija",
+    "fullName": "Malezija"
+  },
+  {
+    "code2": "MV",
+    "name": "Maldivi",
+    "fullName": "Maldivi"
+  },
+  {
+    "code2": "ML",
+    "name": "Mali",
+    "fullName": "Mali"
+  },
+  {
+    "code2": "MT",
+    "name": "Malta",
+    "fullName": "Malta"
+  },
+  {
+    "code2": "MH",
+    "name": "Marshallovi otoki",
+    "fullName": "Marshallovi otoki"
+  },
+  {
+    "code2": "MR",
+    "name": "Mavretanija",
+    "fullName": "Mavretanija"
+  },
+  {
+    "code2": "MU",
+    "name": "Mauritius",
+    "fullName": "Mauritius"
+  },
+  {
+    "code2": "MX",
+    "name": "Mehika",
+    "fullName": "Mehika"
+  },
+  {
+    "code2": "FM",
+    "name": "Mikronezija",
+    "fullName": "Mikronezija"
+  },
+  {
+    "code2": "MD",
+    "name": "Moldavija",
+    "fullName": "Moldavija"
+  },
+  {
+    "code2": "MC",
+    "name": "Monako",
+    "fullName": "Monako"
+  },
+  {
+    "code2": "MN",
+    "name": "Mongolija",
+    "fullName": "Mongolija"
+  },
+  {
+    "code2": "ME",
+    "name": "Črna gora",
+    "fullName": "Črna gora"
+  },
+  {
+    "code2": "MA",
+    "name": "Maroko",
+    "fullName": "Maroko"
+  },
+  {
+    "code2": "MZ",
+    "name": "Mozambik",
+    "fullName": "Mozambik"
+  },
+  {
+    "code2": "MM",
+    "name": "Mjanmar (Burma)",
+    "fullName": "Mjanmar (Burma)"
+  },
+  {
+    "code2": "NA",
+    "name": "Namibija",
+    "fullName": "Namibija"
+  },
+  {
+    "code2": "NR",
+    "name": "Nauru",
+    "fullName": "Nauru"
+  },
+  {
+    "code2": "NP",
+    "name": "Nepal",
+    "fullName": "Nepal"
+  },
+  {
+    "code2": "NL",
+    "name": "Nizozemska",
+    "fullName": "Nizozemska"
+  },
+  {
+    "code2": "NZ",
+    "name": "Nova Zelandija",
+    "fullName": "Nova Zelandija"
+  },
+  {
+    "code2": "NI",
+    "name": "Nikaragva",
+    "fullName": "Nikaragva"
+  },
+  {
+    "code2": "NE",
+    "name": "Niger",
+    "fullName": "Niger"
+  },
+  {
+    "code2": "NG",
+    "name": "Nigerija",
+    "fullName": "Nigerija"
+  },
+  {
+    "code2": "MK",
+    "name": "Severna Makedonija",
+    "fullName": "Severna Makedonija"
+  },
+  {
+    "code2": "NO",
+    "name": "Norveška",
+    "fullName": "Norveška"
+  },
+  {
+    "code2": "OM",
+    "name": "Oman",
+    "fullName": "Oman"
+  },
+  {
+    "code2": "PK",
+    "name": "Pakistan",
+    "fullName": "Pakistan"
+  },
+  {
+    "code2": "PW",
+    "name": "Palau",
+    "fullName": "Palau"
+  },
+  {
+    "code2": "PA",
+    "name": "Panama",
+    "fullName": "Panama"
+  },
+  {
+    "code2": "PG",
+    "name": "Papua Nova Gvineja",
+    "fullName": "Papua Nova Gvineja"
+  },
+  {
+    "code2": "PY",
+    "name": "Paragvaj",
+    "fullName": "Paragvaj"
+  },
+  {
+    "code2": "PE",
+    "name": "Peru",
+    "fullName": "Peru"
+  },
+  {
+    "code2": "PH",
+    "name": "Filipini",
+    "fullName": "Filipini"
+  },
+  {
+    "code2": "PL",
+    "name": "Poljska",
+    "fullName": "Poljska"
+  },
+  {
+    "code2": "PT",
+    "name": "Portugalska",
+    "fullName": "Portugalska"
+  },
+  {
+    "code2": "QA",
+    "name": "Katar",
+    "fullName": "Katar"
+  },
+  {
+    "code2": "RO",
+    "name": "Romunija",
+    "fullName": "Romunija"
+  },
+  {
+    "code2": "RU",
+    "name": "Rusija",
+    "fullName": "Rusija"
+  },
+  {
+    "code2": "RW",
+    "name": "Ruanda",
+    "fullName": "Ruanda"
+  },
+  {
+    "code2": "KN",
+    "name": "Saint Kitts in Nevis",
+    "fullName": "Saint Kitts in Nevis"
+  },
+  {
+    "code2": "LC",
+    "name": "Saint Lucia",
+    "fullName": "Saint Lucia"
+  },
+  {
+    "code2": "VC",
+    "name": "Saint Vincent in Grenadine",
+    "fullName": "Saint Vincent in Grenadine"
+  },
+  {
+    "code2": "WS",
+    "name": "Samoa",
+    "fullName": "Samoa"
+  },
+  {
+    "code2": "SM",
+    "name": "San Marino",
+    "fullName": "San Marino"
+  },
+  {
+    "code2": "ST",
+    "name": "Sao Tome in Principe",
+    "fullName": "Sao Tome in Principe"
+  },
+  {
+    "code2": "SA",
+    "name": "Saudova Arabija",
+    "fullName": "Saudova Arabija"
+  },
+  {
+    "code2": "SN",
+    "name": "Senegal",
+    "fullName": "Senegal"
+  },
+  {
+    "code2": "RS",
+    "name": "Srbija",
+    "fullName": "Srbija"
+  },
+  {
+    "code2": "SC",
+    "name": "Sejšeli",
+    "fullName": "Sejšeli"
+  },
+  {
+    "code2": "SL",
+    "name": "Sierra Leone",
+    "fullName": "Sierra Leone"
+  },
+  {
+    "code2": "SG",
+    "name": "Singapur",
+    "fullName": "Singapur"
+  },
+  {
+    "code2": "SK",
+    "name": "Slovaška",
+    "fullName": "Slovaška"
+  },
+  {
+    "code2": "SI",
+    "name": "Slovenija",
+    "fullName": "Slovenija"
+  },
+  {
+    "code2": "SB",
+    "name": "Salomonovi otoki",
+    "fullName": "Salomonovi otoki"
+  },
+  {
+    "code2": "SO",
+    "name": "Somalija",
+    "fullName": "Somalija"
+  },
+  {
+    "code2": "ZA",
+    "name": "Južnoafriška republika",
+    "fullName": "Južnoafriška republika"
+  },
+  {
+    "code2": "SS",
+    "name": "Južni Sudan",
+    "fullName": "Južni Sudan"
+  },
+  {
+    "code2": "ES",
+    "name": "Španija",
+    "fullName": "Španija"
+  },
+  {
+    "code2": "LK",
+    "name": "Šrilanka",
+    "fullName": "Šrilanka"
+  },
+  {
+    "code2": "SD",
+    "name": "Sudan",
+    "fullName": "Sudan"
+  },
+  {
+    "code2": "SR",
+    "name": "Surinam",
+    "fullName": "Surinam"
+  },
+  {
+    "code2": "SE",
+    "name": "Švedska",
+    "fullName": "Švedska"
+  },
+  {
+    "code2": "CH",
+    "name": "Švica",
+    "fullName": "Švica"
+  },
+  {
+    "code2": "SY",
+    "name": "Sirija",
+    "fullName": "Sirija"
+  },
+  {
+    "code2": "TJ",
+    "name": "Tadžikistan",
+    "fullName": "Tadžikistan"
+  },
+  {
+    "code2": "TZ",
+    "name": "Tanzanija",
+    "fullName": "Tanzanija"
+  },
+  {
+    "code2": "TH",
+    "name": "Tajska",
+    "fullName": "Tajska"
+  },
+  {
+    "code2": "TL",
+    "name": "Timor-Leste",
+    "fullName": "Timor-Leste"
+  },
+  {
+    "code2": "TG",
+    "name": "Togo",
+    "fullName": "Togo"
+  },
+  {
+    "code2": "TO",
+    "name": "Tonga",
+    "fullName": "Tonga"
+  },
+  {
+    "code2": "TT",
+    "name": "Trinidad in Tobago",
+    "fullName": "Trinidad in Tobago"
+  },
+  {
+    "code2": "TN",
+    "name": "Tunizija",
+    "fullName": "Tunizija"
+  },
+  {
+    "code2": "TR",
+    "name": "Turčija",
+    "fullName": "Turčija"
+  },
+  {
+    "code2": "TM",
+    "name": "Turkmenistan",
+    "fullName": "Turkmenistan"
+  },
+  {
+    "code2": "TV",
+    "name": "Tuvalu",
+    "fullName": "Tuvalu"
+  },
+  {
+    "code2": "UG",
+    "name": "Uganda",
+    "fullName": "Uganda"
+  },
+  {
+    "code2": "UA",
+    "name": "Ukrajina",
+    "fullName": "Ukrajina"
+  },
+  {
+    "code2": "AE",
+    "name": "Združeni arabski emirati",
+    "fullName": "Združeni arabski emirati"
+  },
+  {
+    "code2": "GB",
+    "name": "Združeno kraljestvo",
+    "fullName": "Združeno kraljestvo"
+  },
+  {
+    "code2": "US",
+    "name": "Združene države Amerike",
+    "fullName": "Združene države Amerike"
+  },
+  {
+    "code2": "UY",
+    "name": "Urugvaj",
+    "fullName": "Urugvaj"
+  },
+  {
+    "code2": "UZ",
+    "name": "Uzbekistan",
+    "fullName": "Uzbekistan"
+  },
+  {
+    "code2": "VU",
+    "name": "Vanuatu",
+    "fullName": "Vanuatu"
+  },
+  {
+    "code2": "VE",
+    "name": "Venezuela",
+    "fullName": "Venezuela"
+  },
+  {
+    "code2": "VN",
+    "name": "Vietnam",
+    "fullName": "Vietnam"
+  },
+  {
+    "code2": "YE",
+    "name": "Jemen",
+    "fullName": "Jemen"
+  },
+  {
+    "code2": "ZM",
+    "name": "Zambija",
+    "fullName": "Zambija"
+  },
+  {
+    "code2": "ZW",
+    "name": "Zimbabve",
+    "fullName": "Zimbabve"
+  },
+  {
+    "code2": "HK",
+    "name": "Hongkong",
+    "fullName": "Hongkong"
+  },
+  {
+    "code2": "MO",
+    "name": "Macao",
+    "fullName": "Macao"
+  },
+  {
+    "code2": "TW",
+    "name": "Tajvan",
+    "fullName": "Tajvan"
+  },
+  {
+    "code2": "PS",
+    "name": "Palestinsko ozemlje",
+    "fullName": "Palestinsko ozemlje"
+  },
+  {
+    "code2": "XK",
+    "name": "Kosovo",
+    "fullName": "Kosovo"
+  },
+  {
+    "code2": "VA",
+    "name": "Vatikan",
+    "fullName": "Vatikan"
+  },
+  {
+    "code2": "PR",
+    "name": "Portoriko",
+    "fullName": "Portoriko"
+  },
+  {
+    "code2": "GU",
+    "name": "Guam",
+    "fullName": "Guam"
+  },
+  {
+    "code2": "GL",
+    "name": "Grenlandija",
+    "fullName": "Grenlandija"
+  },
+  {
+    "code2": "FO",
+    "name": "Ferski otoki",
+    "fullName": "Ferski otoki"
+  },
+  {
+    "code2": "NC",
+    "name": "Nova Kaledonija",
+    "fullName": "Nova Kaledonija"
+  },
+  {
+    "code2": "PF",
+    "name": "Francoska Polinezija",
+    "fullName": "Francoska Polinezija"
+  },
+  {
+    "code2": "BM",
+    "name": "Bermudi",
+    "fullName": "Bermudi"
+  },
+  {
+    "code2": "KY",
+    "name": "Kajmanski otoki",
+    "fullName": "Kajmanski otoki"
+  },
+  {
+    "code2": "VI",
+    "name": "Ameriški Deviški otoki",
+    "fullName": "Ameriški Deviški otoki"
+  },
+  {
+    "code2": "CW",
+    "name": "Curaçao",
+    "fullName": "Curaçao"
+  },
+  {
+    "code2": "AW",
+    "name": "Aruba",
+    "fullName": "Aruba"
+  },
+  {
+    "code2": "GI",
+    "name": "Gibraltar",
+    "fullName": "Gibraltar"
+  },
+  {
+    "code2": "JE",
+    "name": "Jersey",
+    "fullName": "Jersey"
+  },
+  {
+    "code2": "GG",
+    "name": "Guernsey",
+    "fullName": "Guernsey"
+  },
+  {
+    "code2": "IM",
+    "name": "Otok Man",
+    "fullName": "Otok Man"
+  },
+  {
+    "code2": "TC",
+    "name": "Otoki Turks in Caicos",
+    "fullName": "Otoki Turks in Caicos"
+  },
+  {
+    "code2": "VG",
+    "name": "Britanski Deviški otoki",
+    "fullName": "Britanski Deviški otoki"
+  },
+  {
+    "code2": "AI",
+    "name": "Angvila",
+    "fullName": "Angvila"
+  },
+  {
+    "code2": "MS",
+    "name": "Montserrat",
+    "fullName": "Montserrat"
+  },
+  {
+    "code2": "SH",
+    "name": "Sveta Helena",
+    "fullName": "Sveta Helena"
+  },
+  {
+    "code2": "FK",
+    "name": "Falklandski otoki",
+    "fullName": "Falklandski otoki"
+  },
+  {
+    "code2": "GF",
+    "name": "Francoska Gvajana",
+    "fullName": "Francoska Gvajana"
+  },
+  {
+    "code2": "GP",
+    "name": "Gvadalupe",
+    "fullName": "Gvadalupe"
+  },
+  {
+    "code2": "MQ",
+    "name": "Martinik",
+    "fullName": "Martinik"
+  },
+  {
+    "code2": "RE",
+    "name": "Reunion",
+    "fullName": "Reunion"
+  },
+  {
+    "code2": "MF",
+    "name": "Saint Martin",
+    "fullName": "Saint Martin"
+  },
+  {
+    "code2": "PM",
+    "name": "Saint Pierre in Miquelon",
+    "fullName": "Saint Pierre in Miquelon"
+  },
+  {
+    "code2": "WF",
+    "name": "Wallis in Futuna",
+    "fullName": "Wallis in Futuna"
+  },
+  {
+    "code2": "YT",
+    "name": "Mayotte",
+    "fullName": "Mayotte"
+  },
+  {
+    "code2": "AS",
+    "name": "Ameriška Samoa",
+    "fullName": "Ameriška Samoa"
+  },
+  {
+    "code2": "MP",
+    "name": "Severni Marianski otoki",
+    "fullName": "Severni Marianski otoki"
+  },
+  {
+    "code2": "CX",
+    "name": "Božični otok",
+    "fullName": "Božični otok"
+  },
+  {
+    "code2": "CC",
+    "name": "Kokosovi otoki",
+    "fullName": "Kokosovi otoki"
+  },
+  {
+    "code2": "NF",
+    "name": "Norfolški otok",
+    "fullName": "Norfolški otok"
+  },
+  {
+    "code2": "PN",
+    "name": "Pitcairn",
+    "fullName": "Pitcairn"
+  },
+  {
+    "code2": "TK",
+    "name": "Tokelau",
+    "fullName": "Tokelau"
+  },
+  {
+    "code2": "NU",
+    "name": "Niue",
+    "fullName": "Niue"
+  },
+  {
+    "code2": "CK",
+    "name": "Cookovi otoki",
+    "fullName": "Cookovi otoki"
+  },
+  {
+    "code2": "EH",
+    "name": "Zahodna Sahara",
+    "fullName": "Zahodna Sahara"
+  },
+  {
+    "code2": "AX",
+    "name": "Ålandski otoki",
+    "fullName": "Ålandski otoki"
+  },
+  {
+    "code2": "BL",
+    "name": "Saint Barthélemy",
+    "fullName": "Saint Barthélemy"
+  },
+  {
+    "code2": "IO",
+    "name": "Britansko ozemlje v Indijskem oceanu",
+    "fullName": "Britansko ozemlje v Indijskem oceanu"
+  },
+  {
+    "code2": "SX",
+    "name": "Sint Maarten",
+    "fullName": "Sint Maarten"
+  },
+  {
+    "code2": "BQ",
+    "name": "Nizozemski Karibi",
+    "fullName": "Nizozemski Karibi"
+  },
+  {
+    "code2": "TF",
+    "name": "Francosko južno ozemlje",
+    "fullName": "Francosko južno ozemlje"
+  },
+  {
+    "code2": "GS",
+    "name": "Južna Georgia in Južni Sandwichevi otoki",
+    "fullName": "Južna Georgia in Južni Sandwichevi otoki"
+  },
+  {
+    "code2": "HM",
+    "name": "Heardov otok in McDonaldovi otoki",
+    "fullName": "Heardov otok in McDonaldovi otoki"
+  },
+  {
+    "code2": "AQ",
+    "name": "Antarktika",
+    "fullName": "Antarktika"
+  }
+]

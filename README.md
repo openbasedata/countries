@@ -6,7 +6,7 @@
 npm install @openbasedata/countries
 ```
 
-`name` and `fullName` entries include localized values for `native`, `en` (English), `zh-CN` (Simplified Chinese), `fr` (French), `de` (German), `es` (Spanish), `ja` (Japanese), `ko` (Korean), `hi` (Hindi), `ar` (Arabic), `pt` (Portuguese), `id` (Indonesian), `ru` (Russian), `vi` (Vietnamese), `tr` (Turkish), `it` (Italian), `pl` (Polish), `uk` (Ukrainian), and `nl` (Dutch).
+`data.json` contains country metadata with native names only. Localized translations are split into `/translations/<locale>.json` (one language per file) to keep the main dataset smaller.
 
 ## Data Structure
 
@@ -17,14 +17,10 @@ npm install @openbasedata/countries
     "code3": "CHN",
     "flag": "🇨🇳",
     "name": {
-      "native": "中国",
-      "en": "China",
-      "zh-CN": "中国"
+      "native": "中国"
     },
     "fullName": {
-      "native": "中华人民共和国",
-      "en": "People's Republic Of China",
-      "zh-CN": "中华人民共和国"
+      "native": "中华人民共和国"
     },
     "population": 1413400000,
     "area": 9596961,
@@ -40,10 +36,24 @@ npm install @openbasedata/countries
 | `flag` | `string` | Yes | Unicode flag emoji for the country/region, e.g. `🇨🇳`. |
 | `name` | `object` | Yes | Localized short/common country name keyed by locale code. |
 | `name.native` | `string` | Yes | Native-language short/common name. |
-| `name.<locale>` | `string` | Optional | Translation of short/common name for a locale key like `en`, `fr`, `zh-CN`, `zh-TW`, etc. |
-| `fullName` | `object` | Yes | Localized official/formal country name keyed by locale code. |
+| `fullName` | `object` | Yes | Official/formal country name object. |
 | `fullName.native` | `string` | Yes | Native-language official/formal name. |
-| `fullName.<locale>` | `string` | Optional | Translation of official/formal name for a locale key like `en`, `fr`, `zh-CN`, `zh-TW`, etc. |
 | `population` | `number` | Yes | Total population count as an integer. |
 | `area` | `number` | Yes | Total land area in square kilometers (`km²`). |
 | `languages` | `string[]` | Yes | List of ISO 639-1 language codes commonly used in that country/region, e.g. `["zh"]`. |
+
+## Translations
+
+Translations are stored in `/translations`, one file per locale (for example: `/translations/en.json`, `/translations/zh-CN.json`).
+
+Each translation file has this structure:
+
+```json
+[
+  {
+    "code2": "CN",
+    "name": "China",
+    "fullName": "People's Republic of China"
+  }
+]
+```
