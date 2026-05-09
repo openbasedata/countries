@@ -1,1237 +1,990 @@
-[
-  {
-    "code2": "AF",
+{
+  "AF": {
     "name": "아프가니스탄",
     "fullName": "아프가니스탄 이슬람 공화국"
   },
-  {
-    "code2": "AL",
+  "AL": {
     "name": "알바니아",
     "fullName": "알바니아 공화국"
   },
-  {
-    "code2": "DZ",
+  "DZ": {
     "name": "알제리",
     "fullName": "알제리 인민 민주주의 공화국"
   },
-  {
-    "code2": "AD",
+  "AD": {
     "name": "안도라",
     "fullName": "안도라 공국"
   },
-  {
-    "code2": "AO",
+  "AO": {
     "name": "앙골라",
     "fullName": "앙골라 공화국"
   },
-  {
-    "code2": "AG",
+  "AG": {
     "name": "안티구아 바부다",
     "fullName": "앤티가 바부다"
   },
-  {
-    "code2": "AR",
+  "AR": {
     "name": "아르헨티나",
     "fullName": "아르헨티나 공화국"
   },
-  {
-    "code2": "AM",
+  "AM": {
     "name": "아르메니아",
     "fullName": "아르메니아 공화국"
   },
-  {
-    "code2": "AU",
+  "AU": {
     "name": "호주",
     "fullName": "오스트레일리아"
   },
-  {
-    "code2": "AT",
+  "AT": {
     "name": "오스트리아",
     "fullName": "오스트리아 공화국"
   },
-  {
-    "code2": "AZ",
+  "AZ": {
     "name": "아제르바이잔",
     "fullName": "아제르바이잔 공화국"
   },
-  {
-    "code2": "BS",
+  "BS": {
     "name": "바하마",
     "fullName": "바하마 연방"
   },
-  {
-    "code2": "BH",
+  "BH": {
     "name": "바레인",
     "fullName": "바레인 왕국"
   },
-  {
-    "code2": "BD",
+  "BD": {
     "name": "방글라데시",
     "fullName": "방글라데시 인민 공화국"
   },
-  {
-    "code2": "BB",
+  "BB": {
     "name": "바베이도스",
     "fullName": "바베이도스"
   },
-  {
-    "code2": "BY",
+  "BY": {
     "name": "벨라루스",
     "fullName": "벨라루스 공화국"
   },
-  {
-    "code2": "BE",
+  "BE": {
     "name": "벨기에",
     "fullName": "벨기에 왕국"
   },
-  {
-    "code2": "BZ",
+  "BZ": {
     "name": "벨리즈",
     "fullName": "벨리즈"
   },
-  {
-    "code2": "BJ",
+  "BJ": {
     "name": "베냉",
     "fullName": "베냉 공화국"
   },
-  {
-    "code2": "BT",
+  "BT": {
     "name": "부탄",
     "fullName": "부탄 왕국"
   },
-  {
-    "code2": "BO",
+  "BO": {
     "name": "볼리비아",
     "fullName": "볼리비아 다국가 연합국"
   },
-  {
-    "code2": "BA",
+  "BA": {
     "name": "보스니아 헤르체고비나",
     "fullName": "보스니아 헤르체고비나"
   },
-  {
-    "code2": "BW",
+  "BW": {
     "name": "보츠와나",
     "fullName": "보츠와나 공화국"
   },
-  {
-    "code2": "BR",
+  "BR": {
     "name": "브라질",
     "fullName": "브라질 연방 공화국"
   },
-  {
-    "code2": "BN",
+  "BN": {
     "name": "브루나이",
     "fullName": "브루나이 다루살람"
   },
-  {
-    "code2": "BG",
+  "BG": {
     "name": "불가리아",
     "fullName": "불가리아 공화국"
   },
-  {
-    "code2": "BF",
+  "BF": {
     "name": "부르키나파소",
     "fullName": "부르키나파소"
   },
-  {
-    "code2": "BI",
+  "BI": {
     "name": "부룬디",
     "fullName": "부룬디 공화국"
   },
-  {
-    "code2": "CV",
+  "CV": {
     "name": "카보 베르데",
     "fullName": "카보베르데 공화국"
   },
-  {
-    "code2": "KH",
+  "KH": {
     "name": "캄보디아",
     "fullName": "캄보디아 왕국"
   },
-  {
-    "code2": "CM",
+  "CM": {
     "name": "카메룬",
     "fullName": "카메룬 공화국"
   },
-  {
-    "code2": "CA",
+  "CA": {
     "name": "캐나다",
     "fullName": "캐나다"
   },
-  {
-    "code2": "CF",
+  "CF": {
     "name": "중앙 아프리카",
     "fullName": "중앙아프리카 공화국"
   },
-  {
-    "code2": "TD",
+  "TD": {
     "name": "차드",
     "fullName": "차드 공화국"
   },
-  {
-    "code2": "CL",
+  "CL": {
     "name": "칠레",
     "fullName": "칠레 공화국"
   },
-  {
-    "code2": "CN",
+  "CN": {
     "name": "중국",
     "fullName": "중화인민공화국"
   },
-  {
-    "code2": "CO",
+  "CO": {
     "name": "콜롬비아",
     "fullName": "콜롬비아 공화국"
   },
-  {
-    "code2": "KM",
+  "KM": {
     "name": "코모로",
     "fullName": "코모로 연방"
   },
-  {
-    "code2": "CG",
+  "CG": {
     "name": "콩고",
     "fullName": "콩고 공화국"
   },
-  {
-    "code2": "CD",
+  "CD": {
     "name": "콩고 민주 공화국",
     "fullName": "콩고 민주 공화국"
   },
-  {
-    "code2": "CR",
+  "CR": {
     "name": "코스타리카",
     "fullName": "코스타리카 공화국"
   },
-  {
-    "code2": "CI",
+  "CI": {
     "name": "코트디부아르",
     "fullName": "코트디부아르 공화국"
   },
-  {
-    "code2": "HR",
+  "HR": {
     "name": "크로아티아",
     "fullName": "크로아티아 공화국"
   },
-  {
-    "code2": "CU",
+  "CU": {
     "name": "쿠바",
     "fullName": "쿠바 공화국"
   },
-  {
-    "code2": "CY",
+  "CY": {
     "name": "사이프러스",
     "fullName": "키프로스 공화국"
   },
-  {
-    "code2": "CZ",
+  "CZ": {
     "name": "체코공화국",
     "fullName": "체코 공화국"
   },
-  {
-    "code2": "DK",
+  "DK": {
     "name": "덴마크",
     "fullName": "덴마크 왕국"
   },
-  {
-    "code2": "DJ",
+  "DJ": {
     "name": "지부티",
     "fullName": "지부티 공화국"
   },
-  {
-    "code2": "DM",
+  "DM": {
     "name": "도미니카 연방",
     "fullName": "도미니카 연방"
   },
-  {
-    "code2": "DO",
+  "DO": {
     "name": "도미니카 공화국",
     "fullName": "도미니카 공화국"
   },
-  {
-    "code2": "EC",
+  "EC": {
     "name": "에콰도르",
     "fullName": "에콰도르 공화국"
   },
-  {
-    "code2": "EG",
+  "EG": {
     "name": "이집트",
     "fullName": "이집트 아랍 공화국"
   },
-  {
-    "code2": "SV",
+  "SV": {
     "name": "엘살바도르",
     "fullName": "엘살바도르 공화국"
   },
-  {
-    "code2": "GQ",
+  "GQ": {
     "name": "적도 기니",
     "fullName": "적도 기니 공화국"
   },
-  {
-    "code2": "ER",
+  "ER": {
     "name": "에리트레아",
     "fullName": "에리트레아 공화국"
   },
-  {
-    "code2": "EE",
+  "EE": {
     "name": "에스토니아",
     "fullName": "에스토니아 공화국"
   },
-  {
-    "code2": "SZ",
+  "SZ": {
     "name": "스와질란드",
     "fullName": "에스와티니 왕국"
   },
-  {
-    "code2": "ET",
+  "ET": {
     "name": "이디오피아",
     "fullName": "에티오피아 연방 민주 공화국"
   },
-  {
-    "code2": "FJ",
+  "FJ": {
     "name": "피지",
     "fullName": "피지 공화국"
   },
-  {
-    "code2": "FI",
+  "FI": {
     "name": "핀란드",
     "fullName": "핀란드 공화국"
   },
-  {
-    "code2": "FR",
+  "FR": {
     "name": "프랑스",
     "fullName": "프랑스 공화국"
   },
-  {
-    "code2": "GA",
+  "GA": {
     "name": "가봉",
     "fullName": "가봉 공화국"
   },
-  {
-    "code2": "GM",
+  "GM": {
     "name": "감비아",
     "fullName": "감비아 공화국"
   },
-  {
-    "code2": "GE",
+  "GE": {
     "name": "그루지아",
     "fullName": "조지아"
   },
-  {
-    "code2": "DE",
+  "DE": {
     "name": "독일",
     "fullName": "독일 연방 공화국"
   },
-  {
-    "code2": "GH",
+  "GH": {
     "name": "가나",
     "fullName": "가나 공화국"
   },
-  {
-    "code2": "GR",
+  "GR": {
     "name": "그리스",
     "fullName": "그리스 공화국"
   },
-  {
-    "code2": "GD",
+  "GD": {
     "name": "그레나다",
     "fullName": "그레나다"
   },
-  {
-    "code2": "GT",
+  "GT": {
     "name": "과테말라",
     "fullName": "과테말라 공화국"
   },
-  {
-    "code2": "GN",
+  "GN": {
     "name": "기니",
     "fullName": "기니 공화국"
   },
-  {
-    "code2": "GW",
+  "GW": {
     "name": "기네비쏘",
     "fullName": "기니비사우 공화국"
   },
-  {
-    "code2": "GY",
+  "GY": {
     "name": "가이아나",
     "fullName": "가이아나 공화국"
   },
-  {
-    "code2": "HT",
+  "HT": {
     "name": "아이티",
     "fullName": "아이티 공화국"
   },
-  {
-    "code2": "HN",
+  "HN": {
     "name": "온두라스",
     "fullName": "온두라스 공화국"
   },
-  {
-    "code2": "HU",
+  "HU": {
     "name": "헝가리",
     "fullName": "헝가리"
   },
-  {
-    "code2": "IS",
+  "IS": {
     "name": "아이슬란드",
     "fullName": "아이슬란드"
   },
-  {
-    "code2": "IN",
+  "IN": {
     "name": "인도",
     "fullName": "인도 공화국"
   },
-  {
-    "code2": "ID",
+  "ID": {
     "name": "인도네시아",
     "fullName": "인도네시아 공화국"
   },
-  {
-    "code2": "IR",
+  "IR": {
     "name": "이란",
     "fullName": "이란 이슬람 공화국"
   },
-  {
-    "code2": "IQ",
+  "IQ": {
     "name": "이라크",
     "fullName": "이라크 공화국"
   },
-  {
-    "code2": "IE",
+  "IE": {
     "name": "아일랜드",
     "fullName": "아일랜드"
   },
-  {
-    "code2": "IL",
+  "IL": {
     "name": "이스라엘",
     "fullName": "이스라엘"
   },
-  {
-    "code2": "IT",
+  "IT": {
     "name": "이탈리아",
     "fullName": "이탈리아 공화국"
   },
-  {
-    "code2": "JM",
+  "JM": {
     "name": "자메이카",
     "fullName": "자메이카"
   },
-  {
-    "code2": "JP",
+  "JP": {
     "name": "일본",
     "fullName": "일본"
   },
-  {
-    "code2": "JO",
+  "JO": {
     "name": "요르단",
     "fullName": "요르단 하심 왕국"
   },
-  {
-    "code2": "KZ",
+  "KZ": {
     "name": "카자흐스탄",
     "fullName": "카자흐스탄 공화국"
   },
-  {
-    "code2": "KE",
+  "KE": {
     "name": "케냐",
     "fullName": "케냐 공화국"
   },
-  {
-    "code2": "KI",
+  "KI": {
     "name": "키르바시",
     "fullName": "키리바시 공화국"
   },
-  {
-    "code2": "KP",
+  "KP": {
     "name": "북한",
     "fullName": "조선민주주의인민공화국"
   },
-  {
-    "code2": "KR",
+  "KR": {
     "name": "대한민국",
     "fullName": "대한민국"
   },
-  {
-    "code2": "KW",
+  "KW": {
     "name": "쿠웨이트",
     "fullName": "쿠웨이트"
   },
-  {
-    "code2": "KG",
+  "KG": {
     "name": "키르키즈스탄",
     "fullName": "키르기스 공화국"
   },
-  {
-    "code2": "LA",
+  "LA": {
     "name": "라오스",
     "fullName": "라오 인민 민주주의 공화국"
   },
-  {
-    "code2": "LV",
+  "LV": {
     "name": "라트비아",
     "fullName": "라트비아 공화국"
   },
-  {
-    "code2": "LB",
+  "LB": {
     "name": "레바논",
     "fullName": "레바논 공화국"
   },
-  {
-    "code2": "LS",
+  "LS": {
     "name": "레소토",
     "fullName": "레소토 왕국"
   },
-  {
-    "code2": "LR",
+  "LR": {
     "name": "라이베리아",
     "fullName": "라이베리아 공화국"
   },
-  {
-    "code2": "LY",
+  "LY": {
     "name": "리비아",
     "fullName": "리비아"
   },
-  {
-    "code2": "LI",
+  "LI": {
     "name": "리히텐슈타인",
     "fullName": "리히텐슈타인 공국"
   },
-  {
-    "code2": "LT",
+  "LT": {
     "name": "리투아니아",
     "fullName": "리투아니아 공화국"
   },
-  {
-    "code2": "LU",
+  "LU": {
     "name": "룩셈부르크",
     "fullName": "룩셈부르크 대공국"
   },
-  {
-    "code2": "MG",
+  "MG": {
     "name": "마다가스카르",
     "fullName": "마다가스카르 공화국"
   },
-  {
-    "code2": "MW",
+  "MW": {
     "name": "말라위",
     "fullName": "말라위 공화국"
   },
-  {
-    "code2": "MY",
+  "MY": {
     "name": "말레이시아",
     "fullName": "말레이시아"
   },
-  {
-    "code2": "MV",
+  "MV": {
     "name": "몰디브",
     "fullName": "몰디브 공화국"
   },
-  {
-    "code2": "ML",
+  "ML": {
     "name": "말리",
     "fullName": "말리 공화국"
   },
-  {
-    "code2": "MT",
+  "MT": {
     "name": "몰타",
     "fullName": "몰타 공화국"
   },
-  {
-    "code2": "MH",
+  "MH": {
     "name": "마샬군도",
     "fullName": "마셜 제도 공화국"
   },
-  {
-    "code2": "MR",
+  "MR": {
     "name": "모리타니",
     "fullName": "모리타니 이슬람 공화국"
   },
-  {
-    "code2": "MU",
+  "MU": {
     "name": "모리셔스",
     "fullName": "모리셔스 공화국"
   },
-  {
-    "code2": "MX",
+  "MX": {
     "name": "멕시코",
     "fullName": "멕시코 합중국"
   },
-  {
-    "code2": "FM",
+  "FM": {
     "name": "미크로네시아",
     "fullName": "미크로네시아 연방"
   },
-  {
-    "code2": "MD",
+  "MD": {
     "name": "몰도바",
     "fullName": "몰도바 공화국"
   },
-  {
-    "code2": "MC",
+  "MC": {
     "name": "모나코",
     "fullName": "모나코 공국"
   },
-  {
-    "code2": "MN",
+  "MN": {
     "name": "몽골",
     "fullName": "몽골"
   },
-  {
-    "code2": "ME",
+  "ME": {
     "name": "몬테네그로",
     "fullName": "몬테네그로"
   },
-  {
-    "code2": "MA",
+  "MA": {
     "name": "모로코",
     "fullName": "모로코 왕국"
   },
-  {
-    "code2": "MZ",
+  "MZ": {
     "name": "모잠비크",
     "fullName": "모잠비크 공화국"
   },
-  {
-    "code2": "MM",
+  "MM": {
     "name": "미얀마",
     "fullName": "미얀마 공화국"
   },
-  {
-    "code2": "NA",
+  "NA": {
     "name": "나미비아",
     "fullName": "나미비아 공화국"
   },
-  {
-    "code2": "NR",
+  "NR": {
     "name": "나우루",
     "fullName": "나우루 공화국"
   },
-  {
-    "code2": "NP",
+  "NP": {
     "name": "네팔",
     "fullName": "네팔 연방 민주 공화국"
   },
-  {
-    "code2": "NL",
+  "NL": {
     "name": "네덜란드",
     "fullName": "네덜란드 왕국"
   },
-  {
-    "code2": "NZ",
+  "NZ": {
     "name": "뉴질랜드",
     "fullName": "뉴질랜드"
   },
-  {
-    "code2": "NI",
+  "NI": {
     "name": "니카라과",
     "fullName": "니카라과 공화국"
   },
-  {
-    "code2": "NE",
+  "NE": {
     "name": "니제르",
     "fullName": "니제르 공화국"
   },
-  {
-    "code2": "NG",
+  "NG": {
     "name": "나이지리아",
     "fullName": "나이지리아 연방 공화국"
   },
-  {
-    "code2": "MK",
+  "MK": {
     "name": "마케도니아",
     "fullName": "북마케도니아 공화국"
   },
-  {
-    "code2": "NO",
+  "NO": {
     "name": "노르웨이",
     "fullName": "노르웨이 왕국"
   },
-  {
-    "code2": "OM",
+  "OM": {
     "name": "오만",
     "fullName": "오만 이슬람왕국"
   },
-  {
-    "code2": "PK",
+  "PK": {
     "name": "파키스탄",
     "fullName": "파키스탄 이슬람 공화국"
   },
-  {
-    "code2": "PW",
+  "PW": {
     "name": "팔라우",
     "fullName": "팔라우 공화국"
   },
-  {
-    "code2": "PA",
+  "PA": {
     "name": "파나마",
     "fullName": "파나마 공화국"
   },
-  {
-    "code2": "PG",
+  "PG": {
     "name": "파푸아 뉴기니",
     "fullName": "파푸아뉴기니 독립국"
   },
-  {
-    "code2": "PY",
+  "PY": {
     "name": "파라과이",
     "fullName": "파라과이 공화국"
   },
-  {
-    "code2": "PE",
+  "PE": {
     "name": "페루",
     "fullName": "페루 공화국"
   },
-  {
-    "code2": "PH",
+  "PH": {
     "name": "필리핀",
     "fullName": "필리핀 공화국"
   },
-  {
-    "code2": "PL",
+  "PL": {
     "name": "폴랜드",
     "fullName": "폴란드 공화국"
   },
-  {
-    "code2": "PT",
+  "PT": {
     "name": "포르투칼",
     "fullName": "포르투갈 공화국"
   },
-  {
-    "code2": "QA",
+  "QA": {
     "name": "카타르",
     "fullName": "카타르"
   },
-  {
-    "code2": "RO",
+  "RO": {
     "name": "루마니아",
     "fullName": "루마니아"
   },
-  {
-    "code2": "RU",
+  "RU": {
     "name": "러시아연방",
     "fullName": "러시아 연방"
   },
-  {
-    "code2": "RW",
+  "RW": {
     "name": "르완다",
     "fullName": "르완다 공화국"
   },
-  {
-    "code2": "KN",
+  "KN": {
     "name": "세인트 키츠 네비스",
     "fullName": "세인트키츠 네비스"
   },
-  {
-    "code2": "LC",
+  "LC": {
     "name": "세인트 루시아",
     "fullName": "세인트루시아"
   },
-  {
-    "code2": "VC",
+  "VC": {
     "name": "세인트 빈센트 그레나딘",
     "fullName": "세인트빈센트 그레나딘"
   },
-  {
-    "code2": "WS",
+  "WS": {
     "name": "사모아",
     "fullName": "사모아"
   },
-  {
-    "code2": "SM",
+  "SM": {
     "name": "산 마리노",
     "fullName": "산마리노 공화국"
   },
-  {
-    "code2": "ST",
+  "ST": {
     "name": "상토메프린시페",
     "fullName": "상투메 프린시페 민주 공화국"
   },
-  {
-    "code2": "SA",
+  "SA": {
     "name": "사우디아라비아",
     "fullName": "사우디아라비아 왕국"
   },
-  {
-    "code2": "SN",
+  "SN": {
     "name": "세네갈",
     "fullName": "세네갈 공화국"
   },
-  {
-    "code2": "RS",
+  "RS": {
     "name": "세르비아",
     "fullName": "세르비아 공화국"
   },
-  {
-    "code2": "SC",
+  "SC": {
     "name": "세이셸",
     "fullName": "세이셸 공화국"
   },
-  {
-    "code2": "SL",
+  "SL": {
     "name": "시에라 리온",
     "fullName": "시에라리온 공화국"
   },
-  {
-    "code2": "SG",
+  "SG": {
     "name": "싱가포르",
     "fullName": "싱가포르 공화국"
   },
-  {
-    "code2": "SK",
+  "SK": {
     "name": "슬로바키아",
     "fullName": "슬로바키아 공화국"
   },
-  {
-    "code2": "SI",
+  "SI": {
     "name": "슬로베니아",
     "fullName": "슬로베니아 공화국"
   },
-  {
-    "code2": "SB",
+  "SB": {
     "name": "솔로몬 아일랜드",
     "fullName": "솔로몬 제도"
   },
-  {
-    "code2": "SO",
+  "SO": {
     "name": "소말리아",
     "fullName": "소말리아 연방 공화국"
   },
-  {
-    "code2": "ZA",
+  "ZA": {
     "name": "남아프리카",
     "fullName": "남아프리카 공화국"
   },
-  {
-    "code2": "SS",
+  "SS": {
     "name": "남수단",
     "fullName": "남수단 공화국"
   },
-  {
-    "code2": "ES",
+  "ES": {
     "name": "스페인",
     "fullName": "스페인 왕국"
   },
-  {
-    "code2": "LK",
+  "LK": {
     "name": "스리랑카",
     "fullName": "스리랑카 민주 사회주의 공화국"
   },
-  {
-    "code2": "SD",
+  "SD": {
     "name": "수단",
     "fullName": "수단 공화국"
   },
-  {
-    "code2": "SR",
+  "SR": {
     "name": "수리남",
     "fullName": "수리남 공화국"
   },
-  {
-    "code2": "SE",
+  "SE": {
     "name": "스웨덴",
     "fullName": "스웨덴 왕국"
   },
-  {
-    "code2": "CH",
+  "CH": {
     "name": "스위스",
     "fullName": "스위스 연방"
   },
-  {
-    "code2": "SY",
+  "SY": {
     "name": "시리아",
     "fullName": "시리아 아랍 공화국"
   },
-  {
-    "code2": "TJ",
+  "TJ": {
     "name": "타지키스탄",
     "fullName": "타지키스탄 공화국"
   },
-  {
-    "code2": "TZ",
+  "TZ": {
     "name": "탄자니아",
     "fullName": "탄자니아 연방 공화국"
   },
-  {
-    "code2": "TH",
+  "TH": {
     "name": "태국",
     "fullName": "타일랜드 왕국"
   },
-  {
-    "code2": "TL",
+  "TL": {
     "name": "동티모르",
     "fullName": "동티모르 민주 공화국"
   },
-  {
-    "code2": "TG",
+  "TG": {
     "name": "토고",
     "fullName": "토고 공화국"
   },
-  {
-    "code2": "TO",
+  "TO": {
     "name": "통가",
     "fullName": "통가 왕국"
   },
-  {
-    "code2": "TT",
+  "TT": {
     "name": "트리니다드 토바고",
     "fullName": "트리니다드 토바고 공화국"
   },
-  {
-    "code2": "TN",
+  "TN": {
     "name": "튀니지아",
     "fullName": "튀니지 공화국"
   },
-  {
-    "code2": "TR",
+  "TR": {
     "name": "터키",
     "fullName": "튀르키예 공화국"
   },
-  {
-    "code2": "TM",
+  "TM": {
     "name": "트르크메니스탄",
     "fullName": "투르크메니스탄"
   },
-  {
-    "code2": "TV",
+  "TV": {
     "name": "트발루",
     "fullName": "투발루"
   },
-  {
-    "code2": "UG",
+  "UG": {
     "name": "우간다",
     "fullName": "우간다 공화국"
   },
-  {
-    "code2": "UA",
+  "UA": {
     "name": "우크라이나",
     "fullName": "우크라이나"
   },
-  {
-    "code2": "AE",
+  "AE": {
     "name": "아랍에미리트연합",
     "fullName": "아랍에미리트"
   },
-  {
-    "code2": "GB",
+  "GB": {
     "name": "영국",
     "fullName": "대영제국"
   },
-  {
-    "code2": "US",
+  "US": {
     "name": "미국",
     "fullName": "미국"
   },
-  {
-    "code2": "UY",
+  "UY": {
     "name": "우루과이",
     "fullName": "동 우루과이 공화국"
   },
-  {
-    "code2": "UZ",
+  "UZ": {
     "name": "우즈베키스탄",
     "fullName": "우즈베키스탄 공화국"
   },
-  {
-    "code2": "VU",
+  "VU": {
     "name": "바누아투",
     "fullName": "바누아투 공화국"
   },
-  {
-    "code2": "VE",
+  "VE": {
     "name": "베네수엘라",
     "fullName": "베네수엘라 볼리바르 공화국"
   },
-  {
-    "code2": "VN",
+  "VN": {
     "name": "베트남",
     "fullName": "베트남 사회주의 공화국"
   },
-  {
-    "code2": "YE",
+  "YE": {
     "name": "예멘",
     "fullName": "예멘 공화국"
   },
-  {
-    "code2": "ZM",
+  "ZM": {
     "name": "잠비아",
     "fullName": "잠비아 공화국"
   },
-  {
-    "code2": "ZW",
+  "ZW": {
     "name": "짐바브웨 공화국",
     "fullName": "짐바브웨 공화국"
   },
-  {
-    "code2": "HK",
+  "HK": {
     "name": "홍콩",
     "fullName": "홍콩, 중국의 특별 행정구"
   },
-  {
-    "code2": "MO",
+  "MO": {
     "name": "마카오",
     "fullName": "마카오, 중국의 특별 행정구"
   },
-  {
-    "code2": "TW",
+  "TW": {
     "name": "중화민국",
     "fullName": "타이완, 중국령"
   },
-  {
-    "code2": "PS",
+  "PS": {
     "name": "팔레스타인",
     "fullName": "팔레스타인"
   },
-  {
-    "code2": "XK",
+  "XK": {
     "name": "코소보",
     "fullName": "코소보 공화국"
   },
-  {
-    "code2": "VA",
+  "VA": {
     "name": "바티칸",
     "fullName": "바티칸 시티 (Holy See)"
   },
-  {
-    "code2": "PR",
+  "PR": {
     "name": "푸에르토리코",
     "fullName": "푸에르토리코"
   },
-  {
-    "code2": "GU",
+  "GU": {
     "name": "괌",
     "fullName": "괌"
   },
-  {
-    "code2": "GL",
+  "GL": {
     "name": "그린랜드",
     "fullName": "그린란드"
   },
-  {
-    "code2": "FO",
+  "FO": {
     "name": "페로 군도",
     "fullName": "페로 제도"
   },
-  {
-    "code2": "NC",
+  "NC": {
     "name": "뉴칼레도니아",
     "fullName": "누벨칼레도니"
   },
-  {
-    "code2": "PF",
+  "PF": {
     "name": "프랑스령 폴리네시아",
     "fullName": "프랑스령 폴리네시아"
   },
-  {
-    "code2": "BM",
+  "BM": {
     "name": "버뮤다",
     "fullName": "버뮤다"
   },
-  {
-    "code2": "KY",
+  "KY": {
     "name": "케이맨섬",
     "fullName": "케이맨 제도"
   },
-  {
-    "code2": "VI",
+  "VI": {
     "name": "미국령 버진아일랜드",
     "fullName": "미국령 버진 제도"
   },
-  {
-    "code2": "CW",
+  "CW": {
     "name": "큐라소",
     "fullName": "퀴라소"
   },
-  {
-    "code2": "AW",
+  "AW": {
     "name": "아루바",
     "fullName": "아루바"
   },
-  {
-    "code2": "GI",
+  "GI": {
     "name": "지브랄타",
     "fullName": "지브롤터"
   },
-  {
-    "code2": "JE",
+  "JE": {
     "name": "저지",
     "fullName": "저지 섬"
   },
-  {
-    "code2": "GG",
+  "GG": {
     "name": "건지",
     "fullName": "건지 섬"
   },
-  {
-    "code2": "IM",
+  "IM": {
     "name": "맨섬",
     "fullName": "맨 섬"
   },
-  {
-    "code2": "TC",
+  "TC": {
     "name": "터크스",
     "fullName": "터크스 케이커스 제도"
   },
-  {
-    "code2": "VG",
+  "VG": {
     "name": "영국령 버진아일랜드",
     "fullName": "영국령 버진 제도"
   },
-  {
-    "code2": "AI",
+  "AI": {
     "name": "앙길라",
     "fullName": "앵귈라"
   },
-  {
-    "code2": "MS",
+  "MS": {
     "name": "몬트세라트",
     "fullName": "몬트세랫"
   },
-  {
-    "code2": "SH",
+  "SH": {
     "name": "세인트 헬레나",
     "fullName": "세인트헬레나 어센션 트리스탄다쿠냐"
   },
-  {
-    "code2": "FK",
+  "FK": {
     "name": "포클랜드섬",
     "fullName": "포클랜드 제도 (말비나스)"
   },
-  {
-    "code2": "GF",
+  "GF": {
     "name": "프랑스령 기아나",
     "fullName": "프랑스령 기아나"
   },
-  {
-    "code2": "GP",
+  "GP": {
     "name": "과들루프",
     "fullName": "과들루프"
   },
-  {
-    "code2": "MQ",
+  "MQ": {
     "name": "마르티니크",
     "fullName": "마르티니크"
   },
-  {
-    "code2": "RE",
+  "RE": {
     "name": "리유니온",
     "fullName": "레위니옹"
   },
-  {
-    "code2": "MF",
+  "MF": {
     "name": "세인트 마틴 (프랑스어 부분)",
     "fullName": "생마르탱 (프랑스령)"
   },
-  {
-    "code2": "PM",
+  "PM": {
     "name": "세인트리에르도,미괘론도",
     "fullName": "생피에르 미클롱"
   },
-  {
-    "code2": "WF",
+  "WF": {
     "name": "월리스 후트나",
     "fullName": "왈리스 퓌튀나"
   },
-  {
-    "code2": "YT",
+  "YT": {
     "name": "마요트",
     "fullName": "마요트"
   },
-  {
-    "code2": "AS",
+  "AS": {
     "name": "아메리칸 사모아",
     "fullName": "아메리칸사모아"
   },
-  {
-    "code2": "MP",
+  "MP": {
     "name": "북마리아나 군도",
     "fullName": "북마리아나 제도 연방"
   },
-  {
-    "code2": "CX",
+  "CX": {
     "name": "크리스마스섬",
     "fullName": "크리스마스 섬"
   },
-  {
-    "code2": "CC",
+  "CC": {
     "name": "코코스 제도",
     "fullName": "코코스 제도"
   },
-  {
-    "code2": "NF",
+  "NF": {
     "name": "노퍽섬",
     "fullName": "노퍽 섬"
   },
-  {
-    "code2": "PN",
+  "PN": {
     "name": "핏케언 군도",
     "fullName": "핏케언 제도"
   },
-  {
-    "code2": "TK",
+  "TK": {
     "name": "토켈로",
     "fullName": "토켈라우"
   },
-  {
-    "code2": "NU",
+  "NU": {
     "name": "니우에",
     "fullName": "니우에"
   },
-  {
-    "code2": "CK",
+  "CK": {
     "name": "쿡 제도",
     "fullName": "쿡 제도"
   },
-  {
-    "code2": "EH",
+  "EH": {
     "name": "서사하라",
     "fullName": "서사하라"
   },
-  {
-    "code2": "AX",
+  "AX": {
     "name": "올란드 제도",
     "fullName": "올란드 제도"
   },
-  {
-    "code2": "BL",
+  "BL": {
     "name": "생 바르 텔레 미",
     "fullName": "생바르텔레미"
   },
-  {
-    "code2": "IO",
+  "IO": {
     "name": "영인도 제도",
     "fullName": "영국령 인도양 지역"
   },
-  {
-    "code2": "SX",
+  "SX": {
     "name": "신트마르텐",
     "fullName": "신트마르턴 (네덜란드령)"
   },
-  {
-    "code2": "BQ",
+  "BQ": {
     "name": "보네르,신트유스타티우스,사바",
     "fullName": "보네르, 신트외스타티위스, 사바 섬"
   },
-  {
-    "code2": "TF",
+  "TF": {
     "name": "프랑스 남부영토",
     "fullName": "프랑스령 남 자치구역"
   },
-  {
-    "code2": "GS",
+  "GS": {
     "name": "남조지아 군도",
     "fullName": "사우스조지아 사우스샌드위치 제도"
   },
-  {
-    "code2": "HM",
+  "HM": {
     "name": "허드 맥도날드 군도",
     "fullName": "허드 맥도널드 제도"
   },
-  {
-    "code2": "AQ",
+  "AQ": {
     "name": "안타티카",
     "fullName": "남극"
   }
-]
+}

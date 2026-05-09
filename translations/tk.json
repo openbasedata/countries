@@ -1,1237 +1,990 @@
-[
-  {
-    "code2": "AF",
+{
+  "AF": {
     "name": "Owganystan",
     "fullName": "Owganystan"
   },
-  {
-    "code2": "AL",
+  "AL": {
     "name": "Albaniýa",
     "fullName": "Albaniýa"
   },
-  {
-    "code2": "DZ",
+  "DZ": {
     "name": "Aljyr",
     "fullName": "Aljyr"
   },
-  {
-    "code2": "AD",
+  "AD": {
     "name": "Andorra",
     "fullName": "Andorra"
   },
-  {
-    "code2": "AO",
+  "AO": {
     "name": "Angola",
     "fullName": "Angola"
   },
-  {
-    "code2": "AG",
+  "AG": {
     "name": "Antigua we Barbuda",
     "fullName": "Antigua we Barbuda"
   },
-  {
-    "code2": "AR",
+  "AR": {
     "name": "Argentina",
     "fullName": "Argentina"
   },
-  {
-    "code2": "AM",
+  "AM": {
     "name": "Ermenistan",
     "fullName": "Ermenistan"
   },
-  {
-    "code2": "AU",
+  "AU": {
     "name": "Awstraliýa",
     "fullName": "Awstraliýa"
   },
-  {
-    "code2": "AT",
+  "AT": {
     "name": "Awstriýa",
     "fullName": "Awstriýa"
   },
-  {
-    "code2": "AZ",
+  "AZ": {
     "name": "Azerbaýjan",
     "fullName": "Azerbaýjan"
   },
-  {
-    "code2": "BS",
+  "BS": {
     "name": "Bagama adalary",
     "fullName": "Bagama adalary"
   },
-  {
-    "code2": "BH",
+  "BH": {
     "name": "Bahreýn",
     "fullName": "Bahreýn"
   },
-  {
-    "code2": "BD",
+  "BD": {
     "name": "Bangladeş",
     "fullName": "Bangladeş"
   },
-  {
-    "code2": "BB",
+  "BB": {
     "name": "Barbados",
     "fullName": "Barbados"
   },
-  {
-    "code2": "BY",
+  "BY": {
     "name": "Belarusiýa",
     "fullName": "Belarusiýa"
   },
-  {
-    "code2": "BE",
+  "BE": {
     "name": "Belgiýa",
     "fullName": "Belgiýa"
   },
-  {
-    "code2": "BZ",
+  "BZ": {
     "name": "Beliz",
     "fullName": "Beliz"
   },
-  {
-    "code2": "BJ",
+  "BJ": {
     "name": "Benin",
     "fullName": "Benin"
   },
-  {
-    "code2": "BT",
+  "BT": {
     "name": "Butan",
     "fullName": "Butan"
   },
-  {
-    "code2": "BO",
+  "BO": {
     "name": "Boliwiýa",
     "fullName": "Boliwiýa"
   },
-  {
-    "code2": "BA",
+  "BA": {
     "name": "Bosniýa we Gertsegowina",
     "fullName": "Bosniýa we Gertsegowina"
   },
-  {
-    "code2": "BW",
+  "BW": {
     "name": "Botswana",
     "fullName": "Botswana"
   },
-  {
-    "code2": "BR",
+  "BR": {
     "name": "Braziliýa",
     "fullName": "Braziliýa"
   },
-  {
-    "code2": "BN",
+  "BN": {
     "name": "Bruneý",
     "fullName": "Bruneý"
   },
-  {
-    "code2": "BG",
+  "BG": {
     "name": "Bolgariýa",
     "fullName": "Bolgariýa"
   },
-  {
-    "code2": "BF",
+  "BF": {
     "name": "Burkina-Faso",
     "fullName": "Burkina-Faso"
   },
-  {
-    "code2": "BI",
+  "BI": {
     "name": "Burundi",
     "fullName": "Burundi"
   },
-  {
-    "code2": "CV",
+  "CV": {
     "name": "Kabo-Werde",
     "fullName": "Kabo-Werde"
   },
-  {
-    "code2": "KH",
+  "KH": {
     "name": "Kambodja",
     "fullName": "Kambodja"
   },
-  {
-    "code2": "CM",
+  "CM": {
     "name": "Kamerun",
     "fullName": "Kamerun"
   },
-  {
-    "code2": "CA",
+  "CA": {
     "name": "Kanada",
     "fullName": "Kanada"
   },
-  {
-    "code2": "CF",
+  "CF": {
     "name": "Merkezi Afrika Respublikasy",
     "fullName": "Merkezi Afrika Respublikasy"
   },
-  {
-    "code2": "TD",
+  "TD": {
     "name": "Çad",
     "fullName": "Çad"
   },
-  {
-    "code2": "CL",
+  "CL": {
     "name": "Çili",
     "fullName": "Çili"
   },
-  {
-    "code2": "CN",
+  "CN": {
     "name": "Kitaý",
     "fullName": "Kitaý"
   },
-  {
-    "code2": "CO",
+  "CO": {
     "name": "Kolumbiýa",
     "fullName": "Kolumbiýa"
   },
-  {
-    "code2": "KM",
+  "KM": {
     "name": "Komor adalary",
     "fullName": "Komor adalary"
   },
-  {
-    "code2": "CG",
+  "CG": {
     "name": "Kongo Respublikasy",
     "fullName": "Kongo Respublikasy"
   },
-  {
-    "code2": "CD",
+  "CD": {
     "name": "Kongo Demokratik Respublikasy",
     "fullName": "Kongo Demokratik Respublikasy"
   },
-  {
-    "code2": "CR",
+  "CR": {
     "name": "Kosta-Rika",
     "fullName": "Kosta-Rika"
   },
-  {
-    "code2": "CI",
+  "CI": {
     "name": "Kot-d’Iwuar",
     "fullName": "Kot-d’Iwuar"
   },
-  {
-    "code2": "HR",
+  "HR": {
     "name": "Horwatiýa",
     "fullName": "Horwatiýa"
   },
-  {
-    "code2": "CU",
+  "CU": {
     "name": "Kuba",
     "fullName": "Kuba"
   },
-  {
-    "code2": "CY",
+  "CY": {
     "name": "Kipr",
     "fullName": "Kipr"
   },
-  {
-    "code2": "CZ",
+  "CZ": {
     "name": "Çehiýa",
     "fullName": "Çehiýa"
   },
-  {
-    "code2": "DK",
+  "DK": {
     "name": "Daniýa",
     "fullName": "Daniýa"
   },
-  {
-    "code2": "DJ",
+  "DJ": {
     "name": "Jibuti",
     "fullName": "Jibuti"
   },
-  {
-    "code2": "DM",
+  "DM": {
     "name": "Dominika",
     "fullName": "Dominika"
   },
-  {
-    "code2": "DO",
+  "DO": {
     "name": "Dominikan Respublikasy",
     "fullName": "Dominikan Respublikasy"
   },
-  {
-    "code2": "EC",
+  "EC": {
     "name": "Ekwador",
     "fullName": "Ekwador"
   },
-  {
-    "code2": "EG",
+  "EG": {
     "name": "Müsür",
     "fullName": "Müsür"
   },
-  {
-    "code2": "SV",
+  "SV": {
     "name": "Salwador",
     "fullName": "Salwador"
   },
-  {
-    "code2": "GQ",
+  "GQ": {
     "name": "Ekwatorial Gwineýa",
     "fullName": "Ekwatorial Gwineýa"
   },
-  {
-    "code2": "ER",
+  "ER": {
     "name": "Eritriýa",
     "fullName": "Eritriýa"
   },
-  {
-    "code2": "EE",
+  "EE": {
     "name": "Estoniýa",
     "fullName": "Estoniýa"
   },
-  {
-    "code2": "SZ",
+  "SZ": {
     "name": "Swazilend",
     "fullName": "Swazilend"
   },
-  {
-    "code2": "ET",
+  "ET": {
     "name": "Efiopiýa",
     "fullName": "Efiopiýa"
   },
-  {
-    "code2": "FJ",
+  "FJ": {
     "name": "Fiji",
     "fullName": "Fiji"
   },
-  {
-    "code2": "FI",
+  "FI": {
     "name": "Finlandiýa",
     "fullName": "Finlandiýa"
   },
-  {
-    "code2": "FR",
+  "FR": {
     "name": "Fransiýa",
     "fullName": "Fransiýa"
   },
-  {
-    "code2": "GA",
+  "GA": {
     "name": "Gabon",
     "fullName": "Gabon"
   },
-  {
-    "code2": "GM",
+  "GM": {
     "name": "Gambiýa",
     "fullName": "Gambiýa"
   },
-  {
-    "code2": "GE",
+  "GE": {
     "name": "Gruziýa",
     "fullName": "Gruziýa"
   },
-  {
-    "code2": "DE",
+  "DE": {
     "name": "Germaniýa",
     "fullName": "Germaniýa"
   },
-  {
-    "code2": "GH",
+  "GH": {
     "name": "Gana",
     "fullName": "Gana"
   },
-  {
-    "code2": "GR",
+  "GR": {
     "name": "Gretsiýa",
     "fullName": "Gretsiýa"
   },
-  {
-    "code2": "GD",
+  "GD": {
     "name": "Grenada",
     "fullName": "Grenada"
   },
-  {
-    "code2": "GT",
+  "GT": {
     "name": "Gwatemala",
     "fullName": "Gwatemala"
   },
-  {
-    "code2": "GN",
+  "GN": {
     "name": "Gwineýa",
     "fullName": "Gwineýa"
   },
-  {
-    "code2": "GW",
+  "GW": {
     "name": "Gwineýa-Bisau",
     "fullName": "Gwineýa-Bisau"
   },
-  {
-    "code2": "GY",
+  "GY": {
     "name": "Gaýana",
     "fullName": "Gaýana"
   },
-  {
-    "code2": "HT",
+  "HT": {
     "name": "Gaiti",
     "fullName": "Gaiti"
   },
-  {
-    "code2": "HN",
+  "HN": {
     "name": "Gonduras",
     "fullName": "Gonduras"
   },
-  {
-    "code2": "HU",
+  "HU": {
     "name": "wengriýa",
     "fullName": "wengriýa"
   },
-  {
-    "code2": "IS",
+  "IS": {
     "name": "Islandiýa",
     "fullName": "Islandiýa"
   },
-  {
-    "code2": "IN",
+  "IN": {
     "name": "Hindistan",
     "fullName": "Hindistan"
   },
-  {
-    "code2": "ID",
+  "ID": {
     "name": "Indoneziýa",
     "fullName": "Indoneziýa"
   },
-  {
-    "code2": "IR",
+  "IR": {
     "name": "Iran",
     "fullName": "Iran"
   },
-  {
-    "code2": "IQ",
+  "IQ": {
     "name": "Eýran",
     "fullName": "Eýran"
   },
-  {
-    "code2": "IE",
+  "IE": {
     "name": "Irlandiýa",
     "fullName": "Irlandiýa"
   },
-  {
-    "code2": "IL",
+  "IL": {
     "name": "Ysraýyl",
     "fullName": "Ysraýyl"
   },
-  {
-    "code2": "IT",
+  "IT": {
     "name": "Italiýa",
     "fullName": "Italiýa"
   },
-  {
-    "code2": "JM",
+  "JM": {
     "name": "Ýamaýka",
     "fullName": "Ýamaýka"
   },
-  {
-    "code2": "JP",
+  "JP": {
     "name": "Ýaponiýa",
     "fullName": "Ýaponiýa"
   },
-  {
-    "code2": "JO",
+  "JO": {
     "name": "Iordaniýa",
     "fullName": "Iordaniýa"
   },
-  {
-    "code2": "KZ",
+  "KZ": {
     "name": "Gazagystan",
     "fullName": "Gazagystan"
   },
-  {
-    "code2": "KE",
+  "KE": {
     "name": "Keniýa",
     "fullName": "Keniýa"
   },
-  {
-    "code2": "KI",
+  "KI": {
     "name": "Kiribati",
     "fullName": "Kiribati"
   },
-  {
-    "code2": "KP",
+  "KP": {
     "name": "Demirgazyk Koreýa",
     "fullName": "Demirgazyk Koreýa"
   },
-  {
-    "code2": "KR",
+  "KR": {
     "name": "Günorta Koreýa",
     "fullName": "Günorta Koreýa"
   },
-  {
-    "code2": "KW",
+  "KW": {
     "name": "Kuweýt",
     "fullName": "Kuweýt"
   },
-  {
-    "code2": "KG",
+  "KG": {
     "name": "Gyrgyzystan",
     "fullName": "Gyrgyzystan"
   },
-  {
-    "code2": "LA",
+  "LA": {
     "name": "Laos",
     "fullName": "Laos"
   },
-  {
-    "code2": "LV",
+  "LV": {
     "name": "Latwiýa",
     "fullName": "Latwiýa"
   },
-  {
-    "code2": "LB",
+  "LB": {
     "name": "Liwan",
     "fullName": "Liwan"
   },
-  {
-    "code2": "LS",
+  "LS": {
     "name": "Lesoto",
     "fullName": "Lesoto"
   },
-  {
-    "code2": "LR",
+  "LR": {
     "name": "Liberiýa",
     "fullName": "Liberiýa"
   },
-  {
-    "code2": "LY",
+  "LY": {
     "name": "Liwiýa",
     "fullName": "Liwiýa"
   },
-  {
-    "code2": "LI",
+  "LI": {
     "name": "Lihtenşteýn",
     "fullName": "Lihtenşteýn"
   },
-  {
-    "code2": "LT",
+  "LT": {
     "name": "Litwa",
     "fullName": "Litwa"
   },
-  {
-    "code2": "LU",
+  "LU": {
     "name": "Lýuksemburg",
     "fullName": "Lýuksemburg"
   },
-  {
-    "code2": "MG",
+  "MG": {
     "name": "Madagaskar",
     "fullName": "Madagaskar"
   },
-  {
-    "code2": "MW",
+  "MW": {
     "name": "Malawi",
     "fullName": "Malawi"
   },
-  {
-    "code2": "MY",
+  "MY": {
     "name": "Malaýziýa",
     "fullName": "Malaýziýa"
   },
-  {
-    "code2": "MV",
+  "MV": {
     "name": "Maldiw adalary",
     "fullName": "Maldiw adalary"
   },
-  {
-    "code2": "ML",
+  "ML": {
     "name": "Mali",
     "fullName": "Mali"
   },
-  {
-    "code2": "MT",
+  "MT": {
     "name": "Malta",
     "fullName": "Malta"
   },
-  {
-    "code2": "MH",
+  "MH": {
     "name": "Marşall adalary",
     "fullName": "Marşall adalary"
   },
-  {
-    "code2": "MR",
+  "MR": {
     "name": "Mawritaniýa",
     "fullName": "Mawritaniýa"
   },
-  {
-    "code2": "MU",
+  "MU": {
     "name": "Mawrikiý",
     "fullName": "Mawrikiý"
   },
-  {
-    "code2": "MX",
+  "MX": {
     "name": "Meksika",
     "fullName": "Meksika"
   },
-  {
-    "code2": "FM",
+  "FM": {
     "name": "Mikroneziýa",
     "fullName": "Mikroneziýa"
   },
-  {
-    "code2": "MD",
+  "MD": {
     "name": "Moldowiýa",
     "fullName": "Moldowiýa"
   },
-  {
-    "code2": "MC",
+  "MC": {
     "name": "Monako",
     "fullName": "Monako"
   },
-  {
-    "code2": "MN",
+  "MN": {
     "name": "Mongoliýa",
     "fullName": "Mongoliýa"
   },
-  {
-    "code2": "ME",
+  "ME": {
     "name": "Çernogoriýa",
     "fullName": "Çernogoriýa"
   },
-  {
-    "code2": "MA",
+  "MA": {
     "name": "Marokko",
     "fullName": "Marokko"
   },
-  {
-    "code2": "MZ",
+  "MZ": {
     "name": "Mozambik",
     "fullName": "Mozambik"
   },
-  {
-    "code2": "MM",
+  "MM": {
     "name": "Mýanma",
     "fullName": "Mýanma"
   },
-  {
-    "code2": "NA",
+  "NA": {
     "name": "Namibiýa",
     "fullName": "Namibiýa"
   },
-  {
-    "code2": "NR",
+  "NR": {
     "name": "Nauru",
     "fullName": "Nauru"
   },
-  {
-    "code2": "NP",
+  "NP": {
     "name": "Nepal",
     "fullName": "Nepal"
   },
-  {
-    "code2": "NL",
+  "NL": {
     "name": "Gollandiýa",
     "fullName": "Gollandiýa"
   },
-  {
-    "code2": "NZ",
+  "NZ": {
     "name": "Täze Zelandiýa",
     "fullName": "Täze Zelandiýa"
   },
-  {
-    "code2": "NI",
+  "NI": {
     "name": "Nikaragua",
     "fullName": "Nikaragua"
   },
-  {
-    "code2": "NE",
+  "NE": {
     "name": "Niger",
     "fullName": "Niger"
   },
-  {
-    "code2": "NG",
+  "NG": {
     "name": "Nigeriýa",
     "fullName": "Nigeriýa"
   },
-  {
-    "code2": "MK",
+  "MK": {
     "name": "Demirgazyk Makedoniýa",
     "fullName": "Demirgazyk Makedoniýa"
   },
-  {
-    "code2": "NO",
+  "NO": {
     "name": "Norwegiýa",
     "fullName": "Norwegiýa"
   },
-  {
-    "code2": "OM",
+  "OM": {
     "name": "Ummon",
     "fullName": "Ummon"
   },
-  {
-    "code2": "PK",
+  "PK": {
     "name": "Pakistan",
     "fullName": "Pakistan"
   },
-  {
-    "code2": "PW",
+  "PW": {
     "name": "Palau",
     "fullName": "Palau"
   },
-  {
-    "code2": "PA",
+  "PA": {
     "name": "Panama",
     "fullName": "Panama"
   },
-  {
-    "code2": "PG",
+  "PG": {
     "name": "Papua – Täze Gwineýa",
     "fullName": "Papua – Täze Gwineýa"
   },
-  {
-    "code2": "PY",
+  "PY": {
     "name": "Paragwaý",
     "fullName": "Paragwaý"
   },
-  {
-    "code2": "PE",
+  "PE": {
     "name": "Peru",
     "fullName": "Peru"
   },
-  {
-    "code2": "PH",
+  "PH": {
     "name": "Filippin",
     "fullName": "Filippin"
   },
-  {
-    "code2": "PL",
+  "PL": {
     "name": "Polşa",
     "fullName": "Polşa"
   },
-  {
-    "code2": "PT",
+  "PT": {
     "name": "Portugaliýa",
     "fullName": "Portugaliýa"
   },
-  {
-    "code2": "QA",
+  "QA": {
     "name": "Katar",
     "fullName": "Katar"
   },
-  {
-    "code2": "RO",
+  "RO": {
     "name": "Ruminiýa",
     "fullName": "Ruminiýa"
   },
-  {
-    "code2": "RU",
+  "RU": {
     "name": "Rossiýa",
     "fullName": "Rossiýa"
   },
-  {
-    "code2": "RW",
+  "RW": {
     "name": "Ruanda",
     "fullName": "Ruanda"
   },
-  {
-    "code2": "KN",
+  "KN": {
     "name": "Sent-Kits we Newis",
     "fullName": "Sent-Kits we Newis"
   },
-  {
-    "code2": "LC",
+  "LC": {
     "name": "Sent-Lýusiýa",
     "fullName": "Sent-Lýusiýa"
   },
-  {
-    "code2": "VC",
+  "VC": {
     "name": "Sent-Winsent we Grenadin",
     "fullName": "Sent-Winsent we Grenadin"
   },
-  {
-    "code2": "WS",
+  "WS": {
     "name": "Samoa",
     "fullName": "Samoa"
   },
-  {
-    "code2": "SM",
+  "SM": {
     "name": "San-Marino",
     "fullName": "San-Marino"
   },
-  {
-    "code2": "ST",
+  "ST": {
     "name": "San-Tome we Prinsipi",
     "fullName": "San-Tome we Prinsipi"
   },
-  {
-    "code2": "SA",
+  "SA": {
     "name": "Saud Arabystan",
     "fullName": "Saud Arabystan"
   },
-  {
-    "code2": "SN",
+  "SN": {
     "name": "Senegal",
     "fullName": "Senegal"
   },
-  {
-    "code2": "RS",
+  "RS": {
     "name": "Serbiýa",
     "fullName": "Serbiýa"
   },
-  {
-    "code2": "SC",
+  "SC": {
     "name": "Seýşel adalary",
     "fullName": "Seýşel adalary"
   },
-  {
-    "code2": "SL",
+  "SL": {
     "name": "Sierra-Leone",
     "fullName": "Sierra-Leone"
   },
-  {
-    "code2": "SG",
+  "SG": {
     "name": "Singapur",
     "fullName": "Singapur"
   },
-  {
-    "code2": "SK",
+  "SK": {
     "name": "Slowakiýa",
     "fullName": "Slowakiýa"
   },
-  {
-    "code2": "SI",
+  "SI": {
     "name": "Sloweniýa",
     "fullName": "Sloweniýa"
   },
-  {
-    "code2": "SB",
+  "SB": {
     "name": "Solomon adalary",
     "fullName": "Solomon adalary"
   },
-  {
-    "code2": "SO",
+  "SO": {
     "name": "Somali",
     "fullName": "Somali"
   },
-  {
-    "code2": "ZA",
+  "ZA": {
     "name": "Günorta Afrika Respublikasy",
     "fullName": "Günorta Afrika Respublikasy"
   },
-  {
-    "code2": "SS",
+  "SS": {
     "name": "Günorta Sudan",
     "fullName": "Günorta Sudan"
   },
-  {
-    "code2": "ES",
+  "ES": {
     "name": "Ispaniýa",
     "fullName": "Ispaniýa"
   },
-  {
-    "code2": "LK",
+  "LK": {
     "name": "Şri-Lanka",
     "fullName": "Şri-Lanka"
   },
-  {
-    "code2": "SD",
+  "SD": {
     "name": "Sudan",
     "fullName": "Sudan"
   },
-  {
-    "code2": "SR",
+  "SR": {
     "name": "Surinam",
     "fullName": "Surinam"
   },
-  {
-    "code2": "SE",
+  "SE": {
     "name": "Şwesiýa",
     "fullName": "Şwesiýa"
   },
-  {
-    "code2": "CH",
+  "CH": {
     "name": "Şweýsariýa",
     "fullName": "Şweýsariýa"
   },
-  {
-    "code2": "SY",
+  "SY": {
     "name": "Siriýa",
     "fullName": "Siriýa"
   },
-  {
-    "code2": "TJ",
+  "TJ": {
     "name": "Täjigistan",
     "fullName": "Täjigistan"
   },
-  {
-    "code2": "TZ",
+  "TZ": {
     "name": "Tanzaniýa",
     "fullName": "Tanzaniýa"
   },
-  {
-    "code2": "TH",
+  "TH": {
     "name": "Taýland",
     "fullName": "Taýland"
   },
-  {
-    "code2": "TL",
+  "TL": {
     "name": "Gündogar Timor",
     "fullName": "Gündogar Timor"
   },
-  {
-    "code2": "TG",
+  "TG": {
     "name": "Togo",
     "fullName": "Togo"
   },
-  {
-    "code2": "TO",
+  "TO": {
     "name": "Tonga",
     "fullName": "Tonga"
   },
-  {
-    "code2": "TT",
+  "TT": {
     "name": "Trinidad we Tobago",
     "fullName": "Trinidad we Tobago"
   },
-  {
-    "code2": "TN",
+  "TN": {
     "name": "Tunis",
     "fullName": "Tunis"
   },
-  {
-    "code2": "TR",
+  "TR": {
     "name": "Türkiýe",
     "fullName": "Türkiýe"
   },
-  {
-    "code2": "TM",
+  "TM": {
     "name": "Türkmenistan",
     "fullName": "Türkmenistan"
   },
-  {
-    "code2": "TV",
+  "TV": {
     "name": "Tuwalu",
     "fullName": "Tuwalu"
   },
-  {
-    "code2": "UG",
+  "UG": {
     "name": "Uganda",
     "fullName": "Uganda"
   },
-  {
-    "code2": "UA",
+  "UA": {
     "name": "Ukraina",
     "fullName": "Ukraina"
   },
-  {
-    "code2": "AE",
+  "AE": {
     "name": "Birleşen Arap Emiratlary",
     "fullName": "Birleşen Arap Emiratlary"
   },
-  {
-    "code2": "GB",
+  "GB": {
     "name": "Beýik Britaniýa",
     "fullName": "Beýik Britaniýa"
   },
-  {
-    "code2": "US",
+  "US": {
     "name": "Amerika",
     "fullName": "Amerika"
   },
-  {
-    "code2": "UY",
+  "UY": {
     "name": "Urugwaý",
     "fullName": "Urugwaý"
   },
-  {
-    "code2": "UZ",
+  "UZ": {
     "name": "Özbegistan ",
     "fullName": "Özbegistan "
   },
-  {
-    "code2": "VU",
+  "VU": {
     "name": "Wanuatu",
     "fullName": "Wanuatu"
   },
-  {
-    "code2": "VE",
+  "VE": {
     "name": "Wenesuela",
     "fullName": "Wenesuela"
   },
-  {
-    "code2": "VN",
+  "VN": {
     "name": "Wýetnam",
     "fullName": "Wýetnam"
   },
-  {
-    "code2": "YE",
+  "YE": {
     "name": "Ýemen",
     "fullName": "Ýemen"
   },
-  {
-    "code2": "ZM",
+  "ZM": {
     "name": "Zambiýa",
     "fullName": "Zambiýa"
   },
-  {
-    "code2": "ZW",
+  "ZW": {
     "name": "Zimbabwe",
     "fullName": "Zimbabwe"
   },
-  {
-    "code2": "HK",
+  "HK": {
     "name": "Gonkong",
     "fullName": "Gonkong"
   },
-  {
-    "code2": "MO",
+  "MO": {
     "name": "Makao",
     "fullName": "Makao"
   },
-  {
-    "code2": "TW",
+  "TW": {
     "name": "Taýwan",
     "fullName": "Taýwan"
   },
-  {
-    "code2": "PS",
+  "PS": {
     "name": "Palestina döwleti",
     "fullName": "Palestina döwleti"
   },
-  {
-    "code2": "XK",
+  "XK": {
     "name": "Kosowo",
     "fullName": "Kosowo"
   },
-  {
-    "code2": "VA",
+  "VA": {
     "name": "Watikan",
     "fullName": "Watikan"
   },
-  {
-    "code2": "PR",
+  "PR": {
     "name": "Puerto-Riko",
     "fullName": "Puerto-Riko"
   },
-  {
-    "code2": "GU",
+  "GU": {
     "name": "Guam",
     "fullName": "Guam"
   },
-  {
-    "code2": "GL",
+  "GL": {
     "name": "Grenlandiýa",
     "fullName": "Grenlandiýa"
   },
-  {
-    "code2": "FO",
+  "FO": {
     "name": "Farer adalary",
     "fullName": "Farer adalary"
   },
-  {
-    "code2": "NC",
+  "NC": {
     "name": "Täze Kaledoniýa",
     "fullName": "Täze Kaledoniýa"
   },
-  {
-    "code2": "PF",
+  "PF": {
     "name": "Fransuz Polineziýasy",
     "fullName": "Fransuz Polineziýasy"
   },
-  {
-    "code2": "BM",
+  "BM": {
     "name": "Bermuda adalary",
     "fullName": "Bermuda adalary"
   },
-  {
-    "code2": "KY",
+  "KY": {
     "name": "Kaýman adalary",
     "fullName": "Kaýman adalary"
   },
-  {
-    "code2": "VI",
+  "VI": {
     "name": "ABŞ-nyň Wirgin adalary",
     "fullName": "ABŞ-nyň Wirgin adalary"
   },
-  {
-    "code2": "CW",
+  "CW": {
     "name": "Kýurasao",
     "fullName": "Kýurasao"
   },
-  {
-    "code2": "AW",
+  "AW": {
     "name": "Aruba",
     "fullName": "Aruba"
   },
-  {
-    "code2": "GI",
+  "GI": {
     "name": "Gibraltar",
     "fullName": "Gibraltar"
   },
-  {
-    "code2": "JE",
+  "JE": {
     "name": "Jersi",
     "fullName": "Jersi"
   },
-  {
-    "code2": "GG",
+  "GG": {
     "name": "Gernsi",
     "fullName": "Gernsi"
   },
-  {
-    "code2": "IM",
+  "IM": {
     "name": "Men adasy",
     "fullName": "Men adasy"
   },
-  {
-    "code2": "TC",
+  "TC": {
     "name": "Terks we Kaýkos adalary",
     "fullName": "Terks we Kaýkos adalary"
   },
-  {
-    "code2": "VG",
+  "VG": {
     "name": "Britaniýa Wirgin adalary",
     "fullName": "Britaniýa Wirgin adalary"
   },
-  {
-    "code2": "AI",
+  "AI": {
     "name": "Angilýa",
     "fullName": "Angilýa"
   },
-  {
-    "code2": "MS",
+  "MS": {
     "name": "Montserrat",
     "fullName": "Montserrat"
   },
-  {
-    "code2": "SH",
+  "SH": {
     "name": "Keramatly Ýelena adasy",
     "fullName": "Keramatly Ýelena adasy"
   },
-  {
-    "code2": "FK",
+  "FK": {
     "name": "Folklend adalary",
     "fullName": "Folklend adalary"
   },
-  {
-    "code2": "GF",
+  "GF": {
     "name": "Gwiana",
     "fullName": "Gwiana"
   },
-  {
-    "code2": "GP",
+  "GP": {
     "name": "Gwadelupa",
     "fullName": "Gwadelupa"
   },
-  {
-    "code2": "MQ",
+  "MQ": {
     "name": "Martinika",
     "fullName": "Martinika"
   },
-  {
-    "code2": "RE",
+  "RE": {
     "name": "Reýunion",
     "fullName": "Reýunion"
   },
-  {
-    "code2": "MF",
+  "MF": {
     "name": "Sent-Marten",
     "fullName": "Sent-Marten"
   },
-  {
-    "code2": "PM",
+  "PM": {
     "name": "Sen-Pýer we Mikelon",
     "fullName": "Sen-Pýer we Mikelon"
   },
-  {
-    "code2": "WF",
+  "WF": {
     "name": "Wallis we Futuna",
     "fullName": "Wallis we Futuna"
   },
-  {
-    "code2": "YT",
+  "YT": {
     "name": "Maýotta",
     "fullName": "Maýotta"
   },
-  {
-    "code2": "AS",
+  "AS": {
     "name": "Amerika Samoa",
     "fullName": "Amerika Samoa"
   },
-  {
-    "code2": "MP",
+  "MP": {
     "name": "Demirgazyk Mariana adalary",
     "fullName": "Demirgazyk Mariana adalary"
   },
-  {
-    "code2": "CX",
+  "CX": {
     "name": "Rojdestwo adasy",
     "fullName": "Rojdestwo adasy"
   },
-  {
-    "code2": "CC",
+  "CC": {
     "name": "Kokos adalary",
     "fullName": "Kokos adalary"
   },
-  {
-    "code2": "NF",
+  "NF": {
     "name": "Norfolk adasy",
     "fullName": "Norfolk adasy"
   },
-  {
-    "code2": "PN",
+  "PN": {
     "name": "Pitkern adalary",
     "fullName": "Pitkern adalary"
   },
-  {
-    "code2": "TK",
+  "TK": {
     "name": "Tokelau",
     "fullName": "Tokelau"
   },
-  {
-    "code2": "NU",
+  "NU": {
     "name": "Niue",
     "fullName": "Niue"
   },
-  {
-    "code2": "CK",
+  "CK": {
     "name": "Kuka adalary",
     "fullName": "Kuka adalary"
   },
-  {
-    "code2": "EH",
+  "EH": {
     "name": "Sahara Arap Demokratik Respublikasy",
     "fullName": "Sahara Arap Demokratik Respublikasy"
   },
-  {
-    "code2": "AX",
+  "AX": {
     "name": "Aland adalary",
     "fullName": "Aland adalary"
   },
-  {
-    "code2": "BL",
+  "BL": {
     "name": "Sen-Bartelemi",
     "fullName": "Sen-Bartelemi"
   },
-  {
-    "code2": "IO",
+  "IO": {
     "name": "Hindi ummanynda Britaniýa teritoriýasy",
     "fullName": "Hindi ummanynda Britaniýa teritoriýasy"
   },
-  {
-    "code2": "SX",
+  "SX": {
     "name": "Sint-Marten",
     "fullName": "Sint-Marten"
   },
-  {
-    "code2": "BQ",
+  "BQ": {
     "name": "Boneýr, Sint-Estatius we Saba",
     "fullName": "Boneýr, Sint-Estatius we Saba"
   },
-  {
-    "code2": "TF",
+  "TF": {
     "name": "Fransiýanyň Günorta we Antarktika sebitleri",
     "fullName": "Fransiýanyň Günorta we Antarktika sebitleri"
   },
-  {
-    "code2": "GS",
+  "GS": {
     "name": "Günorta Jorjiýa we Günorta Sandwiç adalary",
     "fullName": "Günorta Jorjiýa we Günorta Sandwiç adalary"
   },
-  {
-    "code2": "HM",
+  "HM": {
     "name": "Hurd we Makdonald",
     "fullName": "Hurd we Makdonald"
   },
-  {
-    "code2": "AQ",
+  "AQ": {
     "name": "Antarktida",
     "fullName": "Antarktida"
   }
-]
+}

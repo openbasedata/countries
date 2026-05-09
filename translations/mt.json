@@ -1,926 +1,741 @@
-[
-  {
-    "code2": "AF",
+{
+  "AF": {
     "name": "l-Afganistan",
     "fullName": "l-Afganistan"
   },
-  {
-    "code2": "AL",
+  "AL": {
     "name": "l-Albanija",
     "fullName": "l-Albanija"
   },
-  {
-    "code2": "DZ",
+  "DZ": {
     "name": "l-Alġerija",
     "fullName": "l-Alġerija"
   },
-  {
-    "code2": "AD",
+  "AD": {
     "name": "Andorra",
     "fullName": "Andorra"
   },
-  {
-    "code2": "AO",
+  "AO": {
     "name": "l-Angola",
     "fullName": "l-Angola"
   },
-  {
-    "code2": "AG",
+  "AG": {
     "name": "Antigua u Barbuda",
     "fullName": "Antigua u Barbuda"
   },
-  {
-    "code2": "AR",
+  "AR": {
     "name": "l-Arġentina",
     "fullName": "l-Arġentina"
   },
-  {
-    "code2": "AM",
+  "AM": {
     "name": "l-Armenja",
     "fullName": "l-Armenja"
   },
-  {
-    "code2": "AU",
+  "AU": {
     "name": "l-Awstralja",
     "fullName": "l-Awstralja"
   },
-  {
-    "code2": "AT",
+  "AT": {
     "name": "l-Awstrija",
     "fullName": "l-Awstrija"
   },
-  {
-    "code2": "AZ",
+  "AZ": {
     "name": "l-Ażerbajġan",
     "fullName": "l-Ażerbajġan"
   },
-  {
-    "code2": "BS",
+  "BS": {
     "name": "il-Bahamas",
     "fullName": "il-Bahamas"
   },
-  {
-    "code2": "BH",
+  "BH": {
     "name": "il-Bahrain",
     "fullName": "il-Bahrain"
   },
-  {
-    "code2": "BD",
+  "BD": {
     "name": "il-Bangladesh",
     "fullName": "il-Bangladesh"
   },
-  {
-    "code2": "BB",
+  "BB": {
     "name": "Barbados",
     "fullName": "Barbados"
   },
-  {
-    "code2": "BY",
+  "BY": {
     "name": "il-Belarussja",
     "fullName": "il-Belarussja"
   },
-  {
-    "code2": "BE",
+  "BE": {
     "name": "il-Belġju",
     "fullName": "il-Belġju"
   },
-  {
-    "code2": "BZ",
+  "BZ": {
     "name": "il-Belize",
     "fullName": "il-Belize"
   },
-  {
-    "code2": "BJ",
+  "BJ": {
     "name": "il-Benin",
     "fullName": "il-Benin"
   },
-  {
-    "code2": "BT",
+  "BT": {
     "name": "il-Bhutan",
     "fullName": "il-Bhutan"
   },
-  {
-    "code2": "BO",
+  "BO": {
     "name": "il-Bolivja",
     "fullName": "il-Bolivja"
   },
-  {
-    "code2": "BA",
+  "BA": {
     "name": "il-Bożnija-Ħerzegovina",
     "fullName": "il-Bożnija-Ħerzegovina"
   },
-  {
-    "code2": "BW",
+  "BW": {
     "name": "il-Botswana",
     "fullName": "il-Botswana"
   },
-  {
-    "code2": "BR",
+  "BR": {
     "name": "Il-Brażil",
     "fullName": "Il-Brażil"
   },
-  {
-    "code2": "BN",
+  "BN": {
     "name": "il-Brunei",
     "fullName": "il-Brunei"
   },
-  {
-    "code2": "BG",
+  "BG": {
     "name": "il-Bulgarija",
     "fullName": "il-Bulgarija"
   },
-  {
-    "code2": "BF",
+  "BF": {
     "name": "il-Burkina Faso",
     "fullName": "il-Burkina Faso"
   },
-  {
-    "code2": "BI",
+  "BI": {
     "name": "il-Burundi",
     "fullName": "il-Burundi"
   },
-  {
-    "code2": "CV",
+  "CV": {
     "name": "Cape Verde",
     "fullName": "Cape Verde"
   },
-  {
-    "code2": "KH",
+  "KH": {
     "name": "il-Kambodja",
     "fullName": "il-Kambodja"
   },
-  {
-    "code2": "CM",
+  "CM": {
     "name": "il-Kamerun",
     "fullName": "il-Kamerun"
   },
-  {
-    "code2": "CA",
+  "CA": {
     "name": "il-Kanada",
     "fullName": "il-Kanada"
   },
-  {
-    "code2": "CF",
+  "CF": {
     "name": "ir-Repubblika Ċentru-Afrikana",
     "fullName": "ir-Repubblika Ċentru-Afrikana"
   },
-  {
-    "code2": "TD",
+  "TD": {
     "name": "iċ-Chad",
     "fullName": "iċ-Chad"
   },
-  {
-    "code2": "CL",
+  "CL": {
     "name": "iċ-Ċili",
     "fullName": "iċ-Ċili"
   },
-  {
-    "code2": "CN",
+  "CN": {
     "name": "iċ-Ċina",
     "fullName": "iċ-Ċina"
   },
-  {
-    "code2": "CO",
+  "CO": {
     "name": "il-Kolombja",
     "fullName": "il-Kolombja"
   },
-  {
-    "code2": "KM",
+  "KM": {
     "name": "Comoros",
     "fullName": "Comoros"
   },
-  {
-    "code2": "CG",
+  "CG": {
     "name": "il-Kongo - Brazzaville",
     "fullName": "il-Kongo - Brazzaville"
   },
-  {
-    "code2": "CD",
+  "CD": {
     "name": "ir-Repubblika Demokratika tal-Kongo",
     "fullName": "ir-Repubblika Demokratika tal-Kongo"
   },
-  {
-    "code2": "CR",
+  "CR": {
     "name": "il-Costa Rica",
     "fullName": "il-Costa Rica"
   },
-  {
-    "code2": "CI",
+  "CI": {
     "name": "il-Kosta tal-Avorju",
     "fullName": "il-Kosta tal-Avorju"
   },
-  {
-    "code2": "HR",
+  "HR": {
     "name": "il-Kroazja",
     "fullName": "il-Kroazja"
   },
-  {
-    "code2": "CU",
+  "CU": {
     "name": "Kuba",
     "fullName": "Kuba"
   },
-  {
-    "code2": "CY",
+  "CY": {
     "name": "Ċipru",
     "fullName": "Ċipru"
   },
-  {
-    "code2": "CZ",
+  "CZ": {
     "name": "ir-Repubblika Ċeka",
     "fullName": "ir-Repubblika Ċeka"
   },
-  {
-    "code2": "DK",
+  "DK": {
     "name": "id-Danimarka",
     "fullName": "id-Danimarka"
   },
-  {
-    "code2": "DJ",
+  "DJ": {
     "name": "il-Djibouti",
     "fullName": "il-Djibouti"
   },
-  {
-    "code2": "DM",
+  "DM": {
     "name": "Dominica",
     "fullName": "Dominica"
   },
-  {
-    "code2": "DO",
+  "DO": {
     "name": "ir-Repubblika Dominicana",
     "fullName": "ir-Repubblika Dominicana"
   },
-  {
-    "code2": "EC",
+  "EC": {
     "name": "l-Ekwador",
     "fullName": "l-Ekwador"
   },
-  {
-    "code2": "EG",
+  "EG": {
     "name": "l-Eġittu",
     "fullName": "l-Eġittu"
   },
-  {
-    "code2": "SV",
+  "SV": {
     "name": "El Salvador",
     "fullName": "El Salvador"
   },
-  {
-    "code2": "GQ",
+  "GQ": {
     "name": "il-Guinea Ekwatorjali",
     "fullName": "il-Guinea Ekwatorjali"
   },
-  {
-    "code2": "ER",
+  "ER": {
     "name": "l-Eritrea",
     "fullName": "l-Eritrea"
   },
-  {
-    "code2": "EE",
+  "EE": {
     "name": "l-Estonja",
     "fullName": "l-Estonja"
   },
-  {
-    "code2": "SZ",
+  "SZ": {
     "name": "l-Eswatini",
     "fullName": "l-Eswatini"
   },
-  {
-    "code2": "ET",
+  "ET": {
     "name": "l-Etjopja",
     "fullName": "l-Etjopja"
   },
-  {
-    "code2": "FJ",
+  "FJ": {
     "name": "Fiġi",
     "fullName": "Fiġi"
   },
-  {
-    "code2": "FI",
+  "FI": {
     "name": "il-Finlandja",
     "fullName": "il-Finlandja"
   },
-  {
-    "code2": "FR",
+  "FR": {
     "name": "Franza",
     "fullName": "Franza"
   },
-  {
-    "code2": "GA",
+  "GA": {
     "name": "il-Gabon",
     "fullName": "il-Gabon"
   },
-  {
-    "code2": "GM",
+  "GM": {
     "name": "il-Gambja",
     "fullName": "il-Gambja"
   },
-  {
-    "code2": "GE",
+  "GE": {
     "name": "il-Georgia",
     "fullName": "il-Georgia"
   },
-  {
-    "code2": "DE",
+  "DE": {
     "name": "il-Ġermanja",
     "fullName": "il-Ġermanja"
   },
-  {
-    "code2": "GH",
+  "GH": {
     "name": "il-Ghana",
     "fullName": "il-Ghana"
   },
-  {
-    "code2": "GR",
+  "GR": {
     "name": "il-Greċja",
     "fullName": "il-Greċja"
   },
-  {
-    "code2": "GD",
+  "GD": {
     "name": "Grenada",
     "fullName": "Grenada"
   },
-  {
-    "code2": "GT",
+  "GT": {
     "name": "il-Gwatemala",
     "fullName": "il-Gwatemala"
   },
-  {
-    "code2": "GN",
+  "GN": {
     "name": "il-Guinea",
     "fullName": "il-Guinea"
   },
-  {
-    "code2": "GW",
+  "GW": {
     "name": "il-Guinea-Bissau",
     "fullName": "il-Guinea-Bissau"
   },
-  {
-    "code2": "GY",
+  "GY": {
     "name": "il-Guyana",
     "fullName": "il-Guyana"
   },
-  {
-    "code2": "HT",
+  "HT": {
     "name": "il-Haiti",
     "fullName": "il-Haiti"
   },
-  {
-    "code2": "HN",
+  "HN": {
     "name": "il-Honduras",
     "fullName": "il-Honduras"
   },
-  {
-    "code2": "HU",
+  "HU": {
     "name": "l-Ungerija",
     "fullName": "l-Ungerija"
   },
-  {
-    "code2": "IS",
+  "IS": {
     "name": "l-Iżlanda",
     "fullName": "l-Iżlanda"
   },
-  {
-    "code2": "IN",
+  "IN": {
     "name": "l-Indja",
     "fullName": "l-Indja"
   },
-  {
-    "code2": "ID",
+  "ID": {
     "name": "l-Indoneżja",
     "fullName": "l-Indoneżja"
   },
-  {
-    "code2": "IR",
+  "IR": {
     "name": "l-Iran",
     "fullName": "l-Iran"
   },
-  {
-    "code2": "IQ",
+  "IQ": {
     "name": "l-Iraq",
     "fullName": "l-Iraq"
   },
-  {
-    "code2": "IE",
+  "IE": {
     "name": "l-Irlanda",
     "fullName": "l-Irlanda"
   },
-  {
-    "code2": "IL",
+  "IL": {
     "name": "Iżrael",
     "fullName": "Iżrael"
   },
-  {
-    "code2": "IT",
+  "IT": {
     "name": "l-Italja",
     "fullName": "l-Italja"
   },
-  {
-    "code2": "JM",
+  "JM": {
     "name": "il-Ġamajka",
     "fullName": "il-Ġamajka"
   },
-  {
-    "code2": "JP",
+  "JP": {
     "name": "il-Ġappun",
     "fullName": "il-Ġappun"
   },
-  {
-    "code2": "JO",
+  "JO": {
     "name": "il-Ġordan",
     "fullName": "il-Ġordan"
   },
-  {
-    "code2": "KZ",
+  "KZ": {
     "name": "il-Każakistan",
     "fullName": "il-Każakistan"
   },
-  {
-    "code2": "KE",
+  "KE": {
     "name": "il-Kenja",
     "fullName": "il-Kenja"
   },
-  {
-    "code2": "KI",
+  "KI": {
     "name": "Kiribati",
     "fullName": "Kiribati"
   },
-  {
-    "code2": "KP",
+  "KP": {
     "name": "il-Korea ta’ Fuq",
     "fullName": "il-Korea ta’ Fuq"
   },
-  {
-    "code2": "KR",
+  "KR": {
     "name": "il-Korea t’Isfel",
     "fullName": "il-Korea t’Isfel"
   },
-  {
-    "code2": "KW",
+  "KW": {
     "name": "il-Kuwajt",
     "fullName": "il-Kuwajt"
   },
-  {
-    "code2": "KG",
+  "KG": {
     "name": "il-Kirgiżistan",
     "fullName": "il-Kirgiżistan"
   },
-  {
-    "code2": "LA",
+  "LA": {
     "name": "il-Laos",
     "fullName": "il-Laos"
   },
-  {
-    "code2": "LV",
+  "LV": {
     "name": "il-Latvja",
     "fullName": "il-Latvja"
   },
-  {
-    "code2": "LB",
+  "LB": {
     "name": "il-Libanu",
     "fullName": "il-Libanu"
   },
-  {
-    "code2": "LS",
+  "LS": {
     "name": "il-Lesoto",
     "fullName": "il-Lesoto"
   },
-  {
-    "code2": "LR",
+  "LR": {
     "name": "il-Liberja",
     "fullName": "il-Liberja"
   },
-  {
-    "code2": "LY",
+  "LY": {
     "name": "il-Libja",
     "fullName": "il-Libja"
   },
-  {
-    "code2": "LI",
+  "LI": {
     "name": "il-Liechtenstein",
     "fullName": "il-Liechtenstein"
   },
-  {
-    "code2": "LT",
+  "LT": {
     "name": "il-Litwanja",
     "fullName": "il-Litwanja"
   },
-  {
-    "code2": "LU",
+  "LU": {
     "name": "il-Lussemburgu",
     "fullName": "il-Lussemburgu"
   },
-  {
-    "code2": "MG",
+  "MG": {
     "name": "Madagascar",
     "fullName": "Madagascar"
   },
-  {
-    "code2": "MW",
+  "MW": {
     "name": "il-Malawi",
     "fullName": "il-Malawi"
   },
-  {
-    "code2": "MY",
+  "MY": {
     "name": "il-Malasja",
     "fullName": "il-Malasja"
   },
-  {
-    "code2": "MV",
+  "MV": {
     "name": "il-Maldivi",
     "fullName": "il-Maldivi"
   },
-  {
-    "code2": "ML",
+  "ML": {
     "name": "il-Mali",
     "fullName": "il-Mali"
   },
-  {
-    "code2": "MT",
+  "MT": {
     "name": "Malta",
     "fullName": "Malta"
   },
-  {
-    "code2": "MH",
+  "MH": {
     "name": "Gżejjer Marshall",
     "fullName": "Gżejjer Marshall"
   },
-  {
-    "code2": "MR",
+  "MR": {
     "name": "il-Mauritania",
     "fullName": "il-Mauritania"
   },
-  {
-    "code2": "MU",
+  "MU": {
     "name": "Mauritius",
     "fullName": "Mauritius"
   },
-  {
-    "code2": "MX",
+  "MX": {
     "name": "il-Messiku",
     "fullName": "il-Messiku"
   },
-  {
-    "code2": "FM",
+  "FM": {
     "name": "il-Mikroneżja",
     "fullName": "il-Mikroneżja"
   },
-  {
-    "code2": "MD",
+  "MD": {
     "name": "il-Moldova",
     "fullName": "il-Moldova"
   },
-  {
-    "code2": "MC",
+  "MC": {
     "name": "Monaco",
     "fullName": "Monaco"
   },
-  {
-    "code2": "MN",
+  "MN": {
     "name": "il-Mongolja",
     "fullName": "il-Mongolja"
   },
-  {
-    "code2": "ME",
+  "ME": {
     "name": "il-Montenegro",
     "fullName": "il-Montenegro"
   },
-  {
-    "code2": "MA",
+  "MA": {
     "name": "il-Marokk",
     "fullName": "il-Marokk"
   },
-  {
-    "code2": "MZ",
+  "MZ": {
     "name": "il-Mozambique",
     "fullName": "il-Mozambique"
   },
-  {
-    "code2": "MM",
+  "MM": {
     "name": "il-Myanmar/Burma",
     "fullName": "il-Myanmar/Burma"
   },
-  {
-    "code2": "NA",
+  "NA": {
     "name": "in-Namibja",
     "fullName": "in-Namibja"
   },
-  {
-    "code2": "NR",
+  "NR": {
     "name": "Nauru",
     "fullName": "Nauru"
   },
-  {
-    "code2": "NP",
+  "NP": {
     "name": "in-Nepal",
     "fullName": "in-Nepal"
   },
-  {
-    "code2": "NL",
+  "NL": {
     "name": "in-Netherlands",
     "fullName": "in-Netherlands"
   },
-  {
-    "code2": "NZ",
+  "NZ": {
     "name": "New Zealand",
     "fullName": "New Zealand"
   },
-  {
-    "code2": "NI",
+  "NI": {
     "name": "in-Nikaragwa",
     "fullName": "in-Nikaragwa"
   },
-  {
-    "code2": "NE",
+  "NE": {
     "name": "in-Niġer",
     "fullName": "in-Niġer"
   },
-  {
-    "code2": "NG",
+  "NG": {
     "name": "in-Niġerja",
     "fullName": "in-Niġerja"
   },
-  {
-    "code2": "MK",
+  "MK": {
     "name": "il-Maċedonja ta’ Fuq",
     "fullName": "il-Maċedonja ta’ Fuq"
   },
-  {
-    "code2": "NO",
+  "NO": {
     "name": "in-Norveġja",
     "fullName": "in-Norveġja"
   },
-  {
-    "code2": "OM",
+  "OM": {
     "name": "l-Oman",
     "fullName": "l-Oman"
   },
-  {
-    "code2": "PK",
+  "PK": {
     "name": "il-Pakistan",
     "fullName": "il-Pakistan"
   },
-  {
-    "code2": "PW",
+  "PW": {
     "name": "Palau",
     "fullName": "Palau"
   },
-  {
-    "code2": "PA",
+  "PA": {
     "name": "il-Panama",
     "fullName": "il-Panama"
   },
-  {
-    "code2": "PG",
+  "PG": {
     "name": "Papua New Guinea",
     "fullName": "Papua New Guinea"
   },
-  {
-    "code2": "PY",
+  "PY": {
     "name": "il-Paragwaj",
     "fullName": "il-Paragwaj"
   },
-  {
-    "code2": "PE",
+  "PE": {
     "name": "il-Perù",
     "fullName": "il-Perù"
   },
-  {
-    "code2": "PH",
+  "PH": {
     "name": "il-Filippini",
     "fullName": "il-Filippini"
   },
-  {
-    "code2": "PL",
+  "PL": {
     "name": "il-Polonja",
     "fullName": "il-Polonja"
   },
-  {
-    "code2": "PT",
+  "PT": {
     "name": "il-Portugall",
     "fullName": "il-Portugall"
   },
-  {
-    "code2": "QA",
+  "QA": {
     "name": "il-Qatar",
     "fullName": "il-Qatar"
   },
-  {
-    "code2": "RO",
+  "RO": {
     "name": "ir-Rumanija",
     "fullName": "ir-Rumanija"
   },
-  {
-    "code2": "RU",
+  "RU": {
     "name": "ir-Russja",
     "fullName": "ir-Russja"
   },
-  {
-    "code2": "RW",
+  "RW": {
     "name": "ir-Rwanda",
     "fullName": "ir-Rwanda"
   },
-  {
-    "code2": "KN",
+  "KN": {
     "name": "Saint Kitts u Nevis",
     "fullName": "Saint Kitts u Nevis"
   },
-  {
-    "code2": "LC",
+  "LC": {
     "name": "Saint Lucia",
     "fullName": "Saint Lucia"
   },
-  {
-    "code2": "VC",
+  "VC": {
     "name": "Saint Vincent u l-Grenadini",
     "fullName": "Saint Vincent u l-Grenadini"
   },
-  {
-    "code2": "WS",
+  "WS": {
     "name": "Samoa",
     "fullName": "Samoa"
   },
-  {
-    "code2": "SM",
+  "SM": {
     "name": "San Marino",
     "fullName": "San Marino"
   },
-  {
-    "code2": "ST",
+  "ST": {
     "name": "São Tomé u Príncipe",
     "fullName": "São Tomé u Príncipe"
   },
-  {
-    "code2": "SA",
+  "SA": {
     "name": "l-Arabja Sawdija",
     "fullName": "l-Arabja Sawdija"
   },
-  {
-    "code2": "SN",
+  "SN": {
     "name": "is-Senegal",
     "fullName": "is-Senegal"
   },
-  {
-    "code2": "RS",
+  "RS": {
     "name": "is-Serbja",
     "fullName": "is-Serbja"
   },
-  {
-    "code2": "SC",
+  "SC": {
     "name": "is-Seychelles",
     "fullName": "is-Seychelles"
   },
-  {
-    "code2": "SL",
+  "SL": {
     "name": "Sierra Leone",
     "fullName": "Sierra Leone"
   },
-  {
-    "code2": "SG",
+  "SG": {
     "name": "Singapore",
     "fullName": "Singapore"
   },
-  {
-    "code2": "SK",
+  "SK": {
     "name": "is-Slovakkja",
     "fullName": "is-Slovakkja"
   },
-  {
-    "code2": "SI",
+  "SI": {
     "name": "is-Slovenja",
     "fullName": "is-Slovenja"
   },
-  {
-    "code2": "SB",
+  "SB": {
     "name": "il-Gżejjer Solomon",
     "fullName": "il-Gżejjer Solomon"
   },
-  {
-    "code2": "SO",
+  "SO": {
     "name": "is-Somalja",
     "fullName": "is-Somalja"
   },
-  {
-    "code2": "ZA",
+  "ZA": {
     "name": "l-Afrika t’Isfel",
     "fullName": "l-Afrika t’Isfel"
   },
-  {
-    "code2": "SS",
+  "SS": {
     "name": "is-Sudan t’Isfel",
     "fullName": "is-Sudan t’Isfel"
   },
-  {
-    "code2": "ES",
+  "ES": {
     "name": "Spanja",
     "fullName": "Spanja"
   },
-  {
-    "code2": "LK",
+  "LK": {
     "name": "is-Sri Lanka",
     "fullName": "is-Sri Lanka"
   },
-  {
-    "code2": "SD",
+  "SD": {
     "name": "is-Sudan",
     "fullName": "is-Sudan"
   },
-  {
-    "code2": "SR",
+  "SR": {
     "name": "is-Suriname",
     "fullName": "is-Suriname"
   },
-  {
-    "code2": "SE",
+  "SE": {
     "name": "l-Iżvezja",
     "fullName": "l-Iżvezja"
   },
-  {
-    "code2": "CH",
+  "CH": {
     "name": "l-Iżvizzera",
     "fullName": "l-Iżvizzera"
   },
-  {
-    "code2": "SY",
+  "SY": {
     "name": "is-Sirja",
     "fullName": "is-Sirja"
   },
-  {
-    "code2": "TJ",
+  "TJ": {
     "name": "it-Taġikistan",
     "fullName": "it-Taġikistan"
   },
-  {
-    "code2": "TZ",
+  "TZ": {
     "name": "it-Tanzanija",
     "fullName": "it-Tanzanija"
   },
-  {
-    "code2": "TH",
+  "TH": {
     "name": "it-Tajlandja",
     "fullName": "it-Tajlandja"
   },
-  {
-    "code2": "TL",
+  "TL": {
     "name": "Timor Leste",
     "fullName": "Timor Leste"
   },
-  {
-    "code2": "TG",
+  "TG": {
     "name": "it-Togo",
     "fullName": "it-Togo"
   },
-  {
-    "code2": "TO",
+  "TO": {
     "name": "Tonga",
     "fullName": "Tonga"
   },
-  {
-    "code2": "TT",
+  "TT": {
     "name": "Trinidad u Tobago",
     "fullName": "Trinidad u Tobago"
   },
-  {
-    "code2": "TN",
+  "TN": {
     "name": "it-Tuneżija",
     "fullName": "it-Tuneżija"
   },
-  {
-    "code2": "TR",
+  "TR": {
     "name": "it-Turkija",
     "fullName": "it-Turkija"
   },
-  {
-    "code2": "TM",
+  "TM": {
     "name": "it-Turkmenistan",
     "fullName": "it-Turkmenistan"
   },
-  {
-    "code2": "TV",
+  "TV": {
     "name": "Tuvalu",
     "fullName": "Tuvalu"
   },
-  {
-    "code2": "UG",
+  "UG": {
     "name": "l-Uganda",
     "fullName": "l-Uganda"
   },
-  {
-    "code2": "UA",
+  "UA": {
     "name": "l-Ukrajna",
     "fullName": "l-Ukrajna"
   },
-  {
-    "code2": "AE",
+  "AE": {
     "name": "l-Emirati Għarab Magħquda",
     "fullName": "l-Emirati Għarab Magħquda"
   },
-  {
-    "code2": "GB",
+  "GB": {
     "name": "ir-Renju Unit",
     "fullName": "ir-Renju Unit"
   },
-  {
-    "code2": "US",
+  "US": {
     "name": [
       "l-Istati Uniti",
       "l-Istati Uniti tal-Amerka"
@@ -930,314 +745,252 @@
       "l-Istati Uniti tal-Amerka"
     ]
   },
-  {
-    "code2": "UY",
+  "UY": {
     "name": "l-Urugwaj",
     "fullName": "l-Urugwaj"
   },
-  {
-    "code2": "UZ",
+  "UZ": {
     "name": "l-Użbekistan",
     "fullName": "l-Użbekistan"
   },
-  {
-    "code2": "VU",
+  "VU": {
     "name": "Vanuatu",
     "fullName": "Vanuatu"
   },
-  {
-    "code2": "VE",
+  "VE": {
     "name": "il-Venezwela",
     "fullName": "il-Venezwela"
   },
-  {
-    "code2": "VN",
+  "VN": {
     "name": "il-Vjetnam",
     "fullName": "il-Vjetnam"
   },
-  {
-    "code2": "YE",
+  "YE": {
     "name": "il-Jemen",
     "fullName": "il-Jemen"
   },
-  {
-    "code2": "ZM",
+  "ZM": {
     "name": "iż-Żambja",
     "fullName": "iż-Żambja"
   },
-  {
-    "code2": "ZW",
+  "ZW": {
     "name": "iż-Żimbabwe",
     "fullName": "iż-Żimbabwe"
   },
-  {
-    "code2": "HK",
+  "HK": {
     "name": "ir-Reġjun Amministrattiv Speċjali ta’ Hong Kong tar-Repubblika tal-Poplu taċ-Ċina",
     "fullName": "ir-Reġjun Amministrattiv Speċjali ta’ Hong Kong tar-Repubblika tal-Poplu taċ-Ċina"
   },
-  {
-    "code2": "MO",
+  "MO": {
     "name": "ir-Reġjun Amministrattiv Speċjali tal-Macao tar-Repubblika tal-Poplu taċ-Ċina",
     "fullName": "ir-Reġjun Amministrattiv Speċjali tal-Macao tar-Repubblika tal-Poplu taċ-Ċina"
   },
-  {
-    "code2": "TW",
+  "TW": {
     "name": "it-Tajwan",
     "fullName": "it-Tajwan"
   },
-  {
-    "code2": "PS",
+  "PS": {
     "name": "it-Territorji Palestinjani",
     "fullName": "it-Territorji Palestinjani"
   },
-  {
-    "code2": "XK",
+  "XK": {
     "name": "il-Kosovo",
     "fullName": "il-Kosovo"
   },
-  {
-    "code2": "VA",
+  "VA": {
     "name": "l-Istat tal-Belt tal-Vatikan",
     "fullName": "l-Istat tal-Belt tal-Vatikan"
   },
-  {
-    "code2": "PR",
+  "PR": {
     "name": "Puerto Rico",
     "fullName": "Puerto Rico"
   },
-  {
-    "code2": "GU",
+  "GU": {
     "name": "Guam",
     "fullName": "Guam"
   },
-  {
-    "code2": "GL",
+  "GL": {
     "name": "Greenland",
     "fullName": "Greenland"
   },
-  {
-    "code2": "FO",
+  "FO": {
     "name": "il-Gżejjer Faeroe",
     "fullName": "il-Gżejjer Faeroe"
   },
-  {
-    "code2": "NC",
+  "NC": {
     "name": "New Caledonia",
     "fullName": "New Caledonia"
   },
-  {
-    "code2": "PF",
+  "PF": {
     "name": "Polineżja Franċiża",
     "fullName": "Polineżja Franċiża"
   },
-  {
-    "code2": "BM",
+  "BM": {
     "name": "Bermuda",
     "fullName": "Bermuda"
   },
-  {
-    "code2": "KY",
+  "KY": {
     "name": "il-Gżejjer Cayman",
     "fullName": "il-Gżejjer Cayman"
   },
-  {
-    "code2": "VI",
+  "VI": {
     "name": "il-Gżejjer Verġni tal-Istati Uniti",
     "fullName": "il-Gżejjer Verġni tal-Istati Uniti"
   },
-  {
-    "code2": "CW",
+  "CW": {
     "name": "Curaçao",
     "fullName": "Curaçao"
   },
-  {
-    "code2": "AW",
+  "AW": {
     "name": "Aruba",
     "fullName": "Aruba"
   },
-  {
-    "code2": "GI",
+  "GI": {
     "name": "Ġibiltà",
     "fullName": "Ġibiltà"
   },
-  {
-    "code2": "JE",
+  "JE": {
     "name": "Jersey",
     "fullName": "Jersey"
   },
-  {
-    "code2": "GG",
+  "GG": {
     "name": "Guernsey",
     "fullName": "Guernsey"
   },
-  {
-    "code2": "IM",
+  "IM": {
     "name": "Isle of Man",
     "fullName": "Isle of Man"
   },
-  {
-    "code2": "TC",
+  "TC": {
     "name": "il-Gżejjer Turks u Caicos",
     "fullName": "il-Gżejjer Turks u Caicos"
   },
-  {
-    "code2": "VG",
+  "VG": {
     "name": "il-Gżejjer Verġni Brittaniċi",
     "fullName": "il-Gżejjer Verġni Brittaniċi"
   },
-  {
-    "code2": "AI",
+  "AI": {
     "name": "Anguilla",
     "fullName": "Anguilla"
   },
-  {
-    "code2": "MS",
+  "MS": {
     "name": "Montserrat",
     "fullName": "Montserrat"
   },
-  {
-    "code2": "SH",
+  "SH": {
     "name": "Saint Helena",
     "fullName": "Saint Helena"
   },
-  {
-    "code2": "FK",
+  "FK": {
     "name": "il-Gżejjer Falkland",
     "fullName": "il-Gżejjer Falkland"
   },
-  {
-    "code2": "GF",
+  "GF": {
     "name": "il-Guyana Franċiża",
     "fullName": "il-Guyana Franċiża"
   },
-  {
-    "code2": "GP",
+  "GP": {
     "name": "Guadeloupe",
     "fullName": "Guadeloupe"
   },
-  {
-    "code2": "MQ",
+  "MQ": {
     "name": "Martinique",
     "fullName": "Martinique"
   },
-  {
-    "code2": "RE",
+  "RE": {
     "name": "Réunion",
     "fullName": "Réunion"
   },
-  {
-    "code2": "MF",
+  "MF": {
     "name": "Saint Martin",
     "fullName": "Saint Martin"
   },
-  {
-    "code2": "PM",
+  "PM": {
     "name": "Saint Pierre u Miquelon",
     "fullName": "Saint Pierre u Miquelon"
   },
-  {
-    "code2": "WF",
+  "WF": {
     "name": "Wallis u Futuna",
     "fullName": "Wallis u Futuna"
   },
-  {
-    "code2": "YT",
+  "YT": {
     "name": "Mayotte",
     "fullName": "Mayotte"
   },
-  {
-    "code2": "AS",
+  "AS": {
     "name": "is-Samoa Amerikana",
     "fullName": "is-Samoa Amerikana"
   },
-  {
-    "code2": "MP",
+  "MP": {
     "name": "Ġżejjer Mariana tat-Tramuntana",
     "fullName": "Ġżejjer Mariana tat-Tramuntana"
   },
-  {
-    "code2": "CX",
+  "CX": {
     "name": "il-Gżira Christmas",
     "fullName": "il-Gżira Christmas"
   },
-  {
-    "code2": "CC",
+  "CC": {
     "name": "Gżejjer Cocos (Keeling)",
     "fullName": "Gżejjer Cocos (Keeling)"
   },
-  {
-    "code2": "NF",
+  "NF": {
     "name": "Gżira Norfolk",
     "fullName": "Gżira Norfolk"
   },
-  {
-    "code2": "PN",
+  "PN": {
     "name": "Gżejjer Pitcairn",
     "fullName": "Gżejjer Pitcairn"
   },
-  {
-    "code2": "TK",
+  "TK": {
     "name": "it-Tokelau",
     "fullName": "it-Tokelau"
   },
-  {
-    "code2": "NU",
+  "NU": {
     "name": "Niue",
     "fullName": "Niue"
   },
-  {
-    "code2": "CK",
+  "CK": {
     "name": "Gżejjer Cook",
     "fullName": "Gżejjer Cook"
   },
-  {
-    "code2": "EH",
+  "EH": {
     "name": "is-Saħara tal-Punent",
     "fullName": "is-Saħara tal-Punent"
   },
-  {
-    "code2": "AX",
+  "AX": {
     "name": "il-Gżejjer Aland",
     "fullName": "il-Gżejjer Aland"
   },
-  {
-    "code2": "BL",
+  "BL": {
     "name": "Saint Barthélemy",
     "fullName": "Saint Barthélemy"
   },
-  {
-    "code2": "IO",
+  "IO": {
     "name": "Territorju Brittaniku tal-Oċean Indjan",
     "fullName": "Territorju Brittaniku tal-Oċean Indjan"
   },
-  {
-    "code2": "SX",
+  "SX": {
     "name": "Sint Maarten",
     "fullName": "Sint Maarten"
   },
-  {
-    "code2": "BQ",
+  "BQ": {
     "name": "in-Netherlands tal-Karibew",
     "fullName": "in-Netherlands tal-Karibew"
   },
-  {
-    "code2": "TF",
+  "TF": {
     "name": "It-Territorji Franċiżi tan-Nofsinhar",
     "fullName": "It-Territorji Franċiżi tan-Nofsinhar"
   },
-  {
-    "code2": "GS",
+  "GS": {
     "name": "il-Georgia tan-Nofsinhar u l-Gżejjer Sandwich tan-Nofsinhar",
     "fullName": "il-Georgia tan-Nofsinhar u l-Gżejjer Sandwich tan-Nofsinhar"
   },
-  {
-    "code2": "HM",
+  "HM": {
     "name": "il-Gżejjer Heard u l-Gżejjer McDonald",
     "fullName": "il-Gżejjer Heard u l-Gżejjer McDonald"
   },
-  {
-    "code2": "AQ",
+  "AQ": {
     "name": "l-Antartika",
     "fullName": "l-Antartika"
   }
-]
+}
