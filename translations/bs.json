@@ -1,23 +1,23 @@
 {
   "AF": {
     "name": "Afganistan",
-    "fullName": "Afganistan"
+    "fullName": "Islamska Republika Afganistan"
   },
   "AL": {
     "name": "Albanija",
-    "fullName": "Albanija"
+    "fullName": "Republika Albanija"
   },
   "DZ": {
     "name": "Alžir",
-    "fullName": "Alžir"
+    "fullName": "Narodna Demokratska Republika Alžir"
   },
   "AD": {
     "name": "Andora",
-    "fullName": "Andora"
+    "fullName": "Kneževina Andora"
   },
   "AO": {
     "name": "Angola",
-    "fullName": "Angola"
+    "fullName": "Republika Angola"
   },
   "AG": {
     "name": "Antigva i Barbuda",
@@ -25,35 +25,35 @@
   },
   "AR": {
     "name": "Argentina",
-    "fullName": "Argentina"
+    "fullName": "Republika Argentina"
   },
   "AM": {
     "name": "Armenija",
-    "fullName": "Armenija"
+    "fullName": "Republika Armenija"
   },
   "AU": {
     "name": "Australija",
-    "fullName": "Australija"
+    "fullName": "Komonvelt Australije"
   },
   "AT": {
     "name": "Austrija",
-    "fullName": "Austrija"
+    "fullName": "Republika Austrija"
   },
   "AZ": {
     "name": "Azerbejdžan",
-    "fullName": "Azerbejdžan"
+    "fullName": "Republika Azerbejdžan"
   },
   "BS": {
     "name": "Bahami",
-    "fullName": "Bahami"
+    "fullName": "Komonvelt Bahama"
   },
   "BH": {
     "name": "Bahrein",
-    "fullName": "Bahrein"
+    "fullName": "Kraljevina Bahrein"
   },
   "BD": {
     "name": "Bangladeš",
-    "fullName": "Bangladeš"
+    "fullName": "Narodna Republika Bangladeš"
   },
   "BB": {
     "name": "Barbados",
@@ -61,11 +61,11 @@
   },
   "BY": {
     "name": "Bjelorusija",
-    "fullName": "Bjelorusija"
+    "fullName": "Republika Bjelorusija"
   },
   "BE": {
     "name": "Belgija",
-    "fullName": "Belgija"
+    "fullName": "Kraljevina Belgija"
   },
   "BZ": {
     "name": "Belize",
@@ -73,15 +73,15 @@
   },
   "BJ": {
     "name": "Benin",
-    "fullName": "Benin"
+    "fullName": "Republika Benin"
   },
   "BT": {
     "name": "Butan",
-    "fullName": "Butan"
+    "fullName": "Kraljevina Butan"
   },
   "BO": {
     "name": "Bolivija",
-    "fullName": "Bolivija"
+    "fullName": "Višenacionalna Država Bolivija"
   },
   "BA": {
     "name": "Bosna i Hercegovina",
@@ -89,19 +89,19 @@
   },
   "BW": {
     "name": "Bocvana",
-    "fullName": "Bocvana"
+    "fullName": "Republika Bocvana"
   },
   "BR": {
     "name": "Brazil",
-    "fullName": "Brazil"
+    "fullName": "Federativna Republika Brazil"
   },
   "BN": {
     "name": "Brunej",
-    "fullName": "Brunej"
+    "fullName": "Brunej Darusalam"
   },
   "BG": {
     "name": "Bugarska",
-    "fullName": "Bugarska"
+    "fullName": "Republika Bugarska"
   },
   "BF": {
     "name": "Burkina Faso",
@@ -109,19 +109,19 @@
   },
   "BI": {
     "name": "Burundi",
-    "fullName": "Burundi"
+    "fullName": "Republika Burundi"
   },
   "CV": {
     "name": "Kape Verde",
-    "fullName": "Kape Verde"
+    "fullName": "Republika Kape Verde"
   },
   "KH": {
     "name": "Kambodža",
-    "fullName": "Kambodža"
+    "fullName": "Kraljevina Kambodža"
   },
   "CM": {
     "name": "Kamerun",
-    "fullName": "Kamerun"
+    "fullName": "Republika Kamerun"
   },
   "CA": {
     "name": "Kanada",
@@ -133,27 +133,27 @@
   },
   "TD": {
     "name": "Čad",
-    "fullName": "Čad"
+    "fullName": "Republika Čad"
   },
   "CL": {
     "name": "Čile",
-    "fullName": "Čile"
+    "fullName": "Republika Čile"
   },
   "CN": {
     "name": "Kina",
-    "fullName": "Kina"
+    "fullName": "Narodna Republika Kina"
   },
   "CO": {
     "name": "Kolumbija",
-    "fullName": "Kolumbija"
+    "fullName": "Republika Kolumbija"
   },
   "KM": {
     "name": "Komorska Ostrva",
-    "fullName": "Komorska Ostrva"
+    "fullName": "Unija Komora"
   },
   "CG": {
     "name": "Kongo",
-    "fullName": "Kongo"
+    "fullName": "Republika Kongo"
   },
   "CD": {
     "name": "Demokratska Republika Kongo",
@@ -161,39 +161,39 @@
   },
   "CR": {
     "name": "Kostarika",
-    "fullName": "Kostarika"
+    "fullName": "Republika Kostarika"
   },
   "CI": {
     "name": "Obala Slonovače",
-    "fullName": "Obala Slonovače"
+    "fullName": "Republika Obala Slonovače"
   },
   "HR": {
     "name": "Hrvatska",
-    "fullName": "Hrvatska"
+    "fullName": "Republika Hrvatska"
   },
   "CU": {
     "name": "Kuba",
-    "fullName": "Kuba"
+    "fullName": "Republika Kuba"
   },
   "CY": {
     "name": "Kipar",
-    "fullName": "Kipar"
+    "fullName": "Republika Kipar"
   },
   "CZ": {
     "name": "Češka",
-    "fullName": "Češka"
+    "fullName": "Češka Republika"
   },
   "DK": {
     "name": "Danska",
-    "fullName": "Danska"
+    "fullName": "Kraljevina Danska"
   },
   "DJ": {
     "name": "Džibuti",
-    "fullName": "Džibuti"
+    "fullName": "Republika Džibuti"
   },
   "DM": {
     "name": "Dominika",
-    "fullName": "Dominika"
+    "fullName": "Komonvelt Dominike"
   },
   "DO": {
     "name": "Dominikanska Republika",
@@ -201,55 +201,55 @@
   },
   "EC": {
     "name": "Ekvador",
-    "fullName": "Ekvador"
+    "fullName": "Republika Ekvador"
   },
   "EG": {
     "name": "Egipat",
-    "fullName": "Egipat"
+    "fullName": "Arapska Republika Egipat"
   },
   "SV": {
     "name": "Salvador",
-    "fullName": "Salvador"
+    "fullName": "Republika El Salvador"
   },
   "GQ": {
     "name": "Ekvatorijalna Gvineja",
-    "fullName": "Ekvatorijalna Gvineja"
+    "fullName": "Republika Ekvatorijalna Gvineja"
   },
   "ER": {
     "name": "Eritreja",
-    "fullName": "Eritreja"
+    "fullName": "Država Eritreja"
   },
   "EE": {
     "name": "Estonija",
-    "fullName": "Estonija"
+    "fullName": "Republika Estonija"
   },
   "SZ": {
     "name": "Svazilend",
-    "fullName": "Svazilend"
+    "fullName": "Kraljevina Esvatini"
   },
   "ET": {
     "name": "Etiopija",
-    "fullName": "Etiopija"
+    "fullName": "Savezna Demokratska Republika Etiopija"
   },
   "FJ": {
     "name": "Fidži",
-    "fullName": "Fidži"
+    "fullName": "Republika Fidži"
   },
   "FI": {
     "name": "Finska",
-    "fullName": "Finska"
+    "fullName": "Republika Finska"
   },
   "FR": {
     "name": "Francuska",
-    "fullName": "Francuska"
+    "fullName": "Republika Francuska"
   },
   "GA": {
     "name": "Gabon",
-    "fullName": "Gabon"
+    "fullName": "Gabonska Republika"
   },
   "GM": {
     "name": "Gambija",
-    "fullName": "Gambija"
+    "fullName": "Republika Gambija"
   },
   "GE": {
     "name": "Gruzija",
@@ -257,15 +257,15 @@
   },
   "DE": {
     "name": "Njemačka",
-    "fullName": "Njemačka"
+    "fullName": "Savezna Republika Njemačka"
   },
   "GH": {
     "name": "Gana",
-    "fullName": "Gana"
+    "fullName": "Republika Gana"
   },
   "GR": {
     "name": "Grčka",
-    "fullName": "Grčka"
+    "fullName": "Republika Grčka"
   },
   "GD": {
     "name": "Grenada",
@@ -273,27 +273,27 @@
   },
   "GT": {
     "name": "Gvatemala",
-    "fullName": "Gvatemala"
+    "fullName": "Republika Gvatemala"
   },
   "GN": {
     "name": "Gvineja",
-    "fullName": "Gvineja"
+    "fullName": "Republika Gvineja"
   },
   "GW": {
     "name": "Gvineja-Bisao",
-    "fullName": "Gvineja-Bisao"
+    "fullName": "Republika Gvineja Bisao"
   },
   "GY": {
     "name": "Gvajana",
-    "fullName": "Gvajana"
+    "fullName": "Kooperativna Republika Gvajana"
   },
   "HT": {
     "name": "Haiti",
-    "fullName": "Haiti"
+    "fullName": "Republika Haiti"
   },
   "HN": {
     "name": "Honduras",
-    "fullName": "Honduras"
+    "fullName": "Republika Honduras"
   },
   "HU": {
     "name": "Mađarska",
@@ -301,35 +301,35 @@
   },
   "IS": {
     "name": "Island",
-    "fullName": "Island"
+    "fullName": "Republika Island"
   },
   "IN": {
     "name": "Indija",
-    "fullName": "Indija"
+    "fullName": "Republika Indija"
   },
   "ID": {
     "name": "Indonezija",
-    "fullName": "Indonezija"
+    "fullName": "Republika Indonezija"
   },
   "IR": {
     "name": "Iran",
-    "fullName": "Iran"
+    "fullName": "Islamska Republika Iran"
   },
   "IQ": {
     "name": "Irak",
-    "fullName": "Irak"
+    "fullName": "Republika Irak"
   },
   "IE": {
     "name": "Irska",
-    "fullName": "Irska"
+    "fullName": "Republika Irska"
   },
   "IL": {
     "name": "Izrael",
-    "fullName": "Izrael"
+    "fullName": "Država Izrael"
   },
   "IT": {
     "name": "Italija",
-    "fullName": "Italija"
+    "fullName": "Republika Italija"
   },
   "JM": {
     "name": "Jamajka",
@@ -341,79 +341,79 @@
   },
   "JO": {
     "name": "Jordan",
-    "fullName": "Jordan"
+    "fullName": "Hašemitska Kraljevina Jordan"
   },
   "KZ": {
     "name": "Kazahstan",
-    "fullName": "Kazahstan"
+    "fullName": "Republika Kazahstan"
   },
   "KE": {
     "name": "Kenija",
-    "fullName": "Kenija"
+    "fullName": "Republika Kenija"
   },
   "KI": {
     "name": "Kiribati",
-    "fullName": "Kiribati"
+    "fullName": "Republika Kiribati"
   },
   "KP": {
     "name": "Sjeverna Koreja",
-    "fullName": "Sjeverna Koreja"
+    "fullName": "Demokratska Narodna Republika Koreja"
   },
   "KR": {
     "name": "Južna Koreja",
-    "fullName": "Južna Koreja"
+    "fullName": "Republika Koreja"
   },
   "KW": {
     "name": "Kuvajt",
-    "fullName": "Kuvajt"
+    "fullName": "Država Kuvajt"
   },
   "KG": {
     "name": "Kirgistan",
-    "fullName": "Kirgistan"
+    "fullName": "Kirgiska Republika"
   },
   "LA": {
     "name": "Laos",
-    "fullName": "Laos"
+    "fullName": "Narodna Demokratska Republika Laos"
   },
   "LV": {
     "name": "Latvija",
-    "fullName": "Latvija"
+    "fullName": "Republika Latvija"
   },
   "LB": {
     "name": "Liban",
-    "fullName": "Liban"
+    "fullName": "Libanska Republika"
   },
   "LS": {
     "name": "Lesoto",
-    "fullName": "Lesoto"
+    "fullName": "Kraljevina Lesoto"
   },
   "LR": {
     "name": "Liberija",
-    "fullName": "Liberija"
+    "fullName": "Republika Liberija"
   },
   "LY": {
     "name": "Libija",
-    "fullName": "Libija"
+    "fullName": "Država Libija"
   },
   "LI": {
     "name": "Lihtenštajn",
-    "fullName": "Lihtenštajn"
+    "fullName": "Kneževina Lihtenštajn"
   },
   "LT": {
     "name": "Litvanija",
-    "fullName": "Litvanija"
+    "fullName": "Republika Litvanija"
   },
   "LU": {
     "name": "Luksemburg",
-    "fullName": "Luksemburg"
+    "fullName": "Veliko Vojvodstvo Luksemburg"
   },
   "MG": {
     "name": "Madagaskar",
-    "fullName": "Madagaskar"
+    "fullName": "Republika Madagaskar"
   },
   "MW": {
     "name": "Malavi",
-    "fullName": "Malavi"
+    "fullName": "Republika Malavi"
   },
   "MY": {
     "name": "Malezija",
@@ -421,43 +421,43 @@
   },
   "MV": {
     "name": "Maldivi",
-    "fullName": "Maldivi"
+    "fullName": "Republika Maldivi"
   },
   "ML": {
     "name": "Mali",
-    "fullName": "Mali"
+    "fullName": "Republika Mali"
   },
   "MT": {
     "name": "Malta",
-    "fullName": "Malta"
+    "fullName": "Republika Malta"
   },
   "MH": {
     "name": "Maršalova Ostrva",
-    "fullName": "Maršalova Ostrva"
+    "fullName": "Republika Maršalova Ostrva"
   },
   "MR": {
     "name": "Mauritanija",
-    "fullName": "Mauritanija"
+    "fullName": "Islamska Republika Mauritanija"
   },
   "MU": {
     "name": "Mauricijus",
-    "fullName": "Mauricijus"
+    "fullName": "Republika Mauricijus"
   },
   "MX": {
     "name": "Meksiko",
-    "fullName": "Meksiko"
+    "fullName": "Sjedinjene Meksičke Države"
   },
   "FM": {
     "name": "Mikronezija",
-    "fullName": "Mikronezija"
+    "fullName": "Savezne Države Mikronezije"
   },
   "MD": {
     "name": "Moldavija",
-    "fullName": "Moldavija"
+    "fullName": "Republika Moldavija"
   },
   "MC": {
     "name": "Monako",
-    "fullName": "Monako"
+    "fullName": "Kneževina Monako"
   },
   "MN": {
     "name": "Mongolija",
@@ -469,31 +469,31 @@
   },
   "MA": {
     "name": "Maroko",
-    "fullName": "Maroko"
+    "fullName": "Kraljevina Maroko"
   },
   "MZ": {
     "name": "Mozambik",
-    "fullName": "Mozambik"
+    "fullName": "Republika Mozambik"
   },
   "MM": {
     "name": "Mijanmar",
-    "fullName": "Mijanmar"
+    "fullName": "Republika Mijanmarska Unija"
   },
   "NA": {
     "name": "Namibija",
-    "fullName": "Namibija"
+    "fullName": "Republika Namibija"
   },
   "NR": {
     "name": "Nauru",
-    "fullName": "Nauru"
+    "fullName": "Republika Nauru"
   },
   "NP": {
     "name": "Nepal",
-    "fullName": "Nepal"
+    "fullName": "Savezna Demokratska Republika Nepal"
   },
   "NL": {
     "name": "Holandija",
-    "fullName": "Holandija"
+    "fullName": "Kraljevina Holandija"
   },
   "NZ": {
     "name": "Novi Zeland",
@@ -501,67 +501,67 @@
   },
   "NI": {
     "name": "Nikaragva",
-    "fullName": "Nikaragva"
+    "fullName": "Republika Nikaragva"
   },
   "NE": {
     "name": "Niger",
-    "fullName": "Niger"
+    "fullName": "Republika Niger"
   },
   "NG": {
     "name": "Nigerija",
-    "fullName": "Nigerija"
+    "fullName": "Savezna Republika Nigerija"
   },
   "MK": {
     "name": "Sjeverna Makedonija",
-    "fullName": "Sjeverna Makedonija"
+    "fullName": "Republika Sjeverna Makedonija"
   },
   "NO": {
     "name": "Norveška",
-    "fullName": "Norveška"
+    "fullName": "Kraljevina Norveška"
   },
   "OM": {
     "name": "Oman",
-    "fullName": "Oman"
+    "fullName": "Sultanat Oman"
   },
   "PK": {
     "name": "Pakistan",
-    "fullName": "Pakistan"
+    "fullName": "Islamska Republika Pakistan"
   },
   "PW": {
     "name": "Palau",
-    "fullName": "Palau"
+    "fullName": "Republika Palau"
   },
   "PA": {
     "name": "Panama",
-    "fullName": "Panama"
+    "fullName": "Republika Panama"
   },
   "PG": {
     "name": "Papua Nova Gvineja",
-    "fullName": "Papua Nova Gvineja"
+    "fullName": "Nezavisna Država Papua Nova Gvineja"
   },
   "PY": {
     "name": "Paragvaj",
-    "fullName": "Paragvaj"
+    "fullName": "Republika Paragvaj"
   },
   "PE": {
     "name": "Peru",
-    "fullName": "Peru"
+    "fullName": "Republika Peru"
   },
   "PH": {
     "name": "Filipini",
-    "fullName": "Filipini"
+    "fullName": "Republika Filipini"
   },
   "PL": {
     "name": "Poljska",
-    "fullName": "Poljska"
+    "fullName": "Republika Poljska"
   },
   "PT": {
     "name": "Portugal",
-    "fullName": "Portugal"
+    "fullName": "Republika Portugal"
   },
   "QA": {
     "name": "Katar",
-    "fullName": "Katar"
+    "fullName": "Država Katar"
   },
   "RO": {
     "name": "Rumunija",
@@ -569,15 +569,15 @@
   },
   "RU": {
     "name": "Rusija",
-    "fullName": "Rusija"
+    "fullName": "Ruska Federacija"
   },
   "RW": {
     "name": "Ruanda",
-    "fullName": "Ruanda"
+    "fullName": "Republika Ruanda"
   },
   "KN": {
     "name": "Sveti Kits i Nevis",
-    "fullName": "Sveti Kits i Nevis"
+    "fullName": "Federacija Sveti Kits i Nevis"
   },
   "LC": {
     "name": "Sveta Lucija",
@@ -589,47 +589,47 @@
   },
   "WS": {
     "name": "Samoa",
-    "fullName": "Samoa"
+    "fullName": "Nezavisna Država Samoa"
   },
   "SM": {
     "name": "San Marino",
-    "fullName": "San Marino"
+    "fullName": "Republika San Marino"
   },
   "ST": {
     "name": "Sao Tome i Principe",
-    "fullName": "Sao Tome i Principe"
+    "fullName": "Demokratska Republika Sao Tome i Principe"
   },
   "SA": {
     "name": "Saudijska Arabija",
-    "fullName": "Saudijska Arabija"
+    "fullName": "Kraljevina Saudijska Arabija"
   },
   "SN": {
     "name": "Senegal",
-    "fullName": "Senegal"
+    "fullName": "Republika Senegal"
   },
   "RS": {
     "name": "Srbija",
-    "fullName": "Srbija"
+    "fullName": "Republika Srbija"
   },
   "SC": {
     "name": "Sejšeli",
-    "fullName": "Sejšeli"
+    "fullName": "Republika Sejšeli"
   },
   "SL": {
     "name": "Sijera Leone",
-    "fullName": "Sijera Leone"
+    "fullName": "Republika Sijera Leone"
   },
   "SG": {
     "name": "Singapur",
-    "fullName": "Singapur"
+    "fullName": "Republika Singapur"
   },
   "SK": {
     "name": "Slovačka",
-    "fullName": "Slovačka"
+    "fullName": "Slovačka republika"
   },
   "SI": {
     "name": "Slovenija",
-    "fullName": "Slovenija"
+    "fullName": "Republika Slovenija"
   },
   "SB": {
     "name": "Solomonska Ostrva",
@@ -637,79 +637,79 @@
   },
   "SO": {
     "name": "Somalija",
-    "fullName": "Somalija"
+    "fullName": "Savezna Republika Somalija"
   },
   "ZA": {
     "name": "Južnoafrička Republika",
-    "fullName": "Južnoafrička Republika"
+    "fullName": "Republika Južna Afrika"
   },
   "SS": {
     "name": "Južni Sudan",
-    "fullName": "Južni Sudan"
+    "fullName": "Republika Južni Sudan"
   },
   "ES": {
     "name": "Španija",
-    "fullName": "Španija"
+    "fullName": "Kraljevina Španija"
   },
   "LK": {
     "name": "Šri Lanka",
-    "fullName": "Šri Lanka"
+    "fullName": "Demokratska Socijalistička Republika Šri Lanka"
   },
   "SD": {
     "name": "Sudan",
-    "fullName": "Sudan"
+    "fullName": "Republika Sudan"
   },
   "SR": {
     "name": "Surinam",
-    "fullName": "Surinam"
+    "fullName": "Republika Surinam"
   },
   "SE": {
     "name": "Švedska",
-    "fullName": "Švedska"
+    "fullName": "Kraljevina Švedska"
   },
   "CH": {
     "name": "Švicarska",
-    "fullName": "Švicarska"
+    "fullName": "Švicarska Konfederacija"
   },
   "SY": {
     "name": "Sirija",
-    "fullName": "Sirija"
+    "fullName": "Sirijska Arapska Republika"
   },
   "TJ": {
     "name": "Tadžikistan",
-    "fullName": "Tadžikistan"
+    "fullName": "Republika Tadžikistan"
   },
   "TZ": {
     "name": "Tanzanija",
-    "fullName": "Tanzanija"
+    "fullName": "Ujedinjena Republika Tanzanija"
   },
   "TH": {
     "name": "Tajland",
-    "fullName": "Tajland"
+    "fullName": "Kraljevina Tajland"
   },
   "TL": {
     "name": "Istočni Timor",
-    "fullName": "Istočni Timor"
+    "fullName": "Demokratska Republika Istočni Timor"
   },
   "TG": {
     "name": "Togo",
-    "fullName": "Togo"
+    "fullName": "Republika Togo"
   },
   "TO": {
     "name": "Tonga",
-    "fullName": "Tonga"
+    "fullName": "Kraljevina Tonga"
   },
   "TT": {
     "name": "Trinidad i Tobago",
-    "fullName": "Trinidad i Tobago"
+    "fullName": "Republika Trinidad i Tobago"
   },
   "TN": {
     "name": "Tunis",
-    "fullName": "Tunis"
+    "fullName": "Republika Tunis"
   },
   "TR": {
     "name": "Turska",
-    "fullName": "Turska"
+    "fullName": "Republika Turska"
   },
   "TM": {
     "name": "Turkmenistan",
@@ -721,7 +721,7 @@
   },
   "UG": {
     "name": "Uganda",
-    "fullName": "Uganda"
+    "fullName": "Republika Uganda"
   },
   "UA": {
     "name": "Ukrajina",
@@ -733,7 +733,7 @@
   },
   "GB": {
     "name": "Velika Britanija",
-    "fullName": "Velika Britanija"
+    "fullName": "Ujedinjeno Kraljevstvo Velike Britanije i Sjeverne Irske"
   },
   "US": {
     "name": "Sjedinjene Američke Države",
@@ -741,63 +741,63 @@
   },
   "UY": {
     "name": "Urugvaj",
-    "fullName": "Urugvaj"
+    "fullName": "Istočna Republika Urugvaj"
   },
   "UZ": {
     "name": "Uzbekistan",
-    "fullName": "Uzbekistan"
+    "fullName": "Republika Uzbekistan"
   },
   "VU": {
     "name": "Vanuatu",
-    "fullName": "Vanuatu"
+    "fullName": "Republika Vanuatu"
   },
   "VE": {
     "name": "Venecuela",
-    "fullName": "Venecuela"
+    "fullName": "Bolivarska Republika Venecuela"
   },
   "VN": {
     "name": "Vijetnam",
-    "fullName": "Vijetnam"
+    "fullName": "Socijalistička Republika Vijetnam"
   },
   "YE": {
     "name": "Jemen",
-    "fullName": "Jemen"
+    "fullName": "Republika Jemen"
   },
   "ZM": {
     "name": "Zambija",
-    "fullName": "Zambija"
+    "fullName": "Republika Zambija"
   },
   "ZW": {
     "name": "Zimbabve",
-    "fullName": "Zimbabve"
+    "fullName": "Republika Zimbabve"
   },
   "HK": {
     "name": "Hong Kong (SAR Kina)",
-    "fullName": "Hong Kong (SAR Kina)"
+    "fullName": "Specijalna administrativna oblast Hong Konga Narodne Republike Kine"
   },
   "MO": {
     "name": "Makao (SAR Kina)",
-    "fullName": "Makao (SAR Kina)"
+    "fullName": "Specijalna administrativna oblast Makao Narodne Republike Kine"
   },
   "TW": {
     "name": "Tajvan",
-    "fullName": "Tajvan"
+    "fullName": "Republika Kina (Tajvan)"
   },
   "PS": {
     "name": "Palestinska Teritorija",
-    "fullName": "Palestinska Teritorija"
+    "fullName": "Država Palestina"
   },
   "XK": {
     "name": "Kosovo",
-    "fullName": "Kosovo"
+    "fullName": "Republika Kosovo"
   },
   "VA": {
     "name": "Vatikan",
-    "fullName": "Vatikan"
+    "fullName": "Sveta Stolica"
   },
   "PR": {
     "name": "Porto Riko",
-    "fullName": "Porto Riko"
+    "fullName": "Komonvelt Porto Rika"
   },
   "GU": {
     "name": "Guam",
@@ -829,7 +829,7 @@
   },
   "VI": {
     "name": "Američka Djevičanska Ostrva",
-    "fullName": "Američka Djevičanska Ostrva"
+    "fullName": "Djevičanska Ostrva Sjedinjenih Američkih Država"
   },
   "CW": {
     "name": "Kurasao",
@@ -845,11 +845,11 @@
   },
   "JE": {
     "name": "Džerzi",
-    "fullName": "Džerzi"
+    "fullName": "Bejlivik Džerzi"
   },
   "GG": {
     "name": "Gernzi",
-    "fullName": "Gernzi"
+    "fullName": "Bejlivik Gernzi"
   },
   "IM": {
     "name": "Ostrvo Man",
@@ -917,23 +917,23 @@
   },
   "MP": {
     "name": "Sjeverna Marijanska Ostrva",
-    "fullName": "Sjeverna Marijanska Ostrva"
+    "fullName": "Komonvelt Sjevernih Marijanskih Ostrva"
   },
   "CX": {
     "name": "Božićna Ostrva",
-    "fullName": "Božićna Ostrva"
+    "fullName": "Teritorija Božićnog Ostrva"
   },
   "CC": {
     "name": "Kokosova (Kilingova) Ostrva",
-    "fullName": "Kokosova (Kilingova) Ostrva"
+    "fullName": "Teritorija Kokosovih (Kiling) Ostrva"
   },
   "NF": {
     "name": "Ostrvo Norfolk",
-    "fullName": "Ostrvo Norfolk"
+    "fullName": "Teritorija Ostrva Norfolk"
   },
   "PN": {
     "name": "Pitkernska Ostrva",
-    "fullName": "Pitkernska Ostrva"
+    "fullName": "Pitkern, Henderson, Ducie i Oeno Ostrva"
   },
   "TK": {
     "name": "Tokelau",
