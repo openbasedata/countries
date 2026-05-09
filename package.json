@@ -2,23 +2,31 @@
   "name": "@openbasedata/countries",
   "version": "1.0.0",
   "description": "Open base data for all countries and regions in the world",
-  "main": "data.json",
   "keywords": [
     "countries",
-    "regions",
-    "world",
     "data",
+    "flags",
     "iso",
-    "flags"
+    "regions",
+    "world"
   ],
-  "author": "openbasedata",
+  "homepage": "https://github.com/openbasedata/countries#readme",
+  "bugs": {
+    "url": "https://github.com/openbasedata/countries/issues"
+  },
   "license": "MIT",
+  "author": "openbasedata",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/openbasedata/countries.git"
   },
-  "bugs": {
-    "url": "https://github.com/openbasedata/countries/issues"
+  "main": "data.json",
+  "scripts": {
+    "format": "oxfmt .",
+    "format:check": "oxfmt --check ."
   },
-  "homepage": "https://github.com/openbasedata/countries#readme"
+  "devDependencies": {
+    "@guoyunhe/oxfmt-config": "^1.1.0",
+    "oxfmt": "^0.48.0"
+  }
 }
