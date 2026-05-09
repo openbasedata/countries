@@ -26,7 +26,8 @@ Other localized translations are split into `/translations/<locale>.json` (one l
     "nativeFullName": "中华人民共和国",
     "population": 1413400000,
     "area": 9596961,
-    "languages": ["zh"]
+    "languages": ["zh"],
+    "currency": "CNY"
   }
 ]
 ```
@@ -43,6 +44,7 @@ Other localized translations are split into `/translations/<locale>.json` (one l
 | `population` | `number` | Yes | Total population count as an integer. |
 | `area` | `number` | Yes | Total land area in square kilometers (`km²`). |
 | `languages` | `string[]` | Yes | List of ISO 639-1 language codes commonly used in that country/region, e.g. `["zh"]`. |
+| `currency` | `string` | Yes | Primary ISO 4217 currency code used in that country/region, e.g. `CNY`. |
 
 ## Translations
 
