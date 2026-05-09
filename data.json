@@ -595,9 +595,9 @@
       "fr"
     ],
     "currency": "XAF",
-    "nativeName": "République du Congo",
+    "nativeName": "Congo",
     "nativeFullName": "République du Congo",
-    "name": "Republic of the Congo",
+    "name": "Congo",
     "fullName": "Republic of the Congo"
   },
   {
@@ -703,7 +703,7 @@
     "currency": "CZK",
     "nativeName": "Česko",
     "nativeFullName": "Česká republika",
-    "name": "Czech Republic",
+    "name": "Czechia",
     "fullName": "Czech Republic"
   },
   {
@@ -1163,9 +1163,9 @@
     ],
     "currency": "ISK",
     "nativeName": "Ísland",
-    "nativeFullName": "Ísland",
+    "nativeFullName": "Lýðveldið Ísland",
     "name": "Iceland",
-    "fullName": "Iceland"
+    "fullName": "Republic of Iceland"
   },
   {
     "code2": "IN",
@@ -1302,9 +1302,9 @@
     ],
     "currency": "JPY",
     "nativeName": "日本",
-    "nativeFullName": "日本",
+    "nativeFullName": "日本国",
     "name": "Japan",
-    "fullName": "Japan"
+    "fullName": "State of Japan"
   },
   {
     "code2": "JO",
@@ -3339,7 +3339,7 @@
     "nativeName": "British Virgin Islands",
     "nativeFullName": "Virgin Islands",
     "name": "British Virgin Islands",
-    "fullName": "British Virgin Islands"
+    "fullName": "Virgin Islands"
   },
   {
     "code2": "AI",
@@ -3565,7 +3565,7 @@
     "nativeName": "Christmas Island",
     "nativeFullName": "Territory of Christmas Island",
     "name": "Christmas Island",
-    "fullName": "Christmas Island"
+    "fullName": "Territory of Christmas Island"
   },
   {
     "code2": "CC",
@@ -3595,7 +3595,7 @@
     "nativeName": "Norfolk Island",
     "nativeFullName": "Territory of Norfolk Island",
     "name": "Norfolk Island",
-    "fullName": "Norfolk Island"
+    "fullName": "Territory of Norfolk Island"
   },
   {
     "code2": "PN",
@@ -3791,9 +3791,9 @@
     ],
     "currency": "AUD",
     "nativeName": "Heard Island and McDonald Islands",
-    "nativeFullName": "Heard Island and McDonald Islands",
+    "nativeFullName": "Territory of Heard Island and McDonald Islands",
     "name": "Heard Island and McDonald Islands",
-    "fullName": "Heard Island and McDonald Islands"
+    "fullName": "Territory of Heard Island and McDonald Islands"
   },
   {
     "code2": "AQ",
