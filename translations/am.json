@@ -1,23 +1,23 @@
 {
   "AF": {
     "name": "አፍጋኒስታን",
-    "fullName": "አፍጋኒስታን"
+    "fullName": "የአፍጋኒስታን እስላማዊ ሪፐብሊክ"
   },
   "AL": {
     "name": "አልባኒያ",
-    "fullName": "አልባኒያ"
+    "fullName": "የአልባኒያ ሪፐብሊክ"
   },
   "DZ": {
     "name": "አልጄሪያ",
-    "fullName": "አልጄሪያ"
+    "fullName": "የአልጄሪያ ሕዝባዊ ዲሞክራሲያዊ ሪፐብሊክ"
   },
   "AD": {
     "name": "አንዶራ",
-    "fullName": "አንዶራ"
+    "fullName": "የአንዶራ ፕሪንሲፓሊቲ"
   },
   "AO": {
     "name": "አንጐላ",
-    "fullName": "አንጐላ"
+    "fullName": "የአንጐላ ሪፐብሊክ"
   },
   "AG": {
     "name": "አንቲጓ እና ባሩዳ",
@@ -25,35 +25,35 @@
   },
   "AR": {
     "name": "አርጀንቲና",
-    "fullName": "አርጀንቲና"
+    "fullName": "የአርጀንቲና ሪፐብሊክ"
   },
   "AM": {
     "name": "አርሜኒያ",
-    "fullName": "አርሜኒያ"
+    "fullName": "የአርሜኒያ ሪፐብሊክ"
   },
   "AU": {
     "name": "አውስትራልያ",
-    "fullName": "አውስትራልያ"
+    "fullName": "የአውስትራልያ ኮመንዌልዝ"
   },
   "AT": {
     "name": "ኦስትሪያ",
-    "fullName": "ኦስትሪያ"
+    "fullName": "የኦስትሪያ ሪፐብሊክ"
   },
   "AZ": {
     "name": "አዘርባጃን",
-    "fullName": "አዘርባጃን"
+    "fullName": "የአዘርባጃን ሪፐብሊክ"
   },
   "BS": {
     "name": "ባሃማስ",
-    "fullName": "ባሃማስ"
+    "fullName": "የባሃማስ ኮመንዌልዝ"
   },
   "BH": {
     "name": "ባህሬን",
-    "fullName": "ባህሬን"
+    "fullName": "የባህሬን መንግሥት"
   },
   "BD": {
     "name": "ባንግላዲሽ",
-    "fullName": "ባንግላዲሽ"
+    "fullName": "የባንግላዲሽ ሕዝባዊ ሪፐብሊክ"
   },
   "BB": {
     "name": "ባርቤዶስ",
@@ -61,11 +61,11 @@
   },
   "BY": {
     "name": "ቤላሩስ",
-    "fullName": "ቤላሩስ"
+    "fullName": "የቤላሩስ ሪፐብሊክ"
   },
   "BE": {
     "name": "ቤልጄም",
-    "fullName": "ቤልጄም"
+    "fullName": "የቤልጄም መንግሥት"
   },
   "BZ": {
     "name": "ቤሊዘ",
@@ -73,15 +73,15 @@
   },
   "BJ": {
     "name": "ቤኒን",
-    "fullName": "ቤኒን"
+    "fullName": "የቤኒን ሪፐብሊክ"
   },
   "BT": {
     "name": "ቡህታን",
-    "fullName": "ቡህታን"
+    "fullName": "የቡህታን መንግሥት"
   },
   "BO": {
     "name": "ቦሊቪያ",
-    "fullName": "ቦሊቪያ"
+    "fullName": "የቦሊቪያ ብዙሃን ብሔራዊ መንግሥት"
   },
   "BA": {
     "name": "ቦስኒያ እና ሄርዞጎቪኒያ",
@@ -89,19 +89,19 @@
   },
   "BW": {
     "name": "ቦትስዋና",
-    "fullName": "ቦትስዋና"
+    "fullName": "የቦትስዋና ሪፐብሊክ"
   },
   "BR": {
     "name": "ብራዚል",
-    "fullName": "ብራዚል"
+    "fullName": "የብራዚል ፌዴሬቲቭ ሪፐብሊክ"
   },
   "BN": {
     "name": "ብሩኒ",
-    "fullName": "ብሩኒ"
+    "fullName": "የብሩኒ ሀገር፣ የሰላም መኖሪያ"
   },
   "BG": {
     "name": "ቡልጌሪያ",
-    "fullName": "ቡልጌሪያ"
+    "fullName": "የቡልጌሪያ ሪፐብሊክ"
   },
   "BF": {
     "name": "ቡርኪና ፋሶ",
@@ -109,19 +109,19 @@
   },
   "BI": {
     "name": "ብሩንዲ",
-    "fullName": "ብሩንዲ"
+    "fullName": "የብሩንዲ ሪፐብሊክ"
   },
   "CV": {
     "name": "ኬፕ ቬርዴ",
-    "fullName": "ኬፕ ቬርዴ"
+    "fullName": "የኬፕ ቬርዴ ሪፐብሊክ"
   },
   "KH": {
     "name": "ካምቦዲያ",
-    "fullName": "ካምቦዲያ"
+    "fullName": "የካምቦዲያ መንግሥት"
   },
   "CM": {
     "name": "ካሜሩን",
-    "fullName": "ካሜሩን"
+    "fullName": "የካሜሩን ሪፐብሊክ"
   },
   "CA": {
     "name": "ካናዳ",
@@ -133,67 +133,67 @@
   },
   "TD": {
     "name": "ቻድ",
-    "fullName": "ቻድ"
+    "fullName": "የቻድ ሪፐብሊክ"
   },
   "CL": {
     "name": "ቺሊ",
-    "fullName": "ቺሊ"
+    "fullName": "የቺሊ ሪፐብሊክ"
   },
   "CN": {
     "name": "ቻይና",
-    "fullName": "ቻይና"
+    "fullName": "የቻይና ሕዝባዊ ሪፐብሊክ"
   },
   "CO": {
     "name": "ኮሎምቢያ",
-    "fullName": "ኮሎምቢያ"
+    "fullName": "የኮሎምቢያ ሪፐብሊክ"
   },
   "KM": {
     "name": "ኮሞሮስ",
-    "fullName": "ኮሞሮስ"
+    "fullName": "የኮሞሮስ ህብረት"
   },
   "CG": {
     "name": "ኮንጎ ብራዛቪል",
-    "fullName": "ኮንጎ ብራዛቪል"
+    "fullName": "የኮንጎ ብራዛቪል ሪፐብሊክ"
   },
   "CD": {
     "name": "ኮንጎ-ኪንሻሳ",
-    "fullName": "ኮንጎ-ኪንሻሳ"
+    "fullName": "የኮንጎ ዲሞክራሲያዊ ሪፐብሊክ"
   },
   "CR": {
     "name": "ኮስታ ሪካ",
-    "fullName": "ኮስታ ሪካ"
+    "fullName": "የኮስታ ሪካ ሪፐብሊክ"
   },
   "CI": {
     "name": "ኮት ዲቯር",
-    "fullName": "ኮት ዲቯር"
+    "fullName": "የኮት ዲቯር ሪፐብሊክ"
   },
   "HR": {
     "name": "ክሮኤሽያ",
-    "fullName": "ክሮኤሽያ"
+    "fullName": "የክሮኤሽያ ሪፐብሊክ"
   },
   "CU": {
     "name": "ኩባ",
-    "fullName": "ኩባ"
+    "fullName": "የኩባ ሪፐብሊክ"
   },
   "CY": {
     "name": "ሳይፕረስ",
-    "fullName": "ሳይፕረስ"
+    "fullName": "የሳይፕረስ ሪፐብሊክ"
   },
   "CZ": {
-    "name": "ቼክ ሪፑብሊክ",
-    "fullName": "ቼክ ሪፑብሊክ"
+    "name": "ቼቺያ",
+    "fullName": "የቼክ ሪፑብሊክ"
   },
   "DK": {
     "name": "ዴንማርክ",
-    "fullName": "ዴንማርክ"
+    "fullName": "የዴንማርክ መንግሥት"
   },
   "DJ": {
     "name": "ጂቡቲ",
-    "fullName": "ጂቡቲ"
+    "fullName": "የጂቡቲ ሪፐብሊክ"
   },
   "DM": {
     "name": "ዶሚኒካ",
-    "fullName": "ዶሚኒካ"
+    "fullName": "የዶሚኒካ ኮመንዌልዝ"
   },
   "DO": {
     "name": "ዶሚኒክ ሪፑብሊክ",
@@ -201,55 +201,55 @@
   },
   "EC": {
     "name": "ኢኳዶር",
-    "fullName": "ኢኳዶር"
+    "fullName": "የኢኳዶር ሪፐብሊክ"
   },
   "EG": {
     "name": "ግብጽ",
-    "fullName": "ግብጽ"
+    "fullName": "የግብጽ ዓረብ ሪፐብሊክ"
   },
   "SV": {
     "name": "ኤል ሳልቫዶር",
-    "fullName": "ኤል ሳልቫዶር"
+    "fullName": "የኤል ሳልቫዶር ሪፐብሊክ"
   },
   "GQ": {
     "name": "ኢኳቶሪያል ጊኒ",
-    "fullName": "ኢኳቶሪያል ጊኒ"
+    "fullName": "የኢኳቶሪያል ጊኒ ሪፐብሊክ"
   },
   "ER": {
     "name": "ኤርትራ",
-    "fullName": "ኤርትራ"
+    "fullName": "የኤርትራ መንግሥት"
   },
   "EE": {
     "name": "ኤስቶኒያ",
-    "fullName": "ኤስቶኒያ"
+    "fullName": "የኤስቶኒያ ሪፐብሊክ"
   },
   "SZ": {
     "name": "ሱዋዚላንድ",
-    "fullName": "ሱዋዚላንድ"
+    "fullName": "የሱዋዚላንድ መንግሥት"
   },
   "ET": {
     "name": "ኢትዮጵያ",
-    "fullName": "ኢትዮጵያ"
+    "fullName": "የኢትዮጵያ ፌዴራላዊ ዴሞክራሲያዊ ሪፐብሊክ"
   },
   "FJ": {
     "name": "ፊጂ",
-    "fullName": "ፊጂ"
+    "fullName": "የፊጂ ሪፐብሊክ"
   },
   "FI": {
     "name": "ፊንላንድ",
-    "fullName": "ፊንላንድ"
+    "fullName": "የፊንላንድ ሪፐብሊክ"
   },
   "FR": {
     "name": "ፈረንሳይ",
-    "fullName": "ፈረንሳይ"
+    "fullName": "የፈረንሳይ ሪፐብሊክ"
   },
   "GA": {
     "name": "ጋቦን",
-    "fullName": "ጋቦን"
+    "fullName": "የጋቦን ሪፐብሊክ"
   },
   "GM": {
     "name": "ጋምቢያ",
-    "fullName": "ጋምቢያ"
+    "fullName": "የጋምቢያ ሪፐብሊክ"
   },
   "GE": {
     "name": "ጆርጂያ",
@@ -257,15 +257,15 @@
   },
   "DE": {
     "name": "ጀርመን",
-    "fullName": "ጀርመን"
+    "fullName": "የጀርመን ፌዴራላዊ ሪፐብሊክ"
   },
   "GH": {
     "name": "ጋና",
-    "fullName": "ጋና"
+    "fullName": "የጋና ሪፐብሊክ"
   },
   "GR": {
     "name": "ግሪክ",
-    "fullName": "ግሪክ"
+    "fullName": "የግሪክ ሪፐብሊክ"
   },
   "GD": {
     "name": "ግሬናዳ",
@@ -273,27 +273,27 @@
   },
   "GT": {
     "name": "ጉዋቲማላ",
-    "fullName": "ጉዋቲማላ"
+    "fullName": "የጉዋቲማላ ሪፐብሊክ"
   },
   "GN": {
     "name": "ጊኒ",
-    "fullName": "ጊኒ"
+    "fullName": "የጊኒ ሪፐብሊክ"
   },
   "GW": {
     "name": "ጊኒ ቢሳኦ",
-    "fullName": "ጊኒ ቢሳኦ"
+    "fullName": "የጊኒ ቢሳኦ ሪፐብሊክ"
   },
   "GY": {
     "name": "ጉያና",
-    "fullName": "ጉያና"
+    "fullName": "የጉያና ህብረት ሪፐብሊክ"
   },
   "HT": {
     "name": "ሀይቲ",
-    "fullName": "ሀይቲ"
+    "fullName": "የሀይቲ ሪፐብሊክ"
   },
   "HN": {
     "name": "ሆንዱራስ",
-    "fullName": "ሆንዱራስ"
+    "fullName": "የሆንዱራስ ሪፐብሊክ"
   },
   "HU": {
     "name": "ሀንጋሪ",
@@ -301,35 +301,35 @@
   },
   "IS": {
     "name": "አይስላንድ",
-    "fullName": "አይስላንድ"
+    "fullName": "የአይስላንድ ሪፐብሊክ"
   },
   "IN": {
     "name": "ህንድ",
-    "fullName": "ህንድ"
+    "fullName": "የህንድ ሪፐብሊክ"
   },
   "ID": {
     "name": "ኢንዶኔዢያ",
-    "fullName": "ኢንዶኔዢያ"
+    "fullName": "የኢንዶኔዢያ ሪፐብሊክ"
   },
   "IR": {
     "name": "ኢራን",
-    "fullName": "ኢራን"
+    "fullName": "የኢራን እስላማዊ ሪፐብሊክ"
   },
   "IQ": {
     "name": "ኢራቅ",
-    "fullName": "ኢራቅ"
+    "fullName": "የኢራቅ ሪፐብሊክ"
   },
   "IE": {
     "name": "አየርላንድ",
-    "fullName": "አየርላንድ"
+    "fullName": "የአየርላንድ ሪፐብሊክ"
   },
   "IL": {
     "name": "እስራኤል",
-    "fullName": "እስራኤል"
+    "fullName": "የእስራኤል መንግሥት"
   },
   "IT": {
     "name": "ጣሊያን",
-    "fullName": "ጣሊያን"
+    "fullName": "የጣሊያን ሪፐብሊክ"
   },
   "JM": {
     "name": "ጃማይካ",
@@ -337,83 +337,83 @@
   },
   "JP": {
     "name": "ጃፓን",
-    "fullName": "ጃፓን"
+    "fullName": "የጃፓን መንግሥት"
   },
   "JO": {
     "name": "ጆርዳን",
-    "fullName": "ጆርዳን"
+    "fullName": "የጆርዳን ሀሸማይት መንግሥት"
   },
   "KZ": {
     "name": "ካዛኪስታን",
-    "fullName": "ካዛኪስታን"
+    "fullName": "የካዛኪስታን ሪፐብሊክ"
   },
   "KE": {
     "name": "ኬንያ",
-    "fullName": "ኬንያ"
+    "fullName": "የኬንያ ሪፐብሊክ"
   },
   "KI": {
     "name": "ኪሪባቲ",
-    "fullName": "ኪሪባቲ"
+    "fullName": "የኪሪባቲ ሪፐብሊክ"
   },
   "KP": {
     "name": "ሰሜን ኮሪያ",
-    "fullName": "ሰሜን ኮሪያ"
+    "fullName": "የኮሪያ ዲሞክራሲያዊ ሕዝባዊ ሪፐብሊክ"
   },
   "KR": {
     "name": "ደቡብ ኮሪያ",
-    "fullName": "ደቡብ ኮሪያ"
+    "fullName": "የኮሪያ ሪፐብሊክ"
   },
   "KW": {
     "name": "ክዌት",
-    "fullName": "ክዌት"
+    "fullName": "የክዌት መንግሥት"
   },
   "KG": {
     "name": "ኪርጊስታን",
-    "fullName": "ኪርጊስታን"
+    "fullName": "የኪርጊስታን ሪፐብሊክ"
   },
   "LA": {
     "name": "ላኦስ",
-    "fullName": "ላኦስ"
+    "fullName": "የላኦ ሕዝባዊ ዲሞክራሲያዊ ሪፐብሊክ"
   },
   "LV": {
     "name": "ላትቪያ",
-    "fullName": "ላትቪያ"
+    "fullName": "የላትቪያ ሪፐብሊክ"
   },
   "LB": {
     "name": "ሊባኖስ",
-    "fullName": "ሊባኖስ"
+    "fullName": "የሊባኖስ ሪፐብሊክ"
   },
   "LS": {
     "name": "ሌሶቶ",
-    "fullName": "ሌሶቶ"
+    "fullName": "የሌሶቶ መንግሥት"
   },
   "LR": {
     "name": "ላይቤሪያ",
-    "fullName": "ላይቤሪያ"
+    "fullName": "የላይቤሪያ ሪፐብሊክ"
   },
   "LY": {
     "name": "ሊቢያ",
-    "fullName": "ሊቢያ"
+    "fullName": "የሊቢያ መንግሥት"
   },
   "LI": {
     "name": "ሊችተንስታይን",
-    "fullName": "ሊችተንስታይን"
+    "fullName": "የሊችተንስታይን ፕሪንሲፓሊቲ"
   },
   "LT": {
     "name": "ሊቱዌኒያ",
-    "fullName": "ሊቱዌኒያ"
+    "fullName": "የሊቱዌኒያ ሪፐብሊክ"
   },
   "LU": {
     "name": "ሉክሰምበርግ",
-    "fullName": "ሉክሰምበርግ"
+    "fullName": "የሉክሰምበርግ ታላቅ ዱቺ"
   },
   "MG": {
     "name": "ማዳጋስካር",
-    "fullName": "ማዳጋስካር"
+    "fullName": "የማዳጋስካር ሪፐብሊክ"
   },
   "MW": {
     "name": "ማላዊ",
-    "fullName": "ማላዊ"
+    "fullName": "የማላዊ ሪፐብሊክ"
   },
   "MY": {
     "name": "ማሌዢያ",
@@ -421,43 +421,43 @@
   },
   "MV": {
     "name": "ማልዲቭስ",
-    "fullName": "ማልዲቭስ"
+    "fullName": "የማልዲቭስ ሪፐብሊክ"
   },
   "ML": {
     "name": "ማሊ",
-    "fullName": "ማሊ"
+    "fullName": "የማሊ ሪፐብሊክ"
   },
   "MT": {
     "name": "ማልታ",
-    "fullName": "ማልታ"
+    "fullName": "የማልታ ሪፐብሊክ"
   },
   "MH": {
     "name": "ማርሻል አይላንድ",
-    "fullName": "ማርሻል አይላንድ"
+    "fullName": "የማርሻል አይላንድ ሪፐብሊክ"
   },
   "MR": {
     "name": "ሞሪቴኒያ",
-    "fullName": "ሞሪቴኒያ"
+    "fullName": "የሞሪቴኒያ እስላማዊ ሪፐብሊክ"
   },
   "MU": {
     "name": "ሞሪሸስ",
-    "fullName": "ሞሪሸስ"
+    "fullName": "የሞሪሸስ ሪፐብሊክ"
   },
   "MX": {
     "name": "ሜክሲኮ",
-    "fullName": "ሜክሲኮ"
+    "fullName": "የሜክሲኮ ዩናይትድ ስቴትስ"
   },
   "FM": {
     "name": "ሚክሮኔዢያ",
-    "fullName": "ሚክሮኔዢያ"
+    "fullName": "የሚክሮኔዢያ ፌዴሬትድ ስቴትስ"
   },
   "MD": {
     "name": "ሞልዶቫ",
-    "fullName": "ሞልዶቫ"
+    "fullName": "የሞልዶቫ ሪፐብሊክ"
   },
   "MC": {
     "name": "ሞናኮ",
-    "fullName": "ሞናኮ"
+    "fullName": "የሞናኮ ፕሪንሲፓሊቲ"
   },
   "MN": {
     "name": "ሞንጎሊያ",
@@ -469,31 +469,31 @@
   },
   "MA": {
     "name": "ሞሮኮ",
-    "fullName": "ሞሮኮ"
+    "fullName": "የሞሮኮ መንግሥት"
   },
   "MZ": {
     "name": "ሞዛምቢክ",
-    "fullName": "ሞዛምቢክ"
+    "fullName": "የሞዛምቢክ ሪፐብሊክ"
   },
   "MM": {
     "name": "ማይናማር(በርማ)",
-    "fullName": "ማይናማር(በርማ)"
+    "fullName": "የማይናማር(በርማ) ህብረት ሪፐብሊክ"
   },
   "NA": {
     "name": "ናሚቢያ",
-    "fullName": "ናሚቢያ"
+    "fullName": "የናሚቢያ ሪፐብሊክ"
   },
   "NR": {
     "name": "ናኡሩ",
-    "fullName": "ናኡሩ"
+    "fullName": "የናኡሩ ሪፐብሊክ"
   },
   "NP": {
     "name": "ኔፓል",
-    "fullName": "ኔፓል"
+    "fullName": "የኔፓል ፌዴራላዊ ዴሞክራሲያዊ ሪፐብሊክ"
   },
   "NL": {
     "name": "ኔዘርላንድ",
-    "fullName": "ኔዘርላንድ"
+    "fullName": "የኔዘርላንድ መንግሥት"
   },
   "NZ": {
     "name": "ኒው ዚላንድ",
@@ -501,67 +501,67 @@
   },
   "NI": {
     "name": "ኒካራጓ",
-    "fullName": "ኒካራጓ"
+    "fullName": "የኒካራጓ ሪፐብሊክ"
   },
   "NE": {
     "name": "ኒጀር",
-    "fullName": "ኒጀር"
+    "fullName": "የኒጀር ሪፐብሊክ"
   },
   "NG": {
     "name": "ናይጄሪያ",
-    "fullName": "ናይጄሪያ"
+    "fullName": "የናይጄሪያ ፌዴራላዊ ሪፐብሊክ"
   },
   "MK": {
-    "name": "መቄዶንያ",
-    "fullName": "መቄዶንያ"
+    "name": "ሰሜን መቄዶንያ",
+    "fullName": "የሰሜን መቄዶንያ ሪፐብሊክ"
   },
   "NO": {
     "name": "ኖርዌ",
-    "fullName": "ኖርዌ"
+    "fullName": "የኖርዌ መንግሥት"
   },
   "OM": {
     "name": "ኦማን",
-    "fullName": "ኦማን"
+    "fullName": "የኦማን ሱልጣኔት"
   },
   "PK": {
     "name": "ፓኪስታን",
-    "fullName": "ፓኪስታን"
+    "fullName": "የፓኪስታን እስላማዊ ሪፐብሊክ"
   },
   "PW": {
     "name": "ፓላው",
-    "fullName": "ፓላው"
+    "fullName": "የፓላው ሪፐብሊክ"
   },
   "PA": {
     "name": "ፓናማ",
-    "fullName": "ፓናማ"
+    "fullName": "የፓናማ ሪፐብሊክ"
   },
   "PG": {
     "name": "ፓፑዋ ኒው ጊኒ",
-    "fullName": "ፓፑዋ ኒው ጊኒ"
+    "fullName": "የፓፑዋ ኒው ጊኒ ነፃ ግዛት"
   },
   "PY": {
     "name": "ፓራጓይ",
-    "fullName": "ፓራጓይ"
+    "fullName": "የፓራጓይ ሪፐብሊክ"
   },
   "PE": {
     "name": "ፔሩ",
-    "fullName": "ፔሩ"
+    "fullName": "የፔሩ ሪፐብሊክ"
   },
   "PH": {
     "name": "ፊሊፒንስ",
-    "fullName": "ፊሊፒንስ"
+    "fullName": "የፊሊፒንስ ሪፐብሊክ"
   },
   "PL": {
     "name": "ፖላንድ",
-    "fullName": "ፖላንድ"
+    "fullName": "የፖላንድ ሪፐብሊክ"
   },
   "PT": {
     "name": "ፖርቱጋል",
-    "fullName": "ፖርቱጋል"
+    "fullName": "የፖርቱጋል ሪፐብሊክ"
   },
   "QA": {
     "name": "ኳታር",
-    "fullName": "ኳታር"
+    "fullName": "የኳታር መንግሥት"
   },
   "RO": {
     "name": "ሮሜኒያ",
@@ -569,15 +569,15 @@
   },
   "RU": {
     "name": "ራሺያ",
-    "fullName": "ራሺያ"
+    "fullName": "የራሺያ ፌዴሬሽን"
   },
   "RW": {
     "name": "ሩዋንዳ",
-    "fullName": "ሩዋንዳ"
+    "fullName": "የሩዋንዳ ሪፐብሊክ"
   },
   "KN": {
     "name": "ቅዱስ ኪትስ እና ኔቪስ",
-    "fullName": "ቅዱስ ኪትስ እና ኔቪስ"
+    "fullName": "የቅዱስ ኪትስ እና ኔቪስ ፌዴሬሽን"
   },
   "LC": {
     "name": "ሴንት ሉቺያ",
@@ -589,47 +589,47 @@
   },
   "WS": {
     "name": "ሳሞአ",
-    "fullName": "ሳሞአ"
+    "fullName": "የሳሞአ ነፃ ግዛት"
   },
   "SM": {
     "name": "ሳን ማሪኖ",
-    "fullName": "ሳን ማሪኖ"
+    "fullName": "የሳን ማሪኖ ሪፐብሊክ"
   },
   "ST": {
     "name": "ሳኦ ቶሜ እና ፕሪንሲፔ",
-    "fullName": "ሳኦ ቶሜ እና ፕሪንሲፔ"
+    "fullName": "የሳኦ ቶሜ እና ፕሪንሲፔ ዲሞክራሲያዊ ሪፐብሊክ"
   },
   "SA": {
     "name": "ሳውድአረቢያ",
-    "fullName": "ሳውድአረቢያ"
+    "fullName": "የሳውድአረቢያ መንግሥት"
   },
   "SN": {
     "name": "ሴኔጋል",
-    "fullName": "ሴኔጋል"
+    "fullName": "የሴኔጋል ሪፐብሊክ"
   },
   "RS": {
     "name": "ሰርብያ",
-    "fullName": "ሰርብያ"
+    "fullName": "የሰርብያ ሪፐብሊክ"
   },
   "SC": {
     "name": "ሲሼልስ",
-    "fullName": "ሲሼልስ"
+    "fullName": "የሲሼልስ ሪፐብሊክ"
   },
   "SL": {
     "name": "ሴራሊዮን",
-    "fullName": "ሴራሊዮን"
+    "fullName": "የሴራሊዮን ሪፐብሊክ"
   },
   "SG": {
     "name": "ሲንጋፖር",
-    "fullName": "ሲንጋፖር"
+    "fullName": "የሲንጋፖር ሪፐብሊክ"
   },
   "SK": {
     "name": "ስሎቫኪያ",
-    "fullName": "ስሎቫኪያ"
+    "fullName": "የስሎቫኪያ ሪፐብሊክ"
   },
   "SI": {
     "name": "ስሎቬኒያ",
-    "fullName": "ስሎቬኒያ"
+    "fullName": "የስሎቬኒያ ሪፐብሊክ"
   },
   "SB": {
     "name": "ሰሎሞን ደሴት",
@@ -637,79 +637,79 @@
   },
   "SO": {
     "name": "ሱማሌ",
-    "fullName": "ሱማሌ"
+    "fullName": "የሱማሌ ፌዴራላዊ ሪፐብሊክ"
   },
   "ZA": {
     "name": "ደቡብ አፍሪካ",
-    "fullName": "ደቡብ አፍሪካ"
+    "fullName": "የደቡብ አፍሪካ ሪፐብሊክ"
   },
   "SS": {
     "name": "ደቡብ ሱዳን",
-    "fullName": "ደቡብ ሱዳን"
+    "fullName": "የደቡብ ሱዳን ሪፐብሊክ"
   },
   "ES": {
     "name": "ስፔን",
-    "fullName": "ስፔን"
+    "fullName": "የስፔን መንግሥት"
   },
   "LK": {
     "name": "ሲሪላንካ",
-    "fullName": "ሲሪላንካ"
+    "fullName": "የሲሪላንካ ዲሞክራሲያዊ ሶሻሊስት ሪፐብሊክ"
   },
   "SD": {
     "name": "ሱዳን",
-    "fullName": "ሱዳን"
+    "fullName": "የሱዳን ሪፐብሊክ"
   },
   "SR": {
     "name": "ሱሪናም",
-    "fullName": "ሱሪናም"
+    "fullName": "የሱሪናም ሪፐብሊክ"
   },
   "SE": {
     "name": "ስዊድን",
-    "fullName": "ስዊድን"
+    "fullName": "የስዊድን መንግሥት"
   },
   "CH": {
     "name": "ስዊዘርላንድ",
-    "fullName": "ስዊዘርላንድ"
+    "fullName": "የስዊዘርላንድ ኮንፌዴሬሽን"
   },
   "SY": {
     "name": "ሲሪያ",
-    "fullName": "ሲሪያ"
+    "fullName": "የሲሪያ ዓረብ ሪፐብሊክ"
   },
   "TJ": {
     "name": "ታጃኪስታን",
-    "fullName": "ታጃኪስታን"
+    "fullName": "የታጃኪስታን ሪፐብሊክ"
   },
   "TZ": {
     "name": "ታንዛኒያ",
-    "fullName": "ታንዛኒያ"
+    "fullName": "የታንዛኒያ ዩናይትድ ሪፐብሊክ"
   },
   "TH": {
     "name": "ታይላንድ",
-    "fullName": "ታይላንድ"
+    "fullName": "የታይላንድ መንግሥት"
   },
   "TL": {
-    "name": "ምስራቅ ሌስት",
-    "fullName": "ምስራቅ ሌስት"
+    "name": "ቲሞር ሌስቴ",
+    "fullName": "የቲሞር ሌስቴ ዲሞክራሲያዊ ሪፐብሊክ"
   },
   "TG": {
     "name": "ቶጐ",
-    "fullName": "ቶጐ"
+    "fullName": "የቶጐ ሪፐብሊክ"
   },
   "TO": {
     "name": "ቶንጋ",
-    "fullName": "ቶንጋ"
+    "fullName": "የቶንጋ መንግሥት"
   },
   "TT": {
     "name": "ትሪናዳድ እና ቶቤጎ",
-    "fullName": "ትሪናዳድ እና ቶቤጎ"
+    "fullName": "የትሪናዳድ እና ቶቤጎ ሪፐብሊክ"
   },
   "TN": {
     "name": "ቱኒዚያ",
-    "fullName": "ቱኒዚያ"
+    "fullName": "የቱኒዚያ ሪፐብሊክ"
   },
   "TR": {
     "name": "ቱርክ",
-    "fullName": "ቱርክ"
+    "fullName": "የቱርክ ሪፐብሊክ"
   },
   "TM": {
     "name": "ቱርክሜኒስታን",
@@ -721,7 +721,7 @@
   },
   "UG": {
     "name": "ዩጋንዳ",
-    "fullName": "ዩጋንዳ"
+    "fullName": "የዩጋንዳ ሪፐብሊክ"
   },
   "UA": {
     "name": "ዩክሬን",
@@ -732,72 +732,72 @@
     "fullName": "የተባበሩት አረብ ኤምሬትስ"
   },
   "GB": {
-    "name": "እንግሊዝ",
-    "fullName": "እንግሊዝ"
+    "name": "ዩናይትድ ኪንግደም",
+    "fullName": "የታላቋ ብሪታንያና የሰሜን አየርላንድ ተባባሪ መንግሥት"
   },
   "US": {
     "name": "ዩናይትድ ስቴትስ",
-    "fullName": "ዩናይትድ ስቴትስ"
+    "fullName": "የአሜሪካ ዩናይትድ ስቴትስ"
   },
   "UY": {
     "name": "ኡራጓይ",
-    "fullName": "ኡራጓይ"
+    "fullName": "የኡራጓይ ምስራቃዊ ሪፐብሊክ"
   },
   "UZ": {
     "name": "ኡዝቤኪስታን",
-    "fullName": "ኡዝቤኪስታን"
+    "fullName": "የኡዝቤኪስታን ሪፐብሊክ"
   },
   "VU": {
     "name": "ቫኑአቱ",
-    "fullName": "ቫኑአቱ"
+    "fullName": "የቫኑአቱ ሪፐብሊክ"
   },
   "VE": {
     "name": "ቬንዙዌላ",
-    "fullName": "ቬንዙዌላ"
+    "fullName": "የቬንዙዌላ ቦሊቫሪያን ሪፐብሊክ"
   },
   "VN": {
     "name": "ቬትናም",
-    "fullName": "ቬትናም"
+    "fullName": "የቬትናም ሶሻሊስት ሪፐብሊክ"
   },
   "YE": {
     "name": "የመን",
-    "fullName": "የመን"
+    "fullName": "የመን ሪፐብሊክ"
   },
   "ZM": {
     "name": "ዛምቢያ",
-    "fullName": "ዛምቢያ"
+    "fullName": "የዛምቢያ ሪፐብሊክ"
   },
   "ZW": {
     "name": "ዚምቧቤ",
-    "fullName": "ዚምቧቤ"
+    "fullName": "የዚምቧቤ ሪፐብሊክ"
   },
   "HK": {
-    "name": "ሆንግ ኮንግ SAR ቻይና",
-    "fullName": "ሆንግ ኮንግ SAR ቻይና"
+    "name": "ሆንግ ኮንግ",
+    "fullName": "የቻይና ሆንግ ኮንግ ልዩ የአስተዳደር ክልል"
   },
   "MO": {
-    "name": "ማካኡ ልዩ የአስተዳደር ክልል ቻይና",
-    "fullName": "ማካኡ ልዩ የአስተዳደር ክልል ቻይና"
+    "name": "ማካኦ",
+    "fullName": "የቻይና ማካኦ ልዩ የአስተዳደር ክልል"
   },
   "TW": {
     "name": "ታይዋን",
-    "fullName": "ታይዋን"
+    "fullName": "ታይዋን፣ የቻይና ክልል"
   },
   "PS": {
-    "name": "የፍልስጤም ግዛት",
+    "name": "ፍልስጤም",
     "fullName": "የፍልስጤም ግዛት"
   },
   "XK": {
     "name": "ኮሶቮ",
-    "fullName": "ኮሶቮ"
+    "fullName": "የኮሶቮ ሪፐብሊክ"
   },
   "VA": {
     "name": "ቫቲካን ከተማ",
-    "fullName": "ቫቲካን ከተማ"
+    "fullName": "የቫቲካን ከተማ ግዛት"
   },
   "PR": {
     "name": "ፖርታ ሪኮ",
-    "fullName": "ፖርታ ሪኮ"
+    "fullName": "የፖርታ ሪኮ ኮመንዌልዝ"
   },
   "GU": {
     "name": "ጉዋም",
@@ -829,7 +829,7 @@
   },
   "VI": {
     "name": "የአሜሪካ ቨርጂን ደሴቶች",
-    "fullName": "የአሜሪካ ቨርጂን ደሴቶች"
+    "fullName": "የአሜሪካ ዩናይትድ ስቴትስ ቨርጂን ደሴቶች"
   },
   "CW": {
     "name": "ኩራሳዎ",
@@ -845,11 +845,11 @@
   },
   "JE": {
     "name": "ጀርሲ",
-    "fullName": "ጀርሲ"
+    "fullName": "የጀርሲ ቤይሊዊክ"
   },
   "GG": {
     "name": "ጉርነሲ",
-    "fullName": "ጉርነሲ"
+    "fullName": "የጉርነሲ ቤይሊዊክ"
   },
   "IM": {
     "name": "አይል ኦፍ ማን",
@@ -861,7 +861,7 @@
   },
   "VG": {
     "name": "የእንግሊዝ ቨርጂን ደሴቶች",
-    "fullName": "የእንግሊዝ ቨርጂን ደሴቶች"
+    "fullName": "ቨርጂን ደሴቶች"
   },
   "AI": {
     "name": "አንጉኢላ",
@@ -873,7 +873,7 @@
   },
   "SH": {
     "name": "ሴንት ሄለና",
-    "fullName": "ሴንት ሄለና"
+    "fullName": "ሴንት ሄለና፣ አሴንሽን እና ትሪስታን ዳ ኩንሃ"
   },
   "FK": {
     "name": "የፎክላንድ ደሴቶች",
@@ -897,7 +897,7 @@
   },
   "MF": {
     "name": "ሴንት ማርቲን",
-    "fullName": "ሴንት ማርቲን"
+    "fullName": "የሴንት ማርቲን ኮሌክቲቪቴ"
   },
   "PM": {
     "name": "ቅዱስ ፒዬር እና ሚኩኤሎን",
@@ -917,23 +917,23 @@
   },
   "MP": {
     "name": "የሰሜናዊ ማሪያና ደሴቶች",
-    "fullName": "የሰሜናዊ ማሪያና ደሴቶች"
+    "fullName": "የሰሜናዊ ማሪያና ደሴቶች ኮመንዌልዝ"
   },
   "CX": {
     "name": "የገና ደሴት",
-    "fullName": "የገና ደሴት"
+    "fullName": "የገና ደሴት ግዛት"
   },
   "CC": {
     "name": "ኮኮስ(ኬሊንግ) ደሴቶች",
-    "fullName": "ኮኮስ(ኬሊንግ) ደሴቶች"
+    "fullName": "ኮኮስ (ኬሊንግ) ደሴቶች"
   },
   "NF": {
     "name": "ኖርፎልክ ደሴት",
-    "fullName": "ኖርፎልክ ደሴት"
+    "fullName": "የኖርፎልክ ደሴት ግዛት"
   },
   "PN": {
-    "name": "ፒትካኢርን አይስላንድ",
-    "fullName": "ፒትካኢርን አይስላንድ"
+    "name": "ፒትካኢርን ደሴቶች",
+    "fullName": "ፒትካኢርን፣ ሄንደርሰን፣ ዱሲ እና ኦኤኖ ደሴቶች"
   },
   "TK": {
     "name": "ቶክላው",
@@ -957,7 +957,7 @@
   },
   "BL": {
     "name": "ቅዱስ በርቴሎሜ",
-    "fullName": "ቅዱስ በርቴሎሜ"
+    "fullName": "የቅዱስ በርቴሎሜ ኮሌክቲቪቴ"
   },
   "IO": {
     "name": "የብሪታኒያ ህንድ ውቂያኖስ ግዛት",
@@ -969,19 +969,19 @@
   },
   "BQ": {
     "name": "የካሪቢያን ኔዘርላንድስ",
-    "fullName": "የካሪቢያን ኔዘርላንድስ"
+    "fullName": "ቦኔር፣ ሲንት ኡስታቲየስ እና ሳባ"
   },
   "TF": {
     "name": "የፈረንሳይ ደቡባዊ ግዛቶች",
-    "fullName": "የፈረንሳይ ደቡባዊ ግዛቶች"
+    "fullName": "የፈረንሳይ ደቡባዊ እና አንታርክቲክ መሬቶች"
   },
   "GS": {
-    "name": "ደቡብ ጆርጂያ እና የደቡብ ሳንድዊች ደሴቶች",
+    "name": "ደቡብ ጆርጂያ",
     "fullName": "ደቡብ ጆርጂያ እና የደቡብ ሳንድዊች ደሴቶች"
   },
   "HM": {
     "name": "ኽርድ ደሴቶችና ማክዶናልድ ደሴቶች",
-    "fullName": "ኽርድ ደሴቶችና ማክዶናልድ ደሴቶች"
+    "fullName": "የኽርድ ደሴቶችና ማክዶናልድ ደሴቶች ግዛት"
   },
   "AQ": {
     "name": "አንታርክቲካ",
