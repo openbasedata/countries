@@ -1,0 +1,1359 @@
+[
+  {
+    "code2": "AF",
+    "name": "An Afganastáin",
+    "fullName": "An Afganastáin"
+  },
+  {
+    "code2": "AL",
+    "name": "An Albáin",
+    "fullName": "An Albáin"
+  },
+  {
+    "code2": "DZ",
+    "name": "An Ailgéir",
+    "fullName": "An Ailgéir"
+  },
+  {
+    "code2": "AD",
+    "name": "Andóra",
+    "fullName": "Andóra"
+  },
+  {
+    "code2": "AO",
+    "name": "Angóla",
+    "fullName": "Angóla"
+  },
+  {
+    "code2": "AG",
+    "name": "Antigua agus Barbúda",
+    "fullName": "Antigua agus Barbúda"
+  },
+  {
+    "code2": "AR",
+    "name": "An Airgintín",
+    "fullName": "An Airgintín"
+  },
+  {
+    "code2": "AM",
+    "name": "An Airméin",
+    "fullName": "An Airméin"
+  },
+  {
+    "code2": "AU",
+    "name": "An Astráil",
+    "fullName": "An Astráil"
+  },
+  {
+    "code2": "AT",
+    "name": "An Ostair",
+    "fullName": "An Ostair"
+  },
+  {
+    "code2": "AZ",
+    "name": "An Asarbaiseáin",
+    "fullName": "An Asarbaiseáin"
+  },
+  {
+    "code2": "BS",
+    "name": "Na Bahámaí",
+    "fullName": "Na Bahámaí"
+  },
+  {
+    "code2": "BH",
+    "name": "Bairéin",
+    "fullName": "Bairéin"
+  },
+  {
+    "code2": "BD",
+    "name": "An Bhanglaidéis",
+    "fullName": "An Bhanglaidéis"
+  },
+  {
+    "code2": "BB",
+    "name": "Barbadós",
+    "fullName": "Barbadós"
+  },
+  {
+    "code2": "BY",
+    "name": "An Bhealarúis",
+    "fullName": "An Bhealarúis"
+  },
+  {
+    "code2": "BE",
+    "name": "An Bheilg",
+    "fullName": "An Bheilg"
+  },
+  {
+    "code2": "BZ",
+    "name": "An Bheilís",
+    "fullName": "An Bheilís"
+  },
+  {
+    "code2": "BJ",
+    "name": "Beinin",
+    "fullName": "Beinin"
+  },
+  {
+    "code2": "BT",
+    "name": "An Bhútáin",
+    "fullName": "An Bhútáin"
+  },
+  {
+    "code2": "BO",
+    "name": "An Bholaiv",
+    "fullName": "An Bholaiv"
+  },
+  {
+    "code2": "BA",
+    "name": "An Bhoisnia agus An Heirseagaivéin",
+    "fullName": "An Bhoisnia agus An Heirseagaivéin"
+  },
+  {
+    "code2": "BW",
+    "name": "An Bhotsuáin",
+    "fullName": "An Bhotsuáin"
+  },
+  {
+    "code2": "BR",
+    "name": "An Bhrasaíl",
+    "fullName": "An Bhrasaíl"
+  },
+  {
+    "code2": "BN",
+    "name": "Brúiné",
+    "fullName": "Brúiné"
+  },
+  {
+    "code2": "BG",
+    "name": "An Bhulgáir",
+    "fullName": "An Bhulgáir"
+  },
+  {
+    "code2": "BF",
+    "name": "Buircíne Fasó",
+    "fullName": "Buircíne Fasó"
+  },
+  {
+    "code2": "BI",
+    "name": "An Bhurúin",
+    "fullName": "An Bhurúin"
+  },
+  {
+    "code2": "CV",
+    "name": "Rinn Verde",
+    "fullName": "Rinn Verde"
+  },
+  {
+    "code2": "KH",
+    "name": "An Chambóid",
+    "fullName": "An Chambóid"
+  },
+  {
+    "code2": "CM",
+    "name": "Camarún",
+    "fullName": "Camarún"
+  },
+  {
+    "code2": "CA",
+    "name": "Ceanada",
+    "fullName": "Ceanada"
+  },
+  {
+    "code2": "CF",
+    "name": "Poblacht na hAfraice Láir",
+    "fullName": "Poblacht na hAfraice Láir"
+  },
+  {
+    "code2": "TD",
+    "name": "Sead",
+    "fullName": "Sead"
+  },
+  {
+    "code2": "CL",
+    "name": "An tSile",
+    "fullName": "An tSile"
+  },
+  {
+    "code2": "CN",
+    "name": [
+      "Poblacht na Síne",
+      "An tSín"
+    ],
+    "fullName": [
+      "Poblacht na Síne",
+      "An tSín"
+    ]
+  },
+  {
+    "code2": "CO",
+    "name": "An Cholóim",
+    "fullName": "An Cholóim"
+  },
+  {
+    "code2": "KM",
+    "name": "Oileáin Chomóra",
+    "fullName": "Oileáin Chomóra"
+  },
+  {
+    "code2": "CG",
+    "name": [
+      "Poblacht an Chongó",
+      "An Congó"
+    ],
+    "fullName": [
+      "Poblacht an Chongó",
+      "An Congó"
+    ]
+  },
+  {
+    "code2": "CD",
+    "name": [
+      "Poblacht Dhaonlathach an Chongó",
+      "An Congó"
+    ],
+    "fullName": [
+      "Poblacht Dhaonlathach an Chongó",
+      "An Congó"
+    ]
+  },
+  {
+    "code2": "CR",
+    "name": "Cósta Ríce",
+    "fullName": "Cósta Ríce"
+  },
+  {
+    "code2": "CI",
+    "name": [
+      "Cósta Eabhair",
+      "An Cósta Eabhair",
+      "Côte d'Ivoire"
+    ],
+    "fullName": [
+      "Cósta Eabhair",
+      "An Cósta Eabhair",
+      "Côte d'Ivoire"
+    ]
+  },
+  {
+    "code2": "HR",
+    "name": "An Chróit",
+    "fullName": "An Chróit"
+  },
+  {
+    "code2": "CU",
+    "name": "Cúba",
+    "fullName": "Cúba"
+  },
+  {
+    "code2": "CY",
+    "name": "An Chipir",
+    "fullName": "An Chipir"
+  },
+  {
+    "code2": "CZ",
+    "name": [
+      "Poblacht na Seice",
+      "An tSeicia"
+    ],
+    "fullName": [
+      "Poblacht na Seice",
+      "An tSeicia"
+    ]
+  },
+  {
+    "code2": "DK",
+    "name": "An Danmhairg",
+    "fullName": "An Danmhairg"
+  },
+  {
+    "code2": "DJ",
+    "name": "Djibouti",
+    "fullName": "Djibouti"
+  },
+  {
+    "code2": "DM",
+    "name": "Doiminice",
+    "fullName": "Doiminice"
+  },
+  {
+    "code2": "DO",
+    "name": "Poblacht Dhoiminiceach",
+    "fullName": "Poblacht Dhoiminiceach"
+  },
+  {
+    "code2": "EC",
+    "name": "Eacuadór",
+    "fullName": "Eacuadór"
+  },
+  {
+    "code2": "EG",
+    "name": "An Éigipt",
+    "fullName": "An Éigipt"
+  },
+  {
+    "code2": "SV",
+    "name": "An tSalvadóir",
+    "fullName": "An tSalvadóir"
+  },
+  {
+    "code2": "GQ",
+    "name": "An Ghuine Mheánchiorclach",
+    "fullName": "An Ghuine Mheánchiorclach"
+  },
+  {
+    "code2": "ER",
+    "name": "An Eiritré",
+    "fullName": "An Eiritré"
+  },
+  {
+    "code2": "EE",
+    "name": "An Eastóin",
+    "fullName": "An Eastóin"
+  },
+  {
+    "code2": "SZ",
+    "name": "An tSuasalainn",
+    "fullName": "An tSuasalainn"
+  },
+  {
+    "code2": "ET",
+    "name": "An Aetóip",
+    "fullName": "An Aetóip"
+  },
+  {
+    "code2": "FJ",
+    "name": "Fidsí",
+    "fullName": "Fidsí"
+  },
+  {
+    "code2": "FI",
+    "name": "An Fhionlainn",
+    "fullName": "An Fhionlainn"
+  },
+  {
+    "code2": "FR",
+    "name": "An Fhrainc",
+    "fullName": "An Fhrainc"
+  },
+  {
+    "code2": "GA",
+    "name": "An Ghabúin",
+    "fullName": "An Ghabúin"
+  },
+  {
+    "code2": "GM",
+    "name": [
+      "Poblacht na Gaimbia",
+      "An Ghaimbia"
+    ],
+    "fullName": [
+      "Poblacht na Gaimbia",
+      "An Ghaimbia"
+    ]
+  },
+  {
+    "code2": "GE",
+    "name": "An tSeoirsia",
+    "fullName": "An tSeoirsia"
+  },
+  {
+    "code2": "DE",
+    "name": "An Ghearmáin",
+    "fullName": "An Ghearmáin"
+  },
+  {
+    "code2": "GH",
+    "name": "Gána",
+    "fullName": "Gána"
+  },
+  {
+    "code2": "GR",
+    "name": "An Ghréig",
+    "fullName": "An Ghréig"
+  },
+  {
+    "code2": "GD",
+    "name": "Greanáda",
+    "fullName": "Greanáda"
+  },
+  {
+    "code2": "GT",
+    "name": "Guatamala",
+    "fullName": "Guatamala"
+  },
+  {
+    "code2": "GN",
+    "name": "An Ghuine",
+    "fullName": "An Ghuine"
+  },
+  {
+    "code2": "GW",
+    "name": "Guine Bissau",
+    "fullName": "Guine Bissau"
+  },
+  {
+    "code2": "GY",
+    "name": "An Ghuáin",
+    "fullName": "An Ghuáin"
+  },
+  {
+    "code2": "HT",
+    "name": "Háití",
+    "fullName": "Háití"
+  },
+  {
+    "code2": "HN",
+    "name": "Hondúras",
+    "fullName": "Hondúras"
+  },
+  {
+    "code2": "HU",
+    "name": "An Ungáir",
+    "fullName": "An Ungáir"
+  },
+  {
+    "code2": "IS",
+    "name": "An Íoslainn",
+    "fullName": "An Íoslainn"
+  },
+  {
+    "code2": "IN",
+    "name": "An India",
+    "fullName": "An India"
+  },
+  {
+    "code2": "ID",
+    "name": "An Indinéis",
+    "fullName": "An Indinéis"
+  },
+  {
+    "code2": "IR",
+    "name": [
+      "Poblacht Ioslamach na hIaráine",
+      "An Iaráin"
+    ],
+    "fullName": [
+      "Poblacht Ioslamach na hIaráine",
+      "An Iaráin"
+    ]
+  },
+  {
+    "code2": "IQ",
+    "name": "An Iaráic",
+    "fullName": "An Iaráic"
+  },
+  {
+    "code2": "IE",
+    "name": "Éire",
+    "fullName": "Éire"
+  },
+  {
+    "code2": "IL",
+    "name": "Iosrael",
+    "fullName": "Iosrael"
+  },
+  {
+    "code2": "IT",
+    "name": "An Iodáil",
+    "fullName": "An Iodáil"
+  },
+  {
+    "code2": "JM",
+    "name": "Iamáice",
+    "fullName": "Iamáice"
+  },
+  {
+    "code2": "JP",
+    "name": "An tSeapáin",
+    "fullName": "An tSeapáin"
+  },
+  {
+    "code2": "JO",
+    "name": "An Iordáin",
+    "fullName": "An Iordáin"
+  },
+  {
+    "code2": "KZ",
+    "name": "An Chasacstáin",
+    "fullName": "An Chasacstáin"
+  },
+  {
+    "code2": "KE",
+    "name": "An Chéinia",
+    "fullName": "An Chéinia"
+  },
+  {
+    "code2": "KI",
+    "name": "Cireabaití",
+    "fullName": "Cireabaití"
+  },
+  {
+    "code2": "KP",
+    "name": "An Chóiré Thuaidh",
+    "fullName": "An Chóiré Thuaidh"
+  },
+  {
+    "code2": "KR",
+    "name": [
+      "An Chóiré Theas",
+      "Poblacht na Cóiré",
+      "An Chóiré"
+    ],
+    "fullName": [
+      "An Chóiré Theas",
+      "Poblacht na Cóiré",
+      "An Chóiré"
+    ]
+  },
+  {
+    "code2": "KW",
+    "name": "Cuáit",
+    "fullName": "Cuáit"
+  },
+  {
+    "code2": "KG",
+    "name": "An Chirgeastáin",
+    "fullName": "An Chirgeastáin"
+  },
+  {
+    "code2": "LA",
+    "name": "Poblacht Dhaonlathach na Laoise",
+    "fullName": "Poblacht Dhaonlathach na Laoise"
+  },
+  {
+    "code2": "LV",
+    "name": "An Laitvia",
+    "fullName": "An Laitvia"
+  },
+  {
+    "code2": "LB",
+    "name": "An Liobáin",
+    "fullName": "An Liobáin"
+  },
+  {
+    "code2": "LS",
+    "name": "Leosóta",
+    "fullName": "Leosóta"
+  },
+  {
+    "code2": "LR",
+    "name": "An Libéir",
+    "fullName": "An Libéir"
+  },
+  {
+    "code2": "LY",
+    "name": "An Libia",
+    "fullName": "An Libia"
+  },
+  {
+    "code2": "LI",
+    "name": "Lichtinstéin",
+    "fullName": "Lichtinstéin"
+  },
+  {
+    "code2": "LT",
+    "name": "An Liotuáin",
+    "fullName": "An Liotuáin"
+  },
+  {
+    "code2": "LU",
+    "name": "Lucsamburg",
+    "fullName": "Lucsamburg"
+  },
+  {
+    "code2": "MG",
+    "name": "Madagascar",
+    "fullName": "Madagascar"
+  },
+  {
+    "code2": "MW",
+    "name": "An Mhaláiv",
+    "fullName": "An Mhaláiv"
+  },
+  {
+    "code2": "MY",
+    "name": "An Mhalaeisia",
+    "fullName": "An Mhalaeisia"
+  },
+  {
+    "code2": "MV",
+    "name": "Oileáin Mhaildíve",
+    "fullName": "Oileáin Mhaildíve"
+  },
+  {
+    "code2": "ML",
+    "name": "Mailí",
+    "fullName": "Mailí"
+  },
+  {
+    "code2": "MT",
+    "name": "Málta",
+    "fullName": "Málta"
+  },
+  {
+    "code2": "MH",
+    "name": "Oileáin Marshall",
+    "fullName": "Oileáin Marshall"
+  },
+  {
+    "code2": "MR",
+    "name": "An Mháratáin",
+    "fullName": "An Mháratáin"
+  },
+  {
+    "code2": "MU",
+    "name": "Oileán Mhuirís",
+    "fullName": "Oileán Mhuirís"
+  },
+  {
+    "code2": "MX",
+    "name": "Meicsiceo",
+    "fullName": "Meicsiceo"
+  },
+  {
+    "code2": "FM",
+    "name": "Micrinéis, Stáit Chónaidhme",
+    "fullName": "Micrinéis, Stáit Chónaidhme"
+  },
+  {
+    "code2": "MD",
+    "name": "An Mholdóiv",
+    "fullName": "An Mholdóiv"
+  },
+  {
+    "code2": "MC",
+    "name": "Monacó",
+    "fullName": "Monacó"
+  },
+  {
+    "code2": "MN",
+    "name": "An Mhongóil",
+    "fullName": "An Mhongóil"
+  },
+  {
+    "code2": "ME",
+    "name": "Montainéagró",
+    "fullName": "Montainéagró"
+  },
+  {
+    "code2": "MA",
+    "name": "Maracó",
+    "fullName": "Maracó"
+  },
+  {
+    "code2": "MZ",
+    "name": "Mósaimbíc",
+    "fullName": "Mósaimbíc"
+  },
+  {
+    "code2": "MM",
+    "name": "Maenmar (Burma)",
+    "fullName": "Maenmar (Burma)"
+  },
+  {
+    "code2": "NA",
+    "name": "An Namaib",
+    "fullName": "An Namaib"
+  },
+  {
+    "code2": "NR",
+    "name": "Nárú",
+    "fullName": "Nárú"
+  },
+  {
+    "code2": "NP",
+    "name": "Neipeal",
+    "fullName": "Neipeal"
+  },
+  {
+    "code2": "NL",
+    "name": "An Ísiltír",
+    "fullName": "An Ísiltír"
+  },
+  {
+    "code2": "NZ",
+    "name": "An Nua-Shéalainn",
+    "fullName": "An Nua-Shéalainn"
+  },
+  {
+    "code2": "NI",
+    "name": "Nicearagua",
+    "fullName": "Nicearagua"
+  },
+  {
+    "code2": "NE",
+    "name": "An Nígir",
+    "fullName": "An Nígir"
+  },
+  {
+    "code2": "NG",
+    "name": "An Nigéir",
+    "fullName": "An Nigéir"
+  },
+  {
+    "code2": "MK",
+    "name": [
+      "Poblacht Iarthar na Macadóine",
+      "An Mhacadóin Thuaidh"
+    ],
+    "fullName": [
+      "Poblacht Iarthar na Macadóine",
+      "An Mhacadóin Thuaidh"
+    ]
+  },
+  {
+    "code2": "NO",
+    "name": "An Iorua",
+    "fullName": "An Iorua"
+  },
+  {
+    "code2": "OM",
+    "name": "Óman",
+    "fullName": "Óman"
+  },
+  {
+    "code2": "PK",
+    "name": "An Phacastáin",
+    "fullName": "An Phacastáin"
+  },
+  {
+    "code2": "PW",
+    "name": "Palau",
+    "fullName": "Palau"
+  },
+  {
+    "code2": "PA",
+    "name": "Panama",
+    "fullName": "Panama"
+  },
+  {
+    "code2": "PG",
+    "name": "Nua-Ghuine Phapua",
+    "fullName": "Nua-Ghuine Phapua"
+  },
+  {
+    "code2": "PY",
+    "name": "Paragua",
+    "fullName": "Paragua"
+  },
+  {
+    "code2": "PE",
+    "name": "Peiriú",
+    "fullName": "Peiriú"
+  },
+  {
+    "code2": "PH",
+    "name": "Na hOileáin Fhilipíneacha",
+    "fullName": "Na hOileáin Fhilipíneacha"
+  },
+  {
+    "code2": "PL",
+    "name": "An Pholainn",
+    "fullName": "An Pholainn"
+  },
+  {
+    "code2": "PT",
+    "name": "An Phortaingéil",
+    "fullName": "An Phortaingéil"
+  },
+  {
+    "code2": "QA",
+    "name": "Catar",
+    "fullName": "Catar"
+  },
+  {
+    "code2": "RO",
+    "name": "An Rómáin",
+    "fullName": "An Rómáin"
+  },
+  {
+    "code2": "RU",
+    "name": [
+      "An Rúis",
+      "Cónaidhm na Rúise"
+    ],
+    "fullName": [
+      "An Rúis",
+      "Cónaidhm na Rúise"
+    ]
+  },
+  {
+    "code2": "RW",
+    "name": "Ruanda",
+    "fullName": "Ruanda"
+  },
+  {
+    "code2": "KN",
+    "name": "Saint Kitts agus Nevis",
+    "fullName": "Saint Kitts agus Nevis"
+  },
+  {
+    "code2": "LC",
+    "name": "Saint Lucia",
+    "fullName": "Saint Lucia"
+  },
+  {
+    "code2": "VC",
+    "name": "Saint Vincent agus na Greanáidíní",
+    "fullName": "Saint Vincent agus na Greanáidíní"
+  },
+  {
+    "code2": "WS",
+    "name": "Samó",
+    "fullName": "Samó"
+  },
+  {
+    "code2": "SM",
+    "name": "San Mairíne",
+    "fullName": "San Mairíne"
+  },
+  {
+    "code2": "ST",
+    "name": "São Tomé agus Príncipe",
+    "fullName": "São Tomé agus Príncipe"
+  },
+  {
+    "code2": "SA",
+    "name": "An Araib Shádach",
+    "fullName": "An Araib Shádach"
+  },
+  {
+    "code2": "SN",
+    "name": "An tSeineagáil",
+    "fullName": "An tSeineagáil"
+  },
+  {
+    "code2": "RS",
+    "name": "An tSeirbia",
+    "fullName": "An tSeirbia"
+  },
+  {
+    "code2": "SC",
+    "name": "Na Séiséil",
+    "fullName": "Na Séiséil"
+  },
+  {
+    "code2": "SL",
+    "name": "Siarra Leon",
+    "fullName": "Siarra Leon"
+  },
+  {
+    "code2": "SG",
+    "name": "Singeapór",
+    "fullName": "Singeapór"
+  },
+  {
+    "code2": "SK",
+    "name": "An tSlóvaic",
+    "fullName": "An tSlóvaic"
+  },
+  {
+    "code2": "SI",
+    "name": "An tSlóivéin",
+    "fullName": "An tSlóivéin"
+  },
+  {
+    "code2": "SB",
+    "name": "Oileáin Sholamón",
+    "fullName": "Oileáin Sholamón"
+  },
+  {
+    "code2": "SO",
+    "name": "An tSomáil",
+    "fullName": "An tSomáil"
+  },
+  {
+    "code2": "ZA",
+    "name": "An Afraic Theas",
+    "fullName": "An Afraic Theas"
+  },
+  {
+    "code2": "SS",
+    "name": "An tSúdáin Theas",
+    "fullName": "An tSúdáin Theas"
+  },
+  {
+    "code2": "ES",
+    "name": "An Spáinn",
+    "fullName": "An Spáinn"
+  },
+  {
+    "code2": "LK",
+    "name": "Srí Lanca",
+    "fullName": "Srí Lanca"
+  },
+  {
+    "code2": "SD",
+    "name": "An tSúdáin",
+    "fullName": "An tSúdáin"
+  },
+  {
+    "code2": "SR",
+    "name": "Suranam",
+    "fullName": "Suranam"
+  },
+  {
+    "code2": "SE",
+    "name": "An tSualainn",
+    "fullName": "An tSualainn"
+  },
+  {
+    "code2": "CH",
+    "name": "An Eilvéis",
+    "fullName": "An Eilvéis"
+  },
+  {
+    "code2": "SY",
+    "name": "Poblacht Arabach na Siria",
+    "fullName": "Poblacht Arabach na Siria"
+  },
+  {
+    "code2": "TJ",
+    "name": "An Táidsíceastáin",
+    "fullName": "An Táidsíceastáin"
+  },
+  {
+    "code2": "TZ",
+    "name": [
+      "Poblacht Aontaithe na Tansáine",
+      "An Tansáin"
+    ],
+    "fullName": [
+      "Poblacht Aontaithe na Tansáine",
+      "An Tansáin"
+    ]
+  },
+  {
+    "code2": "TH",
+    "name": "An Téalainn",
+    "fullName": "An Téalainn"
+  },
+  {
+    "code2": "TL",
+    "name": "Tíomór-Leste",
+    "fullName": "Tíomór-Leste"
+  },
+  {
+    "code2": "TG",
+    "name": "Tóga",
+    "fullName": "Tóga"
+  },
+  {
+    "code2": "TO",
+    "name": "Tonga",
+    "fullName": "Tonga"
+  },
+  {
+    "code2": "TT",
+    "name": "Oileáin na Tríonóide agus Tobága",
+    "fullName": "Oileáin na Tríonóide agus Tobága"
+  },
+  {
+    "code2": "TN",
+    "name": "An Túinéis",
+    "fullName": "An Túinéis"
+  },
+  {
+    "code2": "TR",
+    "name": [
+      "An Tuirc",
+      "Tuirc"
+    ],
+    "fullName": [
+      "An Tuirc",
+      "Tuirc"
+    ]
+  },
+  {
+    "code2": "TM",
+    "name": "An Tuircméanastáin",
+    "fullName": "An Tuircméanastáin"
+  },
+  {
+    "code2": "TV",
+    "name": "Tuvalu",
+    "fullName": "Tuvalu"
+  },
+  {
+    "code2": "UG",
+    "name": "Uganda",
+    "fullName": "Uganda"
+  },
+  {
+    "code2": "UA",
+    "name": "An Úcráin",
+    "fullName": "An Úcráin"
+  },
+  {
+    "code2": "AE",
+    "name": "Aontas na nÉimíríochtaí Arabacha",
+    "fullName": "Aontas na nÉimíríochtaí Arabacha"
+  },
+  {
+    "code2": "GB",
+    "name": [
+      "An Ríocht Aontaithe",
+      "An Bhreatain Mhór",
+      "An Ríocht Aontaithe"
+    ],
+    "fullName": [
+      "An Ríocht Aontaithe",
+      "An Bhreatain Mhór",
+      "An Ríocht Aontaithe"
+    ]
+  },
+  {
+    "code2": "US",
+    "name": [
+      "Stáit Aontaithe Mheiriceá",
+      "Stáit Aontaithe",
+      "SAM",
+      "S.A.M.",
+      "US",
+      "S.A."
+    ],
+    "fullName": [
+      "Stáit Aontaithe Mheiriceá",
+      "Stáit Aontaithe",
+      "SAM",
+      "S.A.M.",
+      "US",
+      "S.A."
+    ]
+  },
+  {
+    "code2": "UY",
+    "name": "Uragua",
+    "fullName": "Uragua"
+  },
+  {
+    "code2": "UZ",
+    "name": "An Úisbéiceastáin",
+    "fullName": "An Úisbéiceastáin"
+  },
+  {
+    "code2": "VU",
+    "name": "Vanuatú",
+    "fullName": "Vanuatú"
+  },
+  {
+    "code2": "VE",
+    "name": "Veiniséala",
+    "fullName": "Veiniséala"
+  },
+  {
+    "code2": "VN",
+    "name": "Vítneam",
+    "fullName": "Vítneam"
+  },
+  {
+    "code2": "YE",
+    "name": "Éimin",
+    "fullName": "Éimin"
+  },
+  {
+    "code2": "ZM",
+    "name": "An tSaimbia",
+    "fullName": "An tSaimbia"
+  },
+  {
+    "code2": "ZW",
+    "name": "An tSiombáib",
+    "fullName": "An tSiombáib"
+  },
+  {
+    "code2": "HK",
+    "name": "Hong Cong",
+    "fullName": "Hong Cong"
+  },
+  {
+    "code2": "MO",
+    "name": "Macao",
+    "fullName": "Macao"
+  },
+  {
+    "code2": "TW",
+    "name": [
+      "Taiwan, Cúige na Síne",
+      "Taiwan"
+    ],
+    "fullName": [
+      "Taiwan, Cúige na Síne",
+      "Taiwan"
+    ]
+  },
+  {
+    "code2": "PS",
+    "name": [
+      "Stát na Palaistíne",
+      "An Phalaistín"
+    ],
+    "fullName": [
+      "Stát na Palaistíne",
+      "An Phalaistín"
+    ]
+  },
+  {
+    "code2": "XK",
+    "name": "An Chosaiv",
+    "fullName": "An Chosaiv"
+  },
+  {
+    "code2": "VA",
+    "name": "Cathair na Vatacáine",
+    "fullName": "Cathair na Vatacáine"
+  },
+  {
+    "code2": "PR",
+    "name": "Pórtó Ríce",
+    "fullName": "Pórtó Ríce"
+  },
+  {
+    "code2": "GU",
+    "name": "Guam",
+    "fullName": "Guam"
+  },
+  {
+    "code2": "GL",
+    "name": "An Ghraonlainn",
+    "fullName": "An Ghraonlainn"
+  },
+  {
+    "code2": "FO",
+    "name": "Oileáin Fharó",
+    "fullName": "Oileáin Fharó"
+  },
+  {
+    "code2": "NC",
+    "name": "An Nua-Chaladóin",
+    "fullName": "An Nua-Chaladóin"
+  },
+  {
+    "code2": "PF",
+    "name": "Polainéis na Fraince",
+    "fullName": "Polainéis na Fraince"
+  },
+  {
+    "code2": "BM",
+    "name": "Beirmiúda",
+    "fullName": "Beirmiúda"
+  },
+  {
+    "code2": "KY",
+    "name": "Oileáin Cayman",
+    "fullName": "Oileáin Cayman"
+  },
+  {
+    "code2": "VI",
+    "name": "Oileáin Mheiriceánacha na Maighdean",
+    "fullName": "Oileáin Mheiriceánacha na Maighdean"
+  },
+  {
+    "code2": "CW",
+    "name": "Curaçao",
+    "fullName": "Curaçao"
+  },
+  {
+    "code2": "AW",
+    "name": "Arúba",
+    "fullName": "Arúba"
+  },
+  {
+    "code2": "GI",
+    "name": "Giobráltar",
+    "fullName": "Giobráltar"
+  },
+  {
+    "code2": "JE",
+    "name": "Geirsí",
+    "fullName": "Geirsí"
+  },
+  {
+    "code2": "GG",
+    "name": "Geansaí",
+    "fullName": "Geansaí"
+  },
+  {
+    "code2": "IM",
+    "name": "Oileán Mhanann",
+    "fullName": "Oileán Mhanann"
+  },
+  {
+    "code2": "TC",
+    "name": "Oileáin na dTurcach agus Caicos",
+    "fullName": "Oileáin na dTurcach agus Caicos"
+  },
+  {
+    "code2": "VG",
+    "name": "Oileáin Bhriotanacha na Maighdean",
+    "fullName": "Oileáin Bhriotanacha na Maighdean"
+  },
+  {
+    "code2": "AI",
+    "name": "Anguilla",
+    "fullName": "Anguilla"
+  },
+  {
+    "code2": "MS",
+    "name": "Montsarat",
+    "fullName": "Montsarat"
+  },
+  {
+    "code2": "SH",
+    "name": "Saint Helena",
+    "fullName": "Saint Helena"
+  },
+  {
+    "code2": "FK",
+    "name": "Oileáin Fháclainne (Malvinas)",
+    "fullName": "Oileáin Fháclainne (Malvinas)"
+  },
+  {
+    "code2": "GF",
+    "name": "Guáin na Fraince",
+    "fullName": "Guáin na Fraince"
+  },
+  {
+    "code2": "GP",
+    "name": "Guadalúip",
+    "fullName": "Guadalúip"
+  },
+  {
+    "code2": "MQ",
+    "name": "Martinique",
+    "fullName": "Martinique"
+  },
+  {
+    "code2": "RE",
+    "name": "Réunion",
+    "fullName": "Réunion"
+  },
+  {
+    "code2": "MF",
+    "name": "Saint Martin (cuid na Fraince)",
+    "fullName": "Saint Martin (cuid na Fraince)"
+  },
+  {
+    "code2": "PM",
+    "name": "Saint Pierre agus Miquelon",
+    "fullName": "Saint Pierre agus Miquelon"
+  },
+  {
+    "code2": "WF",
+    "name": "Wallis agus Futuna",
+    "fullName": "Wallis agus Futuna"
+  },
+  {
+    "code2": "YT",
+    "name": "Mayotte",
+    "fullName": "Mayotte"
+  },
+  {
+    "code2": "AS",
+    "name": "Samó Meiriceánach",
+    "fullName": "Samó Meiriceánach"
+  },
+  {
+    "code2": "MP",
+    "name": "Oileáin Mariana Thuaidh",
+    "fullName": "Oileáin Mariana Thuaidh"
+  },
+  {
+    "code2": "CX",
+    "name": "Oileán na Nollag",
+    "fullName": "Oileán na Nollag"
+  },
+  {
+    "code2": "CC",
+    "name": "Oileáin Cocos (Keeling)",
+    "fullName": "Oileáin Cocos (Keeling)"
+  },
+  {
+    "code2": "NF",
+    "name": "Oileán Norfolk",
+    "fullName": "Oileán Norfolk"
+  },
+  {
+    "code2": "PN",
+    "name": [
+      "Oileáin Pitcairn",
+      "Pitcairn"
+    ],
+    "fullName": [
+      "Oileáin Pitcairn",
+      "Pitcairn"
+    ]
+  },
+  {
+    "code2": "TK",
+    "name": "Tokelau",
+    "fullName": "Tokelau"
+  },
+  {
+    "code2": "NU",
+    "name": "Niue",
+    "fullName": "Niue"
+  },
+  {
+    "code2": "CK",
+    "name": "Oileáin Cook",
+    "fullName": "Oileáin Cook"
+  },
+  {
+    "code2": "EH",
+    "name": "An Sahára Thiar",
+    "fullName": "An Sahára Thiar"
+  },
+  {
+    "code2": "AX",
+    "name": [
+      "Oileáin Åland",
+      "Oileáin Aland"
+    ],
+    "fullName": [
+      "Oileáin Åland",
+      "Oileáin Aland"
+    ]
+  },
+  {
+    "code2": "BL",
+    "name": "Saint Barthélemy",
+    "fullName": "Saint Barthélemy"
+  },
+  {
+    "code2": "IO",
+    "name": "Críoch Aigéan Indiach na Breataine",
+    "fullName": "Críoch Aigéan Indiach na Breataine"
+  },
+  {
+    "code2": "SX",
+    "name": "Sint Maarten (cuid na hÍsiltíre)",
+    "fullName": "Sint Maarten (cuid na hÍsiltíre)"
+  },
+  {
+    "code2": "BQ",
+    "name": "Bonaire, Sint Eustatius agus Saba",
+    "fullName": "Bonaire, Sint Eustatius agus Saba"
+  },
+  {
+    "code2": "TF",
+    "name": "Críocha Deisceartacha na Fraince",
+    "fullName": "Críocha Deisceartacha na Fraince"
+  },
+  {
+    "code2": "GS",
+    "name": "An tSeoirsia Theas agus Oileáin Sandwich Theas",
+    "fullName": "An tSeoirsia Theas agus Oileáin Sandwich Theas"
+  },
+  {
+    "code2": "HM",
+    "name": "Oileán Heard agus Oileáin McDonald",
+    "fullName": "Oileán Heard agus Oileáin McDonald"
+  },
+  {
+    "code2": "AQ",
+    "name": "An Antartaice",
+    "fullName": "An Antartaice"
+  }
+]

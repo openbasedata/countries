@@ -1,0 +1,1237 @@
+[
+  {
+    "code2": "AF",
+    "name": "Afganistan",
+    "fullName": "Afganistan"
+  },
+  {
+    "code2": "AL",
+    "name": "Albania",
+    "fullName": "Albania"
+  },
+  {
+    "code2": "DZ",
+    "name": "Aljeria",
+    "fullName": "Aljeria"
+  },
+  {
+    "code2": "AD",
+    "name": "Andorra",
+    "fullName": "Andorra"
+  },
+  {
+    "code2": "AO",
+    "name": "Angola",
+    "fullName": "Angola"
+  },
+  {
+    "code2": "AG",
+    "name": "Antigua eta Barbuda",
+    "fullName": "Antigua eta Barbuda"
+  },
+  {
+    "code2": "AR",
+    "name": "Argentina",
+    "fullName": "Argentina"
+  },
+  {
+    "code2": "AM",
+    "name": "Armenia",
+    "fullName": "Armenia"
+  },
+  {
+    "code2": "AU",
+    "name": "Australia",
+    "fullName": "Australia"
+  },
+  {
+    "code2": "AT",
+    "name": "Austria",
+    "fullName": "Austria"
+  },
+  {
+    "code2": "AZ",
+    "name": "Azerbaijan",
+    "fullName": "Azerbaijan"
+  },
+  {
+    "code2": "BS",
+    "name": "Bahamak",
+    "fullName": "Bahamak"
+  },
+  {
+    "code2": "BH",
+    "name": "Bahrain",
+    "fullName": "Bahrain"
+  },
+  {
+    "code2": "BD",
+    "name": "Bangladesh",
+    "fullName": "Bangladesh"
+  },
+  {
+    "code2": "BB",
+    "name": "Barbados",
+    "fullName": "Barbados"
+  },
+  {
+    "code2": "BY",
+    "name": "Bielorrusia",
+    "fullName": "Bielorrusia"
+  },
+  {
+    "code2": "BE",
+    "name": "Belgika",
+    "fullName": "Belgika"
+  },
+  {
+    "code2": "BZ",
+    "name": "Belize",
+    "fullName": "Belize"
+  },
+  {
+    "code2": "BJ",
+    "name": "Benin",
+    "fullName": "Benin"
+  },
+  {
+    "code2": "BT",
+    "name": "Bhutan",
+    "fullName": "Bhutan"
+  },
+  {
+    "code2": "BO",
+    "name": "Bolivia",
+    "fullName": "Bolivia"
+  },
+  {
+    "code2": "BA",
+    "name": "Bosnia-Herzegovina",
+    "fullName": "Bosnia-Herzegovina"
+  },
+  {
+    "code2": "BW",
+    "name": "Botswana",
+    "fullName": "Botswana"
+  },
+  {
+    "code2": "BR",
+    "name": "Brasil",
+    "fullName": "Brasil"
+  },
+  {
+    "code2": "BN",
+    "name": "Brunei Darussalam",
+    "fullName": "Brunei Darussalam"
+  },
+  {
+    "code2": "BG",
+    "name": "Bulgaria",
+    "fullName": "Bulgaria"
+  },
+  {
+    "code2": "BF",
+    "name": "Burkina Faso",
+    "fullName": "Burkina Faso"
+  },
+  {
+    "code2": "BI",
+    "name": "Burundi",
+    "fullName": "Burundi"
+  },
+  {
+    "code2": "CV",
+    "name": "Cabo Verde",
+    "fullName": "Cabo Verde"
+  },
+  {
+    "code2": "KH",
+    "name": "Kanbodia",
+    "fullName": "Kanbodia"
+  },
+  {
+    "code2": "CM",
+    "name": "Kamerun",
+    "fullName": "Kamerun"
+  },
+  {
+    "code2": "CA",
+    "name": "Kanada",
+    "fullName": "Kanada"
+  },
+  {
+    "code2": "CF",
+    "name": "Afrika Erdiko Errepublika",
+    "fullName": "Afrika Erdiko Errepublika"
+  },
+  {
+    "code2": "TD",
+    "name": "Txad",
+    "fullName": "Txad"
+  },
+  {
+    "code2": "CL",
+    "name": "Txile",
+    "fullName": "Txile"
+  },
+  {
+    "code2": "CN",
+    "name": "Txina",
+    "fullName": "Txina"
+  },
+  {
+    "code2": "CO",
+    "name": "Kolonbia",
+    "fullName": "Kolonbia"
+  },
+  {
+    "code2": "KM",
+    "name": "Komoreak",
+    "fullName": "Komoreak"
+  },
+  {
+    "code2": "CG",
+    "name": "Kongo",
+    "fullName": "Kongo"
+  },
+  {
+    "code2": "CD",
+    "name": "Kongoko Errepublika Demokratikoa",
+    "fullName": "Kongoko Errepublika Demokratikoa"
+  },
+  {
+    "code2": "CR",
+    "name": "Costa Rica",
+    "fullName": "Costa Rica"
+  },
+  {
+    "code2": "CI",
+    "name": "Boli Kosta",
+    "fullName": "Boli Kosta"
+  },
+  {
+    "code2": "HR",
+    "name": "Kroazia",
+    "fullName": "Kroazia"
+  },
+  {
+    "code2": "CU",
+    "name": "Kuba",
+    "fullName": "Kuba"
+  },
+  {
+    "code2": "CY",
+    "name": "Zipre",
+    "fullName": "Zipre"
+  },
+  {
+    "code2": "CZ",
+    "name": "Txekia",
+    "fullName": "Txekia"
+  },
+  {
+    "code2": "DK",
+    "name": "Danimarka",
+    "fullName": "Danimarka"
+  },
+  {
+    "code2": "DJ",
+    "name": "Djibuti",
+    "fullName": "Djibuti"
+  },
+  {
+    "code2": "DM",
+    "name": "Dominika",
+    "fullName": "Dominika"
+  },
+  {
+    "code2": "DO",
+    "name": "Dominikar Errepublika",
+    "fullName": "Dominikar Errepublika"
+  },
+  {
+    "code2": "EC",
+    "name": "Ekuador",
+    "fullName": "Ekuador"
+  },
+  {
+    "code2": "EG",
+    "name": "Egipto",
+    "fullName": "Egipto"
+  },
+  {
+    "code2": "SV",
+    "name": "El Salvador",
+    "fullName": "El Salvador"
+  },
+  {
+    "code2": "GQ",
+    "name": "Ekuatore Ginea",
+    "fullName": "Ekuatore Ginea"
+  },
+  {
+    "code2": "ER",
+    "name": "Eritrea",
+    "fullName": "Eritrea"
+  },
+  {
+    "code2": "EE",
+    "name": "Estonia",
+    "fullName": "Estonia"
+  },
+  {
+    "code2": "SZ",
+    "name": "Swazilandia",
+    "fullName": "Swazilandia"
+  },
+  {
+    "code2": "ET",
+    "name": "Etiopia",
+    "fullName": "Etiopia"
+  },
+  {
+    "code2": "FJ",
+    "name": "Fiji",
+    "fullName": "Fiji"
+  },
+  {
+    "code2": "FI",
+    "name": "Finlandia",
+    "fullName": "Finlandia"
+  },
+  {
+    "code2": "FR",
+    "name": "Frantzia",
+    "fullName": "Frantzia"
+  },
+  {
+    "code2": "GA",
+    "name": "Gabon",
+    "fullName": "Gabon"
+  },
+  {
+    "code2": "GM",
+    "name": "Gambia",
+    "fullName": "Gambia"
+  },
+  {
+    "code2": "GE",
+    "name": "Georgia",
+    "fullName": "Georgia"
+  },
+  {
+    "code2": "DE",
+    "name": "Alemania",
+    "fullName": "Alemania"
+  },
+  {
+    "code2": "GH",
+    "name": "Ghana",
+    "fullName": "Ghana"
+  },
+  {
+    "code2": "GR",
+    "name": "Grezia",
+    "fullName": "Grezia"
+  },
+  {
+    "code2": "GD",
+    "name": "Grenada",
+    "fullName": "Grenada"
+  },
+  {
+    "code2": "GT",
+    "name": "Guatemala",
+    "fullName": "Guatemala"
+  },
+  {
+    "code2": "GN",
+    "name": "Ginea",
+    "fullName": "Ginea"
+  },
+  {
+    "code2": "GW",
+    "name": "Ginea Bissau",
+    "fullName": "Ginea Bissau"
+  },
+  {
+    "code2": "GY",
+    "name": "Guyana",
+    "fullName": "Guyana"
+  },
+  {
+    "code2": "HT",
+    "name": "Haiti",
+    "fullName": "Haiti"
+  },
+  {
+    "code2": "HN",
+    "name": "Honduras",
+    "fullName": "Honduras"
+  },
+  {
+    "code2": "HU",
+    "name": "Hungaria",
+    "fullName": "Hungaria"
+  },
+  {
+    "code2": "IS",
+    "name": "Islandia",
+    "fullName": "Islandia"
+  },
+  {
+    "code2": "IN",
+    "name": "India",
+    "fullName": "India"
+  },
+  {
+    "code2": "ID",
+    "name": "Indonesia",
+    "fullName": "Indonesia"
+  },
+  {
+    "code2": "IR",
+    "name": "Iran",
+    "fullName": "Iran"
+  },
+  {
+    "code2": "IQ",
+    "name": "Irak",
+    "fullName": "Irak"
+  },
+  {
+    "code2": "IE",
+    "name": "Irlanda",
+    "fullName": "Irlanda"
+  },
+  {
+    "code2": "IL",
+    "name": "Israel",
+    "fullName": "Israel"
+  },
+  {
+    "code2": "IT",
+    "name": "Italia",
+    "fullName": "Italia"
+  },
+  {
+    "code2": "JM",
+    "name": "Jamaika",
+    "fullName": "Jamaika"
+  },
+  {
+    "code2": "JP",
+    "name": "Japonia",
+    "fullName": "Japonia"
+  },
+  {
+    "code2": "JO",
+    "name": "Jordania",
+    "fullName": "Jordania"
+  },
+  {
+    "code2": "KZ",
+    "name": "Kazakhstan",
+    "fullName": "Kazakhstan"
+  },
+  {
+    "code2": "KE",
+    "name": "Kenya",
+    "fullName": "Kenya"
+  },
+  {
+    "code2": "KI",
+    "name": "Kiribati",
+    "fullName": "Kiribati"
+  },
+  {
+    "code2": "KP",
+    "name": "Ipar Korea",
+    "fullName": "Ipar Korea"
+  },
+  {
+    "code2": "KR",
+    "name": "Hego Korea",
+    "fullName": "Hego Korea"
+  },
+  {
+    "code2": "KW",
+    "name": "Kuwait",
+    "fullName": "Kuwait"
+  },
+  {
+    "code2": "KG",
+    "name": "Kirgizistan",
+    "fullName": "Kirgizistan"
+  },
+  {
+    "code2": "LA",
+    "name": "Laos",
+    "fullName": "Laos"
+  },
+  {
+    "code2": "LV",
+    "name": "Letonia",
+    "fullName": "Letonia"
+  },
+  {
+    "code2": "LB",
+    "name": "Libano",
+    "fullName": "Libano"
+  },
+  {
+    "code2": "LS",
+    "name": "Lesotho",
+    "fullName": "Lesotho"
+  },
+  {
+    "code2": "LR",
+    "name": "Liberia",
+    "fullName": "Liberia"
+  },
+  {
+    "code2": "LY",
+    "name": "Libia",
+    "fullName": "Libia"
+  },
+  {
+    "code2": "LI",
+    "name": "Liechtenstein",
+    "fullName": "Liechtenstein"
+  },
+  {
+    "code2": "LT",
+    "name": "Lituania",
+    "fullName": "Lituania"
+  },
+  {
+    "code2": "LU",
+    "name": "Luxenburgo",
+    "fullName": "Luxenburgo"
+  },
+  {
+    "code2": "MG",
+    "name": "Madagaskar",
+    "fullName": "Madagaskar"
+  },
+  {
+    "code2": "MW",
+    "name": "Malawi",
+    "fullName": "Malawi"
+  },
+  {
+    "code2": "MY",
+    "name": "Malaysia",
+    "fullName": "Malaysia"
+  },
+  {
+    "code2": "MV",
+    "name": "Maldivak",
+    "fullName": "Maldivak"
+  },
+  {
+    "code2": "ML",
+    "name": "Mali",
+    "fullName": "Mali"
+  },
+  {
+    "code2": "MT",
+    "name": "Malta",
+    "fullName": "Malta"
+  },
+  {
+    "code2": "MH",
+    "name": "Marshall Uharteak",
+    "fullName": "Marshall Uharteak"
+  },
+  {
+    "code2": "MR",
+    "name": "Mauritania",
+    "fullName": "Mauritania"
+  },
+  {
+    "code2": "MU",
+    "name": "Maurizio",
+    "fullName": "Maurizio"
+  },
+  {
+    "code2": "MX",
+    "name": "Mexico",
+    "fullName": "Mexico"
+  },
+  {
+    "code2": "FM",
+    "name": "Mikronesia",
+    "fullName": "Mikronesia"
+  },
+  {
+    "code2": "MD",
+    "name": "Moldavia",
+    "fullName": "Moldavia"
+  },
+  {
+    "code2": "MC",
+    "name": "Monako",
+    "fullName": "Monako"
+  },
+  {
+    "code2": "MN",
+    "name": "Mongolia",
+    "fullName": "Mongolia"
+  },
+  {
+    "code2": "ME",
+    "name": "Montenegro",
+    "fullName": "Montenegro"
+  },
+  {
+    "code2": "MA",
+    "name": "Maroko",
+    "fullName": "Maroko"
+  },
+  {
+    "code2": "MZ",
+    "name": "Mozambike",
+    "fullName": "Mozambike"
+  },
+  {
+    "code2": "MM",
+    "name": "Myanmar",
+    "fullName": "Myanmar"
+  },
+  {
+    "code2": "NA",
+    "name": "Namibia",
+    "fullName": "Namibia"
+  },
+  {
+    "code2": "NR",
+    "name": "Nauru",
+    "fullName": "Nauru"
+  },
+  {
+    "code2": "NP",
+    "name": "Nepal",
+    "fullName": "Nepal"
+  },
+  {
+    "code2": "NL",
+    "name": "Herbehereak",
+    "fullName": "Herbehereak"
+  },
+  {
+    "code2": "NZ",
+    "name": "Zeelanda Berria",
+    "fullName": "Zeelanda Berria"
+  },
+  {
+    "code2": "NI",
+    "name": "Nikaragua",
+    "fullName": "Nikaragua"
+  },
+  {
+    "code2": "NE",
+    "name": "Niger",
+    "fullName": "Niger"
+  },
+  {
+    "code2": "NG",
+    "name": "Nigeria",
+    "fullName": "Nigeria"
+  },
+  {
+    "code2": "MK",
+    "name": "Ipar Mazedonia",
+    "fullName": "Ipar Mazedonia"
+  },
+  {
+    "code2": "NO",
+    "name": "Norvegia",
+    "fullName": "Norvegia"
+  },
+  {
+    "code2": "OM",
+    "name": "Oman",
+    "fullName": "Oman"
+  },
+  {
+    "code2": "PK",
+    "name": "Pakistan",
+    "fullName": "Pakistan"
+  },
+  {
+    "code2": "PW",
+    "name": "Palau",
+    "fullName": "Palau"
+  },
+  {
+    "code2": "PA",
+    "name": "Panama",
+    "fullName": "Panama"
+  },
+  {
+    "code2": "PG",
+    "name": "Papua Ginea Berria",
+    "fullName": "Papua Ginea Berria"
+  },
+  {
+    "code2": "PY",
+    "name": "Paraguai",
+    "fullName": "Paraguai"
+  },
+  {
+    "code2": "PE",
+    "name": "Peru",
+    "fullName": "Peru"
+  },
+  {
+    "code2": "PH",
+    "name": "Filipinak",
+    "fullName": "Filipinak"
+  },
+  {
+    "code2": "PL",
+    "name": "Polonia",
+    "fullName": "Polonia"
+  },
+  {
+    "code2": "PT",
+    "name": "Portugal",
+    "fullName": "Portugal"
+  },
+  {
+    "code2": "QA",
+    "name": "Qatar",
+    "fullName": "Qatar"
+  },
+  {
+    "code2": "RO",
+    "name": "Errumania",
+    "fullName": "Errumania"
+  },
+  {
+    "code2": "RU",
+    "name": "Errusia",
+    "fullName": "Errusia"
+  },
+  {
+    "code2": "RW",
+    "name": "Ruanda",
+    "fullName": "Ruanda"
+  },
+  {
+    "code2": "KN",
+    "name": "Saint Kitts eta Nevis",
+    "fullName": "Saint Kitts eta Nevis"
+  },
+  {
+    "code2": "LC",
+    "name": "Santa Luzia",
+    "fullName": "Santa Luzia"
+  },
+  {
+    "code2": "VC",
+    "name": "Saint Vincent eta Grenadinak",
+    "fullName": "Saint Vincent eta Grenadinak"
+  },
+  {
+    "code2": "WS",
+    "name": "Samoa",
+    "fullName": "Samoa"
+  },
+  {
+    "code2": "SM",
+    "name": "San Marino",
+    "fullName": "San Marino"
+  },
+  {
+    "code2": "ST",
+    "name": "Sao Tome eta Principe",
+    "fullName": "Sao Tome eta Principe"
+  },
+  {
+    "code2": "SA",
+    "name": "Saudi Arabia",
+    "fullName": "Saudi Arabia"
+  },
+  {
+    "code2": "SN",
+    "name": "Senegal",
+    "fullName": "Senegal"
+  },
+  {
+    "code2": "RS",
+    "name": "Serbia",
+    "fullName": "Serbia"
+  },
+  {
+    "code2": "SC",
+    "name": "Seychelleak",
+    "fullName": "Seychelleak"
+  },
+  {
+    "code2": "SL",
+    "name": "Sierra Leona",
+    "fullName": "Sierra Leona"
+  },
+  {
+    "code2": "SG",
+    "name": "Singapur",
+    "fullName": "Singapur"
+  },
+  {
+    "code2": "SK",
+    "name": "Eslovakia",
+    "fullName": "Eslovakia"
+  },
+  {
+    "code2": "SI",
+    "name": "Eslovenia",
+    "fullName": "Eslovenia"
+  },
+  {
+    "code2": "SB",
+    "name": "Salomon Uharteak",
+    "fullName": "Salomon Uharteak"
+  },
+  {
+    "code2": "SO",
+    "name": "Somalia",
+    "fullName": "Somalia"
+  },
+  {
+    "code2": "ZA",
+    "name": "Hegoafrika",
+    "fullName": "Hegoafrika"
+  },
+  {
+    "code2": "SS",
+    "name": "Hego Sudan",
+    "fullName": "Hego Sudan"
+  },
+  {
+    "code2": "ES",
+    "name": "Espainia",
+    "fullName": "Espainia"
+  },
+  {
+    "code2": "LK",
+    "name": "Sri Lanka",
+    "fullName": "Sri Lanka"
+  },
+  {
+    "code2": "SD",
+    "name": "Sudan",
+    "fullName": "Sudan"
+  },
+  {
+    "code2": "SR",
+    "name": "Surinam",
+    "fullName": "Surinam"
+  },
+  {
+    "code2": "SE",
+    "name": "Suedia",
+    "fullName": "Suedia"
+  },
+  {
+    "code2": "CH",
+    "name": "Suitza",
+    "fullName": "Suitza"
+  },
+  {
+    "code2": "SY",
+    "name": "Siriako Arabiar Errepublika",
+    "fullName": "Siriako Arabiar Errepublika"
+  },
+  {
+    "code2": "TJ",
+    "name": "Tajikistan",
+    "fullName": "Tajikistan"
+  },
+  {
+    "code2": "TZ",
+    "name": "Tanzania",
+    "fullName": "Tanzania"
+  },
+  {
+    "code2": "TH",
+    "name": "Thailandia",
+    "fullName": "Thailandia"
+  },
+  {
+    "code2": "TL",
+    "name": "Ekialdeko Timor",
+    "fullName": "Ekialdeko Timor"
+  },
+  {
+    "code2": "TG",
+    "name": "Togo",
+    "fullName": "Togo"
+  },
+  {
+    "code2": "TO",
+    "name": "Tonga",
+    "fullName": "Tonga"
+  },
+  {
+    "code2": "TT",
+    "name": "Trinidad eta Tobago",
+    "fullName": "Trinidad eta Tobago"
+  },
+  {
+    "code2": "TN",
+    "name": "Tunisia",
+    "fullName": "Tunisia"
+  },
+  {
+    "code2": "TR",
+    "name": "Turkia",
+    "fullName": "Turkia"
+  },
+  {
+    "code2": "TM",
+    "name": "Turkmenistan",
+    "fullName": "Turkmenistan"
+  },
+  {
+    "code2": "TV",
+    "name": "Tuvalu",
+    "fullName": "Tuvalu"
+  },
+  {
+    "code2": "UG",
+    "name": "Uganda",
+    "fullName": "Uganda"
+  },
+  {
+    "code2": "UA",
+    "name": "Ukraina",
+    "fullName": "Ukraina"
+  },
+  {
+    "code2": "AE",
+    "name": "Arabiar Emirerri Batuak",
+    "fullName": "Arabiar Emirerri Batuak"
+  },
+  {
+    "code2": "GB",
+    "name": "Erresuma Batua",
+    "fullName": "Erresuma Batua"
+  },
+  {
+    "code2": "US",
+    "name": "Estatu Batuak",
+    "fullName": "Estatu Batuak"
+  },
+  {
+    "code2": "UY",
+    "name": "Uruguai",
+    "fullName": "Uruguai"
+  },
+  {
+    "code2": "UZ",
+    "name": "Uzbekistan",
+    "fullName": "Uzbekistan"
+  },
+  {
+    "code2": "VU",
+    "name": "Vanuatu",
+    "fullName": "Vanuatu"
+  },
+  {
+    "code2": "VE",
+    "name": "Venezuela",
+    "fullName": "Venezuela"
+  },
+  {
+    "code2": "VN",
+    "name": "Vietnam",
+    "fullName": "Vietnam"
+  },
+  {
+    "code2": "YE",
+    "name": "Yemen",
+    "fullName": "Yemen"
+  },
+  {
+    "code2": "ZM",
+    "name": "Zambia",
+    "fullName": "Zambia"
+  },
+  {
+    "code2": "ZW",
+    "name": "Zimbabwe",
+    "fullName": "Zimbabwe"
+  },
+  {
+    "code2": "HK",
+    "name": "Hong Kong",
+    "fullName": "Hong Kong"
+  },
+  {
+    "code2": "MO",
+    "name": "Macao",
+    "fullName": "Macao"
+  },
+  {
+    "code2": "TW",
+    "name": "Taiwan",
+    "fullName": "Taiwan"
+  },
+  {
+    "code2": "PS",
+    "name": "Palestina",
+    "fullName": "Palestina"
+  },
+  {
+    "code2": "XK",
+    "name": "Kosovo",
+    "fullName": "Kosovo"
+  },
+  {
+    "code2": "VA",
+    "name": "Vatikanoa (Egoitza Santua)",
+    "fullName": "Vatikanoa (Egoitza Santua)"
+  },
+  {
+    "code2": "PR",
+    "name": "Puerto Rico",
+    "fullName": "Puerto Rico"
+  },
+  {
+    "code2": "GU",
+    "name": "Guam",
+    "fullName": "Guam"
+  },
+  {
+    "code2": "GL",
+    "name": "Groenlandia",
+    "fullName": "Groenlandia"
+  },
+  {
+    "code2": "FO",
+    "name": "Faroe uharteak",
+    "fullName": "Faroe uharteak"
+  },
+  {
+    "code2": "NC",
+    "name": "Kaledonia Berria",
+    "fullName": "Kaledonia Berria"
+  },
+  {
+    "code2": "PF",
+    "name": "Polinesia Frantsesa",
+    "fullName": "Polinesia Frantsesa"
+  },
+  {
+    "code2": "BM",
+    "name": "Bermudas",
+    "fullName": "Bermudas"
+  },
+  {
+    "code2": "KY",
+    "name": "Kaiman uharteak",
+    "fullName": "Kaiman uharteak"
+  },
+  {
+    "code2": "VI",
+    "name": "Birjina Uharte Estatubatuarrak",
+    "fullName": "Birjina Uharte Estatubatuarrak"
+  },
+  {
+    "code2": "CW",
+    "name": "Curaçao",
+    "fullName": "Curaçao"
+  },
+  {
+    "code2": "AW",
+    "name": "Aruba",
+    "fullName": "Aruba"
+  },
+  {
+    "code2": "GI",
+    "name": "Gibraltar",
+    "fullName": "Gibraltar"
+  },
+  {
+    "code2": "JE",
+    "name": "Jersey",
+    "fullName": "Jersey"
+  },
+  {
+    "code2": "GG",
+    "name": "Guernsey",
+    "fullName": "Guernsey"
+  },
+  {
+    "code2": "IM",
+    "name": "Man uhartea",
+    "fullName": "Man uhartea"
+  },
+  {
+    "code2": "TC",
+    "name": "Turkak eta Caicoak",
+    "fullName": "Turkak eta Caicoak"
+  },
+  {
+    "code2": "VG",
+    "name": "Birjina britainiar uharteak",
+    "fullName": "Birjina britainiar uharteak"
+  },
+  {
+    "code2": "AI",
+    "name": "Aingira",
+    "fullName": "Aingira"
+  },
+  {
+    "code2": "MS",
+    "name": "Montserrat",
+    "fullName": "Montserrat"
+  },
+  {
+    "code2": "SH",
+    "name": "Santa Helena, Ascension eta Tristan da Cunha",
+    "fullName": "Santa Helena, Ascension eta Tristan da Cunha"
+  },
+  {
+    "code2": "FK",
+    "name": "Malvinak",
+    "fullName": "Malvinak"
+  },
+  {
+    "code2": "GF",
+    "name": "Guyana Frantsesa",
+    "fullName": "Guyana Frantsesa"
+  },
+  {
+    "code2": "GP",
+    "name": "Guadalupe",
+    "fullName": "Guadalupe"
+  },
+  {
+    "code2": "MQ",
+    "name": "Martinika",
+    "fullName": "Martinika"
+  },
+  {
+    "code2": "RE",
+    "name": "Réunion",
+    "fullName": "Réunion"
+  },
+  {
+    "code2": "MF",
+    "name": "San Martin (frantsesa)",
+    "fullName": "San Martin (frantsesa)"
+  },
+  {
+    "code2": "PM",
+    "name": "Saint-Pierre eta Mikelune",
+    "fullName": "Saint-Pierre eta Mikelune"
+  },
+  {
+    "code2": "WF",
+    "name": "Wallis eta Futuna",
+    "fullName": "Wallis eta Futuna"
+  },
+  {
+    "code2": "YT",
+    "name": "Mayotte",
+    "fullName": "Mayotte"
+  },
+  {
+    "code2": "AS",
+    "name": "Samoa Estatubatuarra",
+    "fullName": "Samoa Estatubatuarra"
+  },
+  {
+    "code2": "MP",
+    "name": "Ipar Marianak",
+    "fullName": "Ipar Marianak"
+  },
+  {
+    "code2": "CX",
+    "name": "Christmas uhartea",
+    "fullName": "Christmas uhartea"
+  },
+  {
+    "code2": "CC",
+    "name": "Cocosak (Keeling uharteak)",
+    "fullName": "Cocosak (Keeling uharteak)"
+  },
+  {
+    "code2": "NF",
+    "name": "Norfolk uhartea",
+    "fullName": "Norfolk uhartea"
+  },
+  {
+    "code2": "PN",
+    "name": "Pitcairn uharteak",
+    "fullName": "Pitcairn uharteak"
+  },
+  {
+    "code2": "TK",
+    "name": "Tokelau",
+    "fullName": "Tokelau"
+  },
+  {
+    "code2": "NU",
+    "name": "Niue",
+    "fullName": "Niue"
+  },
+  {
+    "code2": "CK",
+    "name": "Cook uharteak",
+    "fullName": "Cook uharteak"
+  },
+  {
+    "code2": "EH",
+    "name": "Mendebaldeko Sahara",
+    "fullName": "Mendebaldeko Sahara"
+  },
+  {
+    "code2": "AX",
+    "name": "Åland uharteak",
+    "fullName": "Åland uharteak"
+  },
+  {
+    "code2": "BL",
+    "name": "San Bartolome",
+    "fullName": "San Bartolome"
+  },
+  {
+    "code2": "IO",
+    "name": "Indiako Ozeanoko Britainiar Lurraldea",
+    "fullName": "Indiako Ozeanoko Britainiar Lurraldea"
+  },
+  {
+    "code2": "SX",
+    "name": "San Martin (herbeheretarra)",
+    "fullName": "San Martin (herbeheretarra)"
+  },
+  {
+    "code2": "BQ",
+    "name": "Bonaire, San Eustakio eta Saba",
+    "fullName": "Bonaire, San Eustakio eta Saba"
+  },
+  {
+    "code2": "TF",
+    "name": "Frantziaren Lurralde Australak",
+    "fullName": "Frantziaren Lurralde Australak"
+  },
+  {
+    "code2": "GS",
+    "name": "Hegoaldeko Georgiak eta Hegoaldeko Sandwichak",
+    "fullName": "Hegoaldeko Georgiak eta Hegoaldeko Sandwichak"
+  },
+  {
+    "code2": "HM",
+    "name": "Heard eta McDonald uharteak",
+    "fullName": "Heard eta McDonald uharteak"
+  },
+  {
+    "code2": "AQ",
+    "name": "Antartika",
+    "fullName": "Antartika"
+  }
+]
