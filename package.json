@@ -4,22 +4,45 @@
   "description": "Open base data for all countries and regions in the world",
   "keywords": [
     "countries",
+    "country",
+    "currency",
     "data",
+    "flag",
     "flags",
+    "i18n",
     "iso",
+    "iso-3166",
+    "language",
+    "languages",
+    "locale",
+    "localization",
+    "nations",
+    "population",
     "regions",
+    "translation",
     "world"
   ],
   "homepage": "https://github.com/openbasedata/countries#readme",
   "bugs": {
     "url": "https://github.com/openbasedata/countries/issues"
   },
-  "license": "MIT",
-  "author": "openbasedata",
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/openbasedata"
+  },
+  "license": "AGPL-3.0",
+  "author": {
+    "name": "openbasedata",
+    "url": "https://github.com/openbasedata"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/openbasedata/countries.git"
   },
+  "files": [
+    "data.json",
+    "translations"
+  ],
   "main": "data.json",
   "scripts": {
     "format": "oxfmt .",
