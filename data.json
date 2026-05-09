@@ -10,6 +10,7 @@
       "uz",
       "tk"
     ],
+    "currency": "AFN",
     "nativeName": "افغانستان",
     "nativeFullName": "د افغانستان اسلامي جمهوریت",
     "name": "Afghanistan",
@@ -24,6 +25,7 @@
     "languages": [
       "sq"
     ],
+    "currency": "ALL",
     "nativeName": "Shqipëria",
     "nativeFullName": "Republika e Shqipërisë",
     "name": "Albania",
@@ -38,6 +40,7 @@
     "languages": [
       "ar"
     ],
+    "currency": "DZD",
     "nativeName": "الجزائر",
     "nativeFullName": "الجمهورية الديمقراطية الشعبية الجزائرية",
     "name": "Algeria",
@@ -52,6 +55,7 @@
     "languages": [
       "ca"
     ],
+    "currency": "EUR",
     "nativeName": "Andorra",
     "nativeFullName": "Principat d'Andorra",
     "name": "Andorra",
@@ -66,6 +70,7 @@
     "languages": [
       "pt"
     ],
+    "currency": "AOA",
     "nativeName": "Angola",
     "nativeFullName": "República de Angola",
     "name": "Angola",
@@ -80,6 +85,7 @@
     "languages": [
       "en"
     ],
+    "currency": "XCD",
     "nativeName": "Antigua and Barbuda",
     "nativeFullName": "Antigua and Barbuda",
     "name": "Antigua and Barbuda",
@@ -94,6 +100,7 @@
     "languages": [
       "es"
     ],
+    "currency": "ARS",
     "nativeName": "Argentina",
     "nativeFullName": "República Argentina",
     "name": "Argentina",
@@ -108,6 +115,7 @@
     "languages": [
       "hy"
     ],
+    "currency": "AMD",
     "nativeName": "Հայաստան",
     "nativeFullName": "Հայաստանի Հանրապետություն",
     "name": "Armenia",
@@ -122,6 +130,7 @@
     "languages": [
       "en"
     ],
+    "currency": "AUD",
     "nativeName": "Australia",
     "nativeFullName": "Commonwealth of Australia",
     "name": "Australia",
@@ -136,6 +145,7 @@
     "languages": [
       "de"
     ],
+    "currency": "EUR",
     "nativeName": "Österreich",
     "nativeFullName": "Republik Österreich",
     "name": "Austria",
@@ -150,6 +160,7 @@
     "languages": [
       "az"
     ],
+    "currency": "AZN",
     "nativeName": "Azərbaycan",
     "nativeFullName": "Azərbaycan Respublikası",
     "name": "Azerbaijan",
@@ -164,6 +175,7 @@
     "languages": [
       "en"
     ],
+    "currency": "BSD",
     "nativeName": "Bahamas",
     "nativeFullName": "Commonwealth of the Bahamas",
     "name": "Bahamas",
@@ -178,6 +190,7 @@
     "languages": [
       "ar"
     ],
+    "currency": "BHD",
     "nativeName": "البحرين",
     "nativeFullName": "مملكة البحرين",
     "name": "Bahrain",
@@ -192,6 +205,7 @@
     "languages": [
       "bn"
     ],
+    "currency": "BDT",
     "nativeName": "বাংলাদেশ",
     "nativeFullName": "বাংলাদেশ গণপ্রজাতন্ত্রী",
     "name": "Bangladesh",
@@ -206,6 +220,7 @@
     "languages": [
       "en"
     ],
+    "currency": "BBD",
     "nativeName": "Barbados",
     "nativeFullName": "Barbados",
     "name": "Barbados",
@@ -221,6 +236,7 @@
       "be",
       "ru"
     ],
+    "currency": "BYN",
     "nativeName": "Белару́сь",
     "nativeFullName": "Рэспубліка Беларусь",
     "name": "Belarus",
@@ -237,6 +253,7 @@
       "fr",
       "de"
     ],
+    "currency": "EUR",
     "nativeName": "België",
     "nativeFullName": "Koninkrijk België",
     "name": "Belgium",
@@ -251,6 +268,7 @@
     "languages": [
       "en"
     ],
+    "currency": "BZD",
     "nativeName": "Belize",
     "nativeFullName": "Belize",
     "name": "Belize",
@@ -265,6 +283,7 @@
     "languages": [
       "fr"
     ],
+    "currency": "XOF",
     "nativeName": "Bénin",
     "nativeFullName": "République du Bénin",
     "name": "Benin",
@@ -279,6 +298,7 @@
     "languages": [
       "dz"
     ],
+    "currency": "BTN",
     "nativeName": "འབྲུག་ཡུལ་",
     "nativeFullName": "འབྲུག་རྒྱལ་ཁབ་",
     "name": "Bhutan",
@@ -295,6 +315,7 @@
       "qu",
       "ay"
     ],
+    "currency": "BOB",
     "nativeName": "Bolivia",
     "nativeFullName": "Estado Plurinacional de Bolivia",
     "name": "Bolivia",
@@ -311,6 +332,7 @@
       "hr",
       "sr"
     ],
+    "currency": "BAM",
     "nativeName": "Bosna i Hercegovina",
     "nativeFullName": "Bosna i Hercegovina",
     "name": "Bosnia and Herzegovina",
@@ -326,6 +348,7 @@
       "en",
       "tn"
     ],
+    "currency": "BWP",
     "nativeName": "Botswana",
     "nativeFullName": "Republic of Botswana",
     "name": "Botswana",
@@ -340,6 +363,7 @@
     "languages": [
       "pt"
     ],
+    "currency": "BRL",
     "nativeName": "Brasil",
     "nativeFullName": "República Federativa do Brasil",
     "name": "Brazil",
@@ -354,6 +378,7 @@
     "languages": [
       "ms"
     ],
+    "currency": "BND",
     "nativeName": "Negara Brunei Darussalam",
     "nativeFullName": "Nation of Brunei, Abode Damai",
     "name": "Brunei",
@@ -368,6 +393,7 @@
     "languages": [
       "bg"
     ],
+    "currency": "BGN",
     "nativeName": "България",
     "nativeFullName": "Република България",
     "name": "Bulgaria",
@@ -382,6 +408,7 @@
     "languages": [
       "fr"
     ],
+    "currency": "XOF",
     "nativeName": "Burkina Faso",
     "nativeFullName": "République du Burkina",
     "name": "Burkina Faso",
@@ -397,6 +424,7 @@
       "fr",
       "rn"
     ],
+    "currency": "BIF",
     "nativeName": "Burundi",
     "nativeFullName": "République du Burundi",
     "name": "Burundi",
@@ -411,6 +439,7 @@
     "languages": [
       "pt"
     ],
+    "currency": "CVE",
     "nativeName": "Cabo Verde",
     "nativeFullName": "República de Cabo Verde",
     "name": "Cape Verde",
@@ -425,6 +454,7 @@
     "languages": [
       "km"
     ],
+    "currency": "KHR",
     "nativeName": "Kâmpŭchéa",
     "nativeFullName": "ព្រះរាជាណាចក្រកម្ពុជា",
     "name": "Cambodia",
@@ -440,6 +470,7 @@
       "fr",
       "en"
     ],
+    "currency": "XAF",
     "nativeName": "Cameroun",
     "nativeFullName": "République du Cameroun",
     "name": "Cameroon",
@@ -455,6 +486,7 @@
       "en",
       "fr"
     ],
+    "currency": "CAD",
     "nativeName": "Canada",
     "nativeFullName": "Canada",
     "name": "Canada",
@@ -470,6 +502,7 @@
       "fr",
       "sg"
     ],
+    "currency": "XAF",
     "nativeName": "République centrafricaine",
     "nativeFullName": "République centrafricaine",
     "name": "Central African Republic",
@@ -485,6 +518,7 @@
       "fr",
       "ar"
     ],
+    "currency": "XAF",
     "nativeName": "Tchad",
     "nativeFullName": "République du Tchad",
     "name": "Chad",
@@ -499,6 +533,7 @@
     "languages": [
       "es"
     ],
+    "currency": "CLP",
     "nativeName": "Chile",
     "nativeFullName": "República de Chile",
     "name": "Chile",
@@ -513,6 +548,7 @@
     "languages": [
       "zh"
     ],
+    "currency": "CNY",
     "nativeName": "中国",
     "nativeFullName": "中华人民共和国",
     "name": "China",
@@ -527,6 +563,7 @@
     "languages": [
       "es"
     ],
+    "currency": "COP",
     "nativeName": "Colombia",
     "nativeFullName": "República de Colombia",
     "name": "Colombia",
@@ -542,6 +579,7 @@
       "ar",
       "fr"
     ],
+    "currency": "KMF",
     "nativeName": "القمر",
     "nativeFullName": "الاتحاد القمري",
     "name": "Comoros",
@@ -556,6 +594,7 @@
     "languages": [
       "fr"
     ],
+    "currency": "XAF",
     "nativeName": "République du Congo",
     "nativeFullName": "République du Congo",
     "name": "Republic of the Congo",
@@ -570,6 +609,7 @@
     "languages": [
       "fr"
     ],
+    "currency": "CDF",
     "nativeName": "RD Congo",
     "nativeFullName": "République démocratique du Congo",
     "name": "DR Congo",
@@ -584,6 +624,7 @@
     "languages": [
       "es"
     ],
+    "currency": "CRC",
     "nativeName": "Costa Rica",
     "nativeFullName": "República de Costa Rica",
     "name": "Costa Rica",
@@ -598,6 +639,7 @@
     "languages": [
       "fr"
     ],
+    "currency": "XOF",
     "nativeName": "Côte d'Ivoire",
     "nativeFullName": "République de Côte d'Ivoire",
     "name": "Côte d'Ivoire",
@@ -612,6 +654,7 @@
     "languages": [
       "hr"
     ],
+    "currency": "HRK",
     "nativeName": "Hrvatska",
     "nativeFullName": "Republika Hrvatska",
     "name": "Croatia",
@@ -626,6 +669,7 @@
     "languages": [
       "es"
     ],
+    "currency": "CUP",
     "nativeName": "Cuba",
     "nativeFullName": "República de Cuba",
     "name": "Cuba",
@@ -641,6 +685,7 @@
       "el",
       "tr"
     ],
+    "currency": "EUR",
     "nativeName": "Κύπρος",
     "nativeFullName": "Δημοκρατία της Κύπρος",
     "name": "Cyprus",
@@ -655,6 +700,7 @@
     "languages": [
       "cs"
     ],
+    "currency": "CZK",
     "nativeName": "Česko",
     "nativeFullName": "Česká republika",
     "name": "Czech Republic",
@@ -669,6 +715,7 @@
     "languages": [
       "da"
     ],
+    "currency": "DKK",
     "nativeName": "Danmark",
     "nativeFullName": "Kongeriget Danmark",
     "name": "Denmark",
@@ -685,6 +732,7 @@
       "ar",
       "so"
     ],
+    "currency": "DJF",
     "nativeName": "Djibouti",
     "nativeFullName": "République de Djibouti",
     "name": "Djibouti",
@@ -699,6 +747,7 @@
     "languages": [
       "en"
     ],
+    "currency": "XCD",
     "nativeName": "Dominica",
     "nativeFullName": "Commonwealth of Dominica",
     "name": "Dominica",
@@ -713,6 +762,7 @@
     "languages": [
       "es"
     ],
+    "currency": "DOP",
     "nativeName": "República Dominicana",
     "nativeFullName": "República Dominicana",
     "name": "Dominican Republic",
@@ -727,6 +777,7 @@
     "languages": [
       "es"
     ],
+    "currency": "USD",
     "nativeName": "Ecuador",
     "nativeFullName": "República del Ecuador",
     "name": "Ecuador",
@@ -741,6 +792,7 @@
     "languages": [
       "ar"
     ],
+    "currency": "EGP",
     "nativeName": "مصر",
     "nativeFullName": "جمهورية مصر العربية",
     "name": "Egypt",
@@ -755,6 +807,7 @@
     "languages": [
       "es"
     ],
+    "currency": "USD",
     "nativeName": "El Salvador",
     "nativeFullName": "República de El Salvador",
     "name": "El Salvador",
@@ -771,6 +824,7 @@
       "fr",
       "pt"
     ],
+    "currency": "XAF",
     "nativeName": "Guinea Ecuatorial",
     "nativeFullName": "República de Guinea Ecuatorial",
     "name": "Equatorial Guinea",
@@ -787,6 +841,7 @@
       "ar",
       "en"
     ],
+    "currency": "ERN",
     "nativeName": "ኤርትራ",
     "nativeFullName": "ሃገረ ኤርትራ",
     "name": "Eritrea",
@@ -801,6 +856,7 @@
     "languages": [
       "et"
     ],
+    "currency": "EUR",
     "nativeName": "Eesti",
     "nativeFullName": "Eesti Vabariik",
     "name": "Estonia",
@@ -816,6 +872,7 @@
       "en",
       "ss"
     ],
+    "currency": "SZL",
     "nativeName": "Eswatini",
     "nativeFullName": "Kingdom of Eswatini",
     "name": "Eswatini",
@@ -830,6 +887,7 @@
     "languages": [
       "am"
     ],
+    "currency": "ETB",
     "nativeName": "ኢትዮጵያ",
     "nativeFullName": "የኢትዮጵያ ፌዴራላዊ ዲሞክራሲያዊ ሪፐብሊክ",
     "name": "Ethiopia",
@@ -846,6 +904,7 @@
       "fj",
       "hi"
     ],
+    "currency": "FJD",
     "nativeName": "Fiji",
     "nativeFullName": "Republic of Fiji",
     "name": "Fiji",
@@ -861,6 +920,7 @@
       "fi",
       "sv"
     ],
+    "currency": "EUR",
     "nativeName": "Suomi",
     "nativeFullName": "Suomen tasavalta",
     "name": "Finland",
@@ -875,6 +935,7 @@
     "languages": [
       "fr"
     ],
+    "currency": "EUR",
     "nativeName": "France",
     "nativeFullName": "République française",
     "name": "France",
@@ -889,6 +950,7 @@
     "languages": [
       "fr"
     ],
+    "currency": "XAF",
     "nativeName": "Gabon",
     "nativeFullName": "République gabonaise",
     "name": "Gabon",
@@ -903,6 +965,7 @@
     "languages": [
       "en"
     ],
+    "currency": "GMD",
     "nativeName": "Gambia",
     "nativeFullName": "Republic of the Gambia",
     "name": "Gambia",
@@ -917,6 +980,7 @@
     "languages": [
       "ka"
     ],
+    "currency": "GEL",
     "nativeName": "საქართველო",
     "nativeFullName": "საქართველო",
     "name": "Georgia",
@@ -931,6 +995,7 @@
     "languages": [
       "de"
     ],
+    "currency": "EUR",
     "nativeName": "Deutschland",
     "nativeFullName": "Bundesrepublik Deutschland",
     "name": "Germany",
@@ -945,6 +1010,7 @@
     "languages": [
       "en"
     ],
+    "currency": "GHS",
     "nativeName": "Ghana",
     "nativeFullName": "Republic of Ghana",
     "name": "Ghana",
@@ -959,6 +1025,7 @@
     "languages": [
       "el"
     ],
+    "currency": "EUR",
     "nativeName": "Ελλάδα",
     "nativeFullName": "Ελληνική Δημοκρατία",
     "name": "Greece",
@@ -973,6 +1040,7 @@
     "languages": [
       "en"
     ],
+    "currency": "XCD",
     "nativeName": "Grenada",
     "nativeFullName": "Grenada",
     "name": "Grenada",
@@ -987,6 +1055,7 @@
     "languages": [
       "es"
     ],
+    "currency": "GTQ",
     "nativeName": "Guatemala",
     "nativeFullName": "República de Guatemala",
     "name": "Guatemala",
@@ -1001,6 +1070,7 @@
     "languages": [
       "fr"
     ],
+    "currency": "GNF",
     "nativeName": "Guinée",
     "nativeFullName": "République de Guinée",
     "name": "Guinea",
@@ -1015,6 +1085,7 @@
     "languages": [
       "pt"
     ],
+    "currency": "XOF",
     "nativeName": "Guiné-Bissau",
     "nativeFullName": "República da Guiné-Bissau",
     "name": "Guinea-Bissau",
@@ -1029,6 +1100,7 @@
     "languages": [
       "en"
     ],
+    "currency": "GYD",
     "nativeName": "Guyana",
     "nativeFullName": "Co-operative Republic of Guyana",
     "name": "Guyana",
@@ -1044,6 +1116,7 @@
       "fr",
       "ht"
     ],
+    "currency": "HTG",
     "nativeName": "Haïti",
     "nativeFullName": "République d'Haïti",
     "name": "Haiti",
@@ -1058,6 +1131,7 @@
     "languages": [
       "es"
     ],
+    "currency": "HNL",
     "nativeName": "Honduras",
     "nativeFullName": "República de Honduras",
     "name": "Honduras",
@@ -1072,6 +1146,7 @@
     "languages": [
       "hu"
     ],
+    "currency": "HUF",
     "nativeName": "Magyarország",
     "nativeFullName": "Magyarország",
     "name": "Hungary",
@@ -1086,6 +1161,7 @@
     "languages": [
       "is"
     ],
+    "currency": "ISK",
     "nativeName": "Ísland",
     "nativeFullName": "Ísland",
     "name": "Iceland",
@@ -1101,6 +1177,7 @@
       "hi",
       "en"
     ],
+    "currency": "INR",
     "nativeName": "भारत",
     "nativeFullName": "भारत गणराज्य",
     "name": "India",
@@ -1115,6 +1192,7 @@
     "languages": [
       "id"
     ],
+    "currency": "IDR",
     "nativeName": "Indonesia",
     "nativeFullName": "Republik Indonesia",
     "name": "Indonesia",
@@ -1129,6 +1207,7 @@
     "languages": [
       "fa"
     ],
+    "currency": "IRR",
     "nativeName": "ایران",
     "nativeFullName": "جمهوری اسلامی ایران",
     "name": "Iran",
@@ -1144,6 +1223,7 @@
       "ar",
       "ku"
     ],
+    "currency": "IQD",
     "nativeName": "العراق",
     "nativeFullName": "جمهورية العراق",
     "name": "Iraq",
@@ -1159,6 +1239,7 @@
       "ga",
       "en"
     ],
+    "currency": "EUR",
     "nativeName": "Éire",
     "nativeFullName": "Poblacht na hÉireann",
     "name": "Ireland",
@@ -1174,6 +1255,7 @@
       "he",
       "ar"
     ],
+    "currency": "ILS",
     "nativeName": "ישראל",
     "nativeFullName": "מדינת ישראל",
     "name": "Israel",
@@ -1188,6 +1270,7 @@
     "languages": [
       "it"
     ],
+    "currency": "EUR",
     "nativeName": "Italia",
     "nativeFullName": "Repubblica italiana",
     "name": "Italy",
@@ -1202,6 +1285,7 @@
     "languages": [
       "en"
     ],
+    "currency": "JMD",
     "nativeName": "Jamaica",
     "nativeFullName": "Jamaica",
     "name": "Jamaica",
@@ -1216,6 +1300,7 @@
     "languages": [
       "ja"
     ],
+    "currency": "JPY",
     "nativeName": "日本",
     "nativeFullName": "日本",
     "name": "Japan",
@@ -1230,6 +1315,7 @@
     "languages": [
       "ar"
     ],
+    "currency": "JOD",
     "nativeName": "الأردن",
     "nativeFullName": "المملكة الأردنية الهاشمية",
     "name": "Jordan",
@@ -1245,6 +1331,7 @@
       "kk",
       "ru"
     ],
+    "currency": "KZT",
     "nativeName": "Қазақстан",
     "nativeFullName": "Қазақстан Республикасы",
     "name": "Kazakhstan",
@@ -1260,6 +1347,7 @@
       "sw",
       "en"
     ],
+    "currency": "KES",
     "nativeName": "Kenya",
     "nativeFullName": "Republic of Kenya",
     "name": "Kenya",
@@ -1274,6 +1362,7 @@
     "languages": [
       "en"
     ],
+    "currency": "AUD",
     "nativeName": "Kiribati",
     "nativeFullName": "Independent and Sovereign Republic of Kiribati",
     "name": "Kiribati",
@@ -1288,6 +1377,7 @@
     "languages": [
       "ko"
     ],
+    "currency": "KPW",
     "nativeName": "조선",
     "nativeFullName": "조선민주주의인민공화국",
     "name": "North Korea",
@@ -1302,6 +1392,7 @@
     "languages": [
       "ko"
     ],
+    "currency": "KRW",
     "nativeName": "한국",
     "nativeFullName": "대한민국",
     "name": "South Korea",
@@ -1316,6 +1407,7 @@
     "languages": [
       "ar"
     ],
+    "currency": "KWD",
     "nativeName": "الكويت",
     "nativeFullName": "دولة الكويت",
     "name": "Kuwait",
@@ -1331,6 +1423,7 @@
       "ky",
       "ru"
     ],
+    "currency": "KGS",
     "nativeName": "Кыргызстан",
     "nativeFullName": "Кыргыз Республикасы",
     "name": "Kyrgyzstan",
@@ -1345,6 +1438,7 @@
     "languages": [
       "lo"
     ],
+    "currency": "LAK",
     "nativeName": "ສປປລາວ",
     "nativeFullName": "ສາທາລະນະ ຊາທິປະໄຕ ຄົນລາວ ຂອງ",
     "name": "Laos",
@@ -1359,6 +1453,7 @@
     "languages": [
       "lv"
     ],
+    "currency": "EUR",
     "nativeName": "Latvija",
     "nativeFullName": "Latvijas Republikas",
     "name": "Latvia",
@@ -1374,6 +1469,7 @@
       "ar",
       "fr"
     ],
+    "currency": "LBP",
     "nativeName": "لبنان",
     "nativeFullName": "الجمهورية اللبنانية",
     "name": "Lebanon",
@@ -1389,6 +1485,7 @@
       "en",
       "st"
     ],
+    "currency": "LSL",
     "nativeName": "Lesotho",
     "nativeFullName": "Kingdom of Lesotho",
     "name": "Lesotho",
@@ -1403,6 +1500,7 @@
     "languages": [
       "en"
     ],
+    "currency": "LRD",
     "nativeName": "Liberia",
     "nativeFullName": "Republic of Liberia",
     "name": "Liberia",
@@ -1417,6 +1515,7 @@
     "languages": [
       "ar"
     ],
+    "currency": "LYD",
     "nativeName": "ليبيا",
     "nativeFullName": "الدولة ليبيا",
     "name": "Libya",
@@ -1431,6 +1530,7 @@
     "languages": [
       "de"
     ],
+    "currency": "CHF",
     "nativeName": "Liechtenstein",
     "nativeFullName": "Fürstentum Liechtenstein",
     "name": "Liechtenstein",
@@ -1445,6 +1545,7 @@
     "languages": [
       "lt"
     ],
+    "currency": "EUR",
     "nativeName": "Lietuva",
     "nativeFullName": "Lietuvos Respublikos",
     "name": "Lithuania",
@@ -1461,6 +1562,7 @@
       "fr",
       "de"
     ],
+    "currency": "EUR",
     "nativeName": "Lëtzebuerg",
     "nativeFullName": "Groussherzogtum Lëtzebuerg",
     "name": "Luxembourg",
@@ -1476,6 +1578,7 @@
       "mg",
       "fr"
     ],
+    "currency": "MGA",
     "nativeName": "Madagasikara",
     "nativeFullName": "Repoblikan'i Madagasikara",
     "name": "Madagascar",
@@ -1491,6 +1594,7 @@
       "en",
       "ny"
     ],
+    "currency": "MWK",
     "nativeName": "Malawi",
     "nativeFullName": "Republic of Malawi",
     "name": "Malawi",
@@ -1505,6 +1609,7 @@
     "languages": [
       "ms"
     ],
+    "currency": "MYR",
     "nativeName": "مليسيا",
     "nativeFullName": "مليسيا",
     "name": "Malaysia",
@@ -1519,6 +1624,7 @@
     "languages": [
       "dv"
     ],
+    "currency": "MVR",
     "nativeName": "ދިވެހިރާއްޖޭގެ",
     "nativeFullName": "ދިވެހިރާއްޖޭގެ ޖުމްހޫރިއްޔާ",
     "name": "Maldives",
@@ -1533,6 +1639,7 @@
     "languages": [
       "fr"
     ],
+    "currency": "XOF",
     "nativeName": "Mali",
     "nativeFullName": "République du Mali",
     "name": "Mali",
@@ -1548,6 +1655,7 @@
       "mt",
       "en"
     ],
+    "currency": "EUR",
     "nativeName": "Malta",
     "nativeFullName": "Repubblika ta ' Malta",
     "name": "Malta",
@@ -1563,6 +1671,7 @@
       "en",
       "mh"
     ],
+    "currency": "USD",
     "nativeName": "Marshall Islands",
     "nativeFullName": "Republic of the Marshall Islands",
     "name": "Marshall Islands",
@@ -1577,6 +1686,7 @@
     "languages": [
       "ar"
     ],
+    "currency": "MRU",
     "nativeName": "موريتانيا",
     "nativeFullName": "الجمهورية الإسلامية الموريتانية",
     "name": "Mauritania",
@@ -1592,6 +1702,7 @@
       "en",
       "fr"
     ],
+    "currency": "MUR",
     "nativeName": "Mauritius",
     "nativeFullName": "Republic of Mauritius",
     "name": "Mauritius",
@@ -1606,6 +1717,7 @@
     "languages": [
       "es"
     ],
+    "currency": "MXN",
     "nativeName": "México",
     "nativeFullName": "Estados Unidos Mexicanos",
     "name": "Mexico",
@@ -1620,6 +1732,7 @@
     "languages": [
       "en"
     ],
+    "currency": "USD",
     "nativeName": "Micronesia",
     "nativeFullName": "Federated States of Micronesia",
     "name": "Micronesia",
@@ -1634,6 +1747,7 @@
     "languages": [
       "ro"
     ],
+    "currency": "MDL",
     "nativeName": "Moldova",
     "nativeFullName": "Republica Moldova",
     "name": "Moldova",
@@ -1648,6 +1762,7 @@
     "languages": [
       "fr"
     ],
+    "currency": "EUR",
     "nativeName": "Monaco",
     "nativeFullName": "Principauté de Monaco",
     "name": "Monaco",
@@ -1662,6 +1777,7 @@
     "languages": [
       "mn"
     ],
+    "currency": "MNT",
     "nativeName": "Монгол улс",
     "nativeFullName": "Монгол улс",
     "name": "Mongolia",
@@ -1679,6 +1795,7 @@
       "bs",
       "sq"
     ],
+    "currency": "EUR",
     "nativeName": "Црна Гора",
     "nativeFullName": "Црна Гора",
     "name": "Montenegro",
@@ -1694,6 +1811,7 @@
       "ar",
       "ber"
     ],
+    "currency": "MAD",
     "nativeName": "المغرب",
     "nativeFullName": "المملكة المغربية",
     "name": "Morocco",
@@ -1708,6 +1826,7 @@
     "languages": [
       "pt"
     ],
+    "currency": "MZN",
     "nativeName": "Moçambique",
     "nativeFullName": "República de Moçambique",
     "name": "Mozambique",
@@ -1722,6 +1841,7 @@
     "languages": [
       "my"
     ],
+    "currency": "MMK",
     "nativeName": "မြန်မာ",
     "nativeFullName": "ပြည်ထောင်စု သမ္မတ မြန်မာနိုင်ငံတော်",
     "name": "Myanmar",
@@ -1737,6 +1857,7 @@
       "en",
       "af"
     ],
+    "currency": "NAD",
     "nativeName": "Namibia",
     "nativeFullName": "Republic of Namibia",
     "name": "Namibia",
@@ -1752,6 +1873,7 @@
       "na",
       "en"
     ],
+    "currency": "AUD",
     "nativeName": "Nauru",
     "nativeFullName": "Republic of Nauru",
     "name": "Nauru",
@@ -1766,6 +1888,7 @@
     "languages": [
       "ne"
     ],
+    "currency": "NPR",
     "nativeName": "नेपाल",
     "nativeFullName": "नेपाल संघीय लोकतान्त्रिक गणतन्त्र",
     "name": "Nepal",
@@ -1780,6 +1903,7 @@
     "languages": [
       "nl"
     ],
+    "currency": "EUR",
     "nativeName": "Nederland",
     "nativeFullName": "Koninkrijk der Nederlanden",
     "name": "Netherlands",
@@ -1795,6 +1919,7 @@
       "en",
       "mi"
     ],
+    "currency": "NZD",
     "nativeName": "New Zealand",
     "nativeFullName": "New Zealand",
     "name": "New Zealand",
@@ -1809,6 +1934,7 @@
     "languages": [
       "es"
     ],
+    "currency": "NIO",
     "nativeName": "Nicaragua",
     "nativeFullName": "República de Nicaragua",
     "name": "Nicaragua",
@@ -1823,6 +1949,7 @@
     "languages": [
       "fr"
     ],
+    "currency": "XOF",
     "nativeName": "Niger",
     "nativeFullName": "République du Niger",
     "name": "Niger",
@@ -1837,6 +1964,7 @@
     "languages": [
       "en"
     ],
+    "currency": "NGN",
     "nativeName": "Nigeria",
     "nativeFullName": "Federal Republic of Nigeria",
     "name": "Nigeria",
@@ -1852,6 +1980,7 @@
       "mk",
       "sq"
     ],
+    "currency": "MKD",
     "nativeName": "Македонија",
     "nativeFullName": "Република Северна Македонија",
     "name": "North Macedonia",
@@ -1867,6 +1996,7 @@
       "nb",
       "nn"
     ],
+    "currency": "NOK",
     "nativeName": "Norge",
     "nativeFullName": "Kongeriket Norge",
     "name": "Norway",
@@ -1881,6 +2011,7 @@
     "languages": [
       "ar"
     ],
+    "currency": "OMR",
     "nativeName": "عمان",
     "nativeFullName": "سلطنة عمان",
     "name": "Oman",
@@ -1896,6 +2027,7 @@
       "ur",
       "en"
     ],
+    "currency": "PKR",
     "nativeName": "پاكستان",
     "nativeFullName": "اسلامی جمہوریۂ پاكستان",
     "name": "Pakistan",
@@ -1910,6 +2042,7 @@
     "languages": [
       "en"
     ],
+    "currency": "USD",
     "nativeName": "Palau",
     "nativeFullName": "Republic of Palau",
     "name": "Palau",
@@ -1924,6 +2057,7 @@
     "languages": [
       "es"
     ],
+    "currency": "PAB",
     "nativeName": "Panamá",
     "nativeFullName": "República de Panamá",
     "name": "Panama",
@@ -1940,6 +2074,7 @@
       "tpi",
       "ho"
     ],
+    "currency": "PGK",
     "nativeName": "Papua New Guinea",
     "nativeFullName": "Independent State of Papua New Guinea",
     "name": "Papua New Guinea",
@@ -1955,6 +2090,7 @@
       "es",
       "gn"
     ],
+    "currency": "PYG",
     "nativeName": "Paraguay",
     "nativeFullName": "República de Paraguay",
     "name": "Paraguay",
@@ -1969,6 +2105,7 @@
     "languages": [
       "es"
     ],
+    "currency": "PEN",
     "nativeName": "Perú",
     "nativeFullName": "República del Perú",
     "name": "Peru",
@@ -1984,6 +2121,7 @@
       "en",
       "tl"
     ],
+    "currency": "PHP",
     "nativeName": "Philippines",
     "nativeFullName": "Republic of the Philippines",
     "name": "Philippines",
@@ -1998,6 +2136,7 @@
     "languages": [
       "pl"
     ],
+    "currency": "PLN",
     "nativeName": "Polska",
     "nativeFullName": "Rzeczpospolita Polska",
     "name": "Poland",
@@ -2012,6 +2151,7 @@
     "languages": [
       "pt"
     ],
+    "currency": "EUR",
     "nativeName": "Portugal",
     "nativeFullName": "República Portuguesa",
     "name": "Portugal",
@@ -2026,6 +2166,7 @@
     "languages": [
       "ar"
     ],
+    "currency": "QAR",
     "nativeName": "قطر",
     "nativeFullName": "دولة قطر",
     "name": "Qatar",
@@ -2040,6 +2181,7 @@
     "languages": [
       "ro"
     ],
+    "currency": "RON",
     "nativeName": "România",
     "nativeFullName": "România",
     "name": "Romania",
@@ -2054,6 +2196,7 @@
     "languages": [
       "ru"
     ],
+    "currency": "RUB",
     "nativeName": "Россия",
     "nativeFullName": "Российская Федерация",
     "name": "Russia",
@@ -2070,6 +2213,7 @@
       "en",
       "fr"
     ],
+    "currency": "RWF",
     "nativeName": "Rwanda",
     "nativeFullName": "Repubulika y'u Rwanda",
     "name": "Rwanda",
@@ -2084,6 +2228,7 @@
     "languages": [
       "en"
     ],
+    "currency": "XCD",
     "nativeName": "Saint Kitts and Nevis",
     "nativeFullName": "Federation of Saint Christopher and Nevis",
     "name": "Saint Kitts and Nevis",
@@ -2098,6 +2243,7 @@
     "languages": [
       "en"
     ],
+    "currency": "XCD",
     "nativeName": "Saint Lucia",
     "nativeFullName": "Saint Lucia",
     "name": "Saint Lucia",
@@ -2112,6 +2258,7 @@
     "languages": [
       "en"
     ],
+    "currency": "XCD",
     "nativeName": "Saint Vincent and the Grenadines",
     "nativeFullName": "Saint Vincent and the Grenadines",
     "name": "Saint Vincent and the Grenadines",
@@ -2127,6 +2274,7 @@
       "sm",
       "en"
     ],
+    "currency": "WST",
     "nativeName": "Sāmoa",
     "nativeFullName": "Malo Saʻoloto Tutoʻatasi o Sāmoa",
     "name": "Samoa",
@@ -2141,6 +2289,7 @@
     "languages": [
       "it"
     ],
+    "currency": "EUR",
     "nativeName": "San Marino",
     "nativeFullName": "Repubblica di San Marino",
     "name": "San Marino",
@@ -2155,6 +2304,7 @@
     "languages": [
       "pt"
     ],
+    "currency": "STN",
     "nativeName": "São Tomé e Príncipe",
     "nativeFullName": "República Democrática do São Tomé e Príncipe",
     "name": "São Tomé and Príncipe",
@@ -2169,6 +2319,7 @@
     "languages": [
       "ar"
     ],
+    "currency": "SAR",
     "nativeName": "العربية السعودية",
     "nativeFullName": "المملكة العربية السعودية",
     "name": "Saudi Arabia",
@@ -2183,6 +2334,7 @@
     "languages": [
       "fr"
     ],
+    "currency": "XOF",
     "nativeName": "Sénégal",
     "nativeFullName": "République du Sénégal",
     "name": "Senegal",
@@ -2197,6 +2349,7 @@
     "languages": [
       "sr"
     ],
+    "currency": "RSD",
     "nativeName": "Србија",
     "nativeFullName": "Република Србија",
     "name": "Serbia",
@@ -2212,6 +2365,7 @@
       "fr",
       "en"
     ],
+    "currency": "SCR",
     "nativeName": "Seychelles",
     "nativeFullName": "République des Seychelles",
     "name": "Seychelles",
@@ -2226,6 +2380,7 @@
     "languages": [
       "en"
     ],
+    "currency": "SLL",
     "nativeName": "Sierra Leone",
     "nativeFullName": "Republic of Sierra Leone",
     "name": "Sierra Leone",
@@ -2243,6 +2398,7 @@
       "zh",
       "ta"
     ],
+    "currency": "SGD",
     "nativeName": "Singapore",
     "nativeFullName": "Republic of Singapore",
     "name": "Singapore",
@@ -2257,6 +2413,7 @@
     "languages": [
       "sk"
     ],
+    "currency": "EUR",
     "nativeName": "Slovensko",
     "nativeFullName": "Slovenská republika",
     "name": "Slovakia",
@@ -2271,6 +2428,7 @@
     "languages": [
       "sl"
     ],
+    "currency": "EUR",
     "nativeName": "Slovenija",
     "nativeFullName": "Republika Slovenija",
     "name": "Slovenia",
@@ -2285,6 +2443,7 @@
     "languages": [
       "en"
     ],
+    "currency": "SBD",
     "nativeName": "Solomon Islands",
     "nativeFullName": "Solomon Islands",
     "name": "Solomon Islands",
@@ -2300,6 +2459,7 @@
       "so",
       "ar"
     ],
+    "currency": "SOS",
     "nativeName": "Soomaaliya",
     "nativeFullName": "Jamhuuriyadda Federaalka Soomaaliya",
     "name": "Somalia",
@@ -2324,6 +2484,7 @@
       "nr",
       "nso"
     ],
+    "currency": "ZAR",
     "nativeName": "South Africa",
     "nativeFullName": "Republiek van Suid-Afrika",
     "name": "South Africa",
@@ -2338,6 +2499,7 @@
     "languages": [
       "en"
     ],
+    "currency": "SSP",
     "nativeName": "South Sudan",
     "nativeFullName": "Republic of South Sudan",
     "name": "South Sudan",
@@ -2352,6 +2514,7 @@
     "languages": [
       "es"
     ],
+    "currency": "EUR",
     "nativeName": "España",
     "nativeFullName": "Reino de España",
     "name": "Spain",
@@ -2367,6 +2530,7 @@
       "si",
       "ta"
     ],
+    "currency": "LKR",
     "nativeName": "ශ්‍රී ලංකාව",
     "nativeFullName": "ශ්‍රී ලංකා ප්‍රජාතාන්ත්‍රික සමාජවාදී ජනරජය",
     "name": "Sri Lanka",
@@ -2382,6 +2546,7 @@
       "ar",
       "en"
     ],
+    "currency": "SDG",
     "nativeName": "السودان",
     "nativeFullName": "جمهورية السودان",
     "name": "Sudan",
@@ -2396,6 +2561,7 @@
     "languages": [
       "nl"
     ],
+    "currency": "SRD",
     "nativeName": "Suriname",
     "nativeFullName": "Republiek Suriname",
     "name": "Suriname",
@@ -2410,6 +2576,7 @@
     "languages": [
       "sv"
     ],
+    "currency": "SEK",
     "nativeName": "Sverige",
     "nativeFullName": "Konungariket Sverige",
     "name": "Sweden",
@@ -2427,6 +2594,7 @@
       "it",
       "rm"
     ],
+    "currency": "CHF",
     "nativeName": "Suisse",
     "nativeFullName": "Confédération suisse",
     "name": "Switzerland",
@@ -2441,6 +2609,7 @@
     "languages": [
       "ar"
     ],
+    "currency": "SYP",
     "nativeName": "سوريا",
     "nativeFullName": "الجمهورية العربية السورية",
     "name": "Syria",
@@ -2456,6 +2625,7 @@
       "tg",
       "ru"
     ],
+    "currency": "TJS",
     "nativeName": "Тоҷикистон",
     "nativeFullName": "Ҷумҳурии Тоҷикистон",
     "name": "Tajikistan",
@@ -2471,6 +2641,7 @@
       "sw",
       "en"
     ],
+    "currency": "TZS",
     "nativeName": "Tanzania",
     "nativeFullName": "Jamhuri ya Muungano wa Tanzania",
     "name": "Tanzania",
@@ -2485,6 +2656,7 @@
     "languages": [
       "th"
     ],
+    "currency": "THB",
     "nativeName": "ประเทศไทย",
     "nativeFullName": "ราชอาณาจักรไทย",
     "name": "Thailand",
@@ -2500,6 +2672,7 @@
       "pt",
       "tet"
     ],
+    "currency": "USD",
     "nativeName": "Timor-Leste",
     "nativeFullName": "República Democrática de Timor-Leste",
     "name": "Timor-Leste",
@@ -2514,6 +2687,7 @@
     "languages": [
       "fr"
     ],
+    "currency": "XOF",
     "nativeName": "Togo",
     "nativeFullName": "République togolaise",
     "name": "Togo",
@@ -2529,6 +2703,7 @@
       "en",
       "to"
     ],
+    "currency": "TOP",
     "nativeName": "Tonga",
     "nativeFullName": "Kingdom of Tonga",
     "name": "Tonga",
@@ -2543,6 +2718,7 @@
     "languages": [
       "en"
     ],
+    "currency": "TTD",
     "nativeName": "Trinidad and Tobago",
     "nativeFullName": "Republic of Trinidad and Tobago",
     "name": "Trinidad and Tobago",
@@ -2558,6 +2734,7 @@
       "ar",
       "fr"
     ],
+    "currency": "TND",
     "nativeName": "تونس",
     "nativeFullName": "الجمهورية التونسية",
     "name": "Tunisia",
@@ -2572,6 +2749,7 @@
     "languages": [
       "tr"
     ],
+    "currency": "TRY",
     "nativeName": "Türkiye",
     "nativeFullName": "Türkiye Cumhuriyeti",
     "name": "Turkey",
@@ -2586,6 +2764,7 @@
     "languages": [
       "tk"
     ],
+    "currency": "TMT",
     "nativeName": "Türkmenistan",
     "nativeFullName": "Türkmenistan",
     "name": "Turkmenistan",
@@ -2600,6 +2779,7 @@
     "languages": [
       "en"
     ],
+    "currency": "AUD",
     "nativeName": "Tuvalu",
     "nativeFullName": "Tuvalu",
     "name": "Tuvalu",
@@ -2615,6 +2795,7 @@
       "en",
       "sw"
     ],
+    "currency": "UGX",
     "nativeName": "Uganda",
     "nativeFullName": "Republic of Uganda",
     "name": "Uganda",
@@ -2629,6 +2810,7 @@
     "languages": [
       "uk"
     ],
+    "currency": "UAH",
     "nativeName": "Україна",
     "nativeFullName": "Україна",
     "name": "Ukraine",
@@ -2643,6 +2825,7 @@
     "languages": [
       "ar"
     ],
+    "currency": "AED",
     "nativeName": "دولة الإمارات العربية المتحدة",
     "nativeFullName": "الإمارات العربية المتحدة",
     "name": "United Arab Emirates",
@@ -2657,6 +2840,7 @@
     "languages": [
       "en"
     ],
+    "currency": "GBP",
     "nativeName": "United Kingdom",
     "nativeFullName": "United Kingdom of Great Britain and Northern Ireland",
     "name": "United Kingdom",
@@ -2671,6 +2855,7 @@
     "languages": [
       "en"
     ],
+    "currency": "USD",
     "nativeName": "United States",
     "nativeFullName": "United States of America",
     "name": "United States",
@@ -2685,6 +2870,7 @@
     "languages": [
       "es"
     ],
+    "currency": "UYU",
     "nativeName": "Uruguay",
     "nativeFullName": "República Oriental del Uruguay",
     "name": "Uruguay",
@@ -2699,6 +2885,7 @@
     "languages": [
       "uz"
     ],
+    "currency": "UZS",
     "nativeName": "O‘zbekiston",
     "nativeFullName": "O'zbekiston Respublikasi",
     "name": "Uzbekistan",
@@ -2715,6 +2902,7 @@
       "en",
       "fr"
     ],
+    "currency": "VUV",
     "nativeName": "Vanuatu",
     "nativeFullName": "Ripablik blong Vanuatu",
     "name": "Vanuatu",
@@ -2729,6 +2917,7 @@
     "languages": [
       "es"
     ],
+    "currency": "VES",
     "nativeName": "Venezuela",
     "nativeFullName": "República Bolivariana de Venezuela",
     "name": "Venezuela",
@@ -2743,6 +2932,7 @@
     "languages": [
       "vi"
     ],
+    "currency": "VND",
     "nativeName": "Việt Nam",
     "nativeFullName": "Cộng hòa xã hội chủ nghĩa Việt Nam",
     "name": "Vietnam",
@@ -2757,6 +2947,7 @@
     "languages": [
       "ar"
     ],
+    "currency": "YER",
     "nativeName": "اليَمَن",
     "nativeFullName": "الجمهورية اليمنية",
     "name": "Yemen",
@@ -2771,6 +2962,7 @@
     "languages": [
       "en"
     ],
+    "currency": "ZMW",
     "nativeName": "Zambia",
     "nativeFullName": "Republic of Zambia",
     "name": "Zambia",
@@ -2787,6 +2979,7 @@
       "sn",
       "nd"
     ],
+    "currency": "USD",
     "nativeName": "Zimbabwe",
     "nativeFullName": "Republic of Zimbabwe",
     "name": "Zimbabwe",
@@ -2802,6 +2995,7 @@
       "zh",
       "en"
     ],
+    "currency": "HKD",
     "nativeName": "香港",
     "nativeFullName": "中华人民共和国香港特别行政区",
     "name": "Hong Kong",
@@ -2817,6 +3011,7 @@
       "zh",
       "pt"
     ],
+    "currency": "MOP",
     "nativeName": "澳门",
     "nativeFullName": "中华人民共和国澳门特别行政区",
     "name": "Macao",
@@ -2831,6 +3026,7 @@
     "languages": [
       "zh"
     ],
+    "currency": "TWD",
     "nativeName": "台灣",
     "nativeFullName": "中華民國",
     "name": "Taiwan",
@@ -2845,6 +3041,7 @@
     "languages": [
       "ar"
     ],
+    "currency": "ILS",
     "nativeName": "فلسطين",
     "nativeFullName": "دولة فلسطين",
     "name": "Palestine",
@@ -2860,6 +3057,7 @@
       "sq",
       "sr"
     ],
+    "currency": "EUR",
     "nativeName": "Kosova",
     "nativeFullName": "Republika e Kosovës",
     "name": "Kosovo",
@@ -2875,6 +3073,7 @@
       "it",
       "la"
     ],
+    "currency": "EUR",
     "nativeName": "Vaticano",
     "nativeFullName": "Stato della Città del Vaticano",
     "name": "Vatican City",
@@ -2890,6 +3089,7 @@
       "es",
       "en"
     ],
+    "currency": "USD",
     "nativeName": "Puerto Rico",
     "nativeFullName": "Estado Libre Asociado de Puerto Rico",
     "name": "Puerto Rico",
@@ -2904,6 +3104,7 @@
     "languages": [
       "en"
     ],
+    "currency": "USD",
     "nativeName": "Guam",
     "nativeFullName": "Guam",
     "name": "Guam",
@@ -2919,6 +3120,7 @@
       "kl",
       "da"
     ],
+    "currency": "DKK",
     "nativeName": "Kalaallit Nunaat",
     "nativeFullName": "Kalaallit Nunaat",
     "name": "Greenland",
@@ -2934,6 +3136,7 @@
       "fo",
       "da"
     ],
+    "currency": "DKK",
     "nativeName": "Føroyar",
     "nativeFullName": "Føroyar",
     "name": "Faroe Islands",
@@ -2948,6 +3151,7 @@
     "languages": [
       "fr"
     ],
+    "currency": "XPF",
     "nativeName": "Nouvelle-Calédonie",
     "nativeFullName": "Nouvelle-Calédonie",
     "name": "New Caledonia",
@@ -2962,6 +3166,7 @@
     "languages": [
       "fr"
     ],
+    "currency": "XPF",
     "nativeName": "Polynésie française",
     "nativeFullName": "Polynésie française",
     "name": "French Polynesia",
@@ -2976,6 +3181,7 @@
     "languages": [
       "en"
     ],
+    "currency": "BMD",
     "nativeName": "Bermuda",
     "nativeFullName": "Bermuda",
     "name": "Bermuda",
@@ -2990,6 +3196,7 @@
     "languages": [
       "en"
     ],
+    "currency": "KYD",
     "nativeName": "Cayman Islands",
     "nativeFullName": "Cayman Islands",
     "name": "Cayman Islands",
@@ -3004,6 +3211,7 @@
     "languages": [
       "en"
     ],
+    "currency": "USD",
     "nativeName": "United States Virgin Islands",
     "nativeFullName": "Virgin Islands of the United States",
     "name": "U.S. Virgin Islands",
@@ -3019,6 +3227,7 @@
       "nl",
       "en"
     ],
+    "currency": "ANG",
     "nativeName": "Curaçao",
     "nativeFullName": "Land Curaçao",
     "name": "Curaçao",
@@ -3034,6 +3243,7 @@
       "nl",
       "pap"
     ],
+    "currency": "AWG",
     "nativeName": "Aruba",
     "nativeFullName": "Aruba",
     "name": "Aruba",
@@ -3048,6 +3258,7 @@
     "languages": [
       "en"
     ],
+    "currency": "GIP",
     "nativeName": "Gibraltar",
     "nativeFullName": "Gibraltar",
     "name": "Gibraltar",
@@ -3063,6 +3274,7 @@
       "en",
       "fr"
     ],
+    "currency": "GBP",
     "nativeName": "Jersey",
     "nativeFullName": "Bailiwick of Jersey",
     "name": "Jersey",
@@ -3078,6 +3290,7 @@
       "en",
       "fr"
     ],
+    "currency": "GBP",
     "nativeName": "Guernsey",
     "nativeFullName": "Bailiwick of Guernsey",
     "name": "Guernsey",
@@ -3092,6 +3305,7 @@
     "languages": [
       "en"
     ],
+    "currency": "GBP",
     "nativeName": "Isle of Man",
     "nativeFullName": "Isle of Man",
     "name": "Isle of Man",
@@ -3106,6 +3320,7 @@
     "languages": [
       "en"
     ],
+    "currency": "USD",
     "nativeName": "Turks and Caicos Islands",
     "nativeFullName": "Turks and Caicos Islands",
     "name": "Turks and Caicos Islands",
@@ -3120,6 +3335,7 @@
     "languages": [
       "en"
     ],
+    "currency": "USD",
     "nativeName": "British Virgin Islands",
     "nativeFullName": "Virgin Islands",
     "name": "British Virgin Islands",
@@ -3134,6 +3350,7 @@
     "languages": [
       "en"
     ],
+    "currency": "XCD",
     "nativeName": "Anguilla",
     "nativeFullName": "Anguilla",
     "name": "Anguilla",
@@ -3148,6 +3365,7 @@
     "languages": [
       "en"
     ],
+    "currency": "XCD",
     "nativeName": "Montserrat",
     "nativeFullName": "Montserrat",
     "name": "Montserrat",
@@ -3162,6 +3380,7 @@
     "languages": [
       "en"
     ],
+    "currency": "SHP",
     "nativeName": "Saint Helena, Ascension and Tristan da Cunha",
     "nativeFullName": "Saint Helena, Ascension and Tristan da Cunha",
     "name": "Saint Helena",
@@ -3176,6 +3395,7 @@
     "languages": [
       "en"
     ],
+    "currency": "FKP",
     "nativeName": "Falkland Islands",
     "nativeFullName": "Falkland Islands",
     "name": "Falkland Islands",
@@ -3190,6 +3410,7 @@
     "languages": [
       "fr"
     ],
+    "currency": "EUR",
     "nativeName": "Guyane française",
     "nativeFullName": "Guyane",
     "name": "French Guiana",
@@ -3204,6 +3425,7 @@
     "languages": [
       "fr"
     ],
+    "currency": "EUR",
     "nativeName": "Guadeloupe",
     "nativeFullName": "Guadeloupe",
     "name": "Guadeloupe",
@@ -3218,6 +3440,7 @@
     "languages": [
       "fr"
     ],
+    "currency": "EUR",
     "nativeName": "Martinique",
     "nativeFullName": "Martinique",
     "name": "Martinique",
@@ -3232,6 +3455,7 @@
     "languages": [
       "fr"
     ],
+    "currency": "EUR",
     "nativeName": "La Réunion",
     "nativeFullName": "Ile de la Réunion",
     "name": "Réunion",
@@ -3246,6 +3470,7 @@
     "languages": [
       "fr"
     ],
+    "currency": "EUR",
     "nativeName": "Saint-Martin",
     "nativeFullName": "Saint-Martin",
     "name": "Saint Martin",
@@ -3260,6 +3485,7 @@
     "languages": [
       "fr"
     ],
+    "currency": "EUR",
     "nativeName": "Saint-Pierre-et-Miquelon",
     "nativeFullName": "Collectivité territoriale de Saint-Pierre-et-Miquelon",
     "name": "Saint Pierre and Miquelon",
@@ -3274,6 +3500,7 @@
     "languages": [
       "fr"
     ],
+    "currency": "XPF",
     "nativeName": "Wallis et Futuna",
     "nativeFullName": "Territoire des îles Wallis et Futuna",
     "name": "Wallis and Futuna",
@@ -3288,6 +3515,7 @@
     "languages": [
       "fr"
     ],
+    "currency": "EUR",
     "nativeName": "Mayotte",
     "nativeFullName": "Département de Mayotte",
     "name": "Mayotte",
@@ -3303,6 +3531,7 @@
       "en",
       "sm"
     ],
+    "currency": "USD",
     "nativeName": "American Samoa",
     "nativeFullName": "American Samoa",
     "name": "American Samoa",
@@ -3317,6 +3546,7 @@
     "languages": [
       "en"
     ],
+    "currency": "USD",
     "nativeName": "Northern Mariana Islands",
     "nativeFullName": "Commonwealth of the Northern Mariana Islands",
     "name": "Northern Mariana Islands",
@@ -3331,6 +3561,7 @@
     "languages": [
       "en"
     ],
+    "currency": "AUD",
     "nativeName": "Christmas Island",
     "nativeFullName": "Territory of Christmas Island",
     "name": "Christmas Island",
@@ -3345,6 +3576,7 @@
     "languages": [
       "en"
     ],
+    "currency": "AUD",
     "nativeName": "Cocos (Keeling) Islands",
     "nativeFullName": "Territory of the Cocos (Keeling) Islands",
     "name": "Cocos Islands",
@@ -3359,6 +3591,7 @@
     "languages": [
       "en"
     ],
+    "currency": "AUD",
     "nativeName": "Norfolk Island",
     "nativeFullName": "Territory of Norfolk Island",
     "name": "Norfolk Island",
@@ -3373,6 +3606,7 @@
     "languages": [
       "en"
     ],
+    "currency": "NZD",
     "nativeName": "Pitcairn Islands",
     "nativeFullName": "Pitcairn Group of Islands",
     "name": "Pitcairn Islands",
@@ -3388,6 +3622,7 @@
       "en",
       "tkl"
     ],
+    "currency": "NZD",
     "nativeName": "Tokelau",
     "nativeFullName": "Tokelau",
     "name": "Tokelau",
@@ -3403,6 +3638,7 @@
       "en",
       "niu"
     ],
+    "currency": "NZD",
     "nativeName": "Niue",
     "nativeFullName": "Niue",
     "name": "Niue",
@@ -3417,6 +3653,7 @@
     "languages": [
       "en"
     ],
+    "currency": "NZD",
     "nativeName": "Cook Islands",
     "nativeFullName": "Cook Islands",
     "name": "Cook Islands",
@@ -3431,6 +3668,7 @@
     "languages": [
       "ar"
     ],
+    "currency": "MAD",
     "nativeName": "Western Sahara",
     "nativeFullName": "Sahrawi Arab Democratic Republic",
     "name": "Western Sahara",
@@ -3445,6 +3683,7 @@
     "languages": [
       "sv"
     ],
+    "currency": "EUR",
     "nativeName": "Åland",
     "nativeFullName": "Landskapet Åland",
     "name": "Åland Islands",
@@ -3459,6 +3698,7 @@
     "languages": [
       "fr"
     ],
+    "currency": "EUR",
     "nativeName": "Saint-Barthélemy",
     "nativeFullName": "Collectivité de Saint-Barthélemy",
     "name": "Saint Barthélemy",
@@ -3473,6 +3713,7 @@
     "languages": [
       "en"
     ],
+    "currency": "USD",
     "nativeName": "British Indian Ocean Territory",
     "nativeFullName": "British Indian Ocean Territory",
     "name": "British Indian Ocean Territory",
@@ -3488,6 +3729,7 @@
       "nl",
       "en"
     ],
+    "currency": "ANG",
     "nativeName": "Sint Maarten",
     "nativeFullName": "Sint Maarten",
     "name": "Sint Maarten",
@@ -3502,6 +3744,7 @@
     "languages": [
       "nl"
     ],
+    "currency": "USD",
     "nativeName": "Caribisch Nederland",
     "nativeFullName": "Bonaire, Sint Eustatius en Saba",
     "name": "Caribbean Netherlands",
@@ -3516,6 +3759,7 @@
     "languages": [
       "fr"
     ],
+    "currency": "EUR",
     "nativeName": "Terres australes et antarctiques françaises",
     "nativeFullName": "Territoire des Terres australes et antarctiques françaises",
     "name": "French Southern Territories",
@@ -3530,6 +3774,7 @@
     "languages": [
       "en"
     ],
+    "currency": "GBP",
     "nativeName": "South Georgia",
     "nativeFullName": "South Georgia and the South Sandwich Islands",
     "name": "South Georgia",
@@ -3544,6 +3789,7 @@
     "languages": [
       "en"
     ],
+    "currency": "AUD",
     "nativeName": "Heard Island and McDonald Islands",
     "nativeFullName": "Heard Island and McDonald Islands",
     "name": "Heard Island and McDonald Islands",
@@ -3558,6 +3804,7 @@
     "languages": [
       "en"
     ],
+    "currency": "USD",
     "nativeName": "Antarctica",
     "nativeFullName": "Antarctica",
     "name": "Antarctica",
