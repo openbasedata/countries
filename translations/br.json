@@ -1,23 +1,23 @@
 {
   "AF": {
     "name": "Afghanistan",
-    "fullName": "Afghanistan"
+    "fullName": "Republik Islamek Afghanistan"
   },
   "AL": {
     "name": "Albania",
-    "fullName": "Albania"
+    "fullName": "Republik Albania"
   },
   "DZ": {
     "name": "Aljeria",
-    "fullName": "Aljeria"
+    "fullName": "Republik Aljerian Demokratel ha Poblel"
   },
   "AD": {
     "name": "Andorra",
-    "fullName": "Andorra"
+    "fullName": "Priñselezh Andorra"
   },
   "AO": {
     "name": "Angola",
-    "fullName": "Angola"
+    "fullName": "Republik Angola"
   },
   "AG": {
     "name": "Antigua ha Barbuda",
@@ -25,35 +25,35 @@
   },
   "AR": {
     "name": "Arc'hantina",
-    "fullName": "Arc'hantina"
+    "fullName": "Republik Arc'hantina"
   },
   "AM": {
     "name": "Armenia",
-    "fullName": "Armenia"
+    "fullName": "Republik Armenia"
   },
   "AU": {
     "name": "Aostralia",
-    "fullName": "Aostralia"
+    "fullName": "Kenglad Aostralia"
   },
   "AT": {
     "name": "Aostria",
-    "fullName": "Aostria"
+    "fullName": "Republik Aostria"
   },
   "AZ": {
     "name": "Azerbaidjan",
-    "fullName": "Azerbaidjan"
+    "fullName": "Republik Azerbaidjan"
   },
   "BS": {
     "name": "Bahamas",
-    "fullName": "Bahamas"
+    "fullName": "Kenglad ar Bahamas"
   },
   "BH": {
     "name": "Bahrein",
-    "fullName": "Bahrein"
+    "fullName": "Rouantelezh Bahrein"
   },
   "BD": {
     "name": "Bangladesh",
-    "fullName": "Bangladesh"
+    "fullName": "Republik pobl Bangladesh"
   },
   "BB": {
     "name": "Barbados",
@@ -61,11 +61,11 @@
   },
   "BY": {
     "name": "Belarus",
-    "fullName": "Belarus"
+    "fullName": "Republik Belarus"
   },
   "BE": {
     "name": "Belgia",
-    "fullName": "Belgia"
+    "fullName": "Rouantelezh Belgia"
   },
   "BZ": {
     "name": "Belize",
@@ -73,15 +73,15 @@
   },
   "BJ": {
     "name": "Benin",
-    "fullName": "Benin"
+    "fullName": "Republik Benin"
   },
   "BT": {
     "name": "Bhoutan",
-    "fullName": "Bhoutan"
+    "fullName": "Rouantelezh Bhoutan"
   },
   "BO": {
     "name": "Bolivia",
-    "fullName": "Bolivia"
+    "fullName": "Stad Liesvroadel Bolivia"
   },
   "BA": {
     "name": "Bosnia ha Herzegovina",
@@ -89,19 +89,19 @@
   },
   "BW": {
     "name": "Botswana",
-    "fullName": "Botswana"
+    "fullName": "Republik Botswana"
   },
   "BR": {
     "name": "Brazil",
-    "fullName": "Brazil"
+    "fullName": "Republik Kevreel Brazil"
   },
   "BN": {
     "name": "Brunei",
-    "fullName": "Brunei"
+    "fullName": "Brunei Darussalam"
   },
   "BG": {
     "name": "Bulgaria",
-    "fullName": "Bulgaria"
+    "fullName": "Republik Bulgaria"
   },
   "BF": {
     "name": "Burkina Faso",
@@ -109,19 +109,19 @@
   },
   "BI": {
     "name": "Burundi",
-    "fullName": "Burundi"
+    "fullName": "Republik Burundi"
   },
   "CV": {
     "name": "Kab Glas",
-    "fullName": "Kab Glas"
+    "fullName": "Republik Kab Glas"
   },
   "KH": {
     "name": "Kambodja",
-    "fullName": "Kambodja"
+    "fullName": "Rouantelezh Kambodja"
   },
   "CM": {
     "name": "Kameroun",
-    "fullName": "Kameroun"
+    "fullName": "Republik Kameroun"
   },
   "CA": {
     "name": "Kanada",
@@ -133,67 +133,67 @@
   },
   "TD": {
     "name": "Tchad",
-    "fullName": "Tchad"
+    "fullName": "Republik Tchad"
   },
   "CL": {
     "name": "Chile",
-    "fullName": "Chile"
+    "fullName": "Republik Chile"
   },
   "CN": {
     "name": "Sina",
-    "fullName": "Sina"
+    "fullName": "Republik Pobl Sina"
   },
   "CO": {
     "name": "Kolombia",
-    "fullName": "Kolombia"
+    "fullName": "Republik Kolombia"
   },
   "KM": {
     "name": "Komorez",
-    "fullName": "Komorez"
+    "fullName": "Unaniezh Komorez"
   },
   "CG": {
     "name": "Kongo-Brazzaville",
-    "fullName": "Kongo-Brazzaville"
+    "fullName": "Republik Kongo"
   },
   "CD": {
     "name": "Kongo-Kinshasa",
-    "fullName": "Kongo-Kinshasa"
+    "fullName": "Republik Demokratel Kongo"
   },
   "CR": {
     "name": "Costa Rica",
-    "fullName": "Costa Rica"
+    "fullName": "Republik Costa Rica"
   },
   "CI": {
     "name": "Aod an Olifant",
-    "fullName": "Aod an Olifant"
+    "fullName": "Republik Aod an Olifant"
   },
   "HR": {
     "name": "Kroatia",
-    "fullName": "Kroatia"
+    "fullName": "Republik Kroatia"
   },
   "CU": {
     "name": "Kuba",
-    "fullName": "Kuba"
+    "fullName": "Republik Kuba"
   },
   "CY": {
     "name": "Kiprenez",
-    "fullName": "Kiprenez"
+    "fullName": "Republik Chipr"
   },
   "CZ": {
     "name": "Tchekia",
-    "fullName": "Tchekia"
+    "fullName": "Republik tchek"
   },
   "DK": {
     "name": "Danmark",
-    "fullName": "Danmark"
+    "fullName": "Rouantelezh Danmark"
   },
   "DJ": {
     "name": "Djibouti",
-    "fullName": "Djibouti"
+    "fullName": "Republik Djibouti"
   },
   "DM": {
     "name": "Dominica",
-    "fullName": "Dominica"
+    "fullName": "Kenglad Dominika"
   },
   "DO": {
     "name": "Republik Dominikan",
@@ -201,55 +201,55 @@
   },
   "EC": {
     "name": "Ecuador",
-    "fullName": "Ecuador"
+    "fullName": "Republik Ecuador"
   },
   "EG": {
     "name": "Egipt",
-    "fullName": "Egipt"
+    "fullName": "Republik arab Egipt"
   },
   "SV": {
     "name": "El Salvador",
-    "fullName": "El Salvador"
+    "fullName": "Republik Salvador"
   },
   "GQ": {
     "name": "Ginea ar C'heheder",
-    "fullName": "Ginea ar C'heheder"
+    "fullName": "Republik Ginea ar C'heheder"
   },
   "ER": {
     "name": "Eritrea",
-    "fullName": "Eritrea"
+    "fullName": "Stad Eritrea"
   },
   "EE": {
     "name": "Estonia",
-    "fullName": "Estonia"
+    "fullName": "Republik Estonia"
   },
   "SZ": {
     "name": "Eswatini",
-    "fullName": "Eswatini"
+    "fullName": "Rouantelezh Eswatini"
   },
   "ET": {
     "name": "Etiopia",
-    "fullName": "Etiopia"
+    "fullName": "Republik Demokratel Kevredadel Etiopia"
   },
   "FJ": {
     "name": "Fidji",
-    "fullName": "Fidji"
+    "fullName": "Republik Fidji"
   },
   "FI": {
     "name": "Finland",
-    "fullName": "Finland"
+    "fullName": "Republik Finland"
   },
   "FR": {
     "name": "Frañs",
-    "fullName": "Frañs"
+    "fullName": "Republik Frañs"
   },
   "GA": {
     "name": "Gabon",
-    "fullName": "Gabon"
+    "fullName": "Republik Gabonat"
   },
   "GM": {
     "name": "Gambia",
-    "fullName": "Gambia"
+    "fullName": "Republik ar Gambia"
   },
   "GE": {
     "name": "Jorjia",
@@ -257,15 +257,15 @@
   },
   "DE": {
     "name": "Alamagn",
-    "fullName": "Alamagn"
+    "fullName": "Republik Kevreadel Alamagn"
   },
   "GH": {
     "name": "Ghana",
-    "fullName": "Ghana"
+    "fullName": "Republik Ghana"
   },
   "GR": {
     "name": "Gres",
-    "fullName": "Gres"
+    "fullName": "Republik Hellenek"
   },
   "GD": {
     "name": "Grenada",
@@ -273,27 +273,27 @@
   },
   "GT": {
     "name": "Guatemala",
-    "fullName": "Guatemala"
+    "fullName": "Republik Guatemala"
   },
   "GN": {
     "name": "Ginea",
-    "fullName": "Ginea"
+    "fullName": "Republik Ginea"
   },
   "GW": {
     "name": "Ginea-Bissau",
-    "fullName": "Ginea-Bissau"
+    "fullName": "Republik Ginea-Bissau"
   },
   "GY": {
     "name": "Guyana",
-    "fullName": "Guyana"
+    "fullName": "Republik Gwiana"
   },
   "HT": {
     "name": "Haiti",
-    "fullName": "Haiti"
+    "fullName": "Republik Haiti"
   },
   "HN": {
     "name": "Honduras",
-    "fullName": "Honduras"
+    "fullName": "Republik Honduras"
   },
   "HU": {
     "name": "Hungaria",
@@ -301,35 +301,35 @@
   },
   "IS": {
     "name": "Island",
-    "fullName": "Island"
+    "fullName": "Republik Island"
   },
   "IN": {
     "name": "India",
-    "fullName": "India"
+    "fullName": "Republik India"
   },
   "ID": {
     "name": "Indonezia",
-    "fullName": "Indonezia"
+    "fullName": "Republik Indonezia"
   },
   "IR": {
     "name": "Iran",
-    "fullName": "Iran"
+    "fullName": "Republik Islamek Iran"
   },
   "IQ": {
     "name": "Irak",
-    "fullName": "Irak"
+    "fullName": "Republik Irak"
   },
   "IE": {
     "name": "Iwerzhon",
-    "fullName": "Iwerzhon"
+    "fullName": "Republik Iwerzhon"
   },
   "IL": {
     "name": "Israel",
-    "fullName": "Israel"
+    "fullName": "Stad Israel"
   },
   "IT": {
     "name": "Italia",
-    "fullName": "Italia"
+    "fullName": "Republik Italia"
   },
   "JM": {
     "name": "Jamaika",
@@ -337,83 +337,83 @@
   },
   "JP": {
     "name": "Japan",
-    "fullName": "Japan"
+    "fullName": "Stad Japan"
   },
   "JO": {
     "name": "Jordania",
-    "fullName": "Jordania"
+    "fullName": "Rouantelezh hachemit Jordania"
   },
   "KZ": {
     "name": "Kazakstan",
-    "fullName": "Kazakstan"
+    "fullName": "Republik Kazakstan"
   },
   "KE": {
     "name": "Kenya",
-    "fullName": "Kenya"
+    "fullName": "Republik Kenya"
   },
   "KI": {
     "name": "Kiribati",
-    "fullName": "Kiribati"
+    "fullName": "Republik Kiribati"
   },
   "KP": {
     "name": "Korea an Norzh",
-    "fullName": "Korea an Norzh"
+    "fullName": "Republik Poblel ha Demokratel Korea"
   },
   "KR": {
     "name": "Korea ar Su",
-    "fullName": "Korea ar Su"
+    "fullName": "Korea, Republik"
   },
   "KW": {
     "name": "Koweit",
-    "fullName": "Koweit"
+    "fullName": "Stad Koweit"
   },
   "KG": {
     "name": "Kirgizstan",
-    "fullName": "Kirgizstan"
+    "fullName": "Republik Kirgiz"
   },
   "LA": {
     "name": "Laos",
-    "fullName": "Laos"
+    "fullName": "Lao, Republik Demokratel ar Bobl"
   },
   "LV": {
     "name": "Latvia",
-    "fullName": "Latvia"
+    "fullName": "Republik Latvia"
   },
   "LB": {
     "name": "Liban",
-    "fullName": "Liban"
+    "fullName": "Republik Liban"
   },
   "LS": {
     "name": "Lesotho",
-    "fullName": "Lesotho"
+    "fullName": "Rouantelezh Lesotho"
   },
   "LR": {
     "name": "Liberia",
-    "fullName": "Liberia"
+    "fullName": "Republik Liberia"
   },
   "LY": {
     "name": "Libia",
-    "fullName": "Libia"
+    "fullName": "Stad Libia"
   },
   "LI": {
     "name": "Liechtenstein",
-    "fullName": "Liechtenstein"
+    "fullName": "Priñselezh Liechtenstein"
   },
   "LT": {
     "name": "Lituania",
-    "fullName": "Lituania"
+    "fullName": "Republik Lituania"
   },
   "LU": {
     "name": "Luksembourg",
-    "fullName": "Luksembourg"
+    "fullName": "Dugelezh Veur Luksembourg"
   },
   "MG": {
     "name": "Madagaskar",
-    "fullName": "Madagaskar"
+    "fullName": "Republik Madagaskar"
   },
   "MW": {
     "name": "Malawi",
-    "fullName": "Malawi"
+    "fullName": "Republik Malawi"
   },
   "MY": {
     "name": "Malaysia",
@@ -421,43 +421,43 @@
   },
   "MV": {
     "name": "Maldivez",
-    "fullName": "Maldivez"
+    "fullName": "Republik Maldivez"
   },
   "ML": {
     "name": "Mali",
-    "fullName": "Mali"
+    "fullName": "Republik Mali"
   },
   "MT": {
     "name": "Malta",
-    "fullName": "Malta"
+    "fullName": "Republik Malta"
   },
   "MH": {
     "name": "Inizi Marshall",
-    "fullName": "Inizi Marshall"
+    "fullName": "Republik Inizi Marshall"
   },
   "MR": {
     "name": "Maouritania",
-    "fullName": "Maouritania"
+    "fullName": "Republik islamek Maouritania"
   },
   "MU": {
     "name": "Moris",
-    "fullName": "Moris"
+    "fullName": "Republik Moris"
   },
   "MX": {
     "name": "Mec'hiko",
-    "fullName": "Mec'hiko"
+    "fullName": "Stadoù-Unanet Mec'hiko"
   },
   "FM": {
     "name": "Mikronezia",
-    "fullName": "Mikronezia"
+    "fullName": "Mikronezia, Stadoù Kevreet"
   },
   "MD": {
     "name": "Moldova",
-    "fullName": "Moldova"
+    "fullName": "Republik Moldova"
   },
   "MC": {
     "name": "Monaco",
-    "fullName": "Monaco"
+    "fullName": "Priñselezh Monako"
   },
   "MN": {
     "name": "Mongolia",
@@ -469,31 +469,31 @@
   },
   "MA": {
     "name": "Maroko",
-    "fullName": "Maroko"
+    "fullName": "Rouantelezh Maroko"
   },
   "MZ": {
     "name": "Mozambik",
-    "fullName": "Mozambik"
+    "fullName": "Republik Mozambik"
   },
   "MM": {
     "name": "Myanmar",
-    "fullName": "Myanmar"
+    "fullName": "Republik Myanmar"
   },
   "NA": {
     "name": "Namibia",
-    "fullName": "Namibia"
+    "fullName": "Republik Namibia"
   },
   "NR": {
     "name": "Nauru",
-    "fullName": "Nauru"
+    "fullName": "Republik Nauru"
   },
   "NP": {
     "name": "Nepal",
-    "fullName": "Nepal"
+    "fullName": "Republik kevreadel demokratel Nepal"
   },
   "NL": {
     "name": "Izelvroioù",
-    "fullName": "Izelvroioù"
+    "fullName": "Rouantelezh an Izelvroioù"
   },
   "NZ": {
     "name": "Zeland-Nevez",
@@ -501,67 +501,67 @@
   },
   "NI": {
     "name": "Nicaragua",
-    "fullName": "Nicaragua"
+    "fullName": "Republik Nicaragua"
   },
   "NE": {
     "name": "Niger",
-    "fullName": "Niger"
+    "fullName": "Republik Niger"
   },
   "NG": {
     "name": "Nigeria",
-    "fullName": "Nigeria"
+    "fullName": "Republik Kevreadel Nigeria"
   },
   "MK": {
     "name": "Makedonia an Norzh",
-    "fullName": "Makedonia an Norzh"
+    "fullName": "Republik Makedonia an Norzh"
   },
   "NO": {
     "name": "Norvegia",
-    "fullName": "Norvegia"
+    "fullName": "Rouantelezh Norvegia"
   },
   "OM": {
     "name": "Oman",
-    "fullName": "Oman"
+    "fullName": "Sultanelezh Oman"
   },
   "PK": {
     "name": "Pakistan",
-    "fullName": "Pakistan"
+    "fullName": "Republik islamek Pakistan"
   },
   "PW": {
     "name": "Palau",
-    "fullName": "Palau"
+    "fullName": "Republik Palau"
   },
   "PA": {
     "name": "Panama",
-    "fullName": "Panama"
+    "fullName": "Republik Panama"
   },
   "PG": {
     "name": "Papoua-Ginea Nevez",
-    "fullName": "Papoua-Ginea Nevez"
+    "fullName": "Stad dizalc'h Papoua Ginea-Nevez"
   },
   "PY": {
     "name": "Paraguay",
-    "fullName": "Paraguay"
+    "fullName": "Republik Paraguay"
   },
   "PE": {
     "name": "Perou",
-    "fullName": "Perou"
+    "fullName": "Republik Perou"
   },
   "PH": {
     "name": "Filipinez",
-    "fullName": "Filipinez"
+    "fullName": "Republik Filipinez"
   },
   "PL": {
     "name": "Polonia",
-    "fullName": "Polonia"
+    "fullName": "Republik Polonia"
   },
   "PT": {
     "name": "Portugal",
-    "fullName": "Portugal"
+    "fullName": "Republik Portugalat"
   },
   "QA": {
     "name": "Katar",
-    "fullName": "Katar"
+    "fullName": "Stad Katar"
   },
   "RO": {
     "name": "Roumania",
@@ -569,15 +569,15 @@
   },
   "RU": {
     "name": "Rusia",
-    "fullName": "Rusia"
+    "fullName": "Rusia, Kevread"
   },
   "RW": {
     "name": "Rwanda",
-    "fullName": "Rwanda"
+    "fullName": "Republik Rwanda"
   },
   "KN": {
     "name": "Saint Kitts ha Nevis",
-    "fullName": "Saint Kitts ha Nevis"
+    "fullName": "Kevread Saint Kitts ha Nevis"
   },
   "LC": {
     "name": "Santez-Lusia",
@@ -589,47 +589,47 @@
   },
   "WS": {
     "name": "Samoa",
-    "fullName": "Samoa"
+    "fullName": "Stad Dizalc'h Samoa"
   },
   "SM": {
     "name": "San Marino",
-    "fullName": "San Marino"
+    "fullName": "Republik San Marino"
   },
   "ST": {
     "name": "São Tomé ha Príncipe",
-    "fullName": "São Tomé ha Príncipe"
+    "fullName": "Republik Demokratel São Tomé ha Príncipe"
   },
   "SA": {
     "name": "Arabia Saoudat",
-    "fullName": "Arabia Saoudat"
+    "fullName": "Rouantelezh Arabia Saoudat"
   },
   "SN": {
     "name": "Senegal",
-    "fullName": "Senegal"
+    "fullName": "Republik Senegal"
   },
   "RS": {
     "name": "Serbia",
-    "fullName": "Serbia"
+    "fullName": "Republik Serbia"
   },
   "SC": {
     "name": "Sechelez",
-    "fullName": "Sechelez"
+    "fullName": "Republik Sechelez"
   },
   "SL": {
     "name": "Sierra Leone",
-    "fullName": "Sierra Leone"
+    "fullName": "Republik Sierra Leone"
   },
   "SG": {
     "name": "Singapour",
-    "fullName": "Singapour"
+    "fullName": "Republik Singapour"
   },
   "SK": {
     "name": "Slovakia",
-    "fullName": "Slovakia"
+    "fullName": "Republik Slovak"
   },
   "SI": {
     "name": "Slovenia",
-    "fullName": "Slovenia"
+    "fullName": "Republik Slovenia"
   },
   "SB": {
     "name": "Inizi Salomon",
@@ -637,79 +637,79 @@
   },
   "SO": {
     "name": "Somalia",
-    "fullName": "Somalia"
+    "fullName": "Republik Kevreadel Somalia"
   },
   "ZA": {
     "name": "Suafrika",
-    "fullName": "Suafrika"
+    "fullName": "Republik Suafrika"
   },
   "SS": {
     "name": "Soudan ar Su",
-    "fullName": "Soudan ar Su"
+    "fullName": "Republik Soudan ar Su"
   },
   "ES": {
     "name": "Spagn",
-    "fullName": "Spagn"
+    "fullName": "Rouantelezh Spagn"
   },
   "LK": {
     "name": "Sri Lanka",
-    "fullName": "Sri Lanka"
+    "fullName": "Republik Demokratel ha Sokialour Sri Lanka"
   },
   "SD": {
     "name": "Soudan",
-    "fullName": "Soudan"
+    "fullName": "Republik Soudan"
   },
   "SR": {
     "name": "Surinam",
-    "fullName": "Surinam"
+    "fullName": "Republik Surinam"
   },
   "SE": {
     "name": "Sveden",
-    "fullName": "Sveden"
+    "fullName": "Rouantelezh Sveden"
   },
   "CH": {
     "name": "Suis",
-    "fullName": "Suis"
+    "fullName": "Kengevredad Suis"
   },
   "SY": {
     "name": "Siria",
-    "fullName": "Siria"
+    "fullName": "Republik Arab Siriat"
   },
   "TJ": {
     "name": "Tadjikistan",
-    "fullName": "Tadjikistan"
+    "fullName": "Republik Tadjikistan"
   },
   "TZ": {
     "name": "Tanzania",
-    "fullName": "Tanzania"
+    "fullName": "Republik Unanet Tanzania"
   },
   "TH": {
     "name": "Thailand",
-    "fullName": "Thailand"
+    "fullName": "Rouantelezh Thailand"
   },
   "TL": {
     "name": "Timor ar Reter",
-    "fullName": "Timor ar Reter"
+    "fullName": "Republik demokratel Timor ar Reter"
   },
   "TG": {
     "name": "Togo",
-    "fullName": "Togo"
+    "fullName": "Republik Togoat"
   },
   "TO": {
     "name": "Tonga",
-    "fullName": "Tonga"
+    "fullName": "Rouantelezh Tonga"
   },
   "TT": {
     "name": "Trinidad ha Tobago",
-    "fullName": "Trinidad ha Tobago"
+    "fullName": "Republik Trinidad ha Tobago"
   },
   "TN": {
     "name": "Tunizia",
-    "fullName": "Tunizia"
+    "fullName": "Republik Tunizian"
   },
   "TR": {
     "name": "Turkia",
-    "fullName": "Turkia"
+    "fullName": "Republik Turkia"
   },
   "TM": {
     "name": "Turkmenistan",
@@ -721,7 +721,7 @@
   },
   "UG": {
     "name": "Ouganda",
-    "fullName": "Ouganda"
+    "fullName": "Republik Ouganda"
   },
   "UA": {
     "name": "Ukraina",
@@ -733,71 +733,71 @@
   },
   "GB": {
     "name": "Rouantelezh-Unanet",
-    "fullName": "Rouantelezh-Unanet"
+    "fullName": "Rouantelezh-Unanet Breizh-Veur ha Norzhiwerzhon"
   },
   "US": {
     "name": "Stadoù-Unanet",
-    "fullName": "Stadoù-Unanet"
+    "fullName": "Stadoù-Unanet Amerika"
   },
   "UY": {
     "name": "Uruguay",
-    "fullName": "Uruguay"
+    "fullName": "Republik Reter Uruguay"
   },
   "UZ": {
     "name": "Ouzbekistan",
-    "fullName": "Ouzbekistan"
+    "fullName": "Republik Ouzbekistan"
   },
   "VU": {
     "name": "Vanuatu",
-    "fullName": "Vanuatu"
+    "fullName": "Republik Vanuatu"
   },
   "VE": {
     "name": "Venezuela",
-    "fullName": "Venezuela"
+    "fullName": "Republik Volivarian Venezuela"
   },
   "VN": {
     "name": "Viêt Nam",
-    "fullName": "Viêt Nam"
+    "fullName": "Republik Sokialour Viêt Nam"
   },
   "YE": {
     "name": "Yemen",
-    "fullName": "Yemen"
+    "fullName": "Republik Yemen"
   },
   "ZM": {
     "name": "Zambia",
-    "fullName": "Zambia"
+    "fullName": "Republik Zambia"
   },
   "ZW": {
     "name": "Zimbabwe",
-    "fullName": "Zimbabwe"
+    "fullName": "Republik Zimbabwe"
   },
   "HK": {
     "name": "Hong Kong",
-    "fullName": "Hong Kong"
+    "fullName": "Rannvro velestradurel arbennik Hong Kong eus Republik pobl Sina"
   },
   "MO": {
     "name": "Makao",
-    "fullName": "Makao"
+    "fullName": "Rannvro velestradurel arbennik Makao eus Sina"
   },
   "TW": {
     "name": "Taiwan",
-    "fullName": "Taiwan"
+    "fullName": "Taiwan, proviñs Sina"
   },
   "PS": {
     "name": "Palestina",
-    "fullName": "Palestina"
+    "fullName": "Stad Palestina"
   },
   "XK": {
     "name": "Kosovo",
-    "fullName": "Kosovo"
+    "fullName": "Republik Kosovo"
   },
   "VA": {
     "name": "Vatikan",
-    "fullName": "Vatikan"
+    "fullName": "Stad Keoded ar Vatikan"
   },
   "PR": {
     "name": "Puerto Rico",
-    "fullName": "Puerto Rico"
+    "fullName": "Kenglad Puerto Rico"
   },
   "GU": {
     "name": "Guam",
@@ -845,11 +845,11 @@
   },
   "JE": {
     "name": "Jerzenez",
-    "fullName": "Jerzenez"
+    "fullName": "Bailiezh Jerzenez"
   },
   "GG": {
     "name": "Gwernenez",
-    "fullName": "Gwernenez"
+    "fullName": "Bailiezh Gwernenez"
   },
   "IM": {
     "name": "Enez Vanav",
@@ -861,7 +861,7 @@
   },
   "VG": {
     "name": "Inizi Gwerc'h Breizhveurat",
-    "fullName": "Inizi Gwerc'h Breizhveurat"
+    "fullName": "Inizi Gwerc'h"
   },
   "AI": {
     "name": "Anguilla",
@@ -872,8 +872,8 @@
     "fullName": "Montserrat"
   },
   "SH": {
-    "name": "Saint Helena, Ascension, ha Tristan da Cunha",
-    "fullName": "Saint Helena, Ascension, ha Tristan da Cunha"
+    "name": "Saint Helena",
+    "fullName": "Saint Helena, Ascension ha Tristan da Cunha"
   },
   "FK": {
     "name": "Inizi Maloù",
@@ -897,7 +897,7 @@
   },
   "MF": {
     "name": "Saint-Martin",
-    "fullName": "Saint-Martin"
+    "fullName": "Kolektivelezh Saint-Martin"
   },
   "PM": {
     "name": "Sant-Pêr-ha-Mikelon",
@@ -917,23 +917,23 @@
   },
   "MP": {
     "name": "Inizi Mariana an Norzh",
-    "fullName": "Inizi Mariana an Norzh"
+    "fullName": "Kenglad Inizi Mariana an Norzh"
   },
   "CX": {
     "name": "Enez Christmas",
-    "fullName": "Enez Christmas"
+    "fullName": "Tiriad Enez Christmas"
   },
   "CC": {
-    "name": "Inizi Cocos (Keeling)",
+    "name": "Inizi Cocos",
     "fullName": "Inizi Cocos (Keeling)"
   },
   "NF": {
     "name": "Enez Norfolk",
-    "fullName": "Enez Norfolk"
+    "fullName": "Tiriad Enez Norfolk"
   },
   "PN": {
     "name": "Inizi Pitcairn",
-    "fullName": "Inizi Pitcairn"
+    "fullName": "Inizi Pitcairn, Henderson, Ducie hag Oeno"
   },
   "TK": {
     "name": "Tokelau",
@@ -957,7 +957,7 @@
   },
   "BL": {
     "name": "Saint-Barthélemy",
-    "fullName": "Saint-Barthélemy"
+    "fullName": "Kolektivelezh Saint-Barthélemy"
   },
   "IO": {
     "name": "Tiriad breizhveurat Meurvor Indez",
@@ -972,7 +972,7 @@
     "fullName": "Bonaire, Sint Eustatius ha Saba"
   },
   "TF": {
-    "name": "Douaroù Aostral hag Antarktikel Frañs",
+    "name": "Douaroù Aostral Frañs",
     "fullName": "Douaroù Aostral hag Antarktikel Frañs"
   },
   "GS": {
@@ -981,7 +981,7 @@
   },
   "HM": {
     "name": "Inizi Heard ha McDonald",
-    "fullName": "Inizi Heard ha McDonald"
+    "fullName": "Tiriad Enez Heard hag Inizi McDonald"
   },
   "AQ": {
     "name": "Antarktika",
