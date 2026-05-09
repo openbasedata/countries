@@ -1,1237 +1,990 @@
-[
-  {
-    "code2": "AF",
+{
+  "AF": {
     "name": "Афганистан",
     "fullName": "Афганистан"
   },
-  {
-    "code2": "AL",
+  "AL": {
     "name": "Албани",
     "fullName": "Албани"
   },
-  {
-    "code2": "DZ",
+  "DZ": {
     "name": "Алжир",
     "fullName": "Алжир"
   },
-  {
-    "code2": "AD",
+  "AD": {
     "name": "Андорра",
     "fullName": "Андорра"
   },
-  {
-    "code2": "AO",
+  "AO": {
     "name": "Ангол",
     "fullName": "Ангол"
   },
-  {
-    "code2": "AG",
+  "AG": {
     "name": "Антигуа ба Барбуда",
     "fullName": "Антигуа ба Барбуда"
   },
-  {
-    "code2": "AR",
+  "AR": {
     "name": "Аргентин",
     "fullName": "Аргентин"
   },
-  {
-    "code2": "AM",
+  "AM": {
     "name": "Армени",
     "fullName": "Армени"
   },
-  {
-    "code2": "AU",
+  "AU": {
     "name": "Австрали",
     "fullName": "Австрали"
   },
-  {
-    "code2": "AT",
+  "AT": {
     "name": "Австри",
     "fullName": "Австри"
   },
-  {
-    "code2": "AZ",
+  "AZ": {
     "name": "Азербайжан",
     "fullName": "Азербайжан"
   },
-  {
-    "code2": "BS",
+  "BS": {
     "name": "Багам",
     "fullName": "Багам"
   },
-  {
-    "code2": "BH",
+  "BH": {
     "name": "Бахрейн",
     "fullName": "Бахрейн"
   },
-  {
-    "code2": "BD",
+  "BD": {
     "name": "Бангладеш",
     "fullName": "Бангладеш"
   },
-  {
-    "code2": "BB",
+  "BB": {
     "name": "Барбадос",
     "fullName": "Барбадос"
   },
-  {
-    "code2": "BY",
+  "BY": {
     "name": "Беларусь",
     "fullName": "Беларусь"
   },
-  {
-    "code2": "BE",
+  "BE": {
     "name": "Белги",
     "fullName": "Белги"
   },
-  {
-    "code2": "BZ",
+  "BZ": {
     "name": "Белиз",
     "fullName": "Белиз"
   },
-  {
-    "code2": "BJ",
+  "BJ": {
     "name": "Бенин",
     "fullName": "Бенин"
   },
-  {
-    "code2": "BT",
+  "BT": {
     "name": "Бутан",
     "fullName": "Бутан"
   },
-  {
-    "code2": "BO",
+  "BO": {
     "name": "Боливи",
     "fullName": "Боливи"
   },
-  {
-    "code2": "BA",
+  "BA": {
     "name": "Босни Герцеговин",
     "fullName": "Босни Герцеговин"
   },
-  {
-    "code2": "BW",
+  "BW": {
     "name": "Ботсвана",
     "fullName": "Ботсвана"
   },
-  {
-    "code2": "BR",
+  "BR": {
     "name": "Бразил",
     "fullName": "Бразил"
   },
-  {
-    "code2": "BN",
+  "BN": {
     "name": "Бруней",
     "fullName": "Бруней"
   },
-  {
-    "code2": "BG",
+  "BG": {
     "name": "Болгар",
     "fullName": "Болгар"
   },
-  {
-    "code2": "BF",
+  "BF": {
     "name": "Буркина фасо",
     "fullName": "Буркина фасо"
   },
-  {
-    "code2": "BI",
+  "BI": {
     "name": "Бурунди",
     "fullName": "Бурунди"
   },
-  {
-    "code2": "CV",
+  "CV": {
     "name": "Капе Верде",
     "fullName": "Капе Верде"
   },
-  {
-    "code2": "KH",
+  "KH": {
     "name": "Камбож",
     "fullName": "Камбож"
   },
-  {
-    "code2": "CM",
+  "CM": {
     "name": "Камерун",
     "fullName": "Камерун"
   },
-  {
-    "code2": "CA",
+  "CA": {
     "name": "Канад",
     "fullName": "Канад"
   },
-  {
-    "code2": "CF",
+  "CF": {
     "name": "Төв Африкийн Бүгд Найрамдах Улс",
     "fullName": "Төв Африкийн Бүгд Найрамдах Улс"
   },
-  {
-    "code2": "TD",
+  "TD": {
     "name": "Чад",
     "fullName": "Чад"
   },
-  {
-    "code2": "CL",
+  "CL": {
     "name": "Чили",
     "fullName": "Чили"
   },
-  {
-    "code2": "CN",
+  "CN": {
     "name": "Хятад",
     "fullName": "Хятад"
   },
-  {
-    "code2": "CO",
+  "CO": {
     "name": "Колумб",
     "fullName": "Колумб"
   },
-  {
-    "code2": "KM",
+  "KM": {
     "name": "Коморос",
     "fullName": "Коморос"
   },
-  {
-    "code2": "CG",
+  "CG": {
     "name": "Конго Браззавиль",
     "fullName": "Конго Браззавиль"
   },
-  {
-    "code2": "CD",
+  "CD": {
     "name": "Конго-Киншаса",
     "fullName": "Конго-Киншаса"
   },
-  {
-    "code2": "CR",
+  "CR": {
     "name": "Коста Рика",
     "fullName": "Коста Рика"
   },
-  {
-    "code2": "CI",
+  "CI": {
     "name": "Кот д’Ивуар",
     "fullName": "Кот д’Ивуар"
   },
-  {
-    "code2": "HR",
+  "HR": {
     "name": "Хорват",
     "fullName": "Хорват"
   },
-  {
-    "code2": "CU",
+  "CU": {
     "name": "Куба",
     "fullName": "Куба"
   },
-  {
-    "code2": "CY",
+  "CY": {
     "name": "Кипр",
     "fullName": "Кипр"
   },
-  {
-    "code2": "CZ",
+  "CZ": {
     "name": "Чех",
     "fullName": "Чех"
   },
-  {
-    "code2": "DK",
+  "DK": {
     "name": "Дани",
     "fullName": "Дани"
   },
-  {
-    "code2": "DJ",
+  "DJ": {
     "name": "Джибути",
     "fullName": "Джибути"
   },
-  {
-    "code2": "DM",
+  "DM": {
     "name": "Доминик",
     "fullName": "Доминик"
   },
-  {
-    "code2": "DO",
+  "DO": {
     "name": "Бүгд Найрамдах Доминикан Улс",
     "fullName": "Бүгд Найрамдах Доминикан Улс"
   },
-  {
-    "code2": "EC",
+  "EC": {
     "name": "Эквадор",
     "fullName": "Эквадор"
   },
-  {
-    "code2": "EG",
+  "EG": {
     "name": "Египет",
     "fullName": "Египет"
   },
-  {
-    "code2": "SV",
+  "SV": {
     "name": "Эль Сальвадор",
     "fullName": "Эль Сальвадор"
   },
-  {
-    "code2": "GQ",
+  "GQ": {
     "name": "Экваторын Гвиней",
     "fullName": "Экваторын Гвиней"
   },
-  {
-    "code2": "ER",
+  "ER": {
     "name": "Эритри",
     "fullName": "Эритри"
   },
-  {
-    "code2": "EE",
+  "EE": {
     "name": "Эстони",
     "fullName": "Эстони"
   },
-  {
-    "code2": "SZ",
+  "SZ": {
     "name": "Свазиланд",
     "fullName": "Свазиланд"
   },
-  {
-    "code2": "ET",
+  "ET": {
     "name": "Этиоп",
     "fullName": "Этиоп"
   },
-  {
-    "code2": "FJ",
+  "FJ": {
     "name": "Фижи",
     "fullName": "Фижи"
   },
-  {
-    "code2": "FI",
+  "FI": {
     "name": "Финланд",
     "fullName": "Финланд"
   },
-  {
-    "code2": "FR",
+  "FR": {
     "name": "Франц",
     "fullName": "Франц"
   },
-  {
-    "code2": "GA",
+  "GA": {
     "name": "Габон",
     "fullName": "Габон"
   },
-  {
-    "code2": "GM",
+  "GM": {
     "name": "Гамби",
     "fullName": "Гамби"
   },
-  {
-    "code2": "GE",
+  "GE": {
     "name": "Гүрж",
     "fullName": "Гүрж"
   },
-  {
-    "code2": "DE",
+  "DE": {
     "name": "Герман",
     "fullName": "Герман"
   },
-  {
-    "code2": "GH",
+  "GH": {
     "name": "Гана",
     "fullName": "Гана"
   },
-  {
-    "code2": "GR",
+  "GR": {
     "name": "Грек",
     "fullName": "Грек"
   },
-  {
-    "code2": "GD",
+  "GD": {
     "name": "Гренада",
     "fullName": "Гренада"
   },
-  {
-    "code2": "GT",
+  "GT": {
     "name": "Гватемал",
     "fullName": "Гватемал"
   },
-  {
-    "code2": "GN",
+  "GN": {
     "name": "Гвиней",
     "fullName": "Гвиней"
   },
-  {
-    "code2": "GW",
+  "GW": {
     "name": "Гвиней-Бисау",
     "fullName": "Гвиней-Бисау"
   },
-  {
-    "code2": "GY",
+  "GY": {
     "name": "Гайана",
     "fullName": "Гайана"
   },
-  {
-    "code2": "HT",
+  "HT": {
     "name": "Гаити",
     "fullName": "Гаити"
   },
-  {
-    "code2": "HN",
+  "HN": {
     "name": "Гондурас",
     "fullName": "Гондурас"
   },
-  {
-    "code2": "HU",
+  "HU": {
     "name": "Унгар",
     "fullName": "Унгар"
   },
-  {
-    "code2": "IS",
+  "IS": {
     "name": "Исланд",
     "fullName": "Исланд"
   },
-  {
-    "code2": "IN",
+  "IN": {
     "name": "Энэтхэг",
     "fullName": "Энэтхэг"
   },
-  {
-    "code2": "ID",
+  "ID": {
     "name": "Индонези",
     "fullName": "Индонези"
   },
-  {
-    "code2": "IR",
+  "IR": {
     "name": "Иран",
     "fullName": "Иран"
   },
-  {
-    "code2": "IQ",
+  "IQ": {
     "name": "Ирак",
     "fullName": "Ирак"
   },
-  {
-    "code2": "IE",
+  "IE": {
     "name": "Ирланд",
     "fullName": "Ирланд"
   },
-  {
-    "code2": "IL",
+  "IL": {
     "name": "Израиль",
     "fullName": "Израиль"
   },
-  {
-    "code2": "IT",
+  "IT": {
     "name": "Итали",
     "fullName": "Итали"
   },
-  {
-    "code2": "JM",
+  "JM": {
     "name": "Ямайк",
     "fullName": "Ямайк"
   },
-  {
-    "code2": "JP",
+  "JP": {
     "name": "Япон",
     "fullName": "Япон"
   },
-  {
-    "code2": "JO",
+  "JO": {
     "name": "Йордан",
     "fullName": "Йордан"
   },
-  {
-    "code2": "KZ",
+  "KZ": {
     "name": "Казахстан",
     "fullName": "Казахстан"
   },
-  {
-    "code2": "KE",
+  "KE": {
     "name": "Кени",
     "fullName": "Кени"
   },
-  {
-    "code2": "KI",
+  "KI": {
     "name": "Кирибати",
     "fullName": "Кирибати"
   },
-  {
-    "code2": "KP",
+  "KP": {
     "name": "Хойд Солонгос",
     "fullName": "Хойд Солонгос"
   },
-  {
-    "code2": "KR",
+  "KR": {
     "name": "Өмнөд Солонгос",
     "fullName": "Өмнөд Солонгос"
   },
-  {
-    "code2": "KW",
+  "KW": {
     "name": "Кувейт",
     "fullName": "Кувейт"
   },
-  {
-    "code2": "KG",
+  "KG": {
     "name": "Кыргызстан",
     "fullName": "Кыргызстан"
   },
-  {
-    "code2": "LA",
+  "LA": {
     "name": "Лаос",
     "fullName": "Лаос"
   },
-  {
-    "code2": "LV",
+  "LV": {
     "name": "Латви",
     "fullName": "Латви"
   },
-  {
-    "code2": "LB",
+  "LB": {
     "name": "Ливан",
     "fullName": "Ливан"
   },
-  {
-    "code2": "LS",
+  "LS": {
     "name": "Лесото",
     "fullName": "Лесото"
   },
-  {
-    "code2": "LR",
+  "LR": {
     "name": "Либери",
     "fullName": "Либери"
   },
-  {
-    "code2": "LY",
+  "LY": {
     "name": "Ливи",
     "fullName": "Ливи"
   },
-  {
-    "code2": "LI",
+  "LI": {
     "name": "Лихтенштейн",
     "fullName": "Лихтенштейн"
   },
-  {
-    "code2": "LT",
+  "LT": {
     "name": "Литва",
     "fullName": "Литва"
   },
-  {
-    "code2": "LU",
+  "LU": {
     "name": "Люксембург",
     "fullName": "Люксембург"
   },
-  {
-    "code2": "MG",
+  "MG": {
     "name": "Мадагаскар",
     "fullName": "Мадагаскар"
   },
-  {
-    "code2": "MW",
+  "MW": {
     "name": "Малави",
     "fullName": "Малави"
   },
-  {
-    "code2": "MY",
+  "MY": {
     "name": "Малайз",
     "fullName": "Малайз"
   },
-  {
-    "code2": "MV",
+  "MV": {
     "name": "Мальдив",
     "fullName": "Мальдив"
   },
-  {
-    "code2": "ML",
+  "ML": {
     "name": "Мали",
     "fullName": "Мали"
   },
-  {
-    "code2": "MT",
+  "MT": {
     "name": "Мальта",
     "fullName": "Мальта"
   },
-  {
-    "code2": "MH",
+  "MH": {
     "name": "Маршаллын арлууд",
     "fullName": "Маршаллын арлууд"
   },
-  {
-    "code2": "MR",
+  "MR": {
     "name": "Мавритани",
     "fullName": "Мавритани"
   },
-  {
-    "code2": "MU",
+  "MU": {
     "name": "Мавритус",
     "fullName": "Мавритус"
   },
-  {
-    "code2": "MX",
+  "MX": {
     "name": "Мексик",
     "fullName": "Мексик"
   },
-  {
-    "code2": "FM",
+  "FM": {
     "name": "Микронези",
     "fullName": "Микронези"
   },
-  {
-    "code2": "MD",
+  "MD": {
     "name": "Молдав",
     "fullName": "Молдав"
   },
-  {
-    "code2": "MC",
+  "MC": {
     "name": "Монако",
     "fullName": "Монако"
   },
-  {
-    "code2": "MN",
+  "MN": {
     "name": "Монгол",
     "fullName": "Монгол"
   },
-  {
-    "code2": "ME",
+  "ME": {
     "name": "Монтенегро",
     "fullName": "Монтенегро"
   },
-  {
-    "code2": "MA",
+  "MA": {
     "name": "Марокко",
     "fullName": "Марокко"
   },
-  {
-    "code2": "MZ",
+  "MZ": {
     "name": "Мозамбик",
     "fullName": "Мозамбик"
   },
-  {
-    "code2": "MM",
+  "MM": {
     "name": "Мьянмар (Бурма)",
     "fullName": "Мьянмар (Бурма)"
   },
-  {
-    "code2": "NA",
+  "NA": {
     "name": "Намиби",
     "fullName": "Намиби"
   },
-  {
-    "code2": "NR",
+  "NR": {
     "name": "Науру",
     "fullName": "Науру"
   },
-  {
-    "code2": "NP",
+  "NP": {
     "name": "Балба",
     "fullName": "Балба"
   },
-  {
-    "code2": "NL",
+  "NL": {
     "name": "Нидерланд",
     "fullName": "Нидерланд"
   },
-  {
-    "code2": "NZ",
+  "NZ": {
     "name": "Шинэ Зеланд",
     "fullName": "Шинэ Зеланд"
   },
-  {
-    "code2": "NI",
+  "NI": {
     "name": "Никарагуа",
     "fullName": "Никарагуа"
   },
-  {
-    "code2": "NE",
+  "NE": {
     "name": "Нигер",
     "fullName": "Нигер"
   },
-  {
-    "code2": "NG",
+  "NG": {
     "name": "Нигери",
     "fullName": "Нигери"
   },
-  {
-    "code2": "MK",
+  "MK": {
     "name": "Умард Македон",
     "fullName": "Умард Македон"
   },
-  {
-    "code2": "NO",
+  "NO": {
     "name": "Норвеги",
     "fullName": "Норвеги"
   },
-  {
-    "code2": "OM",
+  "OM": {
     "name": "Оман",
     "fullName": "Оман"
   },
-  {
-    "code2": "PK",
+  "PK": {
     "name": "Пакистан",
     "fullName": "Пакистан"
   },
-  {
-    "code2": "PW",
+  "PW": {
     "name": "Палау",
     "fullName": "Палау"
   },
-  {
-    "code2": "PA",
+  "PA": {
     "name": "Панам",
     "fullName": "Панам"
   },
-  {
-    "code2": "PG",
+  "PG": {
     "name": "Папуа Шинэ Гвиней",
     "fullName": "Папуа Шинэ Гвиней"
   },
-  {
-    "code2": "PY",
+  "PY": {
     "name": "Парагвай",
     "fullName": "Парагвай"
   },
-  {
-    "code2": "PE",
+  "PE": {
     "name": "Перу",
     "fullName": "Перу"
   },
-  {
-    "code2": "PH",
+  "PH": {
     "name": "Филиппин",
     "fullName": "Филиппин"
   },
-  {
-    "code2": "PL",
+  "PL": {
     "name": "Польш",
     "fullName": "Польш"
   },
-  {
-    "code2": "PT",
+  "PT": {
     "name": "Португаль",
     "fullName": "Португаль"
   },
-  {
-    "code2": "QA",
+  "QA": {
     "name": "Катар",
     "fullName": "Катар"
   },
-  {
-    "code2": "RO",
+  "RO": {
     "name": "Румын",
     "fullName": "Румын"
   },
-  {
-    "code2": "RU",
+  "RU": {
     "name": "Орос",
     "fullName": "Орос"
   },
-  {
-    "code2": "RW",
+  "RW": {
     "name": "Руанда",
     "fullName": "Руанда"
   },
-  {
-    "code2": "KN",
+  "KN": {
     "name": "Сент-Киттс ба Невис",
     "fullName": "Сент-Киттс ба Невис"
   },
-  {
-    "code2": "LC",
+  "LC": {
     "name": "Сент Люсиа",
     "fullName": "Сент Люсиа"
   },
-  {
-    "code2": "VC",
+  "VC": {
     "name": "Сэнт Винсэнт ба Гренадин",
     "fullName": "Сэнт Винсэнт ба Гренадин"
   },
-  {
-    "code2": "WS",
+  "WS": {
     "name": "Самоа",
     "fullName": "Самоа"
   },
-  {
-    "code2": "SM",
+  "SM": {
     "name": "Сан-Марино",
     "fullName": "Сан-Марино"
   },
-  {
-    "code2": "ST",
+  "ST": {
     "name": "Сан-Томе ба Принсипи",
     "fullName": "Сан-Томе ба Принсипи"
   },
-  {
-    "code2": "SA",
+  "SA": {
     "name": "Саудын Араб",
     "fullName": "Саудын Араб"
   },
-  {
-    "code2": "SN",
+  "SN": {
     "name": "Сенегал",
     "fullName": "Сенегал"
   },
-  {
-    "code2": "RS",
+  "RS": {
     "name": "Серби",
     "fullName": "Серби"
   },
-  {
-    "code2": "SC",
+  "SC": {
     "name": "Сейшел",
     "fullName": "Сейшел"
   },
-  {
-    "code2": "SL",
+  "SL": {
     "name": "Сьерра-Леоне",
     "fullName": "Сьерра-Леоне"
   },
-  {
-    "code2": "SG",
+  "SG": {
     "name": "Сингапур",
     "fullName": "Сингапур"
   },
-  {
-    "code2": "SK",
+  "SK": {
     "name": "Словак",
     "fullName": "Словак"
   },
-  {
-    "code2": "SI",
+  "SI": {
     "name": "Словени",
     "fullName": "Словени"
   },
-  {
-    "code2": "SB",
+  "SB": {
     "name": "Соломоны Арлууд",
     "fullName": "Соломоны Арлууд"
   },
-  {
-    "code2": "SO",
+  "SO": {
     "name": "Сомали",
     "fullName": "Сомали"
   },
-  {
-    "code2": "ZA",
+  "ZA": {
     "name": "Өмнөд Африк тив",
     "fullName": "Өмнөд Африк тив"
   },
-  {
-    "code2": "SS",
+  "SS": {
     "name": "Өмнөд Судан",
     "fullName": "Өмнөд Судан"
   },
-  {
-    "code2": "ES",
+  "ES": {
     "name": "Испани",
     "fullName": "Испани"
   },
-  {
-    "code2": "LK",
+  "LK": {
     "name": "Шри Ланка",
     "fullName": "Шри Ланка"
   },
-  {
-    "code2": "SD",
+  "SD": {
     "name": "Судан",
     "fullName": "Судан"
   },
-  {
-    "code2": "SR",
+  "SR": {
     "name": "Суринам",
     "fullName": "Суринам"
   },
-  {
-    "code2": "SE",
+  "SE": {
     "name": "Швед",
     "fullName": "Швед"
   },
-  {
-    "code2": "CH",
+  "CH": {
     "name": "Швейцари",
     "fullName": "Швейцари"
   },
-  {
-    "code2": "SY",
+  "SY": {
     "name": "Сири",
     "fullName": "Сири"
   },
-  {
-    "code2": "TJ",
+  "TJ": {
     "name": "Тажикистан",
     "fullName": "Тажикистан"
   },
-  {
-    "code2": "TZ",
+  "TZ": {
     "name": "Танзани",
     "fullName": "Танзани"
   },
-  {
-    "code2": "TH",
+  "TH": {
     "name": "Тайланд",
     "fullName": "Тайланд"
   },
-  {
-    "code2": "TL",
+  "TL": {
     "name": "Тимор-Лесте",
     "fullName": "Тимор-Лесте"
   },
-  {
-    "code2": "TG",
+  "TG": {
     "name": "Того",
     "fullName": "Того"
   },
-  {
-    "code2": "TO",
+  "TO": {
     "name": "Тонга",
     "fullName": "Тонга"
   },
-  {
-    "code2": "TT",
+  "TT": {
     "name": "Тринидад Тобаго",
     "fullName": "Тринидад Тобаго"
   },
-  {
-    "code2": "TN",
+  "TN": {
     "name": "Тунис",
     "fullName": "Тунис"
   },
-  {
-    "code2": "TR",
+  "TR": {
     "name": "Турк",
     "fullName": "Турк"
   },
-  {
-    "code2": "TM",
+  "TM": {
     "name": "Туркменистан",
     "fullName": "Туркменистан"
   },
-  {
-    "code2": "TV",
+  "TV": {
     "name": "Тувалу",
     "fullName": "Тувалу"
   },
-  {
-    "code2": "UG",
+  "UG": {
     "name": "Уганда",
     "fullName": "Уганда"
   },
-  {
-    "code2": "UA",
+  "UA": {
     "name": "Украин",
     "fullName": "Украин"
   },
-  {
-    "code2": "AE",
+  "AE": {
     "name": "Арабын Нэгдсэн Эмират",
     "fullName": "Арабын Нэгдсэн Эмират"
   },
-  {
-    "code2": "GB",
+  "GB": {
     "name": "Их Британи",
     "fullName": "Их Британи"
   },
-  {
-    "code2": "US",
+  "US": {
     "name": "Америкийн Нэгдсэн Улс",
     "fullName": "Америкийн Нэгдсэн Улс"
   },
-  {
-    "code2": "UY",
+  "UY": {
     "name": "Уругвай",
     "fullName": "Уругвай"
   },
-  {
-    "code2": "UZ",
+  "UZ": {
     "name": "Узбекистан",
     "fullName": "Узбекистан"
   },
-  {
-    "code2": "VU",
+  "VU": {
     "name": "Вануату",
     "fullName": "Вануату"
   },
-  {
-    "code2": "VE",
+  "VE": {
     "name": "Венесуэл",
     "fullName": "Венесуэл"
   },
-  {
-    "code2": "VN",
+  "VN": {
     "name": "Вьетнам",
     "fullName": "Вьетнам"
   },
-  {
-    "code2": "YE",
+  "YE": {
     "name": "Йемен",
     "fullName": "Йемен"
   },
-  {
-    "code2": "ZM",
+  "ZM": {
     "name": "Замби",
     "fullName": "Замби"
   },
-  {
-    "code2": "ZW",
+  "ZW": {
     "name": "Зимбабве",
     "fullName": "Зимбабве"
   },
-  {
-    "code2": "HK",
+  "HK": {
     "name": "Хонг Конг",
     "fullName": "Хонг Конг"
   },
-  {
-    "code2": "MO",
+  "MO": {
     "name": "Макао",
     "fullName": "Макао"
   },
-  {
-    "code2": "TW",
+  "TW": {
     "name": "Тайвань",
     "fullName": "Тайвань"
   },
-  {
-    "code2": "PS",
+  "PS": {
     "name": "Палестины нутаг дэвсгэрүүд",
     "fullName": "Палестины нутаг дэвсгэрүүд"
   },
-  {
-    "code2": "XK",
+  "XK": {
     "name": "Косово",
     "fullName": "Косово"
   },
-  {
-    "code2": "VA",
+  "VA": {
     "name": "Ватикан хот улс",
     "fullName": "Ватикан хот улс"
   },
-  {
-    "code2": "PR",
+  "PR": {
     "name": "Пуэрто Рико",
     "fullName": "Пуэрто Рико"
   },
-  {
-    "code2": "GU",
+  "GU": {
     "name": "Гуам",
     "fullName": "Гуам"
   },
-  {
-    "code2": "GL",
+  "GL": {
     "name": "Гренланд",
     "fullName": "Гренланд"
   },
-  {
-    "code2": "FO",
+  "FO": {
     "name": "Фароэ Арлууд",
     "fullName": "Фароэ Арлууд"
   },
-  {
-    "code2": "NC",
+  "NC": {
     "name": "Шинэ Каледони",
     "fullName": "Шинэ Каледони"
   },
-  {
-    "code2": "PF",
+  "PF": {
     "name": "Францын Полинез",
     "fullName": "Францын Полинез"
   },
-  {
-    "code2": "BM",
+  "BM": {
     "name": "Бермуд",
     "fullName": "Бермуд"
   },
-  {
-    "code2": "KY",
+  "KY": {
     "name": "Кайманы Арлууд",
     "fullName": "Кайманы Арлууд"
   },
-  {
-    "code2": "VI",
+  "VI": {
     "name": "АНУ-ын Виржиний Арлууд",
     "fullName": "АНУ-ын Виржиний Арлууд"
   },
-  {
-    "code2": "CW",
+  "CW": {
     "name": "Куракао",
     "fullName": "Куракао"
   },
-  {
-    "code2": "AW",
+  "AW": {
     "name": "Аруба",
     "fullName": "Аруба"
   },
-  {
-    "code2": "GI",
+  "GI": {
     "name": "Гибралтар",
     "fullName": "Гибралтар"
   },
-  {
-    "code2": "JE",
+  "JE": {
     "name": "Жерси",
     "fullName": "Жерси"
   },
-  {
-    "code2": "GG",
+  "GG": {
     "name": "Гернси",
     "fullName": "Гернси"
   },
-  {
-    "code2": "IM",
+  "IM": {
     "name": "Мэн Арал",
     "fullName": "Мэн Арал"
   },
-  {
-    "code2": "TC",
+  "TC": {
     "name": "Турк ба Кайкосын Арлууд",
     "fullName": "Турк ба Кайкосын Арлууд"
   },
-  {
-    "code2": "VG",
+  "VG": {
     "name": "Британийн Виржиний Арлууд",
     "fullName": "Британийн Виржиний Арлууд"
   },
-  {
-    "code2": "AI",
+  "AI": {
     "name": "Ангила",
     "fullName": "Ангила"
   },
-  {
-    "code2": "MS",
+  "MS": {
     "name": "Монтсеррат",
     "fullName": "Монтсеррат"
   },
-  {
-    "code2": "SH",
+  "SH": {
     "name": "Сент Хелена",
     "fullName": "Сент Хелена"
   },
-  {
-    "code2": "FK",
+  "FK": {
     "name": "Фолькландын Арлууд",
     "fullName": "Фолькландын Арлууд"
   },
-  {
-    "code2": "GF",
+  "GF": {
     "name": "Францын Гайана",
     "fullName": "Францын Гайана"
   },
-  {
-    "code2": "GP",
+  "GP": {
     "name": "Гваделуп",
     "fullName": "Гваделуп"
   },
-  {
-    "code2": "MQ",
+  "MQ": {
     "name": "Мартиник",
     "fullName": "Мартиник"
   },
-  {
-    "code2": "RE",
+  "RE": {
     "name": "Реюньон",
     "fullName": "Реюньон"
   },
-  {
-    "code2": "MF",
+  "MF": {
     "name": "Сент-Мартин",
     "fullName": "Сент-Мартин"
   },
-  {
-    "code2": "PM",
+  "PM": {
     "name": "Сэнт Пьер ба Микелон",
     "fullName": "Сэнт Пьер ба Микелон"
   },
-  {
-    "code2": "WF",
+  "WF": {
     "name": "Уоллис ба Футуна",
     "fullName": "Уоллис ба Футуна"
   },
-  {
-    "code2": "YT",
+  "YT": {
     "name": "Майотте",
     "fullName": "Майотте"
   },
-  {
-    "code2": "AS",
+  "AS": {
     "name": "Америкийн Самоа",
     "fullName": "Америкийн Самоа"
   },
-  {
-    "code2": "MP",
+  "MP": {
     "name": "Хойд Марианы арлууд",
     "fullName": "Хойд Марианы арлууд"
   },
-  {
-    "code2": "CX",
+  "CX": {
     "name": "Зул сарын арал",
     "fullName": "Зул сарын арал"
   },
-  {
-    "code2": "CC",
+  "CC": {
     "name": "Кокос (Кийлинг) арлууд",
     "fullName": "Кокос (Кийлинг) арлууд"
   },
-  {
-    "code2": "NF",
+  "NF": {
     "name": "Норфолк арлууд",
     "fullName": "Норфолк арлууд"
   },
-  {
-    "code2": "PN",
+  "PN": {
     "name": "Питкэрн арлууд",
     "fullName": "Питкэрн арлууд"
   },
-  {
-    "code2": "TK",
+  "TK": {
     "name": "Токелау",
     "fullName": "Токелау"
   },
-  {
-    "code2": "NU",
+  "NU": {
     "name": "Ниуэ",
     "fullName": "Ниуэ"
   },
-  {
-    "code2": "CK",
+  "CK": {
     "name": "Күүкийн арлууд",
     "fullName": "Күүкийн арлууд"
   },
-  {
-    "code2": "EH",
+  "EH": {
     "name": "Баруун Сахар",
     "fullName": "Баруун Сахар"
   },
-  {
-    "code2": "AX",
+  "AX": {
     "name": "Аландын Арлууд",
     "fullName": "Аландын Арлууд"
   },
-  {
-    "code2": "BL",
+  "BL": {
     "name": "Сент Бартельми",
     "fullName": "Сент Бартельми"
   },
-  {
-    "code2": "IO",
+  "IO": {
     "name": "Британийн харьяа Энэтхэгийн далай дахь нутаг дэвсгэрүүд",
     "fullName": "Британийн харьяа Энэтхэгийн далай дахь нутаг дэвсгэрүүд"
   },
-  {
-    "code2": "SX",
+  "SX": {
     "name": "Синт Мартен",
     "fullName": "Синт Мартен"
   },
-  {
-    "code2": "BQ",
+  "BQ": {
     "name": "Карибын Нидерланд",
     "fullName": "Карибын Нидерланд"
   },
-  {
-    "code2": "TF",
+  "TF": {
     "name": "Францын өмнөд газар нутаг",
     "fullName": "Францын өмнөд газар нутаг"
   },
-  {
-    "code2": "GS",
+  "GS": {
     "name": "Өмнөд Жоржиа ба Өмнөд Сэндвичийн Арлууд",
     "fullName": "Өмнөд Жоржиа ба Өмнөд Сэндвичийн Арлууд"
   },
-  {
-    "code2": "HM",
+  "HM": {
     "name": "Хэрд болон Макдоналд арлууд",
     "fullName": "Хэрд болон Макдоналд арлууд"
   },
-  {
-    "code2": "AQ",
+  "AQ": {
     "name": "Антарктик",
     "fullName": "Антарктик"
   }
-]
+}

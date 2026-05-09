@@ -1,1237 +1,990 @@
-[
-  {
-    "code2": "AF",
+{
+  "AF": {
     "name": "阿富汗",
     "fullName": "阿富汗伊斯蘭共和國"
   },
-  {
-    "code2": "AL",
+  "AL": {
     "name": "阿爾巴尼亞",
     "fullName": "阿爾巴尼亞共和國"
   },
-  {
-    "code2": "DZ",
+  "DZ": {
     "name": "阿爾及利亞",
     "fullName": "阿爾及利亞人民民主共和國"
   },
-  {
-    "code2": "AD",
+  "AD": {
     "name": "安道爾",
     "fullName": "安道爾公國"
   },
-  {
-    "code2": "AO",
+  "AO": {
     "name": "安哥拉",
     "fullName": "安哥拉共和國"
   },
-  {
-    "code2": "AG",
+  "AG": {
     "name": "安提瓜和巴布達",
     "fullName": "安提瓜和巴布達"
   },
-  {
-    "code2": "AR",
+  "AR": {
     "name": "阿根廷",
     "fullName": "阿根廷共和國"
   },
-  {
-    "code2": "AM",
+  "AM": {
     "name": "亞美尼亞",
     "fullName": "亞美尼亞共和國"
   },
-  {
-    "code2": "AU",
+  "AU": {
     "name": "澳大利亞",
     "fullName": "澳大利亞聯邦"
   },
-  {
-    "code2": "AT",
+  "AT": {
     "name": "奧地利",
     "fullName": "奧地利共和國"
   },
-  {
-    "code2": "AZ",
+  "AZ": {
     "name": "阿塞拜疆",
     "fullName": "阿塞拜疆共和國"
   },
-  {
-    "code2": "BS",
+  "BS": {
     "name": "巴哈馬",
     "fullName": "巴哈馬聯邦"
   },
-  {
-    "code2": "BH",
+  "BH": {
     "name": "巴林",
     "fullName": "巴林王國"
   },
-  {
-    "code2": "BD",
+  "BD": {
     "name": "孟加拉國",
     "fullName": "孟加拉人民共和國"
   },
-  {
-    "code2": "BB",
+  "BB": {
     "name": "巴巴多斯",
     "fullName": "巴巴多斯"
   },
-  {
-    "code2": "BY",
+  "BY": {
     "name": "白俄羅斯",
     "fullName": "白俄羅斯共和國"
   },
-  {
-    "code2": "BE",
+  "BE": {
     "name": "比利時",
     "fullName": "比利時王國"
   },
-  {
-    "code2": "BZ",
+  "BZ": {
     "name": "伯利茲",
     "fullName": "伯利茲"
   },
-  {
-    "code2": "BJ",
+  "BJ": {
     "name": "貝寧",
     "fullName": "貝寧共和國"
   },
-  {
-    "code2": "BT",
+  "BT": {
     "name": "不丹",
     "fullName": "不丹王國"
   },
-  {
-    "code2": "BO",
+  "BO": {
     "name": "玻利維亞",
     "fullName": "玻利維亞多民族國"
   },
-  {
-    "code2": "BA",
+  "BA": {
     "name": "波斯尼亞和黑塞哥維那",
     "fullName": "波斯尼亞和黑塞哥維那"
   },
-  {
-    "code2": "BW",
+  "BW": {
     "name": "博茨瓦納",
     "fullName": "博茨瓦納共和國"
   },
-  {
-    "code2": "BR",
+  "BR": {
     "name": "巴西",
     "fullName": "巴西聯邦共和國"
   },
-  {
-    "code2": "BN",
+  "BN": {
     "name": "文萊",
     "fullName": "文萊達魯薩蘭國"
   },
-  {
-    "code2": "BG",
+  "BG": {
     "name": "保加利亞",
     "fullName": "保加利亞共和國"
   },
-  {
-    "code2": "BF",
+  "BF": {
     "name": "布基納法索",
     "fullName": "布基納法索"
   },
-  {
-    "code2": "BI",
+  "BI": {
     "name": "布隆迪",
     "fullName": "布隆迪共和國"
   },
-  {
-    "code2": "CV",
+  "CV": {
     "name": "佛得角",
     "fullName": "佛得角共和國"
   },
-  {
-    "code2": "KH",
+  "KH": {
     "name": "柬埔寨",
     "fullName": "柬埔寨王國"
   },
-  {
-    "code2": "CM",
+  "CM": {
     "name": "喀麥隆",
     "fullName": "喀麥隆共和國"
   },
-  {
-    "code2": "CA",
+  "CA": {
     "name": "加拿大",
     "fullName": "加拿大"
   },
-  {
-    "code2": "CF",
+  "CF": {
     "name": "中非共和國",
     "fullName": "中非共和國"
   },
-  {
-    "code2": "TD",
+  "TD": {
     "name": "乍得",
     "fullName": "乍得共和國"
   },
-  {
-    "code2": "CL",
+  "CL": {
     "name": "智利",
     "fullName": "智利共和國"
   },
-  {
-    "code2": "CN",
+  "CN": {
     "name": "中國",
     "fullName": "中華人民共和國"
   },
-  {
-    "code2": "CO",
+  "CO": {
     "name": "哥倫比亞",
     "fullName": "哥倫比亞共和國"
   },
-  {
-    "code2": "KM",
+  "KM": {
     "name": "科摩羅",
     "fullName": "科摩羅聯盟"
   },
-  {
-    "code2": "CG",
+  "CG": {
     "name": "剛果共和國",
     "fullName": "剛果共和國"
   },
-  {
-    "code2": "CD",
+  "CD": {
     "name": "剛果民主共和國",
     "fullName": "剛果民主共和國"
   },
-  {
-    "code2": "CR",
+  "CR": {
     "name": "哥斯達黎加",
     "fullName": "哥斯達黎加共和國"
   },
-  {
-    "code2": "CI",
+  "CI": {
     "name": "科特迪瓦",
     "fullName": "科特迪瓦共和國"
   },
-  {
-    "code2": "HR",
+  "HR": {
     "name": "克羅地亞",
     "fullName": "克羅地亞共和國"
   },
-  {
-    "code2": "CU",
+  "CU": {
     "name": "古巴",
     "fullName": "古巴共和國"
   },
-  {
-    "code2": "CY",
+  "CY": {
     "name": "塞浦路斯",
     "fullName": "塞浦路斯共和國"
   },
-  {
-    "code2": "CZ",
+  "CZ": {
     "name": "捷克",
     "fullName": "捷克共和國"
   },
-  {
-    "code2": "DK",
+  "DK": {
     "name": "丹麥",
     "fullName": "丹麥王國"
   },
-  {
-    "code2": "DJ",
+  "DJ": {
     "name": "吉布提",
     "fullName": "吉布提共和國"
   },
-  {
-    "code2": "DM",
+  "DM": {
     "name": "多米尼克",
     "fullName": "多米尼克國"
   },
-  {
-    "code2": "DO",
+  "DO": {
     "name": "多米尼加共和國",
     "fullName": "多米尼加共和國"
   },
-  {
-    "code2": "EC",
+  "EC": {
     "name": "厄瓜多爾",
     "fullName": "厄瓜多爾共和國"
   },
-  {
-    "code2": "EG",
+  "EG": {
     "name": "埃及",
     "fullName": "阿拉伯埃及共和國"
   },
-  {
-    "code2": "SV",
+  "SV": {
     "name": "薩爾瓦多",
     "fullName": "薩爾瓦多共和國"
   },
-  {
-    "code2": "GQ",
+  "GQ": {
     "name": "赤道幾內亞",
     "fullName": "赤道幾內亞共和國"
   },
-  {
-    "code2": "ER",
+  "ER": {
     "name": "厄立特里亞",
     "fullName": "厄立特里亞國"
   },
-  {
-    "code2": "EE",
+  "EE": {
     "name": "愛沙尼亞",
     "fullName": "愛沙尼亞共和國"
   },
-  {
-    "code2": "SZ",
+  "SZ": {
     "name": "斯威士蘭",
     "fullName": "斯威士蘭王國"
   },
-  {
-    "code2": "ET",
+  "ET": {
     "name": "埃塞俄比亞",
     "fullName": "埃塞俄比亞聯邦民主共和國"
   },
-  {
-    "code2": "FJ",
+  "FJ": {
     "name": "斐濟",
     "fullName": "斐濟共和國"
   },
-  {
-    "code2": "FI",
+  "FI": {
     "name": "芬蘭",
     "fullName": "芬蘭共和國"
   },
-  {
-    "code2": "FR",
+  "FR": {
     "name": "法國",
     "fullName": "法蘭西共和國"
   },
-  {
-    "code2": "GA",
+  "GA": {
     "name": "加蓬",
     "fullName": "加蓬共和國"
   },
-  {
-    "code2": "GM",
+  "GM": {
     "name": "岡比亞",
     "fullName": "岡比亞共和國"
   },
-  {
-    "code2": "GE",
+  "GE": {
     "name": "格魯吉亞",
     "fullName": "格魯吉亞"
   },
-  {
-    "code2": "DE",
+  "DE": {
     "name": "德國",
     "fullName": "德意志聯邦共和國"
   },
-  {
-    "code2": "GH",
+  "GH": {
     "name": "加納",
     "fullName": "加納共和國"
   },
-  {
-    "code2": "GR",
+  "GR": {
     "name": "希臘",
     "fullName": "希臘共和國"
   },
-  {
-    "code2": "GD",
+  "GD": {
     "name": "格林納達",
     "fullName": "格林納達"
   },
-  {
-    "code2": "GT",
+  "GT": {
     "name": "危地馬拉",
     "fullName": "危地馬拉共和國"
   },
-  {
-    "code2": "GN",
+  "GN": {
     "name": "幾內亞",
     "fullName": "幾內亞共和國"
   },
-  {
-    "code2": "GW",
+  "GW": {
     "name": "幾內亞比紹",
     "fullName": "幾內亞比紹共和國"
   },
-  {
-    "code2": "GY",
+  "GY": {
     "name": "圭亞那",
     "fullName": "圭亞那合作共和國"
   },
-  {
-    "code2": "HT",
+  "HT": {
     "name": "海地",
     "fullName": "海地共和國"
   },
-  {
-    "code2": "HN",
+  "HN": {
     "name": "洪都拉斯",
     "fullName": "洪都拉斯共和國"
   },
-  {
-    "code2": "HU",
+  "HU": {
     "name": "匈牙利",
     "fullName": "匈牙利"
   },
-  {
-    "code2": "IS",
+  "IS": {
     "name": "冰島",
     "fullName": "冰島"
   },
-  {
-    "code2": "IN",
+  "IN": {
     "name": "印度",
     "fullName": "印度共和國"
   },
-  {
-    "code2": "ID",
+  "ID": {
     "name": "印度尼西亞",
     "fullName": "印度尼西亞共和國"
   },
-  {
-    "code2": "IR",
+  "IR": {
     "name": "伊朗",
     "fullName": "伊朗伊斯蘭共和國"
   },
-  {
-    "code2": "IQ",
+  "IQ": {
     "name": "伊拉克",
     "fullName": "伊拉克共和國"
   },
-  {
-    "code2": "IE",
+  "IE": {
     "name": "愛爾蘭",
     "fullName": "愛爾蘭共和國"
   },
-  {
-    "code2": "IL",
+  "IL": {
     "name": "以色列",
     "fullName": "以色列國"
   },
-  {
-    "code2": "IT",
+  "IT": {
     "name": "意大利",
     "fullName": "意大利共和國"
   },
-  {
-    "code2": "JM",
+  "JM": {
     "name": "牙買加",
     "fullName": "牙買加"
   },
-  {
-    "code2": "JP",
+  "JP": {
     "name": "日本",
     "fullName": "日本國"
   },
-  {
-    "code2": "JO",
+  "JO": {
     "name": "約旦",
     "fullName": "約旦哈希姆王國"
   },
-  {
-    "code2": "KZ",
+  "KZ": {
     "name": "哈薩克斯坦",
     "fullName": "哈薩克斯坦共和國"
   },
-  {
-    "code2": "KE",
+  "KE": {
     "name": "肯尼亞",
     "fullName": "肯尼亞共和國"
   },
-  {
-    "code2": "KI",
+  "KI": {
     "name": "基里巴斯",
     "fullName": "基裡巴斯共和國"
   },
-  {
-    "code2": "KP",
+  "KP": {
     "name": "朝鮮",
     "fullName": "朝鮮民主主義人民共和國"
   },
-  {
-    "code2": "KR",
+  "KR": {
     "name": "韓國",
     "fullName": "大韓民國"
   },
-  {
-    "code2": "KW",
+  "KW": {
     "name": "科威特",
     "fullName": "科威特國"
   },
-  {
-    "code2": "KG",
+  "KG": {
     "name": "吉爾吉斯斯坦",
     "fullName": "吉爾吉斯共和國"
   },
-  {
-    "code2": "LA",
+  "LA": {
     "name": "老撾",
     "fullName": "老撾人民民主共和國"
   },
-  {
-    "code2": "LV",
+  "LV": {
     "name": "拉脫維亞",
     "fullName": "拉脫維亞共和國"
   },
-  {
-    "code2": "LB",
+  "LB": {
     "name": "黎巴嫩",
     "fullName": "黎巴嫩共和國"
   },
-  {
-    "code2": "LS",
+  "LS": {
     "name": "萊索托",
     "fullName": "萊索托王國"
   },
-  {
-    "code2": "LR",
+  "LR": {
     "name": "利比里亞",
     "fullName": "利比里亞共和國"
   },
-  {
-    "code2": "LY",
+  "LY": {
     "name": "利比亞",
     "fullName": "利比亞國"
   },
-  {
-    "code2": "LI",
+  "LI": {
     "name": "列支敦士登",
     "fullName": "列支敦士登公國"
   },
-  {
-    "code2": "LT",
+  "LT": {
     "name": "立陶宛",
     "fullName": "立陶宛共和國"
   },
-  {
-    "code2": "LU",
+  "LU": {
     "name": "盧森堡",
     "fullName": "盧森堡大公國"
   },
-  {
-    "code2": "MG",
+  "MG": {
     "name": "馬達加斯加",
     "fullName": "馬達加斯加共和國"
   },
-  {
-    "code2": "MW",
+  "MW": {
     "name": "馬拉維",
     "fullName": "馬拉維共和國"
   },
-  {
-    "code2": "MY",
+  "MY": {
     "name": "馬來西亞",
     "fullName": "馬來西亞"
   },
-  {
-    "code2": "MV",
+  "MV": {
     "name": "馬爾代夫",
     "fullName": "馬爾代夫共和國"
   },
-  {
-    "code2": "ML",
+  "ML": {
     "name": "馬裡",
     "fullName": "馬裡共和國"
   },
-  {
-    "code2": "MT",
+  "MT": {
     "name": "馬耳他",
     "fullName": "馬耳他共和國"
   },
-  {
-    "code2": "MH",
+  "MH": {
     "name": "馬紹爾群島",
     "fullName": "馬紹爾群島共和國"
   },
-  {
-    "code2": "MR",
+  "MR": {
     "name": "毛里塔尼亞",
     "fullName": "毛里塔尼亞伊斯蘭共和國"
   },
-  {
-    "code2": "MU",
+  "MU": {
     "name": "毛里求斯",
     "fullName": "毛里求斯共和國"
   },
-  {
-    "code2": "MX",
+  "MX": {
     "name": "墨西哥",
     "fullName": "墨西哥合眾國"
   },
-  {
-    "code2": "FM",
+  "FM": {
     "name": "密克羅尼西亞",
     "fullName": "密克羅尼西亞聯邦"
   },
-  {
-    "code2": "MD",
+  "MD": {
     "name": "摩爾多瓦",
     "fullName": "摩爾多瓦共和國"
   },
-  {
-    "code2": "MC",
+  "MC": {
     "name": "摩納哥",
     "fullName": "摩納哥公國"
   },
-  {
-    "code2": "MN",
+  "MN": {
     "name": "蒙古",
     "fullName": "蒙古國"
   },
-  {
-    "code2": "ME",
+  "ME": {
     "name": "黑山",
     "fullName": "黑山"
   },
-  {
-    "code2": "MA",
+  "MA": {
     "name": "摩洛哥",
     "fullName": "摩洛哥王國"
   },
-  {
-    "code2": "MZ",
+  "MZ": {
     "name": "莫桑比克",
     "fullName": "莫桑比克共和國"
   },
-  {
-    "code2": "MM",
+  "MM": {
     "name": "緬甸",
     "fullName": "緬甸聯邦共和國"
   },
-  {
-    "code2": "NA",
+  "NA": {
     "name": "納米比亞",
     "fullName": "納米比亞共和國"
   },
-  {
-    "code2": "NR",
+  "NR": {
     "name": "瑙魯",
     "fullName": "瑙魯共和國"
   },
-  {
-    "code2": "NP",
+  "NP": {
     "name": "尼泊爾",
     "fullName": "尼泊爾聯邦民主共和國"
   },
-  {
-    "code2": "NL",
+  "NL": {
     "name": "荷蘭",
     "fullName": "荷蘭王國"
   },
-  {
-    "code2": "NZ",
+  "NZ": {
     "name": "新西蘭",
     "fullName": "新西蘭"
   },
-  {
-    "code2": "NI",
+  "NI": {
     "name": "尼加拉瓜",
     "fullName": "尼加拉瓜共和國"
   },
-  {
-    "code2": "NE",
+  "NE": {
     "name": "尼日爾",
     "fullName": "尼日爾共和國"
   },
-  {
-    "code2": "NG",
+  "NG": {
     "name": "尼日利亞",
     "fullName": "尼日利亞聯邦共和國"
   },
-  {
-    "code2": "MK",
+  "MK": {
     "name": "北馬其頓",
     "fullName": "北馬其頓共和國"
   },
-  {
-    "code2": "NO",
+  "NO": {
     "name": "挪威",
     "fullName": "挪威王國"
   },
-  {
-    "code2": "OM",
+  "OM": {
     "name": "阿曼",
     "fullName": "阿曼蘇丹國"
   },
-  {
-    "code2": "PK",
+  "PK": {
     "name": "巴基斯坦",
     "fullName": "巴基斯坦伊斯蘭共和國"
   },
-  {
-    "code2": "PW",
+  "PW": {
     "name": "帕勞",
     "fullName": "帕勞共和國"
   },
-  {
-    "code2": "PA",
+  "PA": {
     "name": "巴拿馬",
     "fullName": "巴拿馬共和國"
   },
-  {
-    "code2": "PG",
+  "PG": {
     "name": "巴布亞新幾內亞",
     "fullName": "巴布亞新幾內亞獨立國"
   },
-  {
-    "code2": "PY",
+  "PY": {
     "name": "巴拉圭",
     "fullName": "巴拉圭共和國"
   },
-  {
-    "code2": "PE",
+  "PE": {
     "name": "秘魯",
     "fullName": "秘魯共和國"
   },
-  {
-    "code2": "PH",
+  "PH": {
     "name": "菲律賓",
     "fullName": "菲律賓共和國"
   },
-  {
-    "code2": "PL",
+  "PL": {
     "name": "波蘭",
     "fullName": "波蘭共和國"
   },
-  {
-    "code2": "PT",
+  "PT": {
     "name": "葡萄牙",
     "fullName": "葡萄牙共和國"
   },
-  {
-    "code2": "QA",
+  "QA": {
     "name": "卡塔爾",
     "fullName": "卡塔爾國"
   },
-  {
-    "code2": "RO",
+  "RO": {
     "name": "羅馬尼亞",
     "fullName": "羅馬尼亞"
   },
-  {
-    "code2": "RU",
+  "RU": {
     "name": "俄羅斯",
     "fullName": "俄羅斯聯邦"
   },
-  {
-    "code2": "RW",
+  "RW": {
     "name": "盧旺達",
     "fullName": "盧旺達共和國"
   },
-  {
-    "code2": "KN",
+  "KN": {
     "name": "聖基茨和尼維斯",
     "fullName": "聖基茨和尼維斯聯邦"
   },
-  {
-    "code2": "LC",
+  "LC": {
     "name": "聖盧西亞",
     "fullName": "聖盧西亞"
   },
-  {
-    "code2": "VC",
+  "VC": {
     "name": "聖文森特和格林納丁斯",
     "fullName": "聖文森特和格林納丁斯"
   },
-  {
-    "code2": "WS",
+  "WS": {
     "name": "薩摩亞",
     "fullName": "薩摩亞獨立國"
   },
-  {
-    "code2": "SM",
+  "SM": {
     "name": "聖馬力諾",
     "fullName": "聖馬力諾共和國"
   },
-  {
-    "code2": "ST",
+  "ST": {
     "name": "聖多美和普林西比",
     "fullName": "聖多美和普林西比民主共和國"
   },
-  {
-    "code2": "SA",
+  "SA": {
     "name": "沙特阿拉伯",
     "fullName": "沙特阿拉伯王國"
   },
-  {
-    "code2": "SN",
+  "SN": {
     "name": "塞內加爾",
     "fullName": "塞內加爾共和國"
   },
-  {
-    "code2": "RS",
+  "RS": {
     "name": "塞爾維亞",
     "fullName": "塞爾維亞共和國"
   },
-  {
-    "code2": "SC",
+  "SC": {
     "name": "塞舌爾",
     "fullName": "塞舌爾共和國"
   },
-  {
-    "code2": "SL",
+  "SL": {
     "name": "塞拉利昂",
     "fullName": "塞拉利昂共和國"
   },
-  {
-    "code2": "SG",
+  "SG": {
     "name": "新加坡",
     "fullName": "新加坡共和國"
   },
-  {
-    "code2": "SK",
+  "SK": {
     "name": "斯洛伐克",
     "fullName": "斯洛伐克共和國"
   },
-  {
-    "code2": "SI",
+  "SI": {
     "name": "斯洛文尼亞",
     "fullName": "斯洛文尼亞共和國"
   },
-  {
-    "code2": "SB",
+  "SB": {
     "name": "所羅門群島",
     "fullName": "所羅門群島"
   },
-  {
-    "code2": "SO",
+  "SO": {
     "name": "索馬里",
     "fullName": "索馬里聯邦共和國"
   },
-  {
-    "code2": "ZA",
+  "ZA": {
     "name": "南非",
     "fullName": "南非共和國"
   },
-  {
-    "code2": "SS",
+  "SS": {
     "name": "南蘇丹",
     "fullName": "南蘇丹共和國"
   },
-  {
-    "code2": "ES",
+  "ES": {
     "name": "西班牙",
     "fullName": "西班牙王國"
   },
-  {
-    "code2": "LK",
+  "LK": {
     "name": "斯里蘭卡",
     "fullName": "斯里蘭卡民主社會主義共和國"
   },
-  {
-    "code2": "SD",
+  "SD": {
     "name": "蘇丹",
     "fullName": "蘇丹共和國"
   },
-  {
-    "code2": "SR",
+  "SR": {
     "name": "蘇里南",
     "fullName": "蘇里南共和國"
   },
-  {
-    "code2": "SE",
+  "SE": {
     "name": "瑞典",
     "fullName": "瑞典王國"
   },
-  {
-    "code2": "CH",
+  "CH": {
     "name": "瑞士",
     "fullName": "瑞士聯邦"
   },
-  {
-    "code2": "SY",
+  "SY": {
     "name": "敘利亞",
     "fullName": "阿拉伯敘利亞共和國"
   },
-  {
-    "code2": "TJ",
+  "TJ": {
     "name": "塔吉克斯坦",
     "fullName": "塔吉克斯坦共和國"
   },
-  {
-    "code2": "TZ",
+  "TZ": {
     "name": "坦桑尼亞",
     "fullName": "坦桑尼亞聯合共和國"
   },
-  {
-    "code2": "TH",
+  "TH": {
     "name": "泰國",
     "fullName": "泰王國"
   },
-  {
-    "code2": "TL",
+  "TL": {
     "name": "東帝汶",
     "fullName": "東帝汶民主共和國"
   },
-  {
-    "code2": "TG",
+  "TG": {
     "name": "多哥",
     "fullName": "多哥共和國"
   },
-  {
-    "code2": "TO",
+  "TO": {
     "name": "湯加",
     "fullName": "湯加王國"
   },
-  {
-    "code2": "TT",
+  "TT": {
     "name": "特立尼達和多巴哥",
     "fullName": "特立尼達和多巴哥共和國"
   },
-  {
-    "code2": "TN",
+  "TN": {
     "name": "突尼斯",
     "fullName": "突尼斯共和國"
   },
-  {
-    "code2": "TR",
+  "TR": {
     "name": "土耳其",
     "fullName": "土耳其共和國"
   },
-  {
-    "code2": "TM",
+  "TM": {
     "name": "土庫曼斯坦",
     "fullName": "土庫曼斯坦"
   },
-  {
-    "code2": "TV",
+  "TV": {
     "name": "圖瓦盧",
     "fullName": "圖瓦盧"
   },
-  {
-    "code2": "UG",
+  "UG": {
     "name": "烏干達",
     "fullName": "烏干達共和國"
   },
-  {
-    "code2": "UA",
+  "UA": {
     "name": "烏克蘭",
     "fullName": "烏克蘭"
   },
-  {
-    "code2": "AE",
+  "AE": {
     "name": "阿拉伯聯合酋長國",
     "fullName": "阿拉伯聯合酋長國"
   },
-  {
-    "code2": "GB",
+  "GB": {
     "name": "英國",
     "fullName": "大不列顛及北愛爾蘭聯合王國"
   },
-  {
-    "code2": "US",
+  "US": {
     "name": "美國",
     "fullName": "美利堅合眾國"
   },
-  {
-    "code2": "UY",
+  "UY": {
     "name": "烏拉圭",
     "fullName": "烏拉圭東岸共和國"
   },
-  {
-    "code2": "UZ",
+  "UZ": {
     "name": "烏茲別克斯坦",
     "fullName": "烏茲別克斯坦共和國"
   },
-  {
-    "code2": "VU",
+  "VU": {
     "name": "瓦努阿圖",
     "fullName": "瓦努阿圖共和國"
   },
-  {
-    "code2": "VE",
+  "VE": {
     "name": "委內瑞拉",
     "fullName": "委內瑞拉玻利瓦爾共和國"
   },
-  {
-    "code2": "VN",
+  "VN": {
     "name": "越南",
     "fullName": "越南社會主義共和國"
   },
-  {
-    "code2": "YE",
+  "YE": {
     "name": "也門",
     "fullName": "也門共和國"
   },
-  {
-    "code2": "ZM",
+  "ZM": {
     "name": "贊比亞",
     "fullName": "贊比亞共和國"
   },
-  {
-    "code2": "ZW",
+  "ZW": {
     "name": "津巴布韋",
     "fullName": "津巴布韋共和國"
   },
-  {
-    "code2": "HK",
+  "HK": {
     "name": "香港",
     "fullName": "中國香港特別行政區"
   },
-  {
-    "code2": "MO",
+  "MO": {
     "name": "澳門",
     "fullName": "中國澳門特別行政區"
   },
-  {
-    "code2": "TW",
+  "TW": {
     "name": "臺灣",
     "fullName": "中國臺灣地區"
   },
-  {
-    "code2": "PS",
+  "PS": {
     "name": "巴勒斯坦",
     "fullName": "巴勒斯坦國"
   },
-  {
-    "code2": "XK",
+  "XK": {
     "name": "科索沃",
     "fullName": "科索沃共和國"
   },
-  {
-    "code2": "VA",
+  "VA": {
     "name": "梵蒂岡",
     "fullName": "梵蒂岡城國"
   },
-  {
-    "code2": "PR",
+  "PR": {
     "name": "波多黎各",
     "fullName": "波多黎各自由邦"
   },
-  {
-    "code2": "GU",
+  "GU": {
     "name": "關島",
     "fullName": "關島"
   },
-  {
-    "code2": "GL",
+  "GL": {
     "name": "格陵蘭",
     "fullName": "格陵蘭"
   },
-  {
-    "code2": "FO",
+  "FO": {
     "name": "法羅群島",
     "fullName": "法羅群島"
   },
-  {
-    "code2": "NC",
+  "NC": {
     "name": "新喀里多尼亞",
     "fullName": "新喀里多尼亞"
   },
-  {
-    "code2": "PF",
+  "PF": {
     "name": "法屬波利尼西亞",
     "fullName": "法屬波利尼西亞"
   },
-  {
-    "code2": "BM",
+  "BM": {
     "name": "百慕大",
     "fullName": "百慕大"
   },
-  {
-    "code2": "KY",
+  "KY": {
     "name": "開曼群島",
     "fullName": "開曼群島"
   },
-  {
-    "code2": "VI",
+  "VI": {
     "name": "美屬維爾京群島",
     "fullName": "美屬維爾京群島"
   },
-  {
-    "code2": "CW",
+  "CW": {
     "name": "庫拉索",
     "fullName": "庫拉索"
   },
-  {
-    "code2": "AW",
+  "AW": {
     "name": "阿魯巴",
     "fullName": "阿魯巴"
   },
-  {
-    "code2": "GI",
+  "GI": {
     "name": "直布羅陀",
     "fullName": "直布羅陀"
   },
-  {
-    "code2": "JE",
+  "JE": {
     "name": "澤西",
     "fullName": "澤西行政區"
   },
-  {
-    "code2": "GG",
+  "GG": {
     "name": "根西",
     "fullName": "根西行政區"
   },
-  {
-    "code2": "IM",
+  "IM": {
     "name": "馬恩島",
     "fullName": "馬恩島"
   },
-  {
-    "code2": "TC",
+  "TC": {
     "name": "特克斯和凱科斯群島",
     "fullName": "特克斯和凱科斯群島"
   },
-  {
-    "code2": "VG",
+  "VG": {
     "name": "英屬維爾京群島",
     "fullName": "英屬維爾京群島"
   },
-  {
-    "code2": "AI",
+  "AI": {
     "name": "安圭拉",
     "fullName": "安圭拉"
   },
-  {
-    "code2": "MS",
+  "MS": {
     "name": "蒙特塞拉特",
     "fullName": "蒙特塞拉特"
   },
-  {
-    "code2": "SH",
+  "SH": {
     "name": "聖赫勒拿",
     "fullName": "聖赫勒拿、阿森松和特里斯坦-達庫尼亞"
   },
-  {
-    "code2": "FK",
+  "FK": {
     "name": "福克蘭群島",
     "fullName": "福克蘭群島"
   },
-  {
-    "code2": "GF",
+  "GF": {
     "name": "法屬圭亞那",
     "fullName": "法屬圭亞那"
   },
-  {
-    "code2": "GP",
+  "GP": {
     "name": "瓜德羅普",
     "fullName": "瓜德羅普"
   },
-  {
-    "code2": "MQ",
+  "MQ": {
     "name": "馬提尼克",
     "fullName": "馬提尼克"
   },
-  {
-    "code2": "RE",
+  "RE": {
     "name": "留尼汪",
     "fullName": "留尼汪"
   },
-  {
-    "code2": "MF",
+  "MF": {
     "name": "聖馬丁",
     "fullName": "聖馬丁集體"
   },
-  {
-    "code2": "PM",
+  "PM": {
     "name": "聖皮埃爾和密克隆",
     "fullName": "聖皮埃爾和密克隆"
   },
-  {
-    "code2": "WF",
+  "WF": {
     "name": "瓦利斯和富圖納",
     "fullName": "瓦利斯和富圖納群島"
   },
-  {
-    "code2": "YT",
+  "YT": {
     "name": "馬約特",
     "fullName": "馬約特"
   },
-  {
-    "code2": "AS",
+  "AS": {
     "name": "美屬薩摩亞",
     "fullName": "美屬薩摩亞"
   },
-  {
-    "code2": "MP",
+  "MP": {
     "name": "北馬里亞納群島",
     "fullName": "北馬里亞納群島聯邦"
   },
-  {
-    "code2": "CX",
+  "CX": {
     "name": "聖誕島",
     "fullName": "聖誕島"
   },
-  {
-    "code2": "CC",
+  "CC": {
     "name": "科科斯群島",
     "fullName": "科科斯（基林）群島"
   },
-  {
-    "code2": "NF",
+  "NF": {
     "name": "諾福克島",
     "fullName": "諾福克島"
   },
-  {
-    "code2": "PN",
+  "PN": {
     "name": "皮特凱恩群島",
     "fullName": "皮特凱恩群島"
   },
-  {
-    "code2": "TK",
+  "TK": {
     "name": "托克勞",
     "fullName": "托克勞"
   },
-  {
-    "code2": "NU",
+  "NU": {
     "name": "紐埃",
     "fullName": "紐埃"
   },
-  {
-    "code2": "CK",
+  "CK": {
     "name": "庫克群島",
     "fullName": "庫克群島"
   },
-  {
-    "code2": "EH",
+  "EH": {
     "name": "西撒哈拉",
     "fullName": "西撒哈拉"
   },
-  {
-    "code2": "AX",
+  "AX": {
     "name": "奧蘭群島",
     "fullName": "奧蘭群島"
   },
-  {
-    "code2": "BL",
+  "BL": {
     "name": "聖巴泰勒米",
     "fullName": "聖巴泰勒米集體"
   },
-  {
-    "code2": "IO",
+  "IO": {
     "name": "英屬印度洋領地",
     "fullName": "英屬印度洋領地"
   },
-  {
-    "code2": "SX",
+  "SX": {
     "name": "聖馬丁（荷蘭部分）",
     "fullName": "荷屬聖馬丁"
   },
-  {
-    "code2": "BQ",
+  "BQ": {
     "name": "荷蘭加勒比區",
     "fullName": "博奈爾、聖尤斯特歇斯和薩巴"
   },
-  {
-    "code2": "TF",
+  "TF": {
     "name": "法屬南部領地",
     "fullName": "法屬南部和南極領地"
   },
-  {
-    "code2": "GS",
+  "GS": {
     "name": "南喬治亞和南桑威奇群島",
     "fullName": "南喬治亞和南桑威奇群島"
   },
-  {
-    "code2": "HM",
+  "HM": {
     "name": "赫德島和麥克唐納群島",
     "fullName": "赫德島和麥克唐納群島"
   },
-  {
-    "code2": "AQ",
+  "AQ": {
     "name": "南極洲",
     "fullName": "南極洲"
   }
-]
+}

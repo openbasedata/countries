@@ -53,11 +53,10 @@ Translations are stored in `/translations`, one file per locale (for example: `/
 Each translation file has this structure:
 
 ```json
-[
-  {
-    "code2": "CN",
+{
+  "CN": {
     "name": "China",
     "fullName": "People's Republic of China"
   }
-]
+}
 ```
