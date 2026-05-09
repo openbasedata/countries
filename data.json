@@ -3,1912 +3,1674 @@
     "code2": "AF",
     "code3": "AFG",
     "flag": "🇦🇫",
-    "name": {
-      "native": "افغانستان"
-    },
-    "fullName": {
-      "native": "د افغانستان اسلامي جمهوریت"
-    },
     "population": 40099462,
     "area": 652230,
     "languages": [
       "ps",
       "uz",
       "tk"
-    ]
+    ],
+    "nativeName": "افغانستان",
+    "nativeFullName": "د افغانستان اسلامي جمهوریت",
+    "name": "Afghanistan",
+    "fullName": "Islamic Republic of Afghanistan"
   },
   {
     "code2": "AL",
     "code3": "ALB",
     "flag": "🇦🇱",
-    "name": {
-      "native": "Shqipëria"
-    },
-    "fullName": {
-      "native": "Republika e Shqipërisë"
-    },
     "population": 2877797,
     "area": 28748,
     "languages": [
       "sq"
-    ]
+    ],
+    "nativeName": "Shqipëria",
+    "nativeFullName": "Republika e Shqipërisë",
+    "name": "Albania",
+    "fullName": "Republic of Albania"
   },
   {
     "code2": "DZ",
     "code3": "DZA",
     "flag": "🇩🇿",
-    "name": {
-      "native": "الجزائر"
-    },
-    "fullName": {
-      "native": "الجمهورية الديمقراطية الشعبية الجزائرية"
-    },
     "population": 44903225,
     "area": 2381741,
     "languages": [
       "ar"
-    ]
+    ],
+    "nativeName": "الجزائر",
+    "nativeFullName": "الجمهورية الديمقراطية الشعبية الجزائرية",
+    "name": "Algeria",
+    "fullName": "People's Democratic Republic of Algeria"
   },
   {
     "code2": "AD",
     "code3": "AND",
     "flag": "🇦🇩",
-    "name": {
-      "native": "Andorra"
-    },
-    "fullName": {
-      "native": "Principat d'Andorra"
-    },
     "population": 77265,
     "area": 468,
     "languages": [
       "ca"
-    ]
+    ],
+    "nativeName": "Andorra",
+    "nativeFullName": "Principat d'Andorra",
+    "name": "Andorra",
+    "fullName": "Principality of Andorra"
   },
   {
     "code2": "AO",
     "code3": "AGO",
     "flag": "🇦🇴",
-    "name": {
-      "native": "Angola"
-    },
-    "fullName": {
-      "native": "República de Angola"
-    },
     "population": 34503774,
     "area": 1246700,
     "languages": [
       "pt"
-    ]
+    ],
+    "nativeName": "Angola",
+    "nativeFullName": "República de Angola",
+    "name": "Angola",
+    "fullName": "Republic of Angola"
   },
   {
     "code2": "AG",
     "code3": "ATG",
     "flag": "🇦🇬",
-    "name": {
-      "native": "Antigua and Barbuda"
-    },
-    "fullName": {
-      "native": "Antigua and Barbuda"
-    },
     "population": 93219,
     "area": 442,
     "languages": [
       "en"
-    ]
+    ],
+    "nativeName": "Antigua and Barbuda",
+    "nativeFullName": "Antigua and Barbuda",
+    "name": "Antigua and Barbuda",
+    "fullName": "Antigua and Barbuda"
   },
   {
     "code2": "AR",
     "code3": "ARG",
     "flag": "🇦🇷",
-    "name": {
-      "native": "Argentina"
-    },
-    "fullName": {
-      "native": "República Argentina"
-    },
     "population": 45195777,
     "area": 2780400,
     "languages": [
       "es"
-    ]
+    ],
+    "nativeName": "Argentina",
+    "nativeFullName": "República Argentina",
+    "name": "Argentina",
+    "fullName": "Argentine Republic"
   },
   {
     "code2": "AM",
     "code3": "ARM",
     "flag": "🇦🇲",
-    "name": {
-      "native": "Հայաստան"
-    },
-    "fullName": {
-      "native": "Հայաստանի Հանրապետություն"
-    },
     "population": 2971966,
     "area": 29743,
     "languages": [
       "hy"
-    ]
+    ],
+    "nativeName": "Հայաստան",
+    "nativeFullName": "Հայաստանի Հանրապետություն",
+    "name": "Armenia",
+    "fullName": "Republic of Armenia"
   },
   {
     "code2": "AU",
     "code3": "AUS",
     "flag": "🇦🇺",
-    "name": {
-      "native": "Australia"
-    },
-    "fullName": {
-      "native": "Commonwealth of Australia"
-    },
     "population": 25921000,
     "area": 7692024,
     "languages": [
       "en"
-    ]
+    ],
+    "nativeName": "Australia",
+    "nativeFullName": "Commonwealth of Australia",
+    "name": "Australia",
+    "fullName": "Commonwealth of Australia"
   },
   {
     "code2": "AT",
     "code3": "AUT",
     "flag": "🇦🇹",
-    "name": {
-      "native": "Österreich"
-    },
-    "fullName": {
-      "native": "Republik Österreich"
-    },
     "population": 9043070,
     "area": 83871,
     "languages": [
       "de"
-    ]
+    ],
+    "nativeName": "Österreich",
+    "nativeFullName": "Republik Österreich",
+    "name": "Austria",
+    "fullName": "Republic of Austria"
   },
   {
     "code2": "AZ",
     "code3": "AZE",
     "flag": "🇦🇿",
-    "name": {
-      "native": "Azərbaycan"
-    },
-    "fullName": {
-      "native": "Azərbaycan Respublikası"
-    },
     "population": 10139177,
     "area": 86600,
     "languages": [
       "az"
-    ]
+    ],
+    "nativeName": "Azərbaycan",
+    "nativeFullName": "Azərbaycan Respublikası",
+    "name": "Azerbaijan",
+    "fullName": "Republic of Azerbaijan"
   },
   {
     "code2": "BS",
     "code3": "BHS",
     "flag": "🇧🇸",
-    "name": {
-      "native": "Bahamas"
-    },
-    "fullName": {
-      "native": "Commonwealth of the Bahamas"
-    },
     "population": 393244,
     "area": 13943,
     "languages": [
       "en"
-    ]
+    ],
+    "nativeName": "Bahamas",
+    "nativeFullName": "Commonwealth of the Bahamas",
+    "name": "Bahamas",
+    "fullName": "Commonwealth of the Bahamas"
   },
   {
     "code2": "BH",
     "code3": "BHR",
     "flag": "🇧🇭",
-    "name": {
-      "native": "البحرين"
-    },
-    "fullName": {
-      "native": "مملكة البحرين"
-    },
     "population": 1472233,
     "area": 765,
     "languages": [
       "ar"
-    ]
+    ],
+    "nativeName": "البحرين",
+    "nativeFullName": "مملكة البحرين",
+    "name": "Bahrain",
+    "fullName": "Kingdom of Bahrain"
   },
   {
     "code2": "BD",
     "code3": "BGD",
     "flag": "🇧🇩",
-    "name": {
-      "native": "বাংলাদেশ"
-    },
-    "fullName": {
-      "native": "বাংলাদেশ গণপ্রজাতন্ত্রী"
-    },
     "population": 169356251,
     "area": 147570,
     "languages": [
       "bn"
-    ]
+    ],
+    "nativeName": "বাংলাদেশ",
+    "nativeFullName": "বাংলাদেশ গণপ্রজাতন্ত্রী",
+    "name": "Bangladesh",
+    "fullName": "People's Republic of Bangladesh"
   },
   {
     "code2": "BB",
     "code3": "BRB",
     "flag": "🇧🇧",
-    "name": {
-      "native": "Barbados"
-    },
-    "fullName": {
-      "native": "Barbados"
-    },
     "population": 287375,
     "area": 430,
     "languages": [
       "en"
-    ]
+    ],
+    "nativeName": "Barbados",
+    "nativeFullName": "Barbados",
+    "name": "Barbados",
+    "fullName": "Barbados"
   },
   {
     "code2": "BY",
     "code3": "BLR",
     "flag": "🇧🇾",
-    "name": {
-      "native": "Белару́сь"
-    },
-    "fullName": {
-      "native": "Рэспубліка Беларусь"
-    },
     "population": 9441900,
     "area": 207600,
     "languages": [
       "be",
       "ru"
-    ]
+    ],
+    "nativeName": "Белару́сь",
+    "nativeFullName": "Рэспубліка Беларусь",
+    "name": "Belarus",
+    "fullName": "Republic of Belarus"
   },
   {
     "code2": "BE",
     "code3": "BEL",
     "flag": "🇧🇪",
-    "name": {
-      "native": "België"
-    },
-    "fullName": {
-      "native": "Koninkrijk België"
-    },
     "population": 11589623,
     "area": 30528,
     "languages": [
       "nl",
       "fr",
       "de"
-    ]
+    ],
+    "nativeName": "België",
+    "nativeFullName": "Koninkrijk België",
+    "name": "Belgium",
+    "fullName": "Kingdom of Belgium"
   },
   {
     "code2": "BZ",
     "code3": "BLZ",
     "flag": "🇧🇿",
-    "name": {
-      "native": "Belize"
-    },
-    "fullName": {
-      "native": "Belize"
-    },
     "population": 419199,
     "area": 22966,
     "languages": [
       "en"
-    ]
+    ],
+    "nativeName": "Belize",
+    "nativeFullName": "Belize",
+    "name": "Belize",
+    "fullName": "Belize"
   },
   {
     "code2": "BJ",
     "code3": "BEN",
     "flag": "🇧🇯",
-    "name": {
-      "native": "Bénin"
-    },
-    "fullName": {
-      "native": "République du Bénin"
-    },
     "population": 12123200,
     "area": 112622,
     "languages": [
       "fr"
-    ]
+    ],
+    "nativeName": "Bénin",
+    "nativeFullName": "République du Bénin",
+    "name": "Benin",
+    "fullName": "Republic of Benin"
   },
   {
     "code2": "BT",
     "code3": "BTN",
     "flag": "🇧🇹",
-    "name": {
-      "native": "འབྲུག་ཡུལ་"
-    },
-    "fullName": {
-      "native": "འབྲུག་རྒྱལ་ཁབ་"
-    },
     "population": 771608,
     "area": 38394,
     "languages": [
       "dz"
-    ]
+    ],
+    "nativeName": "འབྲུག་ཡུལ་",
+    "nativeFullName": "འབྲུག་རྒྱལ་ཁབ་",
+    "name": "Bhutan",
+    "fullName": "Kingdom of Bhutan"
   },
   {
     "code2": "BO",
     "code3": "BOL",
     "flag": "🇧🇴",
-    "name": {
-      "native": "Bolivia"
-    },
-    "fullName": {
-      "native": "Estado Plurinacional de Bolivia"
-    },
     "population": 11513100,
     "area": 1098581,
     "languages": [
       "es",
       "qu",
       "ay"
-    ]
+    ],
+    "nativeName": "Bolivia",
+    "nativeFullName": "Estado Plurinacional de Bolivia",
+    "name": "Bolivia",
+    "fullName": "Plurinational State of Bolivia"
   },
   {
     "code2": "BA",
     "code3": "BIH",
     "flag": "🇧🇦",
-    "name": {
-      "native": "Bosna i Hercegovina"
-    },
-    "fullName": {
-      "native": "Bosna i Hercegovina"
-    },
     "population": 3280819,
     "area": 51197,
     "languages": [
       "bs",
       "hr",
       "sr"
-    ]
+    ],
+    "nativeName": "Bosna i Hercegovina",
+    "nativeFullName": "Bosna i Hercegovina",
+    "name": "Bosnia and Herzegovina",
+    "fullName": "Bosnia and Herzegovina"
   },
   {
     "code2": "BW",
     "code3": "BWA",
     "flag": "🇧🇼",
-    "name": {
-      "native": "Botswana"
-    },
-    "fullName": {
-      "native": "Republic of Botswana"
-    },
     "population": 2630296,
     "area": 581730,
     "languages": [
       "en",
       "tn"
-    ]
+    ],
+    "nativeName": "Botswana",
+    "nativeFullName": "Republic of Botswana",
+    "name": "Botswana",
+    "fullName": "Republic of Botswana"
   },
   {
     "code2": "BR",
     "code3": "BRA",
     "flag": "🇧🇷",
-    "name": {
-      "native": "Brasil"
-    },
-    "fullName": {
-      "native": "República Federativa do Brasil"
-    },
     "population": 215313498,
     "area": 8515767,
     "languages": [
       "pt"
-    ]
+    ],
+    "nativeName": "Brasil",
+    "nativeFullName": "República Federativa do Brasil",
+    "name": "Brazil",
+    "fullName": "Federative Republic of Brazil"
   },
   {
     "code2": "BN",
     "code3": "BRN",
     "flag": "🇧🇳",
-    "name": {
-      "native": "Negara Brunei Darussalam"
-    },
-    "fullName": {
-      "native": "Nation of Brunei, Abode Damai"
-    },
     "population": 441532,
     "area": 5765,
     "languages": [
       "ms"
-    ]
+    ],
+    "nativeName": "Negara Brunei Darussalam",
+    "nativeFullName": "Nation of Brunei, Abode Damai",
+    "name": "Brunei",
+    "fullName": "Nation of Brunei, the Abode of Peace"
   },
   {
     "code2": "BG",
     "code3": "BGR",
     "flag": "🇧🇬",
-    "name": {
-      "native": "България"
-    },
-    "fullName": {
-      "native": "Република България"
-    },
     "population": 6520314,
     "area": 110879,
     "languages": [
       "bg"
-    ]
+    ],
+    "nativeName": "България",
+    "nativeFullName": "Република България",
+    "name": "Bulgaria",
+    "fullName": "Republic of Bulgaria"
   },
   {
     "code2": "BF",
     "code3": "BFA",
     "flag": "🇧🇫",
-    "name": {
-      "native": "Burkina Faso"
-    },
-    "fullName": {
-      "native": "République du Burkina"
-    },
     "population": 22102838,
     "area": 274222,
     "languages": [
       "fr"
-    ]
+    ],
+    "nativeName": "Burkina Faso",
+    "nativeFullName": "République du Burkina",
+    "name": "Burkina Faso",
+    "fullName": "Burkina Faso"
   },
   {
     "code2": "BI",
     "code3": "BDI",
     "flag": "🇧🇮",
-    "name": {
-      "native": "Burundi"
-    },
-    "fullName": {
-      "native": "République du Burundi"
-    },
     "population": 12574571,
     "area": 27834,
     "languages": [
       "fr",
       "rn"
-    ]
+    ],
+    "nativeName": "Burundi",
+    "nativeFullName": "République du Burundi",
+    "name": "Burundi",
+    "fullName": "Republic of Burundi"
   },
   {
     "code2": "CV",
     "code3": "CPV",
     "flag": "🇨🇻",
-    "name": {
-      "native": "Cabo Verde"
-    },
-    "fullName": {
-      "native": "República de Cabo Verde"
-    },
     "population": 593149,
     "area": 4033,
     "languages": [
       "pt"
-    ]
+    ],
+    "nativeName": "Cabo Verde",
+    "nativeFullName": "República de Cabo Verde",
+    "name": "Cape Verde",
+    "fullName": "Republic of Cabo Verde"
   },
   {
     "code2": "KH",
     "code3": "KHM",
     "flag": "🇰🇭",
-    "name": {
-      "native": "Kâmpŭchéa"
-    },
-    "fullName": {
-      "native": "ព្រះរាជាណាចក្រកម្ពុជា"
-    },
     "population": 16589023,
     "area": 181035,
     "languages": [
       "km"
-    ]
+    ],
+    "nativeName": "Kâmpŭchéa",
+    "nativeFullName": "ព្រះរាជាណាចក្រកម្ពុជា",
+    "name": "Cambodia",
+    "fullName": "Kingdom of Cambodia"
   },
   {
     "code2": "CM",
     "code3": "CMR",
     "flag": "🇨🇲",
-    "name": {
-      "native": "Cameroun"
-    },
-    "fullName": {
-      "native": "République du Cameroun"
-    },
     "population": 27914536,
     "area": 475442,
     "languages": [
       "fr",
       "en"
-    ]
+    ],
+    "nativeName": "Cameroun",
+    "nativeFullName": "République du Cameroun",
+    "name": "Cameroon",
+    "fullName": "Republic of Cameroon"
   },
   {
     "code2": "CA",
     "code3": "CAN",
     "flag": "🇨🇦",
-    "name": {
-      "native": "Canada"
-    },
-    "fullName": {
-      "native": "Canada"
-    },
     "population": 38246108,
     "area": 9984670,
     "languages": [
       "en",
       "fr"
-    ]
+    ],
+    "nativeName": "Canada",
+    "nativeFullName": "Canada",
+    "name": "Canada",
+    "fullName": "Canada"
   },
   {
     "code2": "CF",
     "code3": "CAF",
     "flag": "🇨🇫",
-    "name": {
-      "native": "République centrafricaine"
-    },
-    "fullName": {
-      "native": "République centrafricaine"
-    },
     "population": 5579144,
     "area": 622984,
     "languages": [
       "fr",
       "sg"
-    ]
+    ],
+    "nativeName": "République centrafricaine",
+    "nativeFullName": "République centrafricaine",
+    "name": "Central African Republic",
+    "fullName": "Central African Republic"
   },
   {
     "code2": "TD",
     "code3": "TCD",
     "flag": "🇹🇩",
-    "name": {
-      "native": "Tchad"
-    },
-    "fullName": {
-      "native": "République du Tchad"
-    },
     "population": 17413580,
     "area": 1284000,
     "languages": [
       "fr",
       "ar"
-    ]
+    ],
+    "nativeName": "Tchad",
+    "nativeFullName": "République du Tchad",
+    "name": "Chad",
+    "fullName": "Republic of Chad"
   },
   {
     "code2": "CL",
     "code3": "CHL",
     "flag": "🇨🇱",
-    "name": {
-      "native": "Chile"
-    },
-    "fullName": {
-      "native": "República de Chile"
-    },
     "population": 19116201,
     "area": 756102,
     "languages": [
       "es"
-    ]
+    ],
+    "nativeName": "Chile",
+    "nativeFullName": "República de Chile",
+    "name": "Chile",
+    "fullName": "Republic of Chile"
   },
   {
     "code2": "CN",
     "code3": "CHN",
     "flag": "🇨🇳",
-    "name": {
-      "native": "中国"
-    },
-    "fullName": {
-      "native": "中华人民共和国"
-    },
     "population": 1413400000,
     "area": 9596961,
     "languages": [
       "zh"
-    ]
+    ],
+    "nativeName": "中国",
+    "nativeFullName": "中华人民共和国",
+    "name": "China",
+    "fullName": "People's Republic of China"
   },
   {
     "code2": "CO",
     "code3": "COL",
     "flag": "🇨🇴",
-    "name": {
-      "native": "Colombia"
-    },
-    "fullName": {
-      "native": "República de Colombia"
-    },
     "population": 51874024,
     "area": 1141748,
     "languages": [
       "es"
-    ]
+    ],
+    "nativeName": "Colombia",
+    "nativeFullName": "República de Colombia",
+    "name": "Colombia",
+    "fullName": "Republic of Colombia"
   },
   {
     "code2": "KM",
     "code3": "COM",
     "flag": "🇰🇲",
-    "name": {
-      "native": "القمر"
-    },
-    "fullName": {
-      "native": "الاتحاد القمري"
-    },
     "population": 888451,
     "area": 2235,
     "languages": [
       "ar",
       "fr"
-    ]
+    ],
+    "nativeName": "القمر",
+    "nativeFullName": "الاتحاد القمري",
+    "name": "Comoros",
+    "fullName": "Union of the Comoros"
   },
   {
     "code2": "CG",
     "code3": "COG",
     "flag": "🇨🇬",
-    "name": {
-      "native": "République du Congo"
-    },
-    "fullName": {
-      "native": "République du Congo"
-    },
     "population": 5797805,
     "area": 342000,
     "languages": [
       "fr"
-    ]
+    ],
+    "nativeName": "République du Congo",
+    "nativeFullName": "République du Congo",
+    "name": "Republic of the Congo",
+    "fullName": "Republic of the Congo"
   },
   {
     "code2": "CD",
     "code3": "COD",
     "flag": "🇨🇩",
-    "name": {
-      "native": "RD Congo"
-    },
-    "fullName": {
-      "native": "République démocratique du Congo"
-    },
     "population": 102262808,
     "area": 2344858,
     "languages": [
       "fr"
-    ]
+    ],
+    "nativeName": "RD Congo",
+    "nativeFullName": "République démocratique du Congo",
+    "name": "DR Congo",
+    "fullName": "Democratic Republic of the Congo"
   },
   {
     "code2": "CR",
     "code3": "CRI",
     "flag": "🇨🇷",
-    "name": {
-      "native": "Costa Rica"
-    },
-    "fullName": {
-      "native": "República de Costa Rica"
-    },
     "population": 5153957,
     "area": 51100,
     "languages": [
       "es"
-    ]
+    ],
+    "nativeName": "Costa Rica",
+    "nativeFullName": "República de Costa Rica",
+    "name": "Costa Rica",
+    "fullName": "Republic of Costa Rica"
   },
   {
     "code2": "CI",
     "code3": "CIV",
     "flag": "🇨🇮",
-    "name": {
-      "native": "Côte d'Ivoire"
-    },
-    "fullName": {
-      "native": "République de Côte d'Ivoire"
-    },
     "population": 27478249,
     "area": 322463,
     "languages": [
       "fr"
-    ]
+    ],
+    "nativeName": "Côte d'Ivoire",
+    "nativeFullName": "République de Côte d'Ivoire",
+    "name": "Côte d'Ivoire",
+    "fullName": "Republic of Côte d'Ivoire"
   },
   {
     "code2": "HR",
     "code3": "HRV",
     "flag": "🇭🇷",
-    "name": {
-      "native": "Hrvatska"
-    },
-    "fullName": {
-      "native": "Republika Hrvatska"
-    },
     "population": 3899000,
     "area": 56594,
     "languages": [
       "hr"
-    ]
+    ],
+    "nativeName": "Hrvatska",
+    "nativeFullName": "Republika Hrvatska",
+    "name": "Croatia",
+    "fullName": "Republic of Croatia"
   },
   {
     "code2": "CU",
     "code3": "CUB",
     "flag": "🇨🇺",
-    "name": {
-      "native": "Cuba"
-    },
-    "fullName": {
-      "native": "República de Cuba"
-    },
     "population": 11317505,
     "area": 109884,
     "languages": [
       "es"
-    ]
+    ],
+    "nativeName": "Cuba",
+    "nativeFullName": "República de Cuba",
+    "name": "Cuba",
+    "fullName": "Republic of Cuba"
   },
   {
     "code2": "CY",
     "code3": "CYP",
     "flag": "🇨🇾",
-    "name": {
-      "native": "Κύπρος"
-    },
-    "fullName": {
-      "native": "Δημοκρατία της Κύπρος"
-    },
     "population": 1207359,
     "area": 9251,
     "languages": [
       "el",
       "tr"
-    ]
+    ],
+    "nativeName": "Κύπρος",
+    "nativeFullName": "Δημοκρατία της Κύπρος",
+    "name": "Cyprus",
+    "fullName": "Republic of Cyprus"
   },
   {
     "code2": "CZ",
     "code3": "CZE",
     "flag": "🇨🇿",
-    "name": {
-      "native": "Česko"
-    },
-    "fullName": {
-      "native": "Česká republika"
-    },
     "population": 10900555,
     "area": 78867,
     "languages": [
       "cs"
-    ]
+    ],
+    "nativeName": "Česko",
+    "nativeFullName": "Česká republika",
+    "name": "Czech Republic",
+    "fullName": "Czech Republic"
   },
   {
     "code2": "DK",
     "code3": "DNK",
     "flag": "🇩🇰",
-    "name": {
-      "native": "Danmark"
-    },
-    "fullName": {
-      "native": "Kongeriget Danmark"
-    },
     "population": 5873000,
     "area": 43094,
     "languages": [
       "da"
-    ]
+    ],
+    "nativeName": "Danmark",
+    "nativeFullName": "Kongeriget Danmark",
+    "name": "Denmark",
+    "fullName": "Kingdom of Denmark"
   },
   {
     "code2": "DJ",
     "code3": "DJI",
     "flag": "🇩🇯",
-    "name": {
-      "native": "Djibouti"
-    },
-    "fullName": {
-      "native": "République de Djibouti"
-    },
     "population": 1000000,
     "area": 23200,
     "languages": [
       "fr",
       "ar",
       "so"
-    ]
+    ],
+    "nativeName": "Djibouti",
+    "nativeFullName": "République de Djibouti",
+    "name": "Djibouti",
+    "fullName": "Republic of Djibouti"
   },
   {
     "code2": "DM",
     "code3": "DMA",
     "flag": "🇩🇲",
-    "name": {
-      "native": "Dominica"
-    },
-    "fullName": {
-      "native": "Commonwealth of Dominica"
-    },
     "population": 71986,
     "area": 751,
     "languages": [
       "en"
-    ]
+    ],
+    "nativeName": "Dominica",
+    "nativeFullName": "Commonwealth of Dominica",
+    "name": "Dominica",
+    "fullName": "Commonwealth of Dominica"
   },
   {
     "code2": "DO",
     "code3": "DOM",
     "flag": "🇩🇴",
-    "name": {
-      "native": "República Dominicana"
-    },
-    "fullName": {
-      "native": "República Dominicana"
-    },
     "population": 10953703,
     "area": 48671,
     "languages": [
       "es"
-    ]
+    ],
+    "nativeName": "República Dominicana",
+    "nativeFullName": "República Dominicana",
+    "name": "Dominican Republic",
+    "fullName": "Dominican Republic"
   },
   {
     "code2": "EC",
     "code3": "ECU",
     "flag": "🇪🇨",
-    "name": {
-      "native": "Ecuador"
-    },
-    "fullName": {
-      "native": "República del Ecuador"
-    },
     "population": 18001000,
     "area": 283561,
     "languages": [
       "es"
-    ]
+    ],
+    "nativeName": "Ecuador",
+    "nativeFullName": "República del Ecuador",
+    "name": "Ecuador",
+    "fullName": "Republic of Ecuador"
   },
   {
     "code2": "EG",
     "code3": "EGY",
     "flag": "🇪🇬",
-    "name": {
-      "native": "مصر"
-    },
-    "fullName": {
-      "native": "جمهورية مصر العربية"
-    },
     "population": 104258327,
     "area": 1002450,
     "languages": [
       "ar"
-    ]
+    ],
+    "nativeName": "مصر",
+    "nativeFullName": "جمهورية مصر العربية",
+    "name": "Egypt",
+    "fullName": "Arab Republic of Egypt"
   },
   {
     "code2": "SV",
     "code3": "SLV",
     "flag": "🇸🇻",
-    "name": {
-      "native": "El Salvador"
-    },
-    "fullName": {
-      "native": "República de El Salvador"
-    },
     "population": 6486201,
     "area": 21041,
     "languages": [
       "es"
-    ]
+    ],
+    "nativeName": "El Salvador",
+    "nativeFullName": "República de El Salvador",
+    "name": "El Salvador",
+    "fullName": "Republic of El Salvador"
   },
   {
     "code2": "GQ",
     "code3": "GNQ",
     "flag": "🇬🇶",
-    "name": {
-      "native": "Guinea Ecuatorial"
-    },
-    "fullName": {
-      "native": "República de Guinea Ecuatorial"
-    },
     "population": 1496662,
     "area": 28051,
     "languages": [
       "es",
       "fr",
       "pt"
-    ]
+    ],
+    "nativeName": "Guinea Ecuatorial",
+    "nativeFullName": "República de Guinea Ecuatorial",
+    "name": "Equatorial Guinea",
+    "fullName": "Republic of Equatorial Guinea"
   },
   {
     "code2": "ER",
     "code3": "ERI",
     "flag": "🇪🇷",
-    "name": {
-      "native": "ኤርትራ"
-    },
-    "fullName": {
-      "native": "ሃገረ ኤርትራ"
-    },
     "population": 3601000,
     "area": 117600,
     "languages": [
       "ti",
       "ar",
       "en"
-    ]
+    ],
+    "nativeName": "ኤርትራ",
+    "nativeFullName": "ሃገረ ኤርትራ",
+    "name": "Eritrea",
+    "fullName": "State of Eritrea"
   },
   {
     "code2": "EE",
     "code3": "EST",
     "flag": "🇪🇪",
-    "name": {
-      "native": "Eesti"
-    },
-    "fullName": {
-      "native": "Eesti Vabariik"
-    },
     "population": 1330068,
     "area": 45228,
     "languages": [
       "et"
-    ]
+    ],
+    "nativeName": "Eesti",
+    "nativeFullName": "Eesti Vabariik",
+    "name": "Estonia",
+    "fullName": "Republic of Estonia"
   },
   {
     "code2": "SZ",
     "code3": "SWZ",
     "flag": "🇸🇿",
-    "name": {
-      "native": "Eswatini"
-    },
-    "fullName": {
-      "native": "Kingdom of Eswatini"
-    },
     "population": 1172000,
     "area": 17364,
     "languages": [
       "en",
       "ss"
-    ]
+    ],
+    "nativeName": "Eswatini",
+    "nativeFullName": "Kingdom of Eswatini",
+    "name": "Eswatini",
+    "fullName": "Kingdom of Eswatini"
   },
   {
     "code2": "ET",
     "code3": "ETH",
     "flag": "🇪🇹",
-    "name": {
-      "native": "ኢትዮጵያ"
-    },
-    "fullName": {
-      "native": "የኢትዮጵያ ፌዴራላዊ ዲሞክራሲያዊ ሪፐብሊክ"
-    },
     "population": 120283026,
     "area": 1104300,
     "languages": [
       "am"
-    ]
+    ],
+    "nativeName": "ኢትዮጵያ",
+    "nativeFullName": "የኢትዮጵያ ፌዴራላዊ ዲሞክራሲያዊ ሪፐብሊክ",
+    "name": "Ethiopia",
+    "fullName": "Federal Democratic Republic of Ethiopia"
   },
   {
     "code2": "FJ",
     "code3": "FJI",
     "flag": "🇫🇯",
-    "name": {
-      "native": "Fiji"
-    },
-    "fullName": {
-      "native": "Republic of Fiji"
-    },
     "population": 930748,
     "area": 18274,
     "languages": [
       "en",
       "fj",
       "hi"
-    ]
+    ],
+    "nativeName": "Fiji",
+    "nativeFullName": "Republic of Fiji",
+    "name": "Fiji",
+    "fullName": "Republic of Fiji"
   },
   {
     "code2": "FI",
     "code3": "FIN",
     "flag": "🇫🇮",
-    "name": {
-      "native": "Suomi"
-    },
-    "fullName": {
-      "native": "Suomen tasavalta"
-    },
     "population": 5528000,
     "area": 338424,
     "languages": [
       "fi",
       "sv"
-    ]
+    ],
+    "nativeName": "Suomi",
+    "nativeFullName": "Suomen tasavalta",
+    "name": "Finland",
+    "fullName": "Republic of Finland"
   },
   {
     "code2": "FR",
     "code3": "FRA",
     "flag": "🇫🇷",
-    "name": {
-      "native": "France"
-    },
-    "fullName": {
-      "native": "République française"
-    },
     "population": 67897000,
     "area": 643801,
     "languages": [
       "fr"
-    ]
+    ],
+    "nativeName": "France",
+    "nativeFullName": "République française",
+    "name": "France",
+    "fullName": "French Republic"
   },
   {
     "code2": "GA",
     "code3": "GAB",
     "flag": "🇬🇦",
-    "name": {
-      "native": "Gabon"
-    },
-    "fullName": {
-      "native": "République gabonaise"
-    },
     "population": 2278825,
     "area": 267668,
     "languages": [
       "fr"
-    ]
+    ],
+    "nativeName": "Gabon",
+    "nativeFullName": "République gabonaise",
+    "name": "Gabon",
+    "fullName": "Gabonese Republic"
   },
   {
     "code2": "GM",
     "code3": "GMB",
     "flag": "🇬🇲",
-    "name": {
-      "native": "Gambia"
-    },
-    "fullName": {
-      "native": "Republic of the Gambia"
-    },
     "population": 2486945,
     "area": 11295,
     "languages": [
       "en"
-    ]
+    ],
+    "nativeName": "Gambia",
+    "nativeFullName": "Republic of the Gambia",
+    "name": "Gambia",
+    "fullName": "Republic of the Gambia"
   },
   {
     "code2": "GE",
     "code3": "GEO",
     "flag": "🇬🇪",
-    "name": {
-      "native": "საქართველო"
-    },
-    "fullName": {
-      "native": "საქართველო"
-    },
     "population": 3713804,
     "area": 69700,
     "languages": [
       "ka"
-    ]
+    ],
+    "nativeName": "საქართველო",
+    "nativeFullName": "საქართველო",
+    "name": "Georgia",
+    "fullName": "Georgia"
   },
   {
     "code2": "DE",
     "code3": "DEU",
     "flag": "🇩🇪",
-    "name": {
-      "native": "Deutschland"
-    },
-    "fullName": {
-      "native": "Bundesrepublik Deutschland"
-    },
     "population": 84270625,
     "area": 357114,
     "languages": [
       "de"
-    ]
+    ],
+    "nativeName": "Deutschland",
+    "nativeFullName": "Bundesrepublik Deutschland",
+    "name": "Germany",
+    "fullName": "Federal Republic of Germany"
   },
   {
     "code2": "GH",
     "code3": "GHA",
     "flag": "🇬🇭",
-    "name": {
-      "native": "Ghana"
-    },
-    "fullName": {
-      "native": "Republic of Ghana"
-    },
     "population": 33475870,
     "area": 238533,
     "languages": [
       "en"
-    ]
+    ],
+    "nativeName": "Ghana",
+    "nativeFullName": "Republic of Ghana",
+    "name": "Ghana",
+    "fullName": "Republic of Ghana"
   },
   {
     "code2": "GR",
     "code3": "GRC",
     "flag": "🇬🇷",
-    "name": {
-      "native": "Ελλάδα"
-    },
-    "fullName": {
-      "native": "Ελληνική Δημοκρατία"
-    },
     "population": 10678632,
     "area": 131957,
     "languages": [
       "el"
-    ]
+    ],
+    "nativeName": "Ελλάδα",
+    "nativeFullName": "Ελληνική Δημοκρατία",
+    "name": "Greece",
+    "fullName": "Hellenic Republic"
   },
   {
     "code2": "GD",
     "code3": "GRD",
     "flag": "🇬🇩",
-    "name": {
-      "native": "Grenada"
-    },
-    "fullName": {
-      "native": "Grenada"
-    },
     "population": 124610,
     "area": 344,
     "languages": [
       "en"
-    ]
+    ],
+    "nativeName": "Grenada",
+    "nativeFullName": "Grenada",
+    "name": "Grenada",
+    "fullName": "Grenada"
   },
   {
     "code2": "GT",
     "code3": "GTM",
     "flag": "🇬🇹",
-    "name": {
-      "native": "Guatemala"
-    },
-    "fullName": {
-      "native": "República de Guatemala"
-    },
     "population": 17109746,
     "area": 108889,
     "languages": [
       "es"
-    ]
+    ],
+    "nativeName": "Guatemala",
+    "nativeFullName": "República de Guatemala",
+    "name": "Guatemala",
+    "fullName": "Republic of Guatemala"
   },
   {
     "code2": "GN",
     "code3": "GIN",
     "flag": "🇬🇳",
-    "name": {
-      "native": "Guinée"
-    },
-    "fullName": {
-      "native": "République de Guinée"
-    },
     "population": 13497244,
     "area": 245857,
     "languages": [
       "fr"
-    ]
+    ],
+    "nativeName": "Guinée",
+    "nativeFullName": "République de Guinée",
+    "name": "Guinea",
+    "fullName": "Republic of Guinea"
   },
   {
     "code2": "GW",
     "code3": "GNB",
     "flag": "🇬🇼",
-    "name": {
-      "native": "Guiné-Bissau"
-    },
-    "fullName": {
-      "native": "República da Guiné-Bissau"
-    },
     "population": 2060721,
     "area": 36125,
     "languages": [
       "pt"
-    ]
+    ],
+    "nativeName": "Guiné-Bissau",
+    "nativeFullName": "República da Guiné-Bissau",
+    "name": "Guinea-Bissau",
+    "fullName": "Republic of Guinea-Bissau"
   },
   {
     "code2": "GY",
     "code3": "GUY",
     "flag": "🇬🇾",
-    "name": {
-      "native": "Guyana"
-    },
-    "fullName": {
-      "native": "Co-operative Republic of Guyana"
-    },
     "population": 787971,
     "area": 214969,
     "languages": [
       "en"
-    ]
+    ],
+    "nativeName": "Guyana",
+    "nativeFullName": "Co-operative Republic of Guyana",
+    "name": "Guyana",
+    "fullName": "Co-operative Republic of Guyana"
   },
   {
     "code2": "HT",
     "code3": "HTI",
     "flag": "🇭🇹",
-    "name": {
-      "native": "Haïti"
-    },
-    "fullName": {
-      "native": "République d'Haïti"
-    },
     "population": 11447569,
     "area": 27750,
     "languages": [
       "fr",
       "ht"
-    ]
+    ],
+    "nativeName": "Haïti",
+    "nativeFullName": "République d'Haïti",
+    "name": "Haiti",
+    "fullName": "Republic of Haiti"
   },
   {
     "code2": "HN",
     "code3": "HND",
     "flag": "🇭🇳",
-    "name": {
-      "native": "Honduras"
-    },
-    "fullName": {
-      "native": "República de Honduras"
-    },
     "population": 10280345,
     "area": 112492,
     "languages": [
       "es"
-    ]
+    ],
+    "nativeName": "Honduras",
+    "nativeFullName": "República de Honduras",
+    "name": "Honduras",
+    "fullName": "Republic of Honduras"
   },
   {
     "code2": "HU",
     "code3": "HUN",
     "flag": "🇭🇺",
-    "name": {
-      "native": "Magyarország"
-    },
-    "fullName": {
-      "native": "Magyarország"
-    },
     "population": 9730000,
     "area": 93028,
     "languages": [
       "hu"
-    ]
+    ],
+    "nativeName": "Magyarország",
+    "nativeFullName": "Magyarország",
+    "name": "Hungary",
+    "fullName": "Hungary"
   },
   {
     "code2": "IS",
     "code3": "ISL",
     "flag": "🇮🇸",
-    "name": {
-      "native": "Ísland"
-    },
-    "fullName": {
-      "native": "Ísland"
-    },
     "population": 376248,
     "area": 103000,
     "languages": [
       "is"
-    ]
+    ],
+    "nativeName": "Ísland",
+    "nativeFullName": "Ísland",
+    "name": "Iceland",
+    "fullName": "Iceland"
   },
   {
     "code2": "IN",
     "code3": "IND",
     "flag": "🇮🇳",
-    "name": {
-      "native": "भारत"
-    },
-    "fullName": {
-      "native": "भारत गणराज्य"
-    },
     "population": 1392000000,
     "area": 3287263,
     "languages": [
       "hi",
       "en"
-    ]
+    ],
+    "nativeName": "भारत",
+    "nativeFullName": "भारत गणराज्य",
+    "name": "India",
+    "fullName": "Republic of India"
   },
   {
     "code2": "ID",
     "code3": "IDN",
     "flag": "🇮🇩",
-    "name": {
-      "native": "Indonesia"
-    },
-    "fullName": {
-      "native": "Republik Indonesia"
-    },
     "population": 275501000,
     "area": 1910931,
     "languages": [
       "id"
-    ]
+    ],
+    "nativeName": "Indonesia",
+    "nativeFullName": "Republik Indonesia",
+    "name": "Indonesia",
+    "fullName": "Republic of Indonesia"
   },
   {
     "code2": "IR",
     "code3": "IRN",
     "flag": "🇮🇷",
-    "name": {
-      "native": "ایران"
-    },
-    "fullName": {
-      "native": "جمهوری اسلامی ایران"
-    },
     "population": 86758304,
     "area": 1648195,
     "languages": [
       "fa"
-    ]
+    ],
+    "nativeName": "ایران",
+    "nativeFullName": "جمهوری اسلامی ایران",
+    "name": "Iran",
+    "fullName": "Islamic Republic of Iran"
   },
   {
     "code2": "IQ",
     "code3": "IRQ",
     "flag": "🇮🇶",
-    "name": {
-      "native": "العراق"
-    },
-    "fullName": {
-      "native": "جمهورية العراق"
-    },
     "population": 42164965,
     "area": 438317,
     "languages": [
       "ar",
       "ku"
-    ]
+    ],
+    "nativeName": "العراق",
+    "nativeFullName": "جمهورية العراق",
+    "name": "Iraq",
+    "fullName": "Republic of Iraq"
   },
   {
     "code2": "IE",
     "code3": "IRL",
     "flag": "🇮🇪",
-    "name": {
-      "native": "Éire"
-    },
-    "fullName": {
-      "native": "Poblacht na hÉireann"
-    },
     "population": 5123536,
     "area": 70273,
     "languages": [
       "ga",
       "en"
-    ]
+    ],
+    "nativeName": "Éire",
+    "nativeFullName": "Poblacht na hÉireann",
+    "name": "Ireland",
+    "fullName": "Republic of Ireland"
   },
   {
     "code2": "IL",
     "code3": "ISR",
     "flag": "🇮🇱",
-    "name": {
-      "native": "ישראל"
-    },
-    "fullName": {
-      "native": "מדינת ישראל"
-    },
     "population": 9364000,
     "area": 20770,
     "languages": [
       "he",
       "ar"
-    ]
+    ],
+    "nativeName": "ישראל",
+    "nativeFullName": "מדינת ישראל",
+    "name": "Israel",
+    "fullName": "State of Israel"
   },
   {
     "code2": "IT",
     "code3": "ITA",
     "flag": "🇮🇹",
-    "name": {
-      "native": "Italia"
-    },
-    "fullName": {
-      "native": "Repubblica italiana"
-    },
     "population": 59257566,
     "area": 301340,
     "languages": [
       "it"
-    ]
+    ],
+    "nativeName": "Italia",
+    "nativeFullName": "Repubblica italiana",
+    "name": "Italy",
+    "fullName": "Italian Republic"
   },
   {
     "code2": "JM",
     "code3": "JAM",
     "flag": "🇯🇲",
-    "name": {
-      "native": "Jamaica"
-    },
-    "fullName": {
-      "native": "Jamaica"
-    },
     "population": 2961167,
     "area": 10991,
     "languages": [
       "en"
-    ]
+    ],
+    "nativeName": "Jamaica",
+    "nativeFullName": "Jamaica",
+    "name": "Jamaica",
+    "fullName": "Jamaica"
   },
   {
     "code2": "JP",
     "code3": "JPN",
     "flag": "🇯🇵",
-    "name": {
-      "native": "日本"
-    },
-    "fullName": {
-      "native": "日本"
-    },
     "population": 125700000,
     "area": 377975,
     "languages": [
       "ja"
-    ]
+    ],
+    "nativeName": "日本",
+    "nativeFullName": "日本",
+    "name": "Japan",
+    "fullName": "Japan"
   },
   {
     "code2": "JO",
     "code3": "JOR",
     "flag": "🇯🇴",
-    "name": {
-      "native": "الأردن"
-    },
-    "fullName": {
-      "native": "المملكة الأردنية الهاشمية"
-    },
     "population": 10203140,
     "area": 89342,
     "languages": [
       "ar"
-    ]
+    ],
+    "nativeName": "الأردن",
+    "nativeFullName": "المملكة الأردنية الهاشمية",
+    "name": "Jordan",
+    "fullName": "Hashemite Kingdom of Jordan"
   },
   {
     "code2": "KZ",
     "code3": "KAZ",
     "flag": "🇰🇿",
-    "name": {
-      "native": "Қазақстан"
-    },
-    "fullName": {
-      "native": "Қазақстан Республикасы"
-    },
     "population": 19397998,
     "area": 2724900,
     "languages": [
       "kk",
       "ru"
-    ]
+    ],
+    "nativeName": "Қазақстан",
+    "nativeFullName": "Қазақстан Республикасы",
+    "name": "Kazakhstan",
+    "fullName": "Republic of Kazakhstan"
   },
   {
     "code2": "KE",
     "code3": "KEN",
     "flag": "🇰🇪",
-    "name": {
-      "native": "Kenya"
-    },
-    "fullName": {
-      "native": "Republic of Kenya"
-    },
     "population": 55864655,
     "area": 580367,
     "languages": [
       "sw",
       "en"
-    ]
+    ],
+    "nativeName": "Kenya",
+    "nativeFullName": "Republic of Kenya",
+    "name": "Kenya",
+    "fullName": "Republic of Kenya"
   },
   {
     "code2": "KI",
     "code3": "KIR",
     "flag": "🇰🇮",
-    "name": {
-      "native": "Kiribati"
-    },
-    "fullName": {
-      "native": "Independent and Sovereign Republic of Kiribati"
-    },
     "population": 121388,
     "area": 811,
     "languages": [
       "en"
-    ]
+    ],
+    "nativeName": "Kiribati",
+    "nativeFullName": "Independent and Sovereign Republic of Kiribati",
+    "name": "Kiribati",
+    "fullName": "Republic of Kiribati"
   },
   {
     "code2": "KP",
     "code3": "PRK",
     "flag": "🇰🇵",
-    "name": {
-      "native": "조선"
-    },
-    "fullName": {
-      "native": "조선민주주의인민공화국"
-    },
     "population": 25971909,
     "area": 120538,
     "languages": [
       "ko"
-    ]
+    ],
+    "nativeName": "조선",
+    "nativeFullName": "조선민주주의인민공화국",
+    "name": "North Korea",
+    "fullName": "Democratic People's Republic of Korea"
   },
   {
     "code2": "KR",
     "code3": "KOR",
     "flag": "🇰🇷",
-    "name": {
-      "native": "한국"
-    },
-    "fullName": {
-      "native": "대한민국"
-    },
     "population": 51744876,
     "area": 100210,
     "languages": [
       "ko"
-    ]
+    ],
+    "nativeName": "한국",
+    "nativeFullName": "대한민국",
+    "name": "South Korea",
+    "fullName": "Republic of Korea"
   },
   {
     "code2": "KW",
     "code3": "KWT",
     "flag": "🇰🇼",
-    "name": {
-      "native": "الكويت"
-    },
-    "fullName": {
-      "native": "دولة الكويت"
-    },
     "population": 4670713,
     "area": 17818,
     "languages": [
       "ar"
-    ]
+    ],
+    "nativeName": "الكويت",
+    "nativeFullName": "دولة الكويت",
+    "name": "Kuwait",
+    "fullName": "State of Kuwait"
   },
   {
     "code2": "KG",
     "code3": "KGZ",
     "flag": "🇰🇬",
-    "name": {
-      "native": "Кыргызстан"
-    },
-    "fullName": {
-      "native": "Кыргыз Республикасы"
-    },
     "population": 6663000,
     "area": 199951,
     "languages": [
       "ky",
       "ru"
-    ]
+    ],
+    "nativeName": "Кыргызстан",
+    "nativeFullName": "Кыргыз Республикасы",
+    "name": "Kyrgyzstan",
+    "fullName": "Kyrgyz Republic"
   },
   {
     "code2": "LA",
     "code3": "LAO",
     "flag": "🇱🇦",
-    "name": {
-      "native": "ສປປລາວ"
-    },
-    "fullName": {
-      "native": "ສາທາລະນະ ຊາທິປະໄຕ ຄົນລາວ ຂອງ"
-    },
     "population": 7379358,
     "area": 236800,
     "languages": [
       "lo"
-    ]
+    ],
+    "nativeName": "ສປປລາວ",
+    "nativeFullName": "ສາທາລະນະ ຊາທິປະໄຕ ຄົນລາວ ຂອງ",
+    "name": "Laos",
+    "fullName": "Lao People's Democratic Republic"
   },
   {
     "code2": "LV",
     "code3": "LVA",
     "flag": "🇱🇻",
-    "name": {
-      "native": "Latvija"
-    },
-    "fullName": {
-      "native": "Latvijas Republikas"
-    },
     "population": 1830211,
     "area": 64589,
     "languages": [
       "lv"
-    ]
+    ],
+    "nativeName": "Latvija",
+    "nativeFullName": "Latvijas Republikas",
+    "name": "Latvia",
+    "fullName": "Republic of Latvia"
   },
   {
     "code2": "LB",
     "code3": "LBN",
     "flag": "🇱🇧",
-    "name": {
-      "native": "لبنان"
-    },
-    "fullName": {
-      "native": "الجمهورية اللبنانية"
-    },
     "population": 5592631,
     "area": 10452,
     "languages": [
       "ar",
       "fr"
-    ]
+    ],
+    "nativeName": "لبنان",
+    "nativeFullName": "الجمهورية اللبنانية",
+    "name": "Lebanon",
+    "fullName": "Lebanese Republic"
   },
   {
     "code2": "LS",
     "code3": "LSO",
     "flag": "🇱🇸",
-    "name": {
-      "native": "Lesotho"
-    },
-    "fullName": {
-      "native": "Kingdom of Lesotho"
-    },
     "population": 2159000,
     "area": 30355,
     "languages": [
       "en",
       "st"
-    ]
+    ],
+    "nativeName": "Lesotho",
+    "nativeFullName": "Kingdom of Lesotho",
+    "name": "Lesotho",
+    "fullName": "Kingdom of Lesotho"
   },
   {
     "code2": "LR",
     "code3": "LBR",
     "flag": "🇱🇷",
-    "name": {
-      "native": "Liberia"
-    },
-    "fullName": {
-      "native": "Republic of Liberia"
-    },
     "population": 5358483,
     "area": 111369,
     "languages": [
       "en"
-    ]
+    ],
+    "nativeName": "Liberia",
+    "nativeFullName": "Republic of Liberia",
+    "name": "Liberia",
+    "fullName": "Republic of Liberia"
   },
   {
     "code2": "LY",
     "code3": "LBY",
     "flag": "🇱🇾",
-    "name": {
-      "native": "ليبيا"
-    },
-    "fullName": {
-      "native": "الدولة ليبيا"
-    },
     "population": 7054490,
     "area": 1759541,
     "languages": [
       "ar"
-    ]
+    ],
+    "nativeName": "ليبيا",
+    "nativeFullName": "الدولة ليبيا",
+    "name": "Libya",
+    "fullName": "State of Libya"
   },
   {
     "code2": "LI",
     "code3": "LIE",
     "flag": "🇱🇮",
-    "name": {
-      "native": "Liechtenstein"
-    },
-    "fullName": {
-      "native": "Fürstentum Liechtenstein"
-    },
     "population": 38557,
     "area": 160,
     "languages": [
       "de"
-    ]
+    ],
+    "nativeName": "Liechtenstein",
+    "nativeFullName": "Fürstentum Liechtenstein",
+    "name": "Liechtenstein",
+    "fullName": "Principality of Liechtenstein"
   },
   {
     "code2": "LT",
     "code3": "LTU",
     "flag": "🇱🇹",
-    "name": {
-      "native": "Lietuva"
-    },
-    "fullName": {
-      "native": "Lietuvos Respublikos"
-    },
     "population": 2831000,
     "area": 65300,
     "languages": [
       "lt"
-    ]
+    ],
+    "nativeName": "Lietuva",
+    "nativeFullName": "Lietuvos Respublikos",
+    "name": "Lithuania",
+    "fullName": "Republic of Lithuania"
   },
   {
     "code2": "LU",
     "code3": "LUX",
     "flag": "🇱🇺",
-    "name": {
-      "native": "Lëtzebuerg"
-    },
-    "fullName": {
-      "native": "Groussherzogtum Lëtzebuerg"
-    },
     "population": 660809,
     "area": 2586,
     "languages": [
       "lb",
       "fr",
       "de"
-    ]
+    ],
+    "nativeName": "Lëtzebuerg",
+    "nativeFullName": "Groussherzogtum Lëtzebuerg",
+    "name": "Luxembourg",
+    "fullName": "Grand Duchy of Luxembourg"
   },
   {
     "code2": "MG",
     "code3": "MDG",
     "flag": "🇲🇬",
-    "name": {
-      "native": "Madagasikara"
-    },
-    "fullName": {
-      "native": "Repoblikan'i Madagasikara"
-    },
     "population": 28915400,
     "area": 587041,
     "languages": [
       "mg",
       "fr"
-    ]
+    ],
+    "nativeName": "Madagasikara",
+    "nativeFullName": "Repoblikan'i Madagasikara",
+    "name": "Madagascar",
+    "fullName": "Republic of Madagascar"
   },
   {
     "code2": "MW",
     "code3": "MWI",
     "flag": "🇲🇼",
-    "name": {
-      "native": "Malawi"
-    },
-    "fullName": {
-      "native": "Republic of Malawi"
-    },
     "population": 20405317,
     "area": 118484,
     "languages": [
       "en",
       "ny"
-    ]
+    ],
+    "nativeName": "Malawi",
+    "nativeFullName": "Republic of Malawi",
+    "name": "Malawi",
+    "fullName": "Republic of Malawi"
   },
   {
     "code2": "MY",
     "code3": "MYS",
     "flag": "🇲🇾",
-    "name": {
-      "native": "مليسيا"
-    },
-    "fullName": {
-      "native": "مليسيا"
-    },
     "population": 33573874,
     "area": 329847,
     "languages": [
       "ms"
-    ]
+    ],
+    "nativeName": "مليسيا",
+    "nativeFullName": "مليسيا",
+    "name": "Malaysia",
+    "fullName": "Malaysia"
   },
   {
     "code2": "MV",
     "code3": "MDV",
     "flag": "🇲🇻",
-    "name": {
-      "native": "ދިވެހިރާއްޖޭގެ"
-    },
-    "fullName": {
-      "native": "ދިވެހިރާއްޖޭގެ ޖުމްހޫރިއްޔާ"
-    },
     "population": 521457,
     "area": 298,
     "languages": [
       "dv"
-    ]
+    ],
+    "nativeName": "ދިވެހިރާއްޖޭގެ",
+    "nativeFullName": "ދިވެހިރާއްޖޭގެ ޖުމްހޫރިއްޔާ",
+    "name": "Maldives",
+    "fullName": "Republic of Maldives"
   },
   {
     "code2": "ML",
     "code3": "MLI",
     "flag": "🇲🇱",
-    "name": {
-      "native": "Mali"
-    },
-    "fullName": {
-      "native": "République du Mali"
-    },
     "population": 22414000,
     "area": 1240192,
     "languages": [
       "fr"
-    ]
+    ],
+    "nativeName": "Mali",
+    "nativeFullName": "République du Mali",
+    "name": "Mali",
+    "fullName": "Republic of Mali"
   },
   {
     "code2": "MT",
     "code3": "MLT",
     "flag": "🇲🇹",
-    "name": {
-      "native": "Malta"
-    },
-    "fullName": {
-      "native": "Repubblika ta ' Malta"
-    },
     "population": 519562,
     "area": 316,
     "languages": [
       "mt",
       "en"
-    ]
+    ],
+    "nativeName": "Malta",
+    "nativeFullName": "Repubblika ta ' Malta",
+    "name": "Malta",
+    "fullName": "Republic of Malta"
   },
   {
     "code2": "MH",
     "code3": "MHL",
     "flag": "🇲🇭",
-    "name": {
-      "native": "Marshall Islands"
-    },
-    "fullName": {
-      "native": "Republic of the Marshall Islands"
-    },
     "population": 42050,
     "area": 181,
     "languages": [
       "en",
       "mh"
-    ]
+    ],
+    "nativeName": "Marshall Islands",
+    "nativeFullName": "Republic of the Marshall Islands",
+    "name": "Marshall Islands",
+    "fullName": "Republic of the Marshall Islands"
   },
   {
     "code2": "MR",
     "code3": "MRT",
     "flag": "🇲🇷",
-    "name": {
-      "native": "موريتانيا"
-    },
-    "fullName": {
-      "native": "الجمهورية الإسلامية الموريتانية"
-    },
     "population": 4649658,
     "area": 1030700,
     "languages": [
       "ar"
-    ]
+    ],
+    "nativeName": "موريتانيا",
+    "nativeFullName": "الجمهورية الإسلامية الموريتانية",
+    "name": "Mauritania",
+    "fullName": "Islamic Republic of Mauritania"
   },
   {
     "code2": "MU",
     "code3": "MUS",
     "flag": "🇲🇺",
-    "name": {
-      "native": "Mauritius"
-    },
-    "fullName": {
-      "native": "Republic of Mauritius"
-    },
     "population": 1266334,
     "area": 2040,
     "languages": [
       "en",
       "fr"
-    ]
+    ],
+    "nativeName": "Mauritius",
+    "nativeFullName": "Republic of Mauritius",
+    "name": "Mauritius",
+    "fullName": "Republic of Mauritius"
   },
   {
     "code2": "MX",
     "code3": "MEX",
     "flag": "🇲🇽",
-    "name": {
-      "native": "México"
-    },
-    "fullName": {
-      "native": "Estados Unidos Mexicanos"
-    },
     "population": 128455567,
     "area": 1964375,
     "languages": [
       "es"
-    ]
+    ],
+    "nativeName": "México",
+    "nativeFullName": "Estados Unidos Mexicanos",
+    "name": "Mexico",
+    "fullName": "United Mexican States"
   },
   {
     "code2": "FM",
     "code3": "FSM",
     "flag": "🇫🇲",
-    "name": {
-      "native": "Micronesia"
-    },
-    "fullName": {
-      "native": "Federated States of Micronesia"
-    },
     "population": 115023,
     "area": 702,
     "languages": [
       "en"
-    ]
+    ],
+    "nativeName": "Micronesia",
+    "nativeFullName": "Federated States of Micronesia",
+    "name": "Micronesia",
+    "fullName": "Federated States of Micronesia"
   },
   {
     "code2": "MD",
     "code3": "MDA",
     "flag": "🇲🇩",
-    "name": {
-      "native": "Moldova"
-    },
-    "fullName": {
-      "native": "Republica Moldova"
-    },
     "population": 2617820,
     "area": 33846,
     "languages": [
       "ro"
-    ]
+    ],
+    "nativeName": "Moldova",
+    "nativeFullName": "Republica Moldova",
+    "name": "Moldova",
+    "fullName": "Republic of Moldova"
   },
   {
     "code2": "MC",
     "code3": "MCO",
     "flag": "🇲🇨",
-    "name": {
-      "native": "Monaco"
-    },
-    "fullName": {
-      "native": "Principauté de Monaco"
-    },
     "population": 39244,
     "area": 2,
     "languages": [
       "fr"
-    ]
+    ],
+    "nativeName": "Monaco",
+    "nativeFullName": "Principauté de Monaco",
+    "name": "Monaco",
+    "fullName": "Principality of Monaco"
   },
   {
     "code2": "MN",
     "code3": "MNG",
     "flag": "🇲🇳",
-    "name": {
-      "native": "Монгол улс"
-    },
-    "fullName": {
-      "native": "Монгол улс"
-    },
     "population": 3398366,
     "area": 1564116,
     "languages": [
       "mn"
-    ]
+    ],
+    "nativeName": "Монгол улс",
+    "nativeFullName": "Монгол улс",
+    "name": "Mongolia",
+    "fullName": "Mongolia"
   },
   {
     "code2": "ME",
     "code3": "MNE",
     "flag": "🇲🇪",
-    "name": {
-      "native": "Црна Гора"
-    },
-    "fullName": {
-      "native": "Црна Гора"
-    },
     "population": 619211,
     "area": 13812,
     "languages": [
@@ -1916,641 +1678,563 @@
       "hr",
       "bs",
       "sq"
-    ]
+    ],
+    "nativeName": "Црна Гора",
+    "nativeFullName": "Црна Гора",
+    "name": "Montenegro",
+    "fullName": "Montenegro"
   },
   {
     "code2": "MA",
     "code3": "MAR",
     "flag": "🇲🇦",
-    "name": {
-      "native": "المغرب"
-    },
-    "fullName": {
-      "native": "المملكة المغربية"
-    },
     "population": 37840044,
     "area": 446550,
     "languages": [
       "ar",
       "ber"
-    ]
+    ],
+    "nativeName": "المغرب",
+    "nativeFullName": "المملكة المغربية",
+    "name": "Morocco",
+    "fullName": "Kingdom of Morocco"
   },
   {
     "code2": "MZ",
     "code3": "MOZ",
     "flag": "🇲🇿",
-    "name": {
-      "native": "Moçambique"
-    },
-    "fullName": {
-      "native": "República de Moçambique"
-    },
     "population": 32790338,
     "area": 801590,
     "languages": [
       "pt"
-    ]
+    ],
+    "nativeName": "Moçambique",
+    "nativeFullName": "República de Moçambique",
+    "name": "Mozambique",
+    "fullName": "Republic of Mozambique"
   },
   {
     "code2": "MM",
     "code3": "MMR",
     "flag": "🇲🇲",
-    "name": {
-      "native": "မြန်မာ"
-    },
-    "fullName": {
-      "native": "ပြည်ထောင်စု သမ္မတ မြန်မာနိုင်ငံတော်"
-    },
     "population": 54409800,
     "area": 676578,
     "languages": [
       "my"
-    ]
+    ],
+    "nativeName": "မြန်မာ",
+    "nativeFullName": "ပြည်ထောင်စု သမ္မတ မြန်မာနိုင်ငံတော်",
+    "name": "Myanmar",
+    "fullName": "Republic of the Union of Myanmar"
   },
   {
     "code2": "NA",
     "code3": "NAM",
     "flag": "🇳🇦",
-    "name": {
-      "native": "Namibia"
-    },
-    "fullName": {
-      "native": "Republic of Namibia"
-    },
     "population": 2587801,
     "area": 825615,
     "languages": [
       "en",
       "af"
-    ]
+    ],
+    "nativeName": "Namibia",
+    "nativeFullName": "Republic of Namibia",
+    "name": "Namibia",
+    "fullName": "Republic of Namibia"
   },
   {
     "code2": "NR",
     "code3": "NRU",
     "flag": "🇳🇷",
-    "name": {
-      "native": "Nauru"
-    },
-    "fullName": {
-      "native": "Republic of Nauru"
-    },
     "population": 10876,
     "area": 21,
     "languages": [
       "na",
       "en"
-    ]
+    ],
+    "nativeName": "Nauru",
+    "nativeFullName": "Republic of Nauru",
+    "name": "Nauru",
+    "fullName": "Republic of Nauru"
   },
   {
     "code2": "NP",
     "code3": "NPL",
     "flag": "🇳🇵",
-    "name": {
-      "native": "नेपाल"
-    },
-    "fullName": {
-      "native": "नेपाल संघीय लोकतान्त्रिक गणतन्त्र"
-    },
     "population": 30034989,
     "area": 147181,
     "languages": [
       "ne"
-    ]
+    ],
+    "nativeName": "नेपाल",
+    "nativeFullName": "नेपाल संघीय लोकतान्त्रिक गणतन्त्र",
+    "name": "Nepal",
+    "fullName": "Federal Democratic Republic of Nepal"
   },
   {
     "code2": "NL",
     "code3": "NLD",
     "flag": "🇳🇱",
-    "name": {
-      "native": "Nederland"
-    },
-    "fullName": {
-      "native": "Koninkrijk der Nederlanden"
-    },
     "population": 17744406,
     "area": 41543,
     "languages": [
       "nl"
-    ]
+    ],
+    "nativeName": "Nederland",
+    "nativeFullName": "Koninkrijk der Nederlanden",
+    "name": "Netherlands",
+    "fullName": "Kingdom of the Netherlands"
   },
   {
     "code2": "NZ",
     "code3": "NZL",
     "flag": "🇳🇿",
-    "name": {
-      "native": "New Zealand"
-    },
-    "fullName": {
-      "native": "New Zealand"
-    },
     "population": 5084300,
     "area": 268838,
     "languages": [
       "en",
       "mi"
-    ]
+    ],
+    "nativeName": "New Zealand",
+    "nativeFullName": "New Zealand",
+    "name": "New Zealand",
+    "fullName": "New Zealand"
   },
   {
     "code2": "NI",
     "code3": "NIC",
     "flag": "🇳🇮",
-    "name": {
-      "native": "Nicaragua"
-    },
-    "fullName": {
-      "native": "República de Nicaragua"
-    },
     "population": 6850540,
     "area": 130370,
     "languages": [
       "es"
-    ]
+    ],
+    "nativeName": "Nicaragua",
+    "nativeFullName": "República de Nicaragua",
+    "name": "Nicaragua",
+    "fullName": "Republic of Nicaragua"
   },
   {
     "code2": "NE",
     "code3": "NER",
     "flag": "🇳🇪",
-    "name": {
-      "native": "Niger"
-    },
-    "fullName": {
-      "native": "République du Niger"
-    },
     "population": 25252723,
     "area": 1267000,
     "languages": [
       "fr"
-    ]
+    ],
+    "nativeName": "Niger",
+    "nativeFullName": "République du Niger",
+    "name": "Niger",
+    "fullName": "Republic of Niger"
   },
   {
     "code2": "NG",
     "code3": "NGA",
     "flag": "🇳🇬",
-    "name": {
-      "native": "Nigeria"
-    },
-    "fullName": {
-      "native": "Federal Republic of Nigeria"
-    },
     "population": 218541212,
     "area": 923768,
     "languages": [
       "en"
-    ]
+    ],
+    "nativeName": "Nigeria",
+    "nativeFullName": "Federal Republic of Nigeria",
+    "name": "Nigeria",
+    "fullName": "Federal Republic of Nigeria"
   },
   {
     "code2": "MK",
     "code3": "MKD",
     "flag": "🇲🇰",
-    "name": {
-      "native": "Македонија"
-    },
-    "fullName": {
-      "native": "Република Северна Македонија"
-    },
     "population": 2068451,
     "area": 25713,
     "languages": [
       "mk",
       "sq"
-    ]
+    ],
+    "nativeName": "Македонија",
+    "nativeFullName": "Република Северна Македонија",
+    "name": "North Macedonia",
+    "fullName": "Republic of North Macedonia"
   },
   {
     "code2": "NO",
     "code3": "NOR",
     "flag": "🇳🇴",
-    "name": {
-      "native": "Norge"
-    },
-    "fullName": {
-      "native": "Kongeriket Norge"
-    },
     "population": 5425270,
     "area": 323802,
     "languages": [
       "nb",
       "nn"
-    ]
+    ],
+    "nativeName": "Norge",
+    "nativeFullName": "Kongeriket Norge",
+    "name": "Norway",
+    "fullName": "Kingdom of Norway"
   },
   {
     "code2": "OM",
     "code3": "OMN",
     "flag": "🇴🇲",
-    "name": {
-      "native": "عمان"
-    },
-    "fullName": {
-      "native": "سلطنة عمان"
-    },
     "population": 4974986,
     "area": 309500,
     "languages": [
       "ar"
-    ]
+    ],
+    "nativeName": "عمان",
+    "nativeFullName": "سلطنة عمان",
+    "name": "Oman",
+    "fullName": "Sultanate of Oman"
   },
   {
     "code2": "PK",
     "code3": "PAK",
     "flag": "🇵🇰",
-    "name": {
-      "native": "پاكستان"
-    },
-    "fullName": {
-      "native": "اسلامی جمہوریۂ پاكستان"
-    },
     "population": 231402117,
     "area": 881913,
     "languages": [
       "ur",
       "en"
-    ]
+    ],
+    "nativeName": "پاكستان",
+    "nativeFullName": "اسلامی جمہوریۂ پاكستان",
+    "name": "Pakistan",
+    "fullName": "Islamic Republic of Pakistan"
   },
   {
     "code2": "PW",
     "code3": "PLW",
     "flag": "🇵🇼",
-    "name": {
-      "native": "Palau"
-    },
-    "fullName": {
-      "native": "Republic of Palau"
-    },
     "population": 18092,
     "area": 459,
     "languages": [
       "en"
-    ]
+    ],
+    "nativeName": "Palau",
+    "nativeFullName": "Republic of Palau",
+    "name": "Palau",
+    "fullName": "Republic of Palau"
   },
   {
     "code2": "PA",
     "code3": "PAN",
     "flag": "🇵🇦",
-    "name": {
-      "native": "Panamá"
-    },
-    "fullName": {
-      "native": "República de Panamá"
-    },
     "population": 4351267,
     "area": 75417,
     "languages": [
       "es"
-    ]
+    ],
+    "nativeName": "Panamá",
+    "nativeFullName": "República de Panamá",
+    "name": "Panama",
+    "fullName": "Republic of Panama"
   },
   {
     "code2": "PG",
     "code3": "PNG",
     "flag": "🇵🇬",
-    "name": {
-      "native": "Papua New Guinea"
-    },
-    "fullName": {
-      "native": "Independent State of Papua New Guinea"
-    },
     "population": 10142619,
     "area": 462840,
     "languages": [
       "en",
       "tpi",
       "ho"
-    ]
+    ],
+    "nativeName": "Papua New Guinea",
+    "nativeFullName": "Independent State of Papua New Guinea",
+    "name": "Papua New Guinea",
+    "fullName": "Independent State of Papua New Guinea"
   },
   {
     "code2": "PY",
     "code3": "PRY",
     "flag": "🇵🇾",
-    "name": {
-      "native": "Paraguay"
-    },
-    "fullName": {
-      "native": "República de Paraguay"
-    },
     "population": 7353038,
     "area": 406752,
     "languages": [
       "es",
       "gn"
-    ]
+    ],
+    "nativeName": "Paraguay",
+    "nativeFullName": "República de Paraguay",
+    "name": "Paraguay",
+    "fullName": "Republic of Paraguay"
   },
   {
     "code2": "PE",
     "code3": "PER",
     "flag": "🇵🇪",
-    "name": {
-      "native": "Perú"
-    },
-    "fullName": {
-      "native": "República del Perú"
-    },
     "population": 33396698,
     "area": 1285216,
     "languages": [
       "es"
-    ]
+    ],
+    "nativeName": "Perú",
+    "nativeFullName": "República del Perú",
+    "name": "Peru",
+    "fullName": "Republic of Peru"
   },
   {
     "code2": "PH",
     "code3": "PHL",
     "flag": "🇵🇭",
-    "name": {
-      "native": "Philippines"
-    },
-    "fullName": {
-      "native": "Republic of the Philippines"
-    },
     "population": 114163719,
     "area": 343448,
     "languages": [
       "en",
       "tl"
-    ]
+    ],
+    "nativeName": "Philippines",
+    "nativeFullName": "Republic of the Philippines",
+    "name": "Philippines",
+    "fullName": "Republic of the Philippines"
   },
   {
     "code2": "PL",
     "code3": "POL",
     "flag": "🇵🇱",
-    "name": {
-      "native": "Polska"
-    },
-    "fullName": {
-      "native": "Rzeczpospolita Polska"
-    },
     "population": 38036118,
     "area": 312696,
     "languages": [
       "pl"
-    ]
+    ],
+    "nativeName": "Polska",
+    "nativeFullName": "Rzeczpospolita Polska",
+    "name": "Poland",
+    "fullName": "Republic of Poland"
   },
   {
     "code2": "PT",
     "code3": "PRT",
     "flag": "🇵🇹",
-    "name": {
-      "native": "Portugal"
-    },
-    "fullName": {
-      "native": "República Portuguesa"
-    },
     "population": 10298252,
     "area": 92212,
     "languages": [
       "pt"
-    ]
+    ],
+    "nativeName": "Portugal",
+    "nativeFullName": "República Portuguesa",
+    "name": "Portugal",
+    "fullName": "Portuguese Republic"
   },
   {
     "code2": "QA",
     "code3": "QAT",
     "flag": "🇶🇦",
-    "name": {
-      "native": "قطر"
-    },
-    "fullName": {
-      "native": "دولة قطر"
-    },
     "population": 2695122,
     "area": 11586,
     "languages": [
       "ar"
-    ]
+    ],
+    "nativeName": "قطر",
+    "nativeFullName": "دولة قطر",
+    "name": "Qatar",
+    "fullName": "State of Qatar"
   },
   {
     "code2": "RO",
     "code3": "ROU",
     "flag": "🇷🇴",
-    "name": {
-      "native": "România"
-    },
-    "fullName": {
-      "native": "România"
-    },
     "population": 19286123,
     "area": 238397,
     "languages": [
       "ro"
-    ]
+    ],
+    "nativeName": "România",
+    "nativeFullName": "România",
+    "name": "Romania",
+    "fullName": "Romania"
   },
   {
     "code2": "RU",
     "code3": "RUS",
     "flag": "🇷🇺",
-    "name": {
-      "native": "Россия"
-    },
-    "fullName": {
-      "native": "Российская Федерация"
-    },
     "population": 145100000,
     "area": 17098242,
     "languages": [
       "ru"
-    ]
+    ],
+    "nativeName": "Россия",
+    "nativeFullName": "Российская Федерация",
+    "name": "Russia",
+    "fullName": "Russian Federation"
   },
   {
     "code2": "RW",
     "code3": "RWA",
     "flag": "🇷🇼",
-    "name": {
-      "native": "Rwanda"
-    },
-    "fullName": {
-      "native": "Repubulika y'u Rwanda"
-    },
     "population": 13776698,
     "area": 26338,
     "languages": [
       "rw",
       "en",
       "fr"
-    ]
+    ],
+    "nativeName": "Rwanda",
+    "nativeFullName": "Repubulika y'u Rwanda",
+    "name": "Rwanda",
+    "fullName": "Republic of Rwanda"
   },
   {
     "code2": "KN",
     "code3": "KNA",
     "flag": "🇰🇳",
-    "name": {
-      "native": "Saint Kitts and Nevis"
-    },
-    "fullName": {
-      "native": "Federation of Saint Christopher and Nevis"
-    },
     "population": 47606,
     "area": 261,
     "languages": [
       "en"
-    ]
+    ],
+    "nativeName": "Saint Kitts and Nevis",
+    "nativeFullName": "Federation of Saint Christopher and Nevis",
+    "name": "Saint Kitts and Nevis",
+    "fullName": "Federation of Saint Kitts and Nevis"
   },
   {
     "code2": "LC",
     "code3": "LCA",
     "flag": "🇱🇨",
-    "name": {
-      "native": "Saint Lucia"
-    },
-    "fullName": {
-      "native": "Saint Lucia"
-    },
     "population": 184401,
     "area": 616,
     "languages": [
       "en"
-    ]
+    ],
+    "nativeName": "Saint Lucia",
+    "nativeFullName": "Saint Lucia",
+    "name": "Saint Lucia",
+    "fullName": "Saint Lucia"
   },
   {
     "code2": "VC",
     "code3": "VCT",
     "flag": "🇻🇨",
-    "name": {
-      "native": "Saint Vincent and the Grenadines"
-    },
-    "fullName": {
-      "native": "Saint Vincent and the Grenadines"
-    },
     "population": 110694,
     "area": 389,
     "languages": [
       "en"
-    ]
+    ],
+    "nativeName": "Saint Vincent and the Grenadines",
+    "nativeFullName": "Saint Vincent and the Grenadines",
+    "name": "Saint Vincent and the Grenadines",
+    "fullName": "Saint Vincent and the Grenadines"
   },
   {
     "code2": "WS",
     "code3": "WSM",
     "flag": "🇼🇸",
-    "name": {
-      "native": "Sāmoa"
-    },
-    "fullName": {
-      "native": "Malo Saʻoloto Tutoʻatasi o Sāmoa"
-    },
     "population": 218764,
     "area": 2842,
     "languages": [
       "sm",
       "en"
-    ]
+    ],
+    "nativeName": "Sāmoa",
+    "nativeFullName": "Malo Saʻoloto Tutoʻatasi o Sāmoa",
+    "name": "Samoa",
+    "fullName": "Independent State of Samoa"
   },
   {
     "code2": "SM",
     "code3": "SMR",
     "flag": "🇸🇲",
-    "name": {
-      "native": "San Marino"
-    },
-    "fullName": {
-      "native": "Repubblica di San Marino"
-    },
     "population": 33931,
     "area": 61,
     "languages": [
       "it"
-    ]
+    ],
+    "nativeName": "San Marino",
+    "nativeFullName": "Repubblica di San Marino",
+    "name": "San Marino",
+    "fullName": "Republic of San Marino"
   },
   {
     "code2": "ST",
     "code3": "STP",
     "flag": "🇸🇹",
-    "name": {
-      "native": "São Tomé e Príncipe"
-    },
-    "fullName": {
-      "native": "República Democrática do São Tomé e Príncipe"
-    },
     "population": 223107,
     "area": 964,
     "languages": [
       "pt"
-    ]
+    ],
+    "nativeName": "São Tomé e Príncipe",
+    "nativeFullName": "República Democrática do São Tomé e Príncipe",
+    "name": "São Tomé and Príncipe",
+    "fullName": "Democratic Republic of São Tomé and Príncipe"
   },
   {
     "code2": "SA",
     "code3": "SAU",
     "flag": "🇸🇦",
-    "name": {
-      "native": "العربية السعودية"
-    },
-    "fullName": {
-      "native": "المملكة العربية السعودية"
-    },
     "population": 36408820,
     "area": 2149690,
     "languages": [
       "ar"
-    ]
+    ],
+    "nativeName": "العربية السعودية",
+    "nativeFullName": "المملكة العربية السعودية",
+    "name": "Saudi Arabia",
+    "fullName": "Kingdom of Saudi Arabia"
   },
   {
     "code2": "SN",
     "code3": "SEN",
     "flag": "🇸🇳",
-    "name": {
-      "native": "Sénégal"
-    },
-    "fullName": {
-      "native": "République du Sénégal"
-    },
     "population": 17196301,
     "area": 196722,
     "languages": [
       "fr"
-    ]
+    ],
+    "nativeName": "Sénégal",
+    "nativeFullName": "République du Sénégal",
+    "name": "Senegal",
+    "fullName": "Republic of Senegal"
   },
   {
     "code2": "RS",
     "code3": "SRB",
     "flag": "🇷🇸",
-    "name": {
-      "native": "Србија"
-    },
-    "fullName": {
-      "native": "Република Србија"
-    },
     "population": 6804596,
     "area": 77474,
     "languages": [
       "sr"
-    ]
+    ],
+    "nativeName": "Србија",
+    "nativeFullName": "Република Србија",
+    "name": "Serbia",
+    "fullName": "Republic of Serbia"
   },
   {
     "code2": "SC",
     "code3": "SYC",
     "flag": "🇸🇨",
-    "name": {
-      "native": "Seychelles"
-    },
-    "fullName": {
-      "native": "République des Seychelles"
-    },
     "population": 98347,
     "area": 455,
     "languages": [
       "fr",
       "en"
-    ]
+    ],
+    "nativeName": "Seychelles",
+    "nativeFullName": "République des Seychelles",
+    "name": "Seychelles",
+    "fullName": "Republic of Seychelles"
   },
   {
     "code2": "SL",
     "code3": "SLE",
     "flag": "🇸🇱",
-    "name": {
-      "native": "Sierra Leone"
-    },
-    "fullName": {
-      "native": "Republic of Sierra Leone"
-    },
     "population": 8420641,
     "area": 71740,
     "languages": [
       "en"
-    ]
+    ],
+    "nativeName": "Sierra Leone",
+    "nativeFullName": "Republic of Sierra Leone",
+    "name": "Sierra Leone",
+    "fullName": "Republic of Sierra Leone"
   },
   {
     "code2": "SG",
     "code3": "SGP",
     "flag": "🇸🇬",
-    "name": {
-      "native": "Singapore"
-    },
-    "fullName": {
-      "native": "Republic of Singapore"
-    },
     "population": 5850342,
     "area": 719,
     "languages": [
@@ -2558,83 +2242,73 @@
       "ms",
       "zh",
       "ta"
-    ]
+    ],
+    "nativeName": "Singapore",
+    "nativeFullName": "Republic of Singapore",
+    "name": "Singapore",
+    "fullName": "Republic of Singapore"
   },
   {
     "code2": "SK",
     "code3": "SVK",
     "flag": "🇸🇰",
-    "name": {
-      "native": "Slovensko"
-    },
-    "fullName": {
-      "native": "Slovenská republika"
-    },
     "population": 5460185,
     "area": 49035,
     "languages": [
       "sk"
-    ]
+    ],
+    "nativeName": "Slovensko",
+    "nativeFullName": "Slovenská republika",
+    "name": "Slovakia",
+    "fullName": "Slovak Republic"
   },
   {
     "code2": "SI",
     "code3": "SVN",
     "flag": "🇸🇮",
-    "name": {
-      "native": "Slovenija"
-    },
-    "fullName": {
-      "native": "Republika Slovenija"
-    },
     "population": 2108977,
     "area": 20273,
     "languages": [
       "sl"
-    ]
+    ],
+    "nativeName": "Slovenija",
+    "nativeFullName": "Republika Slovenija",
+    "name": "Slovenia",
+    "fullName": "Republic of Slovenia"
   },
   {
     "code2": "SB",
     "code3": "SLB",
     "flag": "🇸🇧",
-    "name": {
-      "native": "Solomon Islands"
-    },
-    "fullName": {
-      "native": "Solomon Islands"
-    },
     "population": 720390,
     "area": 28896,
     "languages": [
       "en"
-    ]
+    ],
+    "nativeName": "Solomon Islands",
+    "nativeFullName": "Solomon Islands",
+    "name": "Solomon Islands",
+    "fullName": "Solomon Islands"
   },
   {
     "code2": "SO",
     "code3": "SOM",
     "flag": "🇸🇴",
-    "name": {
-      "native": "Soomaaliya"
-    },
-    "fullName": {
-      "native": "Jamhuuriyadda Federaalka Soomaaliya"
-    },
     "population": 17065581,
     "area": 637657,
     "languages": [
       "so",
       "ar"
-    ]
+    ],
+    "nativeName": "Soomaaliya",
+    "nativeFullName": "Jamhuuriyadda Federaalka Soomaaliya",
+    "name": "Somalia",
+    "fullName": "Federal Republic of Somalia"
   },
   {
     "code2": "ZA",
     "code3": "ZAF",
     "flag": "🇿🇦",
-    "name": {
-      "native": "South Africa"
-    },
-    "fullName": {
-      "native": "Republiek van Suid-Afrika"
-    },
     "population": 59893885,
     "area": 1221037,
     "languages": [
@@ -2649,116 +2323,102 @@
       "ve",
       "nr",
       "nso"
-    ]
+    ],
+    "nativeName": "South Africa",
+    "nativeFullName": "Republiek van Suid-Afrika",
+    "name": "South Africa",
+    "fullName": "Republic of South Africa"
   },
   {
     "code2": "SS",
     "code3": "SSD",
     "flag": "🇸🇸",
-    "name": {
-      "native": "South Sudan"
-    },
-    "fullName": {
-      "native": "Republic of South Sudan"
-    },
     "population": 11088796,
     "area": 619745,
     "languages": [
       "en"
-    ]
+    ],
+    "nativeName": "South Sudan",
+    "nativeFullName": "Republic of South Sudan",
+    "name": "South Sudan",
+    "fullName": "Republic of South Sudan"
   },
   {
     "code2": "ES",
     "code3": "ESP",
     "flag": "🇪🇸",
-    "name": {
-      "native": "España"
-    },
-    "fullName": {
-      "native": "Reino de España"
-    },
     "population": 47415750,
     "area": 505990,
     "languages": [
       "es"
-    ]
+    ],
+    "nativeName": "España",
+    "nativeFullName": "Reino de España",
+    "name": "Spain",
+    "fullName": "Kingdom of Spain"
   },
   {
     "code2": "LK",
     "code3": "LKA",
     "flag": "🇱🇰",
-    "name": {
-      "native": "ශ්‍රී ලංකාව"
-    },
-    "fullName": {
-      "native": "ශ්‍රී ලංකා ප්‍රජාතාන්ත්‍රික සමාජවාදී ජනරජය"
-    },
     "population": 22156000,
     "area": 65610,
     "languages": [
       "si",
       "ta"
-    ]
+    ],
+    "nativeName": "ශ්‍රී ලංකාව",
+    "nativeFullName": "ශ්‍රී ලංකා ප්‍රජාතාන්ත්‍රික සමාජවාදී ජනරජය",
+    "name": "Sri Lanka",
+    "fullName": "Democratic Socialist Republic of Sri Lanka"
   },
   {
     "code2": "SD",
     "code3": "SDN",
     "flag": "🇸🇩",
-    "name": {
-      "native": "السودان"
-    },
-    "fullName": {
-      "native": "جمهورية السودان"
-    },
     "population": 44909353,
     "area": 1861484,
     "languages": [
       "ar",
       "en"
-    ]
+    ],
+    "nativeName": "السودان",
+    "nativeFullName": "جمهورية السودان",
+    "name": "Sudan",
+    "fullName": "Republic of Sudan"
   },
   {
     "code2": "SR",
     "code3": "SUR",
     "flag": "🇸🇷",
-    "name": {
-      "native": "Suriname"
-    },
-    "fullName": {
-      "native": "Republiek Suriname"
-    },
     "population": 623236,
     "area": 163820,
     "languages": [
       "nl"
-    ]
+    ],
+    "nativeName": "Suriname",
+    "nativeFullName": "Republiek Suriname",
+    "name": "Suriname",
+    "fullName": "Republic of Suriname"
   },
   {
     "code2": "SE",
     "code3": "SWE",
     "flag": "🇸🇪",
-    "name": {
-      "native": "Sverige"
-    },
-    "fullName": {
-      "native": "Konungariket Sverige"
-    },
     "population": 10481937,
     "area": 450295,
     "languages": [
       "sv"
-    ]
+    ],
+    "nativeName": "Sverige",
+    "nativeFullName": "Konungariket Sverige",
+    "name": "Sweden",
+    "fullName": "Kingdom of Sweden"
   },
   {
     "code2": "CH",
     "code3": "CHE",
     "flag": "🇨🇭",
-    "name": {
-      "native": "Suisse"
-    },
-    "fullName": {
-      "native": "Confédération suisse"
-    },
     "population": 8738791,
     "area": 41285,
     "languages": [
@@ -2766,1295 +2426,1141 @@
       "fr",
       "it",
       "rm"
-    ]
+    ],
+    "nativeName": "Suisse",
+    "nativeFullName": "Confédération suisse",
+    "name": "Switzerland",
+    "fullName": "Swiss Confederation"
   },
   {
     "code2": "SY",
     "code3": "SYR",
     "flag": "🇸🇾",
-    "name": {
-      "native": "سوريا"
-    },
-    "fullName": {
-      "native": "الجمهورية العربية السورية"
-    },
     "population": 22125249,
     "area": 185180,
     "languages": [
       "ar"
-    ]
+    ],
+    "nativeName": "سوريا",
+    "nativeFullName": "الجمهورية العربية السورية",
+    "name": "Syria",
+    "fullName": "Syrian Arab Republic"
   },
   {
     "code2": "TJ",
     "code3": "TJK",
     "flag": "🇹🇯",
-    "name": {
-      "native": "Тоҷикистон"
-    },
-    "fullName": {
-      "native": "Ҷумҳурии Тоҷикистон"
-    },
     "population": 10143543,
     "area": 143100,
     "languages": [
       "tg",
       "ru"
-    ]
+    ],
+    "nativeName": "Тоҷикистон",
+    "nativeFullName": "Ҷумҳурии Тоҷикистон",
+    "name": "Tajikistan",
+    "fullName": "Republic of Tajikistan"
   },
   {
     "code2": "TZ",
     "code3": "TZA",
     "flag": "🇹🇿",
-    "name": {
-      "native": "Tanzania"
-    },
-    "fullName": {
-      "native": "Jamhuri ya Muungano wa Tanzania"
-    },
     "population": 63298550,
     "area": 945087,
     "languages": [
       "sw",
       "en"
-    ]
+    ],
+    "nativeName": "Tanzania",
+    "nativeFullName": "Jamhuri ya Muungano wa Tanzania",
+    "name": "Tanzania",
+    "fullName": "United Republic of Tanzania"
   },
   {
     "code2": "TH",
     "code3": "THA",
     "flag": "🇹🇭",
-    "name": {
-      "native": "ประเทศไทย"
-    },
-    "fullName": {
-      "native": "ราชอาณาจักรไทย"
-    },
     "population": 71697030,
     "area": 513120,
     "languages": [
       "th"
-    ]
+    ],
+    "nativeName": "ประเทศไทย",
+    "nativeFullName": "ราชอาณาจักรไทย",
+    "name": "Thailand",
+    "fullName": "Kingdom of Thailand"
   },
   {
     "code2": "TL",
     "code3": "TLS",
     "flag": "🇹🇱",
-    "name": {
-      "native": "Timor-Leste"
-    },
-    "fullName": {
-      "native": "República Democrática de Timor-Leste"
-    },
     "population": 1341296,
     "area": 14874,
     "languages": [
       "pt",
       "tet"
-    ]
+    ],
+    "nativeName": "Timor-Leste",
+    "nativeFullName": "República Democrática de Timor-Leste",
+    "name": "Timor-Leste",
+    "fullName": "Democratic Republic of Timor-Leste"
   },
   {
     "code2": "TG",
     "code3": "TGO",
     "flag": "🇹🇬",
-    "name": {
-      "native": "Togo"
-    },
-    "fullName": {
-      "native": "République togolaise"
-    },
     "population": 8644829,
     "area": 56785,
     "languages": [
       "fr"
-    ]
+    ],
+    "nativeName": "Togo",
+    "nativeFullName": "République togolaise",
+    "name": "Togo",
+    "fullName": "Togolese Republic"
   },
   {
     "code2": "TO",
     "code3": "TON",
     "flag": "🇹🇴",
-    "name": {
-      "native": "Tonga"
-    },
-    "fullName": {
-      "native": "Kingdom of Tonga"
-    },
     "population": 100651,
     "area": 747,
     "languages": [
       "en",
       "to"
-    ]
+    ],
+    "nativeName": "Tonga",
+    "nativeFullName": "Kingdom of Tonga",
+    "name": "Tonga",
+    "fullName": "Kingdom of Tonga"
   },
   {
     "code2": "TT",
     "code3": "TTO",
     "flag": "🇹🇹",
-    "name": {
-      "native": "Trinidad and Tobago"
-    },
-    "fullName": {
-      "native": "Republic of Trinidad and Tobago"
-    },
     "population": 1399491,
     "area": 5128,
     "languages": [
       "en"
-    ]
+    ],
+    "nativeName": "Trinidad and Tobago",
+    "nativeFullName": "Republic of Trinidad and Tobago",
+    "name": "Trinidad and Tobago",
+    "fullName": "Republic of Trinidad and Tobago"
   },
   {
     "code2": "TN",
     "code3": "TUN",
     "flag": "🇹🇳",
-    "name": {
-      "native": "تونس"
-    },
-    "fullName": {
-      "native": "الجمهورية التونسية"
-    },
     "population": 12046656,
     "area": 163610,
     "languages": [
       "ar",
       "fr"
-    ]
+    ],
+    "nativeName": "تونس",
+    "nativeFullName": "الجمهورية التونسية",
+    "name": "Tunisia",
+    "fullName": "Republic of Tunisia"
   },
   {
     "code2": "TR",
     "code3": "TUR",
     "flag": "🇹🇷",
-    "name": {
-      "native": "Türkiye"
-    },
-    "fullName": {
-      "native": "Türkiye Cumhuriyeti"
-    },
     "population": 85279553,
     "area": 783562,
     "languages": [
       "tr"
-    ]
+    ],
+    "nativeName": "Türkiye",
+    "nativeFullName": "Türkiye Cumhuriyeti",
+    "name": "Turkey",
+    "fullName": "Republic of Türkiye"
   },
   {
     "code2": "TM",
     "code3": "TKM",
     "flag": "🇹🇲",
-    "name": {
-      "native": "Türkmenistan"
-    },
-    "fullName": {
-      "native": "Türkmenistan"
-    },
     "population": 6118000,
     "area": 488100,
     "languages": [
       "tk"
-    ]
+    ],
+    "nativeName": "Türkmenistan",
+    "nativeFullName": "Türkmenistan",
+    "name": "Turkmenistan",
+    "fullName": "Turkmenistan"
   },
   {
     "code2": "TV",
     "code3": "TUV",
     "flag": "🇹🇻",
-    "name": {
-      "native": "Tuvalu"
-    },
-    "fullName": {
-      "native": "Tuvalu"
-    },
     "population": 11792,
     "area": 26,
     "languages": [
       "en"
-    ]
+    ],
+    "nativeName": "Tuvalu",
+    "nativeFullName": "Tuvalu",
+    "name": "Tuvalu",
+    "fullName": "Tuvalu"
   },
   {
     "code2": "UG",
     "code3": "UGA",
     "flag": "🇺🇬",
-    "name": {
-      "native": "Uganda"
-    },
-    "fullName": {
-      "native": "Republic of Uganda"
-    },
     "population": 47123531,
     "area": 241038,
     "languages": [
       "en",
       "sw"
-    ]
+    ],
+    "nativeName": "Uganda",
+    "nativeFullName": "Republic of Uganda",
+    "name": "Uganda",
+    "fullName": "Republic of Uganda"
   },
   {
     "code2": "UA",
     "code3": "UKR",
     "flag": "🇺🇦",
-    "name": {
-      "native": "Україна"
-    },
-    "fullName": {
-      "native": "Україна"
-    },
     "population": 43531422,
     "area": 603550,
     "languages": [
       "uk"
-    ]
+    ],
+    "nativeName": "Україна",
+    "nativeFullName": "Україна",
+    "name": "Ukraine",
+    "fullName": "Ukraine"
   },
   {
     "code2": "AE",
     "code3": "ARE",
     "flag": "🇦🇪",
-    "name": {
-      "native": "دولة الإمارات العربية المتحدة"
-    },
-    "fullName": {
-      "native": "الإمارات العربية المتحدة"
-    },
     "population": 9890402,
     "area": 83600,
     "languages": [
       "ar"
-    ]
+    ],
+    "nativeName": "دولة الإمارات العربية المتحدة",
+    "nativeFullName": "الإمارات العربية المتحدة",
+    "name": "United Arab Emirates",
+    "fullName": "United Arab Emirates"
   },
   {
     "code2": "GB",
     "code3": "GBR",
     "flag": "🇬🇧",
-    "name": {
-      "native": "United Kingdom"
-    },
-    "fullName": {
-      "native": "United Kingdom of Great Britain and Northern Ireland"
-    },
     "population": 67326569,
     "area": 242495,
     "languages": [
       "en"
-    ]
+    ],
+    "nativeName": "United Kingdom",
+    "nativeFullName": "United Kingdom of Great Britain and Northern Ireland",
+    "name": "United Kingdom",
+    "fullName": "United Kingdom of Great Britain and Northern Ireland"
   },
   {
     "code2": "US",
     "code3": "USA",
     "flag": "🇺🇸",
-    "name": {
-      "native": "United States"
-    },
-    "fullName": {
-      "native": "United States of America"
-    },
     "population": 334233854,
     "area": 9372610,
     "languages": [
       "en"
-    ]
+    ],
+    "nativeName": "United States",
+    "nativeFullName": "United States of America",
+    "name": "United States",
+    "fullName": "United States of America"
   },
   {
     "code2": "UY",
     "code3": "URY",
     "flag": "🇺🇾",
-    "name": {
-      "native": "Uruguay"
-    },
-    "fullName": {
-      "native": "República Oriental del Uruguay"
-    },
     "population": 3473730,
     "area": 176215,
     "languages": [
       "es"
-    ]
+    ],
+    "nativeName": "Uruguay",
+    "nativeFullName": "República Oriental del Uruguay",
+    "name": "Uruguay",
+    "fullName": "Eastern Republic of Uruguay"
   },
   {
     "code2": "UZ",
     "code3": "UZB",
     "flag": "🇺🇿",
-    "name": {
-      "native": "O‘zbekiston"
-    },
-    "fullName": {
-      "native": "O'zbekiston Respublikasi"
-    },
     "population": 36601000,
     "area": 448978,
     "languages": [
       "uz"
-    ]
+    ],
+    "nativeName": "O‘zbekiston",
+    "nativeFullName": "O'zbekiston Respublikasi",
+    "name": "Uzbekistan",
+    "fullName": "Republic of Uzbekistan"
   },
   {
     "code2": "VU",
     "code3": "VUT",
     "flag": "🇻🇺",
-    "name": {
-      "native": "Vanuatu"
-    },
-    "fullName": {
-      "native": "Ripablik blong Vanuatu"
-    },
     "population": 332212,
     "area": 12189,
     "languages": [
       "bi",
       "en",
       "fr"
-    ]
+    ],
+    "nativeName": "Vanuatu",
+    "nativeFullName": "Ripablik blong Vanuatu",
+    "name": "Vanuatu",
+    "fullName": "Republic of Vanuatu"
   },
   {
     "code2": "VE",
     "code3": "VEN",
     "flag": "🇻🇪",
-    "name": {
-      "native": "Venezuela"
-    },
-    "fullName": {
-      "native": "República Bolivariana de Venezuela"
-    },
     "population": 33721168,
     "area": 916445,
     "languages": [
       "es"
-    ]
+    ],
+    "nativeName": "Venezuela",
+    "nativeFullName": "República Bolivariana de Venezuela",
+    "name": "Venezuela",
+    "fullName": "Bolivarian Republic of Venezuela"
   },
   {
     "code2": "VN",
     "code3": "VNM",
     "flag": "🇻🇳",
-    "name": {
-      "native": "Việt Nam"
-    },
-    "fullName": {
-      "native": "Cộng hòa xã hội chủ nghĩa Việt Nam"
-    },
     "population": 97468029,
     "area": 331212,
     "languages": [
       "vi"
-    ]
+    ],
+    "nativeName": "Việt Nam",
+    "nativeFullName": "Cộng hòa xã hội chủ nghĩa Việt Nam",
+    "name": "Vietnam",
+    "fullName": "Socialist Republic of Vietnam"
   },
   {
     "code2": "YE",
     "code3": "YEM",
     "flag": "🇾🇪",
-    "name": {
-      "native": "اليَمَن"
-    },
-    "fullName": {
-      "native": "الجمهورية اليمنية"
-    },
     "population": 34449825,
     "area": 527968,
     "languages": [
       "ar"
-    ]
+    ],
+    "nativeName": "اليَمَن",
+    "nativeFullName": "الجمهورية اليمنية",
+    "name": "Yemen",
+    "fullName": "Republic of Yemen"
   },
   {
     "code2": "ZM",
     "code3": "ZMB",
     "flag": "🇿🇲",
-    "name": {
-      "native": "Zambia"
-    },
-    "fullName": {
-      "native": "Republic of Zambia"
-    },
     "population": 19473125,
     "area": 752618,
     "languages": [
       "en"
-    ]
+    ],
+    "nativeName": "Zambia",
+    "nativeFullName": "Republic of Zambia",
+    "name": "Zambia",
+    "fullName": "Republic of Zambia"
   },
   {
     "code2": "ZW",
     "code3": "ZWE",
     "flag": "🇿🇼",
-    "name": {
-      "native": "Zimbabwe"
-    },
-    "fullName": {
-      "native": "Republic of Zimbabwe"
-    },
     "population": 15092171,
     "area": 390757,
     "languages": [
       "en",
       "sn",
       "nd"
-    ]
+    ],
+    "nativeName": "Zimbabwe",
+    "nativeFullName": "Republic of Zimbabwe",
+    "name": "Zimbabwe",
+    "fullName": "Republic of Zimbabwe"
   },
   {
     "code2": "HK",
     "code3": "HKG",
     "flag": "🇭🇰",
-    "name": {
-      "native": "香港"
-    },
-    "fullName": {
-      "native": "中华人民共和国香港特别行政区"
-    },
     "population": 7413100,
     "area": 1104,
     "languages": [
       "zh",
       "en"
-    ]
+    ],
+    "nativeName": "香港",
+    "nativeFullName": "中华人民共和国香港特别行政区",
+    "name": "Hong Kong",
+    "fullName": "Hong Kong Special Administrative Region"
   },
   {
     "code2": "MO",
     "code3": "MAC",
     "flag": "🇲🇴",
-    "name": {
-      "native": "澳门"
-    },
-    "fullName": {
-      "native": "中华人民共和国澳门特别行政区"
-    },
     "population": 683218,
     "area": 30,
     "languages": [
       "zh",
       "pt"
-    ]
+    ],
+    "nativeName": "澳门",
+    "nativeFullName": "中华人民共和国澳门特别行政区",
+    "name": "Macao",
+    "fullName": "Macao Special Administrative Region"
   },
   {
     "code2": "TW",
     "code3": "TWN",
     "flag": "🇹🇼",
-    "name": {
-      "native": "台灣"
-    },
-    "fullName": {
-      "native": "中華民國"
-    },
     "population": 23570000,
     "area": 36193,
     "languages": [
       "zh"
-    ]
+    ],
+    "nativeName": "台灣",
+    "nativeFullName": "中華民國",
+    "name": "Taiwan",
+    "fullName": "Taiwan, Province of China"
   },
   {
     "code2": "PS",
     "code3": "PSE",
     "flag": "🇵🇸",
-    "name": {
-      "native": "فلسطين"
-    },
-    "fullName": {
-      "native": "دولة فلسطين"
-    },
     "population": 5227193,
     "area": 6220,
     "languages": [
       "ar"
-    ]
+    ],
+    "nativeName": "فلسطين",
+    "nativeFullName": "دولة فلسطين",
+    "name": "Palestine",
+    "fullName": "State of Palestine"
   },
   {
     "code2": "XK",
     "code3": "XKX",
     "flag": "🇽🇰",
-    "name": {
-      "native": "Kosova"
-    },
-    "fullName": {
-      "native": "Republika e Kosovës"
-    },
     "population": 1775378,
     "area": 10908,
     "languages": [
       "sq",
       "sr"
-    ]
+    ],
+    "nativeName": "Kosova",
+    "nativeFullName": "Republika e Kosovës",
+    "name": "Kosovo",
+    "fullName": "Republic of Kosovo"
   },
   {
     "code2": "VA",
     "code3": "VAT",
     "flag": "🇻🇦",
-    "name": {
-      "native": "Vaticano"
-    },
-    "fullName": {
-      "native": "Stato della Città del Vaticano"
-    },
     "population": 800,
     "area": 1,
     "languages": [
       "it",
       "la"
-    ]
+    ],
+    "nativeName": "Vaticano",
+    "nativeFullName": "Stato della Città del Vaticano",
+    "name": "Vatican City",
+    "fullName": "Vatican City State"
   },
   {
     "code2": "PR",
     "code3": "PRI",
     "flag": "🇵🇷",
-    "name": {
-      "native": "Puerto Rico"
-    },
-    "fullName": {
-      "native": "Estado Libre Asociado de Puerto Rico"
-    },
     "population": 3285874,
     "area": 9104,
     "languages": [
       "es",
       "en"
-    ]
+    ],
+    "nativeName": "Puerto Rico",
+    "nativeFullName": "Estado Libre Asociado de Puerto Rico",
+    "name": "Puerto Rico",
+    "fullName": "Commonwealth of Puerto Rico"
   },
   {
     "code2": "GU",
     "code3": "GUM",
     "flag": "🇬🇺",
-    "name": {
-      "native": "Guam"
-    },
-    "fullName": {
-      "native": "Guam"
-    },
     "population": 168775,
     "area": 544,
     "languages": [
       "en"
-    ]
+    ],
+    "nativeName": "Guam",
+    "nativeFullName": "Guam",
+    "name": "Guam",
+    "fullName": "Guam"
   },
   {
     "code2": "GL",
     "code3": "GRL",
     "flag": "🇬🇱",
-    "name": {
-      "native": "Kalaallit Nunaat"
-    },
-    "fullName": {
-      "native": "Kalaallit Nunaat"
-    },
     "population": 56367,
     "area": 2166086,
     "languages": [
       "kl",
       "da"
-    ]
+    ],
+    "nativeName": "Kalaallit Nunaat",
+    "nativeFullName": "Kalaallit Nunaat",
+    "name": "Greenland",
+    "fullName": "Greenland"
   },
   {
     "code2": "FO",
     "code3": "FRO",
     "flag": "🇫🇴",
-    "name": {
-      "native": "Føroyar"
-    },
-    "fullName": {
-      "native": "Føroyar"
-    },
     "population": 53117,
     "area": 1393,
     "languages": [
       "fo",
       "da"
-    ]
+    ],
+    "nativeName": "Føroyar",
+    "nativeFullName": "Føroyar",
+    "name": "Faroe Islands",
+    "fullName": "Faroe Islands"
   },
   {
     "code2": "NC",
     "code3": "NCL",
     "flag": "🇳🇨",
-    "name": {
-      "native": "Nouvelle-Calédonie"
-    },
-    "fullName": {
-      "native": "Nouvelle-Calédonie"
-    },
     "population": 271407,
     "area": 18575,
     "languages": [
       "fr"
-    ]
+    ],
+    "nativeName": "Nouvelle-Calédonie",
+    "nativeFullName": "Nouvelle-Calédonie",
+    "name": "New Caledonia",
+    "fullName": "New Caledonia"
   },
   {
     "code2": "PF",
     "code3": "PYF",
     "flag": "🇵🇫",
-    "name": {
-      "native": "Polynésie française"
-    },
-    "fullName": {
-      "native": "Polynésie française"
-    },
     "population": 283007,
     "area": 4167,
     "languages": [
       "fr"
-    ]
+    ],
+    "nativeName": "Polynésie française",
+    "nativeFullName": "Polynésie française",
+    "name": "French Polynesia",
+    "fullName": "French Polynesia"
   },
   {
     "code2": "BM",
     "code3": "BMU",
     "flag": "🇧🇲",
-    "name": {
-      "native": "Bermuda"
-    },
-    "fullName": {
-      "native": "Bermuda"
-    },
     "population": 64055,
     "area": 54,
     "languages": [
       "en"
-    ]
+    ],
+    "nativeName": "Bermuda",
+    "nativeFullName": "Bermuda",
+    "name": "Bermuda",
+    "fullName": "Bermuda"
   },
   {
     "code2": "KY",
     "code3": "CYM",
     "flag": "🇰🇾",
-    "name": {
-      "native": "Cayman Islands"
-    },
-    "fullName": {
-      "native": "Cayman Islands"
-    },
     "population": 68706,
     "area": 264,
     "languages": [
       "en"
-    ]
+    ],
+    "nativeName": "Cayman Islands",
+    "nativeFullName": "Cayman Islands",
+    "name": "Cayman Islands",
+    "fullName": "Cayman Islands"
   },
   {
     "code2": "VI",
     "code3": "VIR",
     "flag": "🇻🇮",
-    "name": {
-      "native": "United States Virgin Islands"
-    },
-    "fullName": {
-      "native": "Virgin Islands of the United States"
-    },
     "population": 100000,
     "area": 347,
     "languages": [
       "en"
-    ]
+    ],
+    "nativeName": "United States Virgin Islands",
+    "nativeFullName": "Virgin Islands of the United States",
+    "name": "U.S. Virgin Islands",
+    "fullName": "United States Virgin Islands"
   },
   {
     "code2": "CW",
     "code3": "CUW",
     "flag": "🇨🇼",
-    "name": {
-      "native": "Curaçao"
-    },
-    "fullName": {
-      "native": "Land Curaçao"
-    },
     "population": 192000,
     "area": 444,
     "languages": [
       "nl",
       "en"
-    ]
+    ],
+    "nativeName": "Curaçao",
+    "nativeFullName": "Land Curaçao",
+    "name": "Curaçao",
+    "fullName": "Curaçao"
   },
   {
     "code2": "AW",
     "code3": "ABW",
     "flag": "🇦🇼",
-    "name": {
-      "native": "Aruba"
-    },
-    "fullName": {
-      "native": "Aruba"
-    },
     "population": 112309,
     "area": 180,
     "languages": [
       "nl",
       "pap"
-    ]
+    ],
+    "nativeName": "Aruba",
+    "nativeFullName": "Aruba",
+    "name": "Aruba",
+    "fullName": "Aruba"
   },
   {
     "code2": "GI",
     "code3": "GIB",
     "flag": "🇬🇮",
-    "name": {
-      "native": "Gibraltar"
-    },
-    "fullName": {
-      "native": "Gibraltar"
-    },
     "population": 34571,
     "area": 7,
     "languages": [
       "en"
-    ]
+    ],
+    "nativeName": "Gibraltar",
+    "nativeFullName": "Gibraltar",
+    "name": "Gibraltar",
+    "fullName": "Gibraltar"
   },
   {
     "code2": "JE",
     "code3": "JEY",
     "flag": "🇯🇪",
-    "name": {
-      "native": "Jersey"
-    },
-    "fullName": {
-      "native": "Bailiwick of Jersey"
-    },
     "population": 106800,
     "area": 116,
     "languages": [
       "en",
       "fr"
-    ]
+    ],
+    "nativeName": "Jersey",
+    "nativeFullName": "Bailiwick of Jersey",
+    "name": "Jersey",
+    "fullName": "Bailiwick of Jersey"
   },
   {
     "code2": "GG",
     "code3": "GGY",
     "flag": "🇬🇬",
-    "name": {
-      "native": "Guernsey"
-    },
-    "fullName": {
-      "native": "Bailiwick of Guernsey"
-    },
     "population": 67334,
     "area": 78,
     "languages": [
       "en",
       "fr"
-    ]
+    ],
+    "nativeName": "Guernsey",
+    "nativeFullName": "Bailiwick of Guernsey",
+    "name": "Guernsey",
+    "fullName": "Bailiwick of Guernsey"
   },
   {
     "code2": "IM",
     "code3": "IMN",
     "flag": "🇮🇲",
-    "name": {
-      "native": "Isle of Man"
-    },
-    "fullName": {
-      "native": "Isle of Man"
-    },
     "population": 84584,
     "area": 572,
     "languages": [
       "en"
-    ]
+    ],
+    "nativeName": "Isle of Man",
+    "nativeFullName": "Isle of Man",
+    "name": "Isle of Man",
+    "fullName": "Isle of Man"
   },
   {
     "code2": "TC",
     "code3": "TCA",
     "flag": "🇹🇨",
-    "name": {
-      "native": "Turks and Caicos Islands"
-    },
-    "fullName": {
-      "native": "Turks and Caicos Islands"
-    },
     "population": 45703,
     "area": 948,
     "languages": [
       "en"
-    ]
+    ],
+    "nativeName": "Turks and Caicos Islands",
+    "nativeFullName": "Turks and Caicos Islands",
+    "name": "Turks and Caicos Islands",
+    "fullName": "Turks and Caicos Islands"
   },
   {
     "code2": "VG",
     "code3": "VGB",
     "flag": "🇻🇬",
-    "name": {
-      "native": "British Virgin Islands"
-    },
-    "fullName": {
-      "native": "Virgin Islands"
-    },
     "population": 30423,
     "area": 151,
     "languages": [
       "en"
-    ]
+    ],
+    "nativeName": "British Virgin Islands",
+    "nativeFullName": "Virgin Islands",
+    "name": "British Virgin Islands",
+    "fullName": "British Virgin Islands"
   },
   {
     "code2": "AI",
     "code3": "AIA",
     "flag": "🇦🇮",
-    "name": {
-      "native": "Anguilla"
-    },
-    "fullName": {
-      "native": "Anguilla"
-    },
     "population": 18090,
     "area": 91,
     "languages": [
       "en"
-    ]
+    ],
+    "nativeName": "Anguilla",
+    "nativeFullName": "Anguilla",
+    "name": "Anguilla",
+    "fullName": "Anguilla"
   },
   {
     "code2": "MS",
     "code3": "MSR",
     "flag": "🇲🇸",
-    "name": {
-      "native": "Montserrat"
-    },
-    "fullName": {
-      "native": "Montserrat"
-    },
     "population": 4390,
     "area": 102,
     "languages": [
       "en"
-    ]
+    ],
+    "nativeName": "Montserrat",
+    "nativeFullName": "Montserrat",
+    "name": "Montserrat",
+    "fullName": "Montserrat"
   },
   {
     "code2": "SH",
     "code3": "SHN",
     "flag": "🇸🇭",
-    "name": {
-      "native": "Saint Helena, Ascension and Tristan da Cunha"
-    },
-    "fullName": {
-      "native": "Saint Helena, Ascension and Tristan da Cunha"
-    },
     "population": 5633,
     "area": 394,
     "languages": [
       "en"
-    ]
+    ],
+    "nativeName": "Saint Helena, Ascension and Tristan da Cunha",
+    "nativeFullName": "Saint Helena, Ascension and Tristan da Cunha",
+    "name": "Saint Helena",
+    "fullName": "Saint Helena, Ascension and Tristan da Cunha"
   },
   {
     "code2": "FK",
     "code3": "FLK",
     "flag": "🇫🇰",
-    "name": {
-      "native": "Falkland Islands"
-    },
-    "fullName": {
-      "native": "Falkland Islands"
-    },
     "population": 2840,
     "area": 12173,
     "languages": [
       "en"
-    ]
+    ],
+    "nativeName": "Falkland Islands",
+    "nativeFullName": "Falkland Islands",
+    "name": "Falkland Islands",
+    "fullName": "Falkland Islands"
   },
   {
     "code2": "GF",
     "code3": "GUF",
     "flag": "🇬🇫",
-    "name": {
-      "native": "Guyane française"
-    },
-    "fullName": {
-      "native": "Guyane"
-    },
     "population": 294071,
     "area": 83534,
     "languages": [
       "fr"
-    ]
+    ],
+    "nativeName": "Guyane française",
+    "nativeFullName": "Guyane",
+    "name": "French Guiana",
+    "fullName": "French Guiana"
   },
   {
     "code2": "GP",
     "code3": "GLP",
     "flag": "🇬🇵",
-    "name": {
-      "native": "Guadeloupe"
-    },
-    "fullName": {
-      "native": "Guadeloupe"
-    },
     "population": 400000,
     "area": 1628,
     "languages": [
       "fr"
-    ]
+    ],
+    "nativeName": "Guadeloupe",
+    "nativeFullName": "Guadeloupe",
+    "name": "Guadeloupe",
+    "fullName": "Guadeloupe"
   },
   {
     "code2": "MQ",
     "code3": "MTQ",
     "flag": "🇲🇶",
-    "name": {
-      "native": "Martinique"
-    },
-    "fullName": {
-      "native": "Martinique"
-    },
     "population": 350000,
     "area": 1128,
     "languages": [
       "fr"
-    ]
+    ],
+    "nativeName": "Martinique",
+    "nativeFullName": "Martinique",
+    "name": "Martinique",
+    "fullName": "Martinique"
   },
   {
     "code2": "RE",
     "code3": "REU",
     "flag": "🇷🇪",
-    "name": {
-      "native": "La Réunion"
-    },
-    "fullName": {
-      "native": "Ile de la Réunion"
-    },
     "population": 895000,
     "area": 2511,
     "languages": [
       "fr"
-    ]
+    ],
+    "nativeName": "La Réunion",
+    "nativeFullName": "Ile de la Réunion",
+    "name": "Réunion",
+    "fullName": "Réunion"
   },
   {
     "code2": "MF",
     "code3": "MAF",
     "flag": "🇲🇫",
-    "name": {
-      "native": "Saint-Martin"
-    },
-    "fullName": {
-      "native": "Saint-Martin"
-    },
     "population": 38002,
     "area": 53,
     "languages": [
       "fr"
-    ]
+    ],
+    "nativeName": "Saint-Martin",
+    "nativeFullName": "Saint-Martin",
+    "name": "Saint Martin",
+    "fullName": "Collectivity of Saint Martin"
   },
   {
     "code2": "PM",
     "code3": "SPM",
     "flag": "🇵🇲",
-    "name": {
-      "native": "Saint-Pierre-et-Miquelon"
-    },
-    "fullName": {
-      "native": "Collectivité territoriale de Saint-Pierre-et-Miquelon"
-    },
     "population": 5794,
     "area": 242,
     "languages": [
       "fr"
-    ]
+    ],
+    "nativeName": "Saint-Pierre-et-Miquelon",
+    "nativeFullName": "Collectivité territoriale de Saint-Pierre-et-Miquelon",
+    "name": "Saint Pierre and Miquelon",
+    "fullName": "Saint Pierre and Miquelon"
   },
   {
     "code2": "WF",
     "code3": "WLF",
     "flag": "🇼🇫",
-    "name": {
-      "native": "Wallis et Futuna"
-    },
-    "fullName": {
-      "native": "Territoire des îles Wallis et Futuna"
-    },
     "population": 11369,
     "area": 142,
     "languages": [
       "fr"
-    ]
+    ],
+    "nativeName": "Wallis et Futuna",
+    "nativeFullName": "Territoire des îles Wallis et Futuna",
+    "name": "Wallis and Futuna",
+    "fullName": "Wallis and Futuna"
   },
   {
     "code2": "YT",
     "code3": "MYT",
     "flag": "🇾🇹",
-    "name": {
-      "native": "Mayotte"
-    },
-    "fullName": {
-      "native": "Département de Mayotte"
-    },
     "population": 256518,
     "area": 374,
     "languages": [
       "fr"
-    ]
+    ],
+    "nativeName": "Mayotte",
+    "nativeFullName": "Département de Mayotte",
+    "name": "Mayotte",
+    "fullName": "Mayotte"
   },
   {
     "code2": "AS",
     "code3": "ASM",
     "flag": "🇦🇸",
-    "name": {
-      "native": "American Samoa"
-    },
-    "fullName": {
-      "native": "American Samoa"
-    },
     "population": 55312,
     "area": 199,
     "languages": [
       "en",
       "sm"
-    ]
+    ],
+    "nativeName": "American Samoa",
+    "nativeFullName": "American Samoa",
+    "name": "American Samoa",
+    "fullName": "American Samoa"
   },
   {
     "code2": "MP",
     "code3": "MNP",
     "flag": "🇲🇵",
-    "name": {
-      "native": "Northern Mariana Islands"
-    },
-    "fullName": {
-      "native": "Commonwealth of the Northern Mariana Islands"
-    },
     "population": 57216,
     "area": 464,
     "languages": [
       "en"
-    ]
+    ],
+    "nativeName": "Northern Mariana Islands",
+    "nativeFullName": "Commonwealth of the Northern Mariana Islands",
+    "name": "Northern Mariana Islands",
+    "fullName": "Commonwealth of the Northern Mariana Islands"
   },
   {
     "code2": "CX",
     "code3": "CXR",
     "flag": "🇨🇽",
-    "name": {
-      "native": "Christmas Island"
-    },
-    "fullName": {
-      "native": "Territory of Christmas Island"
-    },
     "population": 2072,
     "area": 135,
     "languages": [
       "en"
-    ]
+    ],
+    "nativeName": "Christmas Island",
+    "nativeFullName": "Territory of Christmas Island",
+    "name": "Christmas Island",
+    "fullName": "Christmas Island"
   },
   {
     "code2": "CC",
     "code3": "CCK",
     "flag": "🇨🇨",
-    "name": {
-      "native": "Cocos (Keeling) Islands"
-    },
-    "fullName": {
-      "native": "Territory of the Cocos (Keeling) Islands"
-    },
     "population": 544,
     "area": 14,
     "languages": [
       "en"
-    ]
+    ],
+    "nativeName": "Cocos (Keeling) Islands",
+    "nativeFullName": "Territory of the Cocos (Keeling) Islands",
+    "name": "Cocos Islands",
+    "fullName": "Cocos (Keeling) Islands"
   },
   {
     "code2": "NF",
     "code3": "NFK",
     "flag": "🇳🇫",
-    "name": {
-      "native": "Norfolk Island"
-    },
-    "fullName": {
-      "native": "Territory of Norfolk Island"
-    },
     "population": 1748,
     "area": 36,
     "languages": [
       "en"
-    ]
+    ],
+    "nativeName": "Norfolk Island",
+    "nativeFullName": "Territory of Norfolk Island",
+    "name": "Norfolk Island",
+    "fullName": "Norfolk Island"
   },
   {
     "code2": "PN",
     "code3": "PCN",
     "flag": "🇵🇳",
-    "name": {
-      "native": "Pitcairn Islands"
-    },
-    "fullName": {
-      "native": "Pitcairn Group of Islands"
-    },
     "population": 50,
     "area": 47,
     "languages": [
       "en"
-    ]
+    ],
+    "nativeName": "Pitcairn Islands",
+    "nativeFullName": "Pitcairn Group of Islands",
+    "name": "Pitcairn Islands",
+    "fullName": "Pitcairn, Henderson, Ducie and Oeno Islands"
   },
   {
     "code2": "TK",
     "code3": "TKL",
     "flag": "🇹🇰",
-    "name": {
-      "native": "Tokelau"
-    },
-    "fullName": {
-      "native": "Tokelau"
-    },
     "population": 1647,
     "area": 12,
     "languages": [
       "en",
       "tkl"
-    ]
+    ],
+    "nativeName": "Tokelau",
+    "nativeFullName": "Tokelau",
+    "name": "Tokelau",
+    "fullName": "Tokelau"
   },
   {
     "code2": "NU",
     "code3": "NIU",
     "flag": "🇳🇺",
-    "name": {
-      "native": "Niue"
-    },
-    "fullName": {
-      "native": "Niue"
-    },
     "population": 1549,
     "area": 260,
     "languages": [
       "en",
       "niu"
-    ]
+    ],
+    "nativeName": "Niue",
+    "nativeFullName": "Niue",
+    "name": "Niue",
+    "fullName": "Niue"
   },
   {
     "code2": "CK",
     "code3": "COK",
     "flag": "🇨🇰",
-    "name": {
-      "native": "Cook Islands"
-    },
-    "fullName": {
-      "native": "Cook Islands"
-    },
     "population": 17459,
     "area": 236,
     "languages": [
       "en"
-    ]
+    ],
+    "nativeName": "Cook Islands",
+    "nativeFullName": "Cook Islands",
+    "name": "Cook Islands",
+    "fullName": "Cook Islands"
   },
   {
     "code2": "EH",
     "code3": "ESH",
     "flag": "🇪🇭",
-    "name": {
-      "native": "Western Sahara"
-    },
-    "fullName": {
-      "native": "Sahrawi Arab Democratic Republic"
-    },
     "population": 612000,
     "area": 266000,
     "languages": [
       "ar"
-    ]
+    ],
+    "nativeName": "Western Sahara",
+    "nativeFullName": "Sahrawi Arab Democratic Republic",
+    "name": "Western Sahara",
+    "fullName": "Western Sahara"
   },
   {
     "code2": "AX",
     "code3": "ALA",
     "flag": "🇦🇽",
-    "name": {
-      "native": "Åland"
-    },
-    "fullName": {
-      "native": "Landskapet Åland"
-    },
     "population": 30129,
     "area": 1580,
     "languages": [
       "sv"
-    ]
+    ],
+    "nativeName": "Åland",
+    "nativeFullName": "Landskapet Åland",
+    "name": "Åland Islands",
+    "fullName": "Åland Islands"
   },
   {
     "code2": "BL",
     "code3": "BLM",
     "flag": "🇧🇱",
-    "name": {
-      "native": "Saint-Barthélemy"
-    },
-    "fullName": {
-      "native": "Collectivité de Saint-Barthélemy"
-    },
     "population": 9131,
     "area": 21,
     "languages": [
       "fr"
-    ]
+    ],
+    "nativeName": "Saint-Barthélemy",
+    "nativeFullName": "Collectivité de Saint-Barthélemy",
+    "name": "Saint Barthélemy",
+    "fullName": "Collectivity of Saint Barthélemy"
   },
   {
     "code2": "IO",
     "code3": "IOT",
     "flag": "🇮🇴",
-    "name": {
-      "native": "British Indian Ocean Territory"
-    },
-    "fullName": {
-      "native": "British Indian Ocean Territory"
-    },
     "population": 3000,
     "area": 60,
     "languages": [
       "en"
-    ]
+    ],
+    "nativeName": "British Indian Ocean Territory",
+    "nativeFullName": "British Indian Ocean Territory",
+    "name": "British Indian Ocean Territory",
+    "fullName": "British Indian Ocean Territory"
   },
   {
     "code2": "SX",
     "code3": "SXM",
     "flag": "🇸🇽",
-    "name": {
-      "native": "Sint Maarten"
-    },
-    "fullName": {
-      "native": "Sint Maarten"
-    },
     "population": 42876,
     "area": 34,
     "languages": [
       "nl",
       "en"
-    ]
+    ],
+    "nativeName": "Sint Maarten",
+    "nativeFullName": "Sint Maarten",
+    "name": "Sint Maarten",
+    "fullName": "Sint Maarten"
   },
   {
     "code2": "BQ",
     "code3": "BES",
     "flag": "🇧🇶",
-    "name": {
-      "native": "Caribisch Nederland"
-    },
-    "fullName": {
-      "native": "Bonaire, Sint Eustatius en Saba"
-    },
     "population": 26223,
     "area": 328,
     "languages": [
       "nl"
-    ]
+    ],
+    "nativeName": "Caribisch Nederland",
+    "nativeFullName": "Bonaire, Sint Eustatius en Saba",
+    "name": "Caribbean Netherlands",
+    "fullName": "Bonaire, Sint Eustatius and Saba"
   },
   {
     "code2": "TF",
     "code3": "ATF",
     "flag": "🇹🇫",
-    "name": {
-      "native": "Terres australes et antarctiques françaises"
-    },
-    "fullName": {
-      "native": "Territoire des Terres australes et antarctiques françaises"
-    },
     "population": 140,
     "area": 7747,
     "languages": [
       "fr"
-    ]
+    ],
+    "nativeName": "Terres australes et antarctiques françaises",
+    "nativeFullName": "Territoire des Terres australes et antarctiques françaises",
+    "name": "French Southern Territories",
+    "fullName": "French Southern and Antarctic Lands"
   },
   {
     "code2": "GS",
     "code3": "SGS",
     "flag": "🇬🇸",
-    "name": {
-      "native": "South Georgia"
-    },
-    "fullName": {
-      "native": "South Georgia and the South Sandwich Islands"
-    },
     "population": 30,
     "area": 3903,
     "languages": [
       "en"
-    ]
+    ],
+    "nativeName": "South Georgia",
+    "nativeFullName": "South Georgia and the South Sandwich Islands",
+    "name": "South Georgia",
+    "fullName": "South Georgia and the South Sandwich Islands"
   },
   {
     "code2": "HM",
     "code3": "HMD",
     "flag": "🇭🇲",
-    "name": {
-      "native": "Heard Island and McDonald Islands"
-    },
-    "fullName": {
-      "native": "Heard Island and McDonald Islands"
-    },
     "population": 0,
     "area": 412,
     "languages": [
       "en"
-    ]
+    ],
+    "nativeName": "Heard Island and McDonald Islands",
+    "nativeFullName": "Heard Island and McDonald Islands",
+    "name": "Heard Island and McDonald Islands",
+    "fullName": "Heard Island and McDonald Islands"
   },
   {
     "code2": "AQ",
     "code3": "ATA",
     "flag": "🇦🇶",
-    "name": {
-      "native": "Antarctica"
-    },
-    "fullName": {
-      "native": "Antarctica"
-    },
     "population": 1000,
     "area": 14000000,
     "languages": [
       "en"
-    ]
+    ],
+    "nativeName": "Antarctica",
+    "nativeFullName": "Antarctica",
+    "name": "Antarctica",
+    "fullName": "Antarctica"
   }
 ]
