@@ -48,7 +48,7 @@ Other localized translations are split into `/translations/<locale>.json` (one l
 
 ## Translations
 
-Translations are stored in `/translations`, one file per locale (for example: `/translations/zh-CN.json`, `/translations/fr.json`). English is stored directly in `data.json`.
+Translations are stored in `/translations`, one file per locale (for example: `/translations/zh-Hans.json`, `/translations/fr.json`). English is stored directly in `data.json`.
 
 Each translation file has this structure:
 
