@@ -41,7 +41,10 @@
   },
   "files": [
     "data.json",
-    "translations"
+    "translations",
+    "CHANGELOG.md",
+    "LICENSE",
+    "README.md"
   ],
   "main": "data.json",
   "scripts": {
