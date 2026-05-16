@@ -1,5 +1,13 @@
 # Changelog
 
+## Unreleased
+
+### Changed
+
+- Replaced generic Chinese language code `zh` with script-specific values in `data.json`:
+  - `zh-Hans` for China (`CN`) and Singapore (`SG`)
+  - `zh-Hant` for Hong Kong (`HK`), Macao (`MO`), and Taiwan (`TW`)
+
 ## 1.0.0 - 2026-05-16
 
 ### Added
