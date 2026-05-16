@@ -5,11 +5,7 @@
     "flag": "🇦🇫",
     "population": 40099462,
     "area": 652230,
-    "languages": [
-      "ps",
-      "uz",
-      "tk"
-    ],
+    "languages": ["ps", "uz", "tk"],
     "currency": "AFN",
     "nativeName": "افغانستان",
     "nativeFullName": "د افغانستان اسلامي جمهوریت",
@@ -22,9 +18,7 @@
     "flag": "🇦🇱",
     "population": 2877797,
     "area": 28748,
-    "languages": [
-      "sq"
-    ],
+    "languages": ["sq"],
     "currency": "ALL",
     "nativeName": "Shqipëria",
     "nativeFullName": "Republika e Shqipërisë",
@@ -37,9 +31,7 @@
     "flag": "🇩🇿",
     "population": 44903225,
     "area": 2381741,
-    "languages": [
-      "ar"
-    ],
+    "languages": ["ar"],
     "currency": "DZD",
     "nativeName": "الجزائر",
     "nativeFullName": "الجمهورية الديمقراطية الشعبية الجزائرية",
@@ -52,9 +44,7 @@
     "flag": "🇦🇩",
     "population": 77265,
     "area": 468,
-    "languages": [
-      "ca"
-    ],
+    "languages": ["ca"],
     "currency": "EUR",
     "nativeName": "Andorra",
     "nativeFullName": "Principat d'Andorra",
@@ -67,9 +57,7 @@
     "flag": "🇦🇴",
     "population": 34503774,
     "area": 1246700,
-    "languages": [
-      "pt"
-    ],
+    "languages": ["pt"],
     "currency": "AOA",
     "nativeName": "Angola",
     "nativeFullName": "República de Angola",
@@ -82,9 +70,7 @@
     "flag": "🇦🇬",
     "population": 93219,
     "area": 442,
-    "languages": [
-      "en"
-    ],
+    "languages": ["en"],
     "currency": "XCD",
     "nativeName": "Antigua and Barbuda",
     "nativeFullName": "Antigua and Barbuda",
@@ -97,9 +83,7 @@
     "flag": "🇦🇷",
     "population": 45195777,
     "area": 2780400,
-    "languages": [
-      "es"
-    ],
+    "languages": ["es"],
     "currency": "ARS",
     "nativeName": "Argentina",
     "nativeFullName": "República Argentina",
@@ -112,9 +96,7 @@
     "flag": "🇦🇲",
     "population": 2971966,
     "area": 29743,
-    "languages": [
-      "hy"
-    ],
+    "languages": ["hy"],
     "currency": "AMD",
     "nativeName": "Հայաստան",
     "nativeFullName": "Հայաստանի Հանրապետություն",
@@ -127,9 +109,7 @@
     "flag": "🇦🇺",
     "population": 25921000,
     "area": 7692024,
-    "languages": [
-      "en"
-    ],
+    "languages": ["en"],
     "currency": "AUD",
     "nativeName": "Australia",
     "nativeFullName": "Commonwealth of Australia",
@@ -142,9 +122,7 @@
     "flag": "🇦🇹",
     "population": 9043070,
     "area": 83871,
-    "languages": [
-      "de"
-    ],
+    "languages": ["de"],
     "currency": "EUR",
     "nativeName": "Österreich",
     "nativeFullName": "Republik Österreich",
@@ -157,9 +135,7 @@
     "flag": "🇦🇿",
     "population": 10139177,
     "area": 86600,
-    "languages": [
-      "az"
-    ],
+    "languages": ["az"],
     "currency": "AZN",
     "nativeName": "Azərbaycan",
     "nativeFullName": "Azərbaycan Respublikası",
@@ -172,9 +148,7 @@
     "flag": "🇧🇸",
     "population": 393244,
     "area": 13943,
-    "languages": [
-      "en"
-    ],
+    "languages": ["en"],
     "currency": "BSD",
     "nativeName": "Bahamas",
     "nativeFullName": "Commonwealth of the Bahamas",
@@ -187,9 +161,7 @@
     "flag": "🇧🇭",
     "population": 1472233,
     "area": 765,
-    "languages": [
-      "ar"
-    ],
+    "languages": ["ar"],
     "currency": "BHD",
     "nativeName": "البحرين",
     "nativeFullName": "مملكة البحرين",
@@ -202,9 +174,7 @@
     "flag": "🇧🇩",
     "population": 169356251,
     "area": 147570,
-    "languages": [
-      "bn"
-    ],
+    "languages": ["bn"],
     "currency": "BDT",
     "nativeName": "বাংলাদেশ",
     "nativeFullName": "বাংলাদেশ গণপ্রজাতন্ত্রী",
@@ -217,9 +187,7 @@
     "flag": "🇧🇧",
     "population": 287375,
     "area": 430,
-    "languages": [
-      "en"
-    ],
+    "languages": ["en"],
     "currency": "BBD",
     "nativeName": "Barbados",
     "nativeFullName": "Barbados",
@@ -232,10 +200,7 @@
     "flag": "🇧🇾",
     "population": 9441900,
     "area": 207600,
-    "languages": [
-      "be",
-      "ru"
-    ],
+    "languages": ["be", "ru"],
     "currency": "BYN",
     "nativeName": "Белару́сь",
     "nativeFullName": "Рэспубліка Беларусь",
@@ -248,11 +213,7 @@
     "flag": "🇧🇪",
     "population": 11589623,
     "area": 30528,
-    "languages": [
-      "nl",
-      "fr",
-      "de"
-    ],
+    "languages": ["nl", "fr", "de"],
     "currency": "EUR",
     "nativeName": "België",
     "nativeFullName": "Koninkrijk België",
@@ -265,9 +226,7 @@
     "flag": "🇧🇿",
     "population": 419199,
     "area": 22966,
-    "languages": [
-      "en"
-    ],
+    "languages": ["en"],
     "currency": "BZD",
     "nativeName": "Belize",
     "nativeFullName": "Belize",
@@ -280,9 +239,7 @@
     "flag": "🇧🇯",
     "population": 12123200,
     "area": 112622,
-    "languages": [
-      "fr"
-    ],
+    "languages": ["fr"],
     "currency": "XOF",
     "nativeName": "Bénin",
     "nativeFullName": "République du Bénin",
@@ -295,9 +252,7 @@
     "flag": "🇧🇹",
     "population": 771608,
     "area": 38394,
-    "languages": [
-      "dz"
-    ],
+    "languages": ["dz"],
     "currency": "BTN",
     "nativeName": "འབྲུག་ཡུལ་",
     "nativeFullName": "འབྲུག་རྒྱལ་ཁབ་",
@@ -310,11 +265,7 @@
     "flag": "🇧🇴",
     "population": 11513100,
     "area": 1098581,
-    "languages": [
-      "es",
-      "qu",
-      "ay"
-    ],
+    "languages": ["es", "qu", "ay"],
     "currency": "BOB",
     "nativeName": "Bolivia",
     "nativeFullName": "Estado Plurinacional de Bolivia",
@@ -327,11 +278,7 @@
     "flag": "🇧🇦",
     "population": 3280819,
     "area": 51197,
-    "languages": [
-      "bs",
-      "hr",
-      "sr"
-    ],
+    "languages": ["bs", "hr", "sr"],
     "currency": "BAM",
     "nativeName": "Bosna i Hercegovina",
     "nativeFullName": "Bosna i Hercegovina",
@@ -344,10 +291,7 @@
     "flag": "🇧🇼",
     "population": 2630296,
     "area": 581730,
-    "languages": [
-      "en",
-      "tn"
-    ],
+    "languages": ["en", "tn"],
     "currency": "BWP",
     "nativeName": "Botswana",
     "nativeFullName": "Republic of Botswana",
@@ -360,9 +304,7 @@
     "flag": "🇧🇷",
     "population": 215313498,
     "area": 8515767,
-    "languages": [
-      "pt"
-    ],
+    "languages": ["pt"],
     "currency": "BRL",
     "nativeName": "Brasil",
     "nativeFullName": "República Federativa do Brasil",
@@ -375,9 +317,7 @@
     "flag": "🇧🇳",
     "population": 441532,
     "area": 5765,
-    "languages": [
-      "ms"
-    ],
+    "languages": ["ms"],
     "currency": "BND",
     "nativeName": "Negara Brunei Darussalam",
     "nativeFullName": "Nation of Brunei, Abode Damai",
@@ -390,9 +330,7 @@
     "flag": "🇧🇬",
     "population": 6520314,
     "area": 110879,
-    "languages": [
-      "bg"
-    ],
+    "languages": ["bg"],
     "currency": "BGN",
     "nativeName": "България",
     "nativeFullName": "Република България",
@@ -405,9 +343,7 @@
     "flag": "🇧🇫",
     "population": 22102838,
     "area": 274222,
-    "languages": [
-      "fr"
-    ],
+    "languages": ["fr"],
     "currency": "XOF",
     "nativeName": "Burkina Faso",
     "nativeFullName": "République du Burkina",
@@ -420,10 +356,7 @@
     "flag": "🇧🇮",
     "population": 12574571,
     "area": 27834,
-    "languages": [
-      "fr",
-      "rn"
-    ],
+    "languages": ["fr", "rn"],
     "currency": "BIF",
     "nativeName": "Burundi",
     "nativeFullName": "République du Burundi",
@@ -436,9 +369,7 @@
     "flag": "🇨🇻",
     "population": 593149,
     "area": 4033,
-    "languages": [
-      "pt"
-    ],
+    "languages": ["pt"],
     "currency": "CVE",
     "nativeName": "Cabo Verde",
     "nativeFullName": "República de Cabo Verde",
@@ -451,9 +382,7 @@
     "flag": "🇰🇭",
     "population": 16589023,
     "area": 181035,
-    "languages": [
-      "km"
-    ],
+    "languages": ["km"],
     "currency": "KHR",
     "nativeName": "Kâmpŭchéa",
     "nativeFullName": "ព្រះរាជាណាចក្រកម្ពុជា",
@@ -466,10 +395,7 @@
     "flag": "🇨🇲",
     "population": 27914536,
     "area": 475442,
-    "languages": [
-      "fr",
-      "en"
-    ],
+    "languages": ["fr", "en"],
     "currency": "XAF",
     "nativeName": "Cameroun",
     "nativeFullName": "République du Cameroun",
@@ -482,10 +408,7 @@
     "flag": "🇨🇦",
     "population": 38246108,
     "area": 9984670,
-    "languages": [
-      "en",
-      "fr"
-    ],
+    "languages": ["en", "fr"],
     "currency": "CAD",
     "nativeName": "Canada",
     "nativeFullName": "Canada",
@@ -498,10 +421,7 @@
     "flag": "🇨🇫",
     "population": 5579144,
     "area": 622984,
-    "languages": [
-      "fr",
-      "sg"
-    ],
+    "languages": ["fr", "sg"],
     "currency": "XAF",
     "nativeName": "République centrafricaine",
     "nativeFullName": "République centrafricaine",
@@ -514,10 +434,7 @@
     "flag": "🇹🇩",
     "population": 17413580,
     "area": 1284000,
-    "languages": [
-      "fr",
-      "ar"
-    ],
+    "languages": ["fr", "ar"],
     "currency": "XAF",
     "nativeName": "Tchad",
     "nativeFullName": "République du Tchad",
@@ -530,9 +447,7 @@
     "flag": "🇨🇱",
     "population": 19116201,
     "area": 756102,
-    "languages": [
-      "es"
-    ],
+    "languages": ["es"],
     "currency": "CLP",
     "nativeName": "Chile",
     "nativeFullName": "República de Chile",
@@ -545,9 +460,7 @@
     "flag": "🇨🇳",
     "population": 1413400000,
     "area": 9596961,
-    "languages": [
-      "zh"
-    ],
+    "languages": ["zh"],
     "currency": "CNY",
     "nativeName": "中国",
     "nativeFullName": "中华人民共和国",
@@ -560,9 +473,7 @@
     "flag": "🇨🇴",
     "population": 51874024,
     "area": 1141748,
-    "languages": [
-      "es"
-    ],
+    "languages": ["es"],
     "currency": "COP",
     "nativeName": "Colombia",
     "nativeFullName": "República de Colombia",
@@ -575,10 +486,7 @@
     "flag": "🇰🇲",
     "population": 888451,
     "area": 2235,
-    "languages": [
-      "ar",
-      "fr"
-    ],
+    "languages": ["ar", "fr"],
     "currency": "KMF",
     "nativeName": "القمر",
     "nativeFullName": "الاتحاد القمري",
@@ -591,9 +499,7 @@
     "flag": "🇨🇬",
     "population": 5797805,
     "area": 342000,
-    "languages": [
-      "fr"
-    ],
+    "languages": ["fr"],
     "currency": "XAF",
     "nativeName": "Congo",
     "nativeFullName": "République du Congo",
@@ -606,9 +512,7 @@
     "flag": "🇨🇩",
     "population": 102262808,
     "area": 2344858,
-    "languages": [
-      "fr"
-    ],
+    "languages": ["fr"],
     "currency": "CDF",
     "nativeName": "RD Congo",
     "nativeFullName": "République démocratique du Congo",
@@ -621,9 +525,7 @@
     "flag": "🇨🇷",
     "population": 5153957,
     "area": 51100,
-    "languages": [
-      "es"
-    ],
+    "languages": ["es"],
     "currency": "CRC",
     "nativeName": "Costa Rica",
     "nativeFullName": "República de Costa Rica",
@@ -636,9 +538,7 @@
     "flag": "🇨🇮",
     "population": 27478249,
     "area": 322463,
-    "languages": [
-      "fr"
-    ],
+    "languages": ["fr"],
     "currency": "XOF",
     "nativeName": "Côte d'Ivoire",
     "nativeFullName": "République de Côte d'Ivoire",
@@ -651,9 +551,7 @@
     "flag": "🇭🇷",
     "population": 3899000,
     "area": 56594,
-    "languages": [
-      "hr"
-    ],
+    "languages": ["hr"],
     "currency": "HRK",
     "nativeName": "Hrvatska",
     "nativeFullName": "Republika Hrvatska",
@@ -666,9 +564,7 @@
     "flag": "🇨🇺",
     "population": 11317505,
     "area": 109884,
-    "languages": [
-      "es"
-    ],
+    "languages": ["es"],
     "currency": "CUP",
     "nativeName": "Cuba",
     "nativeFullName": "República de Cuba",
@@ -681,10 +577,7 @@
     "flag": "🇨🇾",
     "population": 1207359,
     "area": 9251,
-    "languages": [
-      "el",
-      "tr"
-    ],
+    "languages": ["el", "tr"],
     "currency": "EUR",
     "nativeName": "Κύπρος",
     "nativeFullName": "Δημοκρατία της Κύπρος",
@@ -697,9 +590,7 @@
     "flag": "🇨🇿",
     "population": 10900555,
     "area": 78867,
-    "languages": [
-      "cs"
-    ],
+    "languages": ["cs"],
     "currency": "CZK",
     "nativeName": "Česko",
     "nativeFullName": "Česká republika",
@@ -712,9 +603,7 @@
     "flag": "🇩🇰",
     "population": 5873000,
     "area": 43094,
-    "languages": [
-      "da"
-    ],
+    "languages": ["da"],
     "currency": "DKK",
     "nativeName": "Danmark",
     "nativeFullName": "Kongeriget Danmark",
@@ -727,11 +616,7 @@
     "flag": "🇩🇯",
     "population": 1000000,
     "area": 23200,
-    "languages": [
-      "fr",
-      "ar",
-      "so"
-    ],
+    "languages": ["fr", "ar", "so"],
     "currency": "DJF",
     "nativeName": "Djibouti",
     "nativeFullName": "République de Djibouti",
@@ -744,9 +629,7 @@
     "flag": "🇩🇲",
     "population": 71986,
     "area": 751,
-    "languages": [
-      "en"
-    ],
+    "languages": ["en"],
     "currency": "XCD",
     "nativeName": "Dominica",
     "nativeFullName": "Commonwealth of Dominica",
@@ -759,9 +642,7 @@
     "flag": "🇩🇴",
     "population": 10953703,
     "area": 48671,
-    "languages": [
-      "es"
-    ],
+    "languages": ["es"],
     "currency": "DOP",
     "nativeName": "República Dominicana",
     "nativeFullName": "República Dominicana",
@@ -774,9 +655,7 @@
     "flag": "🇪🇨",
     "population": 18001000,
     "area": 283561,
-    "languages": [
-      "es"
-    ],
+    "languages": ["es"],
     "currency": "USD",
     "nativeName": "Ecuador",
     "nativeFullName": "República del Ecuador",
@@ -789,9 +668,7 @@
     "flag": "🇪🇬",
     "population": 104258327,
     "area": 1002450,
-    "languages": [
-      "ar"
-    ],
+    "languages": ["ar"],
     "currency": "EGP",
     "nativeName": "مصر",
     "nativeFullName": "جمهورية مصر العربية",
@@ -804,9 +681,7 @@
     "flag": "🇸🇻",
     "population": 6486201,
     "area": 21041,
-    "languages": [
-      "es"
-    ],
+    "languages": ["es"],
     "currency": "USD",
     "nativeName": "El Salvador",
     "nativeFullName": "República de El Salvador",
@@ -819,11 +694,7 @@
     "flag": "🇬🇶",
     "population": 1496662,
     "area": 28051,
-    "languages": [
-      "es",
-      "fr",
-      "pt"
-    ],
+    "languages": ["es", "fr", "pt"],
     "currency": "XAF",
     "nativeName": "Guinea Ecuatorial",
     "nativeFullName": "República de Guinea Ecuatorial",
@@ -836,11 +707,7 @@
     "flag": "🇪🇷",
     "population": 3601000,
     "area": 117600,
-    "languages": [
-      "ti",
-      "ar",
-      "en"
-    ],
+    "languages": ["ti", "ar", "en"],
     "currency": "ERN",
     "nativeName": "ኤርትራ",
     "nativeFullName": "ሃገረ ኤርትራ",
@@ -853,9 +720,7 @@
     "flag": "🇪🇪",
     "population": 1330068,
     "area": 45228,
-    "languages": [
-      "et"
-    ],
+    "languages": ["et"],
     "currency": "EUR",
     "nativeName": "Eesti",
     "nativeFullName": "Eesti Vabariik",
@@ -868,10 +733,7 @@
     "flag": "🇸🇿",
     "population": 1172000,
     "area": 17364,
-    "languages": [
-      "en",
-      "ss"
-    ],
+    "languages": ["en", "ss"],
     "currency": "SZL",
     "nativeName": "Eswatini",
     "nativeFullName": "Kingdom of Eswatini",
@@ -884,9 +746,7 @@
     "flag": "🇪🇹",
     "population": 120283026,
     "area": 1104300,
-    "languages": [
-      "am"
-    ],
+    "languages": ["am"],
     "currency": "ETB",
     "nativeName": "ኢትዮጵያ",
     "nativeFullName": "የኢትዮጵያ ፌዴራላዊ ዲሞክራሲያዊ ሪፐብሊክ",
@@ -899,11 +759,7 @@
     "flag": "🇫🇯",
     "population": 930748,
     "area": 18274,
-    "languages": [
-      "en",
-      "fj",
-      "hi"
-    ],
+    "languages": ["en", "fj", "hi"],
     "currency": "FJD",
     "nativeName": "Fiji",
     "nativeFullName": "Republic of Fiji",
@@ -916,10 +772,7 @@
     "flag": "🇫🇮",
     "population": 5528000,
     "area": 338424,
-    "languages": [
-      "fi",
-      "sv"
-    ],
+    "languages": ["fi", "sv"],
     "currency": "EUR",
     "nativeName": "Suomi",
     "nativeFullName": "Suomen tasavalta",
@@ -932,9 +785,7 @@
     "flag": "🇫🇷",
     "population": 67897000,
     "area": 643801,
-    "languages": [
-      "fr"
-    ],
+    "languages": ["fr"],
     "currency": "EUR",
     "nativeName": "France",
     "nativeFullName": "République française",
@@ -947,9 +798,7 @@
     "flag": "🇬🇦",
     "population": 2278825,
     "area": 267668,
-    "languages": [
-      "fr"
-    ],
+    "languages": ["fr"],
     "currency": "XAF",
     "nativeName": "Gabon",
     "nativeFullName": "République gabonaise",
@@ -962,9 +811,7 @@
     "flag": "🇬🇲",
     "population": 2486945,
     "area": 11295,
-    "languages": [
-      "en"
-    ],
+    "languages": ["en"],
     "currency": "GMD",
     "nativeName": "Gambia",
     "nativeFullName": "Republic of the Gambia",
@@ -977,9 +824,7 @@
     "flag": "🇬🇪",
     "population": 3713804,
     "area": 69700,
-    "languages": [
-      "ka"
-    ],
+    "languages": ["ka"],
     "currency": "GEL",
     "nativeName": "საქართველო",
     "nativeFullName": "საქართველო",
@@ -992,9 +837,7 @@
     "flag": "🇩🇪",
     "population": 84270625,
     "area": 357114,
-    "languages": [
-      "de"
-    ],
+    "languages": ["de"],
     "currency": "EUR",
     "nativeName": "Deutschland",
     "nativeFullName": "Bundesrepublik Deutschland",
@@ -1007,9 +850,7 @@
     "flag": "🇬🇭",
     "population": 33475870,
     "area": 238533,
-    "languages": [
-      "en"
-    ],
+    "languages": ["en"],
     "currency": "GHS",
     "nativeName": "Ghana",
     "nativeFullName": "Republic of Ghana",
@@ -1022,9 +863,7 @@
     "flag": "🇬🇷",
     "population": 10678632,
     "area": 131957,
-    "languages": [
-      "el"
-    ],
+    "languages": ["el"],
     "currency": "EUR",
     "nativeName": "Ελλάδα",
     "nativeFullName": "Ελληνική Δημοκρατία",
@@ -1037,9 +876,7 @@
     "flag": "🇬🇩",
     "population": 124610,
     "area": 344,
-    "languages": [
-      "en"
-    ],
+    "languages": ["en"],
     "currency": "XCD",
     "nativeName": "Grenada",
     "nativeFullName": "Grenada",
@@ -1052,9 +889,7 @@
     "flag": "🇬🇹",
     "population": 17109746,
     "area": 108889,
-    "languages": [
-      "es"
-    ],
+    "languages": ["es"],
     "currency": "GTQ",
     "nativeName": "Guatemala",
     "nativeFullName": "República de Guatemala",
@@ -1067,9 +902,7 @@
     "flag": "🇬🇳",
     "population": 13497244,
     "area": 245857,
-    "languages": [
-      "fr"
-    ],
+    "languages": ["fr"],
     "currency": "GNF",
     "nativeName": "Guinée",
     "nativeFullName": "République de Guinée",
@@ -1082,9 +915,7 @@
     "flag": "🇬🇼",
     "population": 2060721,
     "area": 36125,
-    "languages": [
-      "pt"
-    ],
+    "languages": ["pt"],
     "currency": "XOF",
     "nativeName": "Guiné-Bissau",
     "nativeFullName": "República da Guiné-Bissau",
@@ -1097,9 +928,7 @@
     "flag": "🇬🇾",
     "population": 787971,
     "area": 214969,
-    "languages": [
-      "en"
-    ],
+    "languages": ["en"],
     "currency": "GYD",
     "nativeName": "Guyana",
     "nativeFullName": "Co-operative Republic of Guyana",
@@ -1112,10 +941,7 @@
     "flag": "🇭🇹",
     "population": 11447569,
     "area": 27750,
-    "languages": [
-      "fr",
-      "ht"
-    ],
+    "languages": ["fr", "ht"],
     "currency": "HTG",
     "nativeName": "Haïti",
     "nativeFullName": "République d'Haïti",
@@ -1128,9 +954,7 @@
     "flag": "🇭🇳",
     "population": 10280345,
     "area": 112492,
-    "languages": [
-      "es"
-    ],
+    "languages": ["es"],
     "currency": "HNL",
     "nativeName": "Honduras",
     "nativeFullName": "República de Honduras",
@@ -1143,9 +967,7 @@
     "flag": "🇭🇺",
     "population": 9730000,
     "area": 93028,
-    "languages": [
-      "hu"
-    ],
+    "languages": ["hu"],
     "currency": "HUF",
     "nativeName": "Magyarország",
     "nativeFullName": "Magyarország",
@@ -1158,9 +980,7 @@
     "flag": "🇮🇸",
     "population": 376248,
     "area": 103000,
-    "languages": [
-      "is"
-    ],
+    "languages": ["is"],
     "currency": "ISK",
     "nativeName": "Ísland",
     "nativeFullName": "Lýðveldið Ísland",
@@ -1173,10 +993,7 @@
     "flag": "🇮🇳",
     "population": 1392000000,
     "area": 3287263,
-    "languages": [
-      "hi",
-      "en"
-    ],
+    "languages": ["hi", "en"],
     "currency": "INR",
     "nativeName": "भारत",
     "nativeFullName": "भारत गणराज्य",
@@ -1189,9 +1006,7 @@
     "flag": "🇮🇩",
     "population": 275501000,
     "area": 1910931,
-    "languages": [
-      "id"
-    ],
+    "languages": ["id"],
     "currency": "IDR",
     "nativeName": "Indonesia",
     "nativeFullName": "Republik Indonesia",
@@ -1204,9 +1019,7 @@
     "flag": "🇮🇷",
     "population": 86758304,
     "area": 1648195,
-    "languages": [
-      "fa"
-    ],
+    "languages": ["fa"],
     "currency": "IRR",
     "nativeName": "ایران",
     "nativeFullName": "جمهوری اسلامی ایران",
@@ -1219,10 +1032,7 @@
     "flag": "🇮🇶",
     "population": 42164965,
     "area": 438317,
-    "languages": [
-      "ar",
-      "ku"
-    ],
+    "languages": ["ar", "ku"],
     "currency": "IQD",
     "nativeName": "العراق",
     "nativeFullName": "جمهورية العراق",
@@ -1235,10 +1045,7 @@
     "flag": "🇮🇪",
     "population": 5123536,
     "area": 70273,
-    "languages": [
-      "ga",
-      "en"
-    ],
+    "languages": ["ga", "en"],
     "currency": "EUR",
     "nativeName": "Éire",
     "nativeFullName": "Poblacht na hÉireann",
@@ -1251,10 +1058,7 @@
     "flag": "🇮🇱",
     "population": 9364000,
     "area": 20770,
-    "languages": [
-      "he",
-      "ar"
-    ],
+    "languages": ["he", "ar"],
     "currency": "ILS",
     "nativeName": "ישראל",
     "nativeFullName": "מדינת ישראל",
@@ -1267,9 +1071,7 @@
     "flag": "🇮🇹",
     "population": 59257566,
     "area": 301340,
-    "languages": [
-      "it"
-    ],
+    "languages": ["it"],
     "currency": "EUR",
     "nativeName": "Italia",
     "nativeFullName": "Repubblica italiana",
@@ -1282,9 +1084,7 @@
     "flag": "🇯🇲",
     "population": 2961167,
     "area": 10991,
-    "languages": [
-      "en"
-    ],
+    "languages": ["en"],
     "currency": "JMD",
     "nativeName": "Jamaica",
     "nativeFullName": "Jamaica",
@@ -1297,9 +1097,7 @@
     "flag": "🇯🇵",
     "population": 125700000,
     "area": 377975,
-    "languages": [
-      "ja"
-    ],
+    "languages": ["ja"],
     "currency": "JPY",
     "nativeName": "日本",
     "nativeFullName": "日本国",
@@ -1312,9 +1110,7 @@
     "flag": "🇯🇴",
     "population": 10203140,
     "area": 89342,
-    "languages": [
-      "ar"
-    ],
+    "languages": ["ar"],
     "currency": "JOD",
     "nativeName": "الأردن",
     "nativeFullName": "المملكة الأردنية الهاشمية",
@@ -1327,10 +1123,7 @@
     "flag": "🇰🇿",
     "population": 19397998,
     "area": 2724900,
-    "languages": [
-      "kk",
-      "ru"
-    ],
+    "languages": ["kk", "ru"],
     "currency": "KZT",
     "nativeName": "Қазақстан",
     "nativeFullName": "Қазақстан Республикасы",
@@ -1343,10 +1136,7 @@
     "flag": "🇰🇪",
     "population": 55864655,
     "area": 580367,
-    "languages": [
-      "sw",
-      "en"
-    ],
+    "languages": ["sw", "en"],
     "currency": "KES",
     "nativeName": "Kenya",
     "nativeFullName": "Republic of Kenya",
@@ -1359,9 +1149,7 @@
     "flag": "🇰🇮",
     "population": 121388,
     "area": 811,
-    "languages": [
-      "en"
-    ],
+    "languages": ["en"],
     "currency": "AUD",
     "nativeName": "Kiribati",
     "nativeFullName": "Independent and Sovereign Republic of Kiribati",
@@ -1374,9 +1162,7 @@
     "flag": "🇰🇵",
     "population": 25971909,
     "area": 120538,
-    "languages": [
-      "ko"
-    ],
+    "languages": ["ko"],
     "currency": "KPW",
     "nativeName": "조선",
     "nativeFullName": "조선민주주의인민공화국",
@@ -1389,9 +1175,7 @@
     "flag": "🇰🇷",
     "population": 51744876,
     "area": 100210,
-    "languages": [
-      "ko"
-    ],
+    "languages": ["ko"],
     "currency": "KRW",
     "nativeName": "한국",
     "nativeFullName": "대한민국",
@@ -1404,9 +1188,7 @@
     "flag": "🇰🇼",
     "population": 4670713,
     "area": 17818,
-    "languages": [
-      "ar"
-    ],
+    "languages": ["ar"],
     "currency": "KWD",
     "nativeName": "الكويت",
     "nativeFullName": "دولة الكويت",
@@ -1419,10 +1201,7 @@
     "flag": "🇰🇬",
     "population": 6663000,
     "area": 199951,
-    "languages": [
-      "ky",
-      "ru"
-    ],
+    "languages": ["ky", "ru"],
     "currency": "KGS",
     "nativeName": "Кыргызстан",
     "nativeFullName": "Кыргыз Республикасы",
@@ -1435,9 +1214,7 @@
     "flag": "🇱🇦",
     "population": 7379358,
     "area": 236800,
-    "languages": [
-      "lo"
-    ],
+    "languages": ["lo"],
     "currency": "LAK",
     "nativeName": "ສປປລາວ",
     "nativeFullName": "ສາທາລະນະ ຊາທິປະໄຕ ຄົນລາວ ຂອງ",
@@ -1450,9 +1227,7 @@
     "flag": "🇱🇻",
     "population": 1830211,
     "area": 64589,
-    "languages": [
-      "lv"
-    ],
+    "languages": ["lv"],
     "currency": "EUR",
     "nativeName": "Latvija",
     "nativeFullName": "Latvijas Republikas",
@@ -1465,10 +1240,7 @@
     "flag": "🇱🇧",
     "population": 5592631,
     "area": 10452,
-    "languages": [
-      "ar",
-      "fr"
-    ],
+    "languages": ["ar", "fr"],
     "currency": "LBP",
     "nativeName": "لبنان",
     "nativeFullName": "الجمهورية اللبنانية",
@@ -1481,10 +1253,7 @@
     "flag": "🇱🇸",
     "population": 2159000,
     "area": 30355,
-    "languages": [
-      "en",
-      "st"
-    ],
+    "languages": ["en", "st"],
     "currency": "LSL",
     "nativeName": "Lesotho",
     "nativeFullName": "Kingdom of Lesotho",
@@ -1497,9 +1266,7 @@
     "flag": "🇱🇷",
     "population": 5358483,
     "area": 111369,
-    "languages": [
-      "en"
-    ],
+    "languages": ["en"],
     "currency": "LRD",
     "nativeName": "Liberia",
     "nativeFullName": "Republic of Liberia",
@@ -1512,9 +1279,7 @@
     "flag": "🇱🇾",
     "population": 7054490,
     "area": 1759541,
-    "languages": [
-      "ar"
-    ],
+    "languages": ["ar"],
     "currency": "LYD",
     "nativeName": "ليبيا",
     "nativeFullName": "الدولة ليبيا",
@@ -1527,9 +1292,7 @@
     "flag": "🇱🇮",
     "population": 38557,
     "area": 160,
-    "languages": [
-      "de"
-    ],
+    "languages": ["de"],
     "currency": "CHF",
     "nativeName": "Liechtenstein",
     "nativeFullName": "Fürstentum Liechtenstein",
@@ -1542,9 +1305,7 @@
     "flag": "🇱🇹",
     "population": 2831000,
     "area": 65300,
-    "languages": [
-      "lt"
-    ],
+    "languages": ["lt"],
     "currency": "EUR",
     "nativeName": "Lietuva",
     "nativeFullName": "Lietuvos Respublikos",
@@ -1557,11 +1318,7 @@
     "flag": "🇱🇺",
     "population": 660809,
     "area": 2586,
-    "languages": [
-      "lb",
-      "fr",
-      "de"
-    ],
+    "languages": ["lb", "fr", "de"],
     "currency": "EUR",
     "nativeName": "Lëtzebuerg",
     "nativeFullName": "Groussherzogtum Lëtzebuerg",
@@ -1574,10 +1331,7 @@
     "flag": "🇲🇬",
     "population": 28915400,
     "area": 587041,
-    "languages": [
-      "mg",
-      "fr"
-    ],
+    "languages": ["mg", "fr"],
     "currency": "MGA",
     "nativeName": "Madagasikara",
     "nativeFullName": "Repoblikan'i Madagasikara",
@@ -1590,10 +1344,7 @@
     "flag": "🇲🇼",
     "population": 20405317,
     "area": 118484,
-    "languages": [
-      "en",
-      "ny"
-    ],
+    "languages": ["en", "ny"],
     "currency": "MWK",
     "nativeName": "Malawi",
     "nativeFullName": "Republic of Malawi",
@@ -1606,9 +1357,7 @@
     "flag": "🇲🇾",
     "population": 33573874,
     "area": 329847,
-    "languages": [
-      "ms"
-    ],
+    "languages": ["ms"],
     "currency": "MYR",
     "nativeName": "مليسيا",
     "nativeFullName": "مليسيا",
@@ -1621,9 +1370,7 @@
     "flag": "🇲🇻",
     "population": 521457,
     "area": 298,
-    "languages": [
-      "dv"
-    ],
+    "languages": ["dv"],
     "currency": "MVR",
     "nativeName": "ދިވެހިރާއްޖޭގެ",
     "nativeFullName": "ދިވެހިރާއްޖޭގެ ޖުމްހޫރިއްޔާ",
@@ -1636,9 +1383,7 @@
     "flag": "🇲🇱",
     "population": 22414000,
     "area": 1240192,
-    "languages": [
-      "fr"
-    ],
+    "languages": ["fr"],
     "currency": "XOF",
     "nativeName": "Mali",
     "nativeFullName": "République du Mali",
@@ -1651,10 +1396,7 @@
     "flag": "🇲🇹",
     "population": 519562,
     "area": 316,
-    "languages": [
-      "mt",
-      "en"
-    ],
+    "languages": ["mt", "en"],
     "currency": "EUR",
     "nativeName": "Malta",
     "nativeFullName": "Repubblika ta ' Malta",
@@ -1667,10 +1409,7 @@
     "flag": "🇲🇭",
     "population": 42050,
     "area": 181,
-    "languages": [
-      "en",
-      "mh"
-    ],
+    "languages": ["en", "mh"],
     "currency": "USD",
     "nativeName": "Marshall Islands",
     "nativeFullName": "Republic of the Marshall Islands",
@@ -1683,9 +1422,7 @@
     "flag": "🇲🇷",
     "population": 4649658,
     "area": 1030700,
-    "languages": [
-      "ar"
-    ],
+    "languages": ["ar"],
     "currency": "MRU",
     "nativeName": "موريتانيا",
     "nativeFullName": "الجمهورية الإسلامية الموريتانية",
@@ -1698,10 +1435,7 @@
     "flag": "🇲🇺",
     "population": 1266334,
     "area": 2040,
-    "languages": [
-      "en",
-      "fr"
-    ],
+    "languages": ["en", "fr"],
     "currency": "MUR",
     "nativeName": "Mauritius",
     "nativeFullName": "Republic of Mauritius",
@@ -1714,9 +1448,7 @@
     "flag": "🇲🇽",
     "population": 128455567,
     "area": 1964375,
-    "languages": [
-      "es"
-    ],
+    "languages": ["es"],
     "currency": "MXN",
     "nativeName": "México",
     "nativeFullName": "Estados Unidos Mexicanos",
@@ -1729,9 +1461,7 @@
     "flag": "🇫🇲",
     "population": 115023,
     "area": 702,
-    "languages": [
-      "en"
-    ],
+    "languages": ["en"],
     "currency": "USD",
     "nativeName": "Micronesia",
     "nativeFullName": "Federated States of Micronesia",
@@ -1744,9 +1474,7 @@
     "flag": "🇲🇩",
     "population": 2617820,
     "area": 33846,
-    "languages": [
-      "ro"
-    ],
+    "languages": ["ro"],
     "currency": "MDL",
     "nativeName": "Moldova",
     "nativeFullName": "Republica Moldova",
@@ -1759,9 +1487,7 @@
     "flag": "🇲🇨",
     "population": 39244,
     "area": 2,
-    "languages": [
-      "fr"
-    ],
+    "languages": ["fr"],
     "currency": "EUR",
     "nativeName": "Monaco",
     "nativeFullName": "Principauté de Monaco",
@@ -1774,9 +1500,7 @@
     "flag": "🇲🇳",
     "population": 3398366,
     "area": 1564116,
-    "languages": [
-      "mn"
-    ],
+    "languages": ["mn"],
     "currency": "MNT",
     "nativeName": "Монгол улс",
     "nativeFullName": "Монгол улс",
@@ -1789,12 +1513,7 @@
     "flag": "🇲🇪",
     "population": 619211,
     "area": 13812,
-    "languages": [
-      "sr",
-      "hr",
-      "bs",
-      "sq"
-    ],
+    "languages": ["sr", "hr", "bs", "sq"],
     "currency": "EUR",
     "nativeName": "Црна Гора",
     "nativeFullName": "Црна Гора",
@@ -1807,10 +1526,7 @@
     "flag": "🇲🇦",
     "population": 37840044,
     "area": 446550,
-    "languages": [
-      "ar",
-      "ber"
-    ],
+    "languages": ["ar", "ber"],
     "currency": "MAD",
     "nativeName": "المغرب",
     "nativeFullName": "المملكة المغربية",
@@ -1823,9 +1539,7 @@
     "flag": "🇲🇿",
     "population": 32790338,
     "area": 801590,
-    "languages": [
-      "pt"
-    ],
+    "languages": ["pt"],
     "currency": "MZN",
     "nativeName": "Moçambique",
     "nativeFullName": "República de Moçambique",
@@ -1838,9 +1552,7 @@
     "flag": "🇲🇲",
     "population": 54409800,
     "area": 676578,
-    "languages": [
-      "my"
-    ],
+    "languages": ["my"],
     "currency": "MMK",
     "nativeName": "မြန်မာ",
     "nativeFullName": "ပြည်ထောင်စု သမ္မတ မြန်မာနိုင်ငံတော်",
@@ -1853,10 +1565,7 @@
     "flag": "🇳🇦",
     "population": 2587801,
     "area": 825615,
-    "languages": [
-      "en",
-      "af"
-    ],
+    "languages": ["en", "af"],
     "currency": "NAD",
     "nativeName": "Namibia",
     "nativeFullName": "Republic of Namibia",
@@ -1869,10 +1578,7 @@
     "flag": "🇳🇷",
     "population": 10876,
     "area": 21,
-    "languages": [
-      "na",
-      "en"
-    ],
+    "languages": ["na", "en"],
     "currency": "AUD",
     "nativeName": "Nauru",
     "nativeFullName": "Republic of Nauru",
@@ -1885,9 +1591,7 @@
     "flag": "🇳🇵",
     "population": 30034989,
     "area": 147181,
-    "languages": [
-      "ne"
-    ],
+    "languages": ["ne"],
     "currency": "NPR",
     "nativeName": "नेपाल",
     "nativeFullName": "नेपाल संघीय लोकतान्त्रिक गणतन्त्र",
@@ -1900,9 +1604,7 @@
     "flag": "🇳🇱",
     "population": 17744406,
     "area": 41543,
-    "languages": [
-      "nl"
-    ],
+    "languages": ["nl"],
     "currency": "EUR",
     "nativeName": "Nederland",
     "nativeFullName": "Koninkrijk der Nederlanden",
@@ -1915,10 +1617,7 @@
     "flag": "🇳🇿",
     "population": 5084300,
     "area": 268838,
-    "languages": [
-      "en",
-      "mi"
-    ],
+    "languages": ["en", "mi"],
     "currency": "NZD",
     "nativeName": "New Zealand",
     "nativeFullName": "New Zealand",
@@ -1931,9 +1630,7 @@
     "flag": "🇳🇮",
     "population": 6850540,
     "area": 130370,
-    "languages": [
-      "es"
-    ],
+    "languages": ["es"],
     "currency": "NIO",
     "nativeName": "Nicaragua",
     "nativeFullName": "República de Nicaragua",
@@ -1946,9 +1643,7 @@
     "flag": "🇳🇪",
     "population": 25252723,
     "area": 1267000,
-    "languages": [
-      "fr"
-    ],
+    "languages": ["fr"],
     "currency": "XOF",
     "nativeName": "Niger",
     "nativeFullName": "République du Niger",
@@ -1961,9 +1656,7 @@
     "flag": "🇳🇬",
     "population": 218541212,
     "area": 923768,
-    "languages": [
-      "en"
-    ],
+    "languages": ["en"],
     "currency": "NGN",
     "nativeName": "Nigeria",
     "nativeFullName": "Federal Republic of Nigeria",
@@ -1976,10 +1669,7 @@
     "flag": "🇲🇰",
     "population": 2068451,
     "area": 25713,
-    "languages": [
-      "mk",
-      "sq"
-    ],
+    "languages": ["mk", "sq"],
     "currency": "MKD",
     "nativeName": "Македонија",
     "nativeFullName": "Република Северна Македонија",
@@ -1992,10 +1682,7 @@
     "flag": "🇳🇴",
     "population": 5425270,
     "area": 323802,
-    "languages": [
-      "nb",
-      "nn"
-    ],
+    "languages": ["nb", "nn"],
     "currency": "NOK",
     "nativeName": "Norge",
     "nativeFullName": "Kongeriket Norge",
@@ -2008,9 +1695,7 @@
     "flag": "🇴🇲",
     "population": 4974986,
     "area": 309500,
-    "languages": [
-      "ar"
-    ],
+    "languages": ["ar"],
     "currency": "OMR",
     "nativeName": "عمان",
     "nativeFullName": "سلطنة عمان",
@@ -2023,10 +1708,7 @@
     "flag": "🇵🇰",
     "population": 231402117,
     "area": 881913,
-    "languages": [
-      "ur",
-      "en"
-    ],
+    "languages": ["ur", "en"],
     "currency": "PKR",
     "nativeName": "پاكستان",
     "nativeFullName": "اسلامی جمہوریۂ پاكستان",
@@ -2039,9 +1721,7 @@
     "flag": "🇵🇼",
     "population": 18092,
     "area": 459,
-    "languages": [
-      "en"
-    ],
+    "languages": ["en"],
     "currency": "USD",
     "nativeName": "Palau",
     "nativeFullName": "Republic of Palau",
@@ -2054,9 +1734,7 @@
     "flag": "🇵🇦",
     "population": 4351267,
     "area": 75417,
-    "languages": [
-      "es"
-    ],
+    "languages": ["es"],
     "currency": "PAB",
     "nativeName": "Panamá",
     "nativeFullName": "República de Panamá",
@@ -2069,11 +1747,7 @@
     "flag": "🇵🇬",
     "population": 10142619,
     "area": 462840,
-    "languages": [
-      "en",
-      "tpi",
-      "ho"
-    ],
+    "languages": ["en", "tpi", "ho"],
     "currency": "PGK",
     "nativeName": "Papua New Guinea",
     "nativeFullName": "Independent State of Papua New Guinea",
@@ -2086,10 +1760,7 @@
     "flag": "🇵🇾",
     "population": 7353038,
     "area": 406752,
-    "languages": [
-      "es",
-      "gn"
-    ],
+    "languages": ["es", "gn"],
     "currency": "PYG",
     "nativeName": "Paraguay",
     "nativeFullName": "República de Paraguay",
@@ -2102,9 +1773,7 @@
     "flag": "🇵🇪",
     "population": 33396698,
     "area": 1285216,
-    "languages": [
-      "es"
-    ],
+    "languages": ["es"],
     "currency": "PEN",
     "nativeName": "Perú",
     "nativeFullName": "República del Perú",
@@ -2117,10 +1786,7 @@
     "flag": "🇵🇭",
     "population": 114163719,
     "area": 343448,
-    "languages": [
-      "en",
-      "tl"
-    ],
+    "languages": ["en", "tl"],
     "currency": "PHP",
     "nativeName": "Philippines",
     "nativeFullName": "Republic of the Philippines",
@@ -2133,9 +1799,7 @@
     "flag": "🇵🇱",
     "population": 38036118,
     "area": 312696,
-    "languages": [
-      "pl"
-    ],
+    "languages": ["pl"],
     "currency": "PLN",
     "nativeName": "Polska",
     "nativeFullName": "Rzeczpospolita Polska",
@@ -2148,9 +1812,7 @@
     "flag": "🇵🇹",
     "population": 10298252,
     "area": 92212,
-    "languages": [
-      "pt"
-    ],
+    "languages": ["pt"],
     "currency": "EUR",
     "nativeName": "Portugal",
     "nativeFullName": "República Portuguesa",
@@ -2163,9 +1825,7 @@
     "flag": "🇶🇦",
     "population": 2695122,
     "area": 11586,
-    "languages": [
-      "ar"
-    ],
+    "languages": ["ar"],
     "currency": "QAR",
     "nativeName": "قطر",
     "nativeFullName": "دولة قطر",
@@ -2178,9 +1838,7 @@
     "flag": "🇷🇴",
     "population": 19286123,
     "area": 238397,
-    "languages": [
-      "ro"
-    ],
+    "languages": ["ro"],
     "currency": "RON",
     "nativeName": "România",
     "nativeFullName": "România",
@@ -2193,9 +1851,7 @@
     "flag": "🇷🇺",
     "population": 145100000,
     "area": 17098242,
-    "languages": [
-      "ru"
-    ],
+    "languages": ["ru"],
     "currency": "RUB",
     "nativeName": "Россия",
     "nativeFullName": "Российская Федерация",
@@ -2208,11 +1864,7 @@
     "flag": "🇷🇼",
     "population": 13776698,
     "area": 26338,
-    "languages": [
-      "rw",
-      "en",
-      "fr"
-    ],
+    "languages": ["rw", "en", "fr"],
     "currency": "RWF",
     "nativeName": "Rwanda",
     "nativeFullName": "Repubulika y'u Rwanda",
@@ -2225,9 +1877,7 @@
     "flag": "🇰🇳",
     "population": 47606,
     "area": 261,
-    "languages": [
-      "en"
-    ],
+    "languages": ["en"],
     "currency": "XCD",
     "nativeName": "Saint Kitts and Nevis",
     "nativeFullName": "Federation of Saint Christopher and Nevis",
@@ -2240,9 +1890,7 @@
     "flag": "🇱🇨",
     "population": 184401,
     "area": 616,
-    "languages": [
-      "en"
-    ],
+    "languages": ["en"],
     "currency": "XCD",
     "nativeName": "Saint Lucia",
     "nativeFullName": "Saint Lucia",
@@ -2255,9 +1903,7 @@
     "flag": "🇻🇨",
     "population": 110694,
     "area": 389,
-    "languages": [
-      "en"
-    ],
+    "languages": ["en"],
     "currency": "XCD",
     "nativeName": "Saint Vincent and the Grenadines",
     "nativeFullName": "Saint Vincent and the Grenadines",
@@ -2270,10 +1916,7 @@
     "flag": "🇼🇸",
     "population": 218764,
     "area": 2842,
-    "languages": [
-      "sm",
-      "en"
-    ],
+    "languages": ["sm", "en"],
     "currency": "WST",
     "nativeName": "Sāmoa",
     "nativeFullName": "Malo Saʻoloto Tutoʻatasi o Sāmoa",
@@ -2286,9 +1929,7 @@
     "flag": "🇸🇲",
     "population": 33931,
     "area": 61,
-    "languages": [
-      "it"
-    ],
+    "languages": ["it"],
     "currency": "EUR",
     "nativeName": "San Marino",
     "nativeFullName": "Repubblica di San Marino",
@@ -2301,9 +1942,7 @@
     "flag": "🇸🇹",
     "population": 223107,
     "area": 964,
-    "languages": [
-      "pt"
-    ],
+    "languages": ["pt"],
     "currency": "STN",
     "nativeName": "São Tomé e Príncipe",
     "nativeFullName": "República Democrática do São Tomé e Príncipe",
@@ -2316,9 +1955,7 @@
     "flag": "🇸🇦",
     "population": 36408820,
     "area": 2149690,
-    "languages": [
-      "ar"
-    ],
+    "languages": ["ar"],
     "currency": "SAR",
     "nativeName": "العربية السعودية",
     "nativeFullName": "المملكة العربية السعودية",
@@ -2331,9 +1968,7 @@
     "flag": "🇸🇳",
     "population": 17196301,
     "area": 196722,
-    "languages": [
-      "fr"
-    ],
+    "languages": ["fr"],
     "currency": "XOF",
     "nativeName": "Sénégal",
     "nativeFullName": "République du Sénégal",
@@ -2346,9 +1981,7 @@
     "flag": "🇷🇸",
     "population": 6804596,
     "area": 77474,
-    "languages": [
-      "sr"
-    ],
+    "languages": ["sr"],
     "currency": "RSD",
     "nativeName": "Србија",
     "nativeFullName": "Република Србија",
@@ -2361,10 +1994,7 @@
     "flag": "🇸🇨",
     "population": 98347,
     "area": 455,
-    "languages": [
-      "fr",
-      "en"
-    ],
+    "languages": ["fr", "en"],
     "currency": "SCR",
     "nativeName": "Seychelles",
     "nativeFullName": "République des Seychelles",
@@ -2377,9 +2007,7 @@
     "flag": "🇸🇱",
     "population": 8420641,
     "area": 71740,
-    "languages": [
-      "en"
-    ],
+    "languages": ["en"],
     "currency": "SLL",
     "nativeName": "Sierra Leone",
     "nativeFullName": "Republic of Sierra Leone",
@@ -2392,12 +2020,7 @@
     "flag": "🇸🇬",
     "population": 5850342,
     "area": 719,
-    "languages": [
-      "en",
-      "ms",
-      "zh",
-      "ta"
-    ],
+    "languages": ["en", "ms", "zh", "ta"],
     "currency": "SGD",
     "nativeName": "Singapore",
     "nativeFullName": "Republic of Singapore",
@@ -2410,9 +2033,7 @@
     "flag": "🇸🇰",
     "population": 5460185,
     "area": 49035,
-    "languages": [
-      "sk"
-    ],
+    "languages": ["sk"],
     "currency": "EUR",
     "nativeName": "Slovensko",
     "nativeFullName": "Slovenská republika",
@@ -2425,9 +2046,7 @@
     "flag": "🇸🇮",
     "population": 2108977,
     "area": 20273,
-    "languages": [
-      "sl"
-    ],
+    "languages": ["sl"],
     "currency": "EUR",
     "nativeName": "Slovenija",
     "nativeFullName": "Republika Slovenija",
@@ -2440,9 +2059,7 @@
     "flag": "🇸🇧",
     "population": 720390,
     "area": 28896,
-    "languages": [
-      "en"
-    ],
+    "languages": ["en"],
     "currency": "SBD",
     "nativeName": "Solomon Islands",
     "nativeFullName": "Solomon Islands",
@@ -2455,10 +2072,7 @@
     "flag": "🇸🇴",
     "population": 17065581,
     "area": 637657,
-    "languages": [
-      "so",
-      "ar"
-    ],
+    "languages": ["so", "ar"],
     "currency": "SOS",
     "nativeName": "Soomaaliya",
     "nativeFullName": "Jamhuuriyadda Federaalka Soomaaliya",
@@ -2471,19 +2085,7 @@
     "flag": "🇿🇦",
     "population": 59893885,
     "area": 1221037,
-    "languages": [
-      "af",
-      "en",
-      "zu",
-      "xh",
-      "st",
-      "ts",
-      "tn",
-      "ss",
-      "ve",
-      "nr",
-      "nso"
-    ],
+    "languages": ["af", "en", "zu", "xh", "st", "ts", "tn", "ss", "ve", "nr", "nso"],
     "currency": "ZAR",
     "nativeName": "South Africa",
     "nativeFullName": "Republiek van Suid-Afrika",
@@ -2496,9 +2098,7 @@
     "flag": "🇸🇸",
     "population": 11088796,
     "area": 619745,
-    "languages": [
-      "en"
-    ],
+    "languages": ["en"],
     "currency": "SSP",
     "nativeName": "South Sudan",
     "nativeFullName": "Republic of South Sudan",
@@ -2511,9 +2111,7 @@
     "flag": "🇪🇸",
     "population": 47415750,
     "area": 505990,
-    "languages": [
-      "es"
-    ],
+    "languages": ["es"],
     "currency": "EUR",
     "nativeName": "España",
     "nativeFullName": "Reino de España",
@@ -2526,10 +2124,7 @@
     "flag": "🇱🇰",
     "population": 22156000,
     "area": 65610,
-    "languages": [
-      "si",
-      "ta"
-    ],
+    "languages": ["si", "ta"],
     "currency": "LKR",
     "nativeName": "ශ්‍රී ලංකාව",
     "nativeFullName": "ශ්‍රී ලංකා ප්‍රජාතාන්ත්‍රික සමාජවාදී ජනරජය",
@@ -2542,10 +2137,7 @@
     "flag": "🇸🇩",
     "population": 44909353,
     "area": 1861484,
-    "languages": [
-      "ar",
-      "en"
-    ],
+    "languages": ["ar", "en"],
     "currency": "SDG",
     "nativeName": "السودان",
     "nativeFullName": "جمهورية السودان",
@@ -2558,9 +2150,7 @@
     "flag": "🇸🇷",
     "population": 623236,
     "area": 163820,
-    "languages": [
-      "nl"
-    ],
+    "languages": ["nl"],
     "currency": "SRD",
     "nativeName": "Suriname",
     "nativeFullName": "Republiek Suriname",
@@ -2573,9 +2163,7 @@
     "flag": "🇸🇪",
     "population": 10481937,
     "area": 450295,
-    "languages": [
-      "sv"
-    ],
+    "languages": ["sv"],
     "currency": "SEK",
     "nativeName": "Sverige",
     "nativeFullName": "Konungariket Sverige",
@@ -2588,12 +2176,7 @@
     "flag": "🇨🇭",
     "population": 8738791,
     "area": 41285,
-    "languages": [
-      "de",
-      "fr",
-      "it",
-      "rm"
-    ],
+    "languages": ["de", "fr", "it", "rm"],
     "currency": "CHF",
     "nativeName": "Suisse",
     "nativeFullName": "Confédération suisse",
@@ -2606,9 +2189,7 @@
     "flag": "🇸🇾",
     "population": 22125249,
     "area": 185180,
-    "languages": [
-      "ar"
-    ],
+    "languages": ["ar"],
     "currency": "SYP",
     "nativeName": "سوريا",
     "nativeFullName": "الجمهورية العربية السورية",
@@ -2621,10 +2202,7 @@
     "flag": "🇹🇯",
     "population": 10143543,
     "area": 143100,
-    "languages": [
-      "tg",
-      "ru"
-    ],
+    "languages": ["tg", "ru"],
     "currency": "TJS",
     "nativeName": "Тоҷикистон",
     "nativeFullName": "Ҷумҳурии Тоҷикистон",
@@ -2637,10 +2215,7 @@
     "flag": "🇹🇿",
     "population": 63298550,
     "area": 945087,
-    "languages": [
-      "sw",
-      "en"
-    ],
+    "languages": ["sw", "en"],
     "currency": "TZS",
     "nativeName": "Tanzania",
     "nativeFullName": "Jamhuri ya Muungano wa Tanzania",
@@ -2653,9 +2228,7 @@
     "flag": "🇹🇭",
     "population": 71697030,
     "area": 513120,
-    "languages": [
-      "th"
-    ],
+    "languages": ["th"],
     "currency": "THB",
     "nativeName": "ประเทศไทย",
     "nativeFullName": "ราชอาณาจักรไทย",
@@ -2668,10 +2241,7 @@
     "flag": "🇹🇱",
     "population": 1341296,
     "area": 14874,
-    "languages": [
-      "pt",
-      "tet"
-    ],
+    "languages": ["pt", "tet"],
     "currency": "USD",
     "nativeName": "Timor-Leste",
     "nativeFullName": "República Democrática de Timor-Leste",
@@ -2684,9 +2254,7 @@
     "flag": "🇹🇬",
     "population": 8644829,
     "area": 56785,
-    "languages": [
-      "fr"
-    ],
+    "languages": ["fr"],
     "currency": "XOF",
     "nativeName": "Togo",
     "nativeFullName": "République togolaise",
@@ -2699,10 +2267,7 @@
     "flag": "🇹🇴",
     "population": 100651,
     "area": 747,
-    "languages": [
-      "en",
-      "to"
-    ],
+    "languages": ["en", "to"],
     "currency": "TOP",
     "nativeName": "Tonga",
     "nativeFullName": "Kingdom of Tonga",
@@ -2715,9 +2280,7 @@
     "flag": "🇹🇹",
     "population": 1399491,
     "area": 5128,
-    "languages": [
-      "en"
-    ],
+    "languages": ["en"],
     "currency": "TTD",
     "nativeName": "Trinidad and Tobago",
     "nativeFullName": "Republic of Trinidad and Tobago",
@@ -2730,10 +2293,7 @@
     "flag": "🇹🇳",
     "population": 12046656,
     "area": 163610,
-    "languages": [
-      "ar",
-      "fr"
-    ],
+    "languages": ["ar", "fr"],
     "currency": "TND",
     "nativeName": "تونس",
     "nativeFullName": "الجمهورية التونسية",
@@ -2746,9 +2306,7 @@
     "flag": "🇹🇷",
     "population": 85279553,
     "area": 783562,
-    "languages": [
-      "tr"
-    ],
+    "languages": ["tr"],
     "currency": "TRY",
     "nativeName": "Türkiye",
     "nativeFullName": "Türkiye Cumhuriyeti",
@@ -2761,9 +2319,7 @@
     "flag": "🇹🇲",
     "population": 6118000,
     "area": 488100,
-    "languages": [
-      "tk"
-    ],
+    "languages": ["tk"],
     "currency": "TMT",
     "nativeName": "Türkmenistan",
     "nativeFullName": "Türkmenistan",
@@ -2776,9 +2332,7 @@
     "flag": "🇹🇻",
     "population": 11792,
     "area": 26,
-    "languages": [
-      "en"
-    ],
+    "languages": ["en"],
     "currency": "AUD",
     "nativeName": "Tuvalu",
     "nativeFullName": "Tuvalu",
@@ -2791,10 +2345,7 @@
     "flag": "🇺🇬",
     "population": 47123531,
     "area": 241038,
-    "languages": [
-      "en",
-      "sw"
-    ],
+    "languages": ["en", "sw"],
     "currency": "UGX",
     "nativeName": "Uganda",
     "nativeFullName": "Republic of Uganda",
@@ -2807,9 +2358,7 @@
     "flag": "🇺🇦",
     "population": 43531422,
     "area": 603550,
-    "languages": [
-      "uk"
-    ],
+    "languages": ["uk"],
     "currency": "UAH",
     "nativeName": "Україна",
     "nativeFullName": "Україна",
@@ -2822,9 +2371,7 @@
     "flag": "🇦🇪",
     "population": 9890402,
     "area": 83600,
-    "languages": [
-      "ar"
-    ],
+    "languages": ["ar"],
     "currency": "AED",
     "nativeName": "دولة الإمارات العربية المتحدة",
     "nativeFullName": "الإمارات العربية المتحدة",
@@ -2837,9 +2384,7 @@
     "flag": "🇬🇧",
     "population": 67326569,
     "area": 242495,
-    "languages": [
-      "en"
-    ],
+    "languages": ["en"],
     "currency": "GBP",
     "nativeName": "United Kingdom",
     "nativeFullName": "United Kingdom of Great Britain and Northern Ireland",
@@ -2852,9 +2397,7 @@
     "flag": "🇺🇸",
     "population": 334233854,
     "area": 9372610,
-    "languages": [
-      "en"
-    ],
+    "languages": ["en"],
     "currency": "USD",
     "nativeName": "United States",
     "nativeFullName": "United States of America",
@@ -2867,9 +2410,7 @@
     "flag": "🇺🇾",
     "population": 3473730,
     "area": 176215,
-    "languages": [
-      "es"
-    ],
+    "languages": ["es"],
     "currency": "UYU",
     "nativeName": "Uruguay",
     "nativeFullName": "República Oriental del Uruguay",
@@ -2882,9 +2423,7 @@
     "flag": "🇺🇿",
     "population": 36601000,
     "area": 448978,
-    "languages": [
-      "uz"
-    ],
+    "languages": ["uz"],
     "currency": "UZS",
     "nativeName": "O‘zbekiston",
     "nativeFullName": "O'zbekiston Respublikasi",
@@ -2897,11 +2436,7 @@
     "flag": "🇻🇺",
     "population": 332212,
     "area": 12189,
-    "languages": [
-      "bi",
-      "en",
-      "fr"
-    ],
+    "languages": ["bi", "en", "fr"],
     "currency": "VUV",
     "nativeName": "Vanuatu",
     "nativeFullName": "Ripablik blong Vanuatu",
@@ -2914,9 +2449,7 @@
     "flag": "🇻🇪",
     "population": 33721168,
     "area": 916445,
-    "languages": [
-      "es"
-    ],
+    "languages": ["es"],
     "currency": "VES",
     "nativeName": "Venezuela",
     "nativeFullName": "República Bolivariana de Venezuela",
@@ -2929,9 +2462,7 @@
     "flag": "🇻🇳",
     "population": 97468029,
     "area": 331212,
-    "languages": [
-      "vi"
-    ],
+    "languages": ["vi"],
     "currency": "VND",
     "nativeName": "Việt Nam",
     "nativeFullName": "Cộng hòa xã hội chủ nghĩa Việt Nam",
@@ -2944,9 +2475,7 @@
     "flag": "🇾🇪",
     "population": 34449825,
     "area": 527968,
-    "languages": [
-      "ar"
-    ],
+    "languages": ["ar"],
     "currency": "YER",
     "nativeName": "اليَمَن",
     "nativeFullName": "الجمهورية اليمنية",
@@ -2959,9 +2488,7 @@
     "flag": "🇿🇲",
     "population": 19473125,
     "area": 752618,
-    "languages": [
-      "en"
-    ],
+    "languages": ["en"],
     "currency": "ZMW",
     "nativeName": "Zambia",
     "nativeFullName": "Republic of Zambia",
@@ -2974,11 +2501,7 @@
     "flag": "🇿🇼",
     "population": 15092171,
     "area": 390757,
-    "languages": [
-      "en",
-      "sn",
-      "nd"
-    ],
+    "languages": ["en", "sn", "nd"],
     "currency": "USD",
     "nativeName": "Zimbabwe",
     "nativeFullName": "Republic of Zimbabwe",
@@ -2991,10 +2514,7 @@
     "flag": "🇭🇰",
     "population": 7413100,
     "area": 1104,
-    "languages": [
-      "zh",
-      "en"
-    ],
+    "languages": ["zh", "en"],
     "currency": "HKD",
     "nativeName": "香港",
     "nativeFullName": "中华人民共和国香港特别行政区",
@@ -3007,10 +2527,7 @@
     "flag": "🇲🇴",
     "population": 683218,
     "area": 30,
-    "languages": [
-      "zh",
-      "pt"
-    ],
+    "languages": ["zh", "pt"],
     "currency": "MOP",
     "nativeName": "澳门",
     "nativeFullName": "中华人民共和国澳门特别行政区",
@@ -3023,9 +2540,7 @@
     "flag": "🇹🇼",
     "population": 23570000,
     "area": 36193,
-    "languages": [
-      "zh"
-    ],
+    "languages": ["zh"],
     "currency": "TWD",
     "nativeName": "台灣",
     "nativeFullName": "中國台灣地區",
@@ -3038,9 +2553,7 @@
     "flag": "🇵🇸",
     "population": 5227193,
     "area": 6220,
-    "languages": [
-      "ar"
-    ],
+    "languages": ["ar"],
     "currency": "ILS",
     "nativeName": "فلسطين",
     "nativeFullName": "دولة فلسطين",
@@ -3053,10 +2566,7 @@
     "flag": "🇽🇰",
     "population": 1775378,
     "area": 10908,
-    "languages": [
-      "sq",
-      "sr"
-    ],
+    "languages": ["sq", "sr"],
     "currency": "EUR",
     "nativeName": "Kosova",
     "nativeFullName": "Republika e Kosovës",
@@ -3069,10 +2579,7 @@
     "flag": "🇻🇦",
     "population": 800,
     "area": 1,
-    "languages": [
-      "it",
-      "la"
-    ],
+    "languages": ["it", "la"],
     "currency": "EUR",
     "nativeName": "Vaticano",
     "nativeFullName": "Stato della Città del Vaticano",
@@ -3085,10 +2592,7 @@
     "flag": "🇵🇷",
     "population": 3285874,
     "area": 9104,
-    "languages": [
-      "es",
-      "en"
-    ],
+    "languages": ["es", "en"],
     "currency": "USD",
     "nativeName": "Puerto Rico",
     "nativeFullName": "Estado Libre Asociado de Puerto Rico",
@@ -3101,9 +2605,7 @@
     "flag": "🇬🇺",
     "population": 168775,
     "area": 544,
-    "languages": [
-      "en"
-    ],
+    "languages": ["en"],
     "currency": "USD",
     "nativeName": "Guam",
     "nativeFullName": "Guam",
@@ -3116,10 +2618,7 @@
     "flag": "🇬🇱",
     "population": 56367,
     "area": 2166086,
-    "languages": [
-      "kl",
-      "da"
-    ],
+    "languages": ["kl", "da"],
     "currency": "DKK",
     "nativeName": "Kalaallit Nunaat",
     "nativeFullName": "Kalaallit Nunaat",
@@ -3132,10 +2631,7 @@
     "flag": "🇫🇴",
     "population": 53117,
     "area": 1393,
-    "languages": [
-      "fo",
-      "da"
-    ],
+    "languages": ["fo", "da"],
     "currency": "DKK",
     "nativeName": "Føroyar",
     "nativeFullName": "Føroyar",
@@ -3148,9 +2644,7 @@
     "flag": "🇳🇨",
     "population": 271407,
     "area": 18575,
-    "languages": [
-      "fr"
-    ],
+    "languages": ["fr"],
     "currency": "XPF",
     "nativeName": "Nouvelle-Calédonie",
     "nativeFullName": "Nouvelle-Calédonie",
@@ -3163,9 +2657,7 @@
     "flag": "🇵🇫",
     "population": 283007,
     "area": 4167,
-    "languages": [
-      "fr"
-    ],
+    "languages": ["fr"],
     "currency": "XPF",
     "nativeName": "Polynésie française",
     "nativeFullName": "Polynésie française",
@@ -3178,9 +2670,7 @@
     "flag": "🇧🇲",
     "population": 64055,
     "area": 54,
-    "languages": [
-      "en"
-    ],
+    "languages": ["en"],
     "currency": "BMD",
     "nativeName": "Bermuda",
     "nativeFullName": "Bermuda",
@@ -3193,9 +2683,7 @@
     "flag": "🇰🇾",
     "population": 68706,
     "area": 264,
-    "languages": [
-      "en"
-    ],
+    "languages": ["en"],
     "currency": "KYD",
     "nativeName": "Cayman Islands",
     "nativeFullName": "Cayman Islands",
@@ -3208,9 +2696,7 @@
     "flag": "🇻🇮",
     "population": 100000,
     "area": 347,
-    "languages": [
-      "en"
-    ],
+    "languages": ["en"],
     "currency": "USD",
     "nativeName": "United States Virgin Islands",
     "nativeFullName": "Virgin Islands of the United States",
@@ -3223,10 +2709,7 @@
     "flag": "🇨🇼",
     "population": 192000,
     "area": 444,
-    "languages": [
-      "nl",
-      "en"
-    ],
+    "languages": ["nl", "en"],
     "currency": "ANG",
     "nativeName": "Curaçao",
     "nativeFullName": "Land Curaçao",
@@ -3239,10 +2722,7 @@
     "flag": "🇦🇼",
     "population": 112309,
     "area": 180,
-    "languages": [
-      "nl",
-      "pap"
-    ],
+    "languages": ["nl", "pap"],
     "currency": "AWG",
     "nativeName": "Aruba",
     "nativeFullName": "Aruba",
@@ -3255,9 +2735,7 @@
     "flag": "🇬🇮",
     "population": 34571,
     "area": 7,
-    "languages": [
-      "en"
-    ],
+    "languages": ["en"],
     "currency": "GIP",
     "nativeName": "Gibraltar",
     "nativeFullName": "Gibraltar",
@@ -3270,10 +2748,7 @@
     "flag": "🇯🇪",
     "population": 106800,
     "area": 116,
-    "languages": [
-      "en",
-      "fr"
-    ],
+    "languages": ["en", "fr"],
     "currency": "GBP",
     "nativeName": "Jersey",
     "nativeFullName": "Bailiwick of Jersey",
@@ -3286,10 +2761,7 @@
     "flag": "🇬🇬",
     "population": 67334,
     "area": 78,
-    "languages": [
-      "en",
-      "fr"
-    ],
+    "languages": ["en", "fr"],
     "currency": "GBP",
     "nativeName": "Guernsey",
     "nativeFullName": "Bailiwick of Guernsey",
@@ -3302,9 +2774,7 @@
     "flag": "🇮🇲",
     "population": 84584,
     "area": 572,
-    "languages": [
-      "en"
-    ],
+    "languages": ["en"],
     "currency": "GBP",
     "nativeName": "Isle of Man",
     "nativeFullName": "Isle of Man",
@@ -3317,9 +2787,7 @@
     "flag": "🇹🇨",
     "population": 45703,
     "area": 948,
-    "languages": [
-      "en"
-    ],
+    "languages": ["en"],
     "currency": "USD",
     "nativeName": "Turks and Caicos Islands",
     "nativeFullName": "Turks and Caicos Islands",
@@ -3332,9 +2800,7 @@
     "flag": "🇻🇬",
     "population": 30423,
     "area": 151,
-    "languages": [
-      "en"
-    ],
+    "languages": ["en"],
     "currency": "USD",
     "nativeName": "British Virgin Islands",
     "nativeFullName": "Virgin Islands",
@@ -3347,9 +2813,7 @@
     "flag": "🇦🇮",
     "population": 18090,
     "area": 91,
-    "languages": [
-      "en"
-    ],
+    "languages": ["en"],
     "currency": "XCD",
     "nativeName": "Anguilla",
     "nativeFullName": "Anguilla",
@@ -3362,9 +2826,7 @@
     "flag": "🇲🇸",
     "population": 4390,
     "area": 102,
-    "languages": [
-      "en"
-    ],
+    "languages": ["en"],
     "currency": "XCD",
     "nativeName": "Montserrat",
     "nativeFullName": "Montserrat",
@@ -3377,9 +2839,7 @@
     "flag": "🇸🇭",
     "population": 5633,
     "area": 394,
-    "languages": [
-      "en"
-    ],
+    "languages": ["en"],
     "currency": "SHP",
     "nativeName": "Saint Helena, Ascension and Tristan da Cunha",
     "nativeFullName": "Saint Helena, Ascension and Tristan da Cunha",
@@ -3392,9 +2852,7 @@
     "flag": "🇫🇰",
     "population": 2840,
     "area": 12173,
-    "languages": [
-      "en"
-    ],
+    "languages": ["en"],
     "currency": "FKP",
     "nativeName": "Falkland Islands",
     "nativeFullName": "Falkland Islands",
@@ -3407,9 +2865,7 @@
     "flag": "🇬🇫",
     "population": 294071,
     "area": 83534,
-    "languages": [
-      "fr"
-    ],
+    "languages": ["fr"],
     "currency": "EUR",
     "nativeName": "Guyane française",
     "nativeFullName": "Guyane",
@@ -3422,9 +2878,7 @@
     "flag": "🇬🇵",
     "population": 400000,
     "area": 1628,
-    "languages": [
-      "fr"
-    ],
+    "languages": ["fr"],
     "currency": "EUR",
     "nativeName": "Guadeloupe",
     "nativeFullName": "Guadeloupe",
@@ -3437,9 +2891,7 @@
     "flag": "🇲🇶",
     "population": 350000,
     "area": 1128,
-    "languages": [
-      "fr"
-    ],
+    "languages": ["fr"],
     "currency": "EUR",
     "nativeName": "Martinique",
     "nativeFullName": "Martinique",
@@ -3452,9 +2904,7 @@
     "flag": "🇷🇪",
     "population": 895000,
     "area": 2511,
-    "languages": [
-      "fr"
-    ],
+    "languages": ["fr"],
     "currency": "EUR",
     "nativeName": "La Réunion",
     "nativeFullName": "Ile de la Réunion",
@@ -3467,9 +2917,7 @@
     "flag": "🇲🇫",
     "population": 38002,
     "area": 53,
-    "languages": [
-      "fr"
-    ],
+    "languages": ["fr"],
     "currency": "EUR",
     "nativeName": "Saint-Martin",
     "nativeFullName": "Saint-Martin",
@@ -3482,9 +2930,7 @@
     "flag": "🇵🇲",
     "population": 5794,
     "area": 242,
-    "languages": [
-      "fr"
-    ],
+    "languages": ["fr"],
     "currency": "EUR",
     "nativeName": "Saint-Pierre-et-Miquelon",
     "nativeFullName": "Collectivité territoriale de Saint-Pierre-et-Miquelon",
@@ -3497,9 +2943,7 @@
     "flag": "🇼🇫",
     "population": 11369,
     "area": 142,
-    "languages": [
-      "fr"
-    ],
+    "languages": ["fr"],
     "currency": "XPF",
     "nativeName": "Wallis et Futuna",
     "nativeFullName": "Territoire des îles Wallis et Futuna",
@@ -3512,9 +2956,7 @@
     "flag": "🇾🇹",
     "population": 256518,
     "area": 374,
-    "languages": [
-      "fr"
-    ],
+    "languages": ["fr"],
     "currency": "EUR",
     "nativeName": "Mayotte",
     "nativeFullName": "Département de Mayotte",
@@ -3527,10 +2969,7 @@
     "flag": "🇦🇸",
     "population": 55312,
     "area": 199,
-    "languages": [
-      "en",
-      "sm"
-    ],
+    "languages": ["en", "sm"],
     "currency": "USD",
     "nativeName": "American Samoa",
     "nativeFullName": "American Samoa",
@@ -3543,9 +2982,7 @@
     "flag": "🇲🇵",
     "population": 57216,
     "area": 464,
-    "languages": [
-      "en"
-    ],
+    "languages": ["en"],
     "currency": "USD",
     "nativeName": "Northern Mariana Islands",
     "nativeFullName": "Commonwealth of the Northern Mariana Islands",
@@ -3558,9 +2995,7 @@
     "flag": "🇨🇽",
     "population": 2072,
     "area": 135,
-    "languages": [
-      "en"
-    ],
+    "languages": ["en"],
     "currency": "AUD",
     "nativeName": "Christmas Island",
     "nativeFullName": "Territory of Christmas Island",
@@ -3573,9 +3008,7 @@
     "flag": "🇨🇨",
     "population": 544,
     "area": 14,
-    "languages": [
-      "en"
-    ],
+    "languages": ["en"],
     "currency": "AUD",
     "nativeName": "Cocos (Keeling) Islands",
     "nativeFullName": "Territory of the Cocos (Keeling) Islands",
@@ -3588,9 +3021,7 @@
     "flag": "🇳🇫",
     "population": 1748,
     "area": 36,
-    "languages": [
-      "en"
-    ],
+    "languages": ["en"],
     "currency": "AUD",
     "nativeName": "Norfolk Island",
     "nativeFullName": "Territory of Norfolk Island",
@@ -3603,9 +3034,7 @@
     "flag": "🇵🇳",
     "population": 50,
     "area": 47,
-    "languages": [
-      "en"
-    ],
+    "languages": ["en"],
     "currency": "NZD",
     "nativeName": "Pitcairn Islands",
     "nativeFullName": "Pitcairn Group of Islands",
@@ -3618,10 +3047,7 @@
     "flag": "🇹🇰",
     "population": 1647,
     "area": 12,
-    "languages": [
-      "en",
-      "tkl"
-    ],
+    "languages": ["en", "tkl"],
     "currency": "NZD",
     "nativeName": "Tokelau",
     "nativeFullName": "Tokelau",
@@ -3634,10 +3060,7 @@
     "flag": "🇳🇺",
     "population": 1549,
     "area": 260,
-    "languages": [
-      "en",
-      "niu"
-    ],
+    "languages": ["en", "niu"],
     "currency": "NZD",
     "nativeName": "Niue",
     "nativeFullName": "Niue",
@@ -3650,9 +3073,7 @@
     "flag": "🇨🇰",
     "population": 17459,
     "area": 236,
-    "languages": [
-      "en"
-    ],
+    "languages": ["en"],
     "currency": "NZD",
     "nativeName": "Cook Islands",
     "nativeFullName": "Cook Islands",
@@ -3665,9 +3086,7 @@
     "flag": "🇪🇭",
     "population": 612000,
     "area": 266000,
-    "languages": [
-      "ar"
-    ],
+    "languages": ["ar"],
     "currency": "MAD",
     "nativeName": "Western Sahara",
     "nativeFullName": "Sahrawi Arab Democratic Republic",
@@ -3680,9 +3099,7 @@
     "flag": "🇦🇽",
     "population": 30129,
     "area": 1580,
-    "languages": [
-      "sv"
-    ],
+    "languages": ["sv"],
     "currency": "EUR",
     "nativeName": "Åland",
     "nativeFullName": "Landskapet Åland",
@@ -3695,9 +3112,7 @@
     "flag": "🇧🇱",
     "population": 9131,
     "area": 21,
-    "languages": [
-      "fr"
-    ],
+    "languages": ["fr"],
     "currency": "EUR",
     "nativeName": "Saint-Barthélemy",
     "nativeFullName": "Collectivité de Saint-Barthélemy",
@@ -3710,9 +3125,7 @@
     "flag": "🇮🇴",
     "population": 3000,
     "area": 60,
-    "languages": [
-      "en"
-    ],
+    "languages": ["en"],
     "currency": "USD",
     "nativeName": "British Indian Ocean Territory",
     "nativeFullName": "British Indian Ocean Territory",
@@ -3725,10 +3138,7 @@
     "flag": "🇸🇽",
     "population": 42876,
     "area": 34,
-    "languages": [
-      "nl",
-      "en"
-    ],
+    "languages": ["nl", "en"],
     "currency": "ANG",
     "nativeName": "Sint Maarten",
     "nativeFullName": "Sint Maarten",
@@ -3741,9 +3151,7 @@
     "flag": "🇧🇶",
     "population": 26223,
     "area": 328,
-    "languages": [
-      "nl"
-    ],
+    "languages": ["nl"],
     "currency": "USD",
     "nativeName": "Caribisch Nederland",
     "nativeFullName": "Bonaire, Sint Eustatius en Saba",
@@ -3756,9 +3164,7 @@
     "flag": "🇹🇫",
     "population": 140,
     "area": 7747,
-    "languages": [
-      "fr"
-    ],
+    "languages": ["fr"],
     "currency": "EUR",
     "nativeName": "Terres australes et antarctiques françaises",
     "nativeFullName": "Territoire des Terres australes et antarctiques françaises",
@@ -3771,9 +3177,7 @@
     "flag": "🇬🇸",
     "population": 30,
     "area": 3903,
-    "languages": [
-      "en"
-    ],
+    "languages": ["en"],
     "currency": "GBP",
     "nativeName": "South Georgia",
     "nativeFullName": "South Georgia and the South Sandwich Islands",
@@ -3786,9 +3190,7 @@
     "flag": "🇭🇲",
     "population": 0,
     "area": 412,
-    "languages": [
-      "en"
-    ],
+    "languages": ["en"],
     "currency": "AUD",
     "nativeName": "Heard Island and McDonald Islands",
     "nativeFullName": "Territory of Heard Island and McDonald Islands",
@@ -3801,9 +3203,7 @@
     "flag": "🇦🇶",
     "population": 1000,
     "area": 14000000,
-    "languages": [
-      "en"
-    ],
+    "languages": ["en"],
     "currency": "USD",
     "nativeName": "Antarctica",
     "nativeFullName": "Antarctica",

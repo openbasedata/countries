@@ -164,14 +164,8 @@
     "fullName": "Costa Rica"
   },
   "CI": {
-    "name": [
-      "Cote d'Ivoire",
-      "Côte d'Ivoire"
-    ],
-    "fullName": [
-      "Cote d'Ivoire",
-      "Côte d'Ivoire"
-    ]
+    "name": ["Cote d'Ivoire", "Côte d'Ivoire"],
+    "fullName": ["Cote d'Ivoire", "Côte d'Ivoire"]
   },
   "HR": {
     "name": "Croatia",
@@ -574,14 +568,8 @@
     "fullName": "Rwmania"
   },
   "RU": {
-    "name": [
-      "Ffederasiwn Rwseg",
-      "Rwsia"
-    ],
-    "fullName": [
-      "Ffederasiwn Rwseg",
-      "Rwsia"
-    ]
+    "name": ["Ffederasiwn Rwseg", "Rwsia"],
+    "fullName": ["Ffederasiwn Rwseg", "Rwsia"]
   },
   "RW": {
     "name": "Rwanda",
@@ -744,26 +732,12 @@
     "fullName": "Emiradau Arabaidd Unedig"
   },
   "GB": {
-    "name": [
-      "Y Deyrnas Unedig",
-      "DU",
-      "Prydain Fawr"
-    ],
-    "fullName": [
-      "Y Deyrnas Unedig",
-      "DU",
-      "Prydain Fawr"
-    ]
+    "name": ["Y Deyrnas Unedig", "DU", "Prydain Fawr"],
+    "fullName": ["Y Deyrnas Unedig", "DU", "Prydain Fawr"]
   },
   "US": {
-    "name": [
-      "Unol Daleithiau America",
-      "UDA"
-    ],
-    "fullName": [
-      "Unol Daleithiau America",
-      "UDA"
-    ]
+    "name": ["Unol Daleithiau America", "UDA"],
+    "fullName": ["Unol Daleithiau America", "UDA"]
   },
   "UY": {
     "name": "Uruguay",
@@ -806,24 +780,12 @@
     "fullName": "Macao"
   },
   "TW": {
-    "name": [
-      "Taiwan, Talaith China",
-      "Taiwan"
-    ],
-    "fullName": [
-      "Taiwan, Talaith China",
-      "Taiwan"
-    ]
+    "name": ["Taiwan, Talaith China", "Taiwan"],
+    "fullName": ["Taiwan, Talaith China", "Taiwan"]
   },
   "PS": {
-    "name": [
-      "Cyflwr Palestina",
-      "Palestina"
-    ],
-    "fullName": [
-      "Cyflwr Palestina",
-      "Palestina"
-    ]
+    "name": ["Cyflwr Palestina", "Palestina"],
+    "fullName": ["Cyflwr Palestina", "Palestina"]
   },
   "XK": {
     "name": "Kosovo",

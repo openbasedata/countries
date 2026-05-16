@@ -164,14 +164,8 @@
     "fullName": "Costa Rica"
   },
   "CI": {
-    "name": [
-      "Cote d'Ivoire",
-      "Côte d'Ivoire"
-    ],
-    "fullName": [
-      "Cote d'Ivoire",
-      "Côte d'Ivoire"
-    ]
+    "name": ["Cote d'Ivoire", "Côte d'Ivoire"],
+    "fullName": ["Cote d'Ivoire", "Côte d'Ivoire"]
   },
   "HR": {
     "name": "Croatia",

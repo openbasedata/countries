@@ -252,14 +252,8 @@
     "fullName": "Gambija"
   },
   "GE": {
-    "name": [
-      "Sakartvelas",
-      "Gruzija"
-    ],
-    "fullName": [
-      "Sakartvelas",
-      "Gruzija"
-    ]
+    "name": ["Sakartvelas", "Gruzija"],
+    "fullName": ["Sakartvelas", "Gruzija"]
   },
   "DE": {
     "name": "Vokietija",
