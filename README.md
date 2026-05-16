@@ -9,10 +9,7 @@
 npm install @openbasedata/countries
 ```
 
-`data.json` contains country metadata with:
-
-- `name` and `fullName` in English
-- `nativeName` and `nativeFullName` in each country's native language
+`data.json` contains country metadata with English and native names, ISO codes, flags, population, area, languages, and currency, etc.
 
 Other localized translations are split into `/translations/<locale>.json` (one language per file) to keep the main dataset smaller.
 
