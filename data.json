@@ -1,7 +1,7 @@
 [
   {
-    "code2": "AF",
-    "code3": "AFG",
+    "code": "AF",
+    "codeAlpha3": "AFG",
     "flag": "🇦🇫",
     "population": 40099462,
     "area": 652230,
@@ -13,8 +13,8 @@
     "fullName": "Islamic Republic of Afghanistan"
   },
   {
-    "code2": "AL",
-    "code3": "ALB",
+    "code": "AL",
+    "codeAlpha3": "ALB",
     "flag": "🇦🇱",
     "population": 2877797,
     "area": 28748,
@@ -26,8 +26,8 @@
     "fullName": "Republic of Albania"
   },
   {
-    "code2": "DZ",
-    "code3": "DZA",
+    "code": "DZ",
+    "codeAlpha3": "DZA",
     "flag": "🇩🇿",
     "population": 44903225,
     "area": 2381741,
@@ -39,8 +39,8 @@
     "fullName": "People's Democratic Republic of Algeria"
   },
   {
-    "code2": "AD",
-    "code3": "AND",
+    "code": "AD",
+    "codeAlpha3": "AND",
     "flag": "🇦🇩",
     "population": 77265,
     "area": 468,
@@ -52,8 +52,8 @@
     "fullName": "Principality of Andorra"
   },
   {
-    "code2": "AO",
-    "code3": "AGO",
+    "code": "AO",
+    "codeAlpha3": "AGO",
     "flag": "🇦🇴",
     "population": 34503774,
     "area": 1246700,
@@ -65,8 +65,8 @@
     "fullName": "Republic of Angola"
   },
   {
-    "code2": "AG",
-    "code3": "ATG",
+    "code": "AG",
+    "codeAlpha3": "ATG",
     "flag": "🇦🇬",
     "population": 93219,
     "area": 442,
@@ -78,8 +78,8 @@
     "fullName": "Antigua and Barbuda"
   },
   {
-    "code2": "AR",
-    "code3": "ARG",
+    "code": "AR",
+    "codeAlpha3": "ARG",
     "flag": "🇦🇷",
     "population": 45195777,
     "area": 2780400,
@@ -91,8 +91,8 @@
     "fullName": "Argentine Republic"
   },
   {
-    "code2": "AM",
-    "code3": "ARM",
+    "code": "AM",
+    "codeAlpha3": "ARM",
     "flag": "🇦🇲",
     "population": 2971966,
     "area": 29743,
@@ -104,8 +104,8 @@
     "fullName": "Republic of Armenia"
   },
   {
-    "code2": "AU",
-    "code3": "AUS",
+    "code": "AU",
+    "codeAlpha3": "AUS",
     "flag": "🇦🇺",
     "population": 25921000,
     "area": 7692024,
@@ -117,8 +117,8 @@
     "fullName": "Commonwealth of Australia"
   },
   {
-    "code2": "AT",
-    "code3": "AUT",
+    "code": "AT",
+    "codeAlpha3": "AUT",
     "flag": "🇦🇹",
     "population": 9043070,
     "area": 83871,
@@ -130,8 +130,8 @@
     "fullName": "Republic of Austria"
   },
   {
-    "code2": "AZ",
-    "code3": "AZE",
+    "code": "AZ",
+    "codeAlpha3": "AZE",
     "flag": "🇦🇿",
     "population": 10139177,
     "area": 86600,
@@ -143,8 +143,8 @@
     "fullName": "Republic of Azerbaijan"
   },
   {
-    "code2": "BS",
-    "code3": "BHS",
+    "code": "BS",
+    "codeAlpha3": "BHS",
     "flag": "🇧🇸",
     "population": 393244,
     "area": 13943,
@@ -156,8 +156,8 @@
     "fullName": "Commonwealth of the Bahamas"
   },
   {
-    "code2": "BH",
-    "code3": "BHR",
+    "code": "BH",
+    "codeAlpha3": "BHR",
     "flag": "🇧🇭",
     "population": 1472233,
     "area": 765,
@@ -169,8 +169,8 @@
     "fullName": "Kingdom of Bahrain"
   },
   {
-    "code2": "BD",
-    "code3": "BGD",
+    "code": "BD",
+    "codeAlpha3": "BGD",
     "flag": "🇧🇩",
     "population": 169356251,
     "area": 147570,
@@ -182,8 +182,8 @@
     "fullName": "People's Republic of Bangladesh"
   },
   {
-    "code2": "BB",
-    "code3": "BRB",
+    "code": "BB",
+    "codeAlpha3": "BRB",
     "flag": "🇧🇧",
     "population": 287375,
     "area": 430,
@@ -195,8 +195,8 @@
     "fullName": "Barbados"
   },
   {
-    "code2": "BY",
-    "code3": "BLR",
+    "code": "BY",
+    "codeAlpha3": "BLR",
     "flag": "🇧🇾",
     "population": 9441900,
     "area": 207600,
@@ -208,8 +208,8 @@
     "fullName": "Republic of Belarus"
   },
   {
-    "code2": "BE",
-    "code3": "BEL",
+    "code": "BE",
+    "codeAlpha3": "BEL",
     "flag": "🇧🇪",
     "population": 11589623,
     "area": 30528,
@@ -221,8 +221,8 @@
     "fullName": "Kingdom of Belgium"
   },
   {
-    "code2": "BZ",
-    "code3": "BLZ",
+    "code": "BZ",
+    "codeAlpha3": "BLZ",
     "flag": "🇧🇿",
     "population": 419199,
     "area": 22966,
@@ -234,8 +234,8 @@
     "fullName": "Belize"
   },
   {
-    "code2": "BJ",
-    "code3": "BEN",
+    "code": "BJ",
+    "codeAlpha3": "BEN",
     "flag": "🇧🇯",
     "population": 12123200,
     "area": 112622,
@@ -247,8 +247,8 @@
     "fullName": "Republic of Benin"
   },
   {
-    "code2": "BT",
-    "code3": "BTN",
+    "code": "BT",
+    "codeAlpha3": "BTN",
     "flag": "🇧🇹",
     "population": 771608,
     "area": 38394,
@@ -260,8 +260,8 @@
     "fullName": "Kingdom of Bhutan"
   },
   {
-    "code2": "BO",
-    "code3": "BOL",
+    "code": "BO",
+    "codeAlpha3": "BOL",
     "flag": "🇧🇴",
     "population": 11513100,
     "area": 1098581,
@@ -273,8 +273,8 @@
     "fullName": "Plurinational State of Bolivia"
   },
   {
-    "code2": "BA",
-    "code3": "BIH",
+    "code": "BA",
+    "codeAlpha3": "BIH",
     "flag": "🇧🇦",
     "population": 3280819,
     "area": 51197,
@@ -286,8 +286,8 @@
     "fullName": "Bosnia and Herzegovina"
   },
   {
-    "code2": "BW",
-    "code3": "BWA",
+    "code": "BW",
+    "codeAlpha3": "BWA",
     "flag": "🇧🇼",
     "population": 2630296,
     "area": 581730,
@@ -299,8 +299,8 @@
     "fullName": "Republic of Botswana"
   },
   {
-    "code2": "BR",
-    "code3": "BRA",
+    "code": "BR",
+    "codeAlpha3": "BRA",
     "flag": "🇧🇷",
     "population": 215313498,
     "area": 8515767,
@@ -312,8 +312,8 @@
     "fullName": "Federative Republic of Brazil"
   },
   {
-    "code2": "BN",
-    "code3": "BRN",
+    "code": "BN",
+    "codeAlpha3": "BRN",
     "flag": "🇧🇳",
     "population": 441532,
     "area": 5765,
@@ -325,8 +325,8 @@
     "fullName": "Nation of Brunei, the Abode of Peace"
   },
   {
-    "code2": "BG",
-    "code3": "BGR",
+    "code": "BG",
+    "codeAlpha3": "BGR",
     "flag": "🇧🇬",
     "population": 6520314,
     "area": 110879,
@@ -338,8 +338,8 @@
     "fullName": "Republic of Bulgaria"
   },
   {
-    "code2": "BF",
-    "code3": "BFA",
+    "code": "BF",
+    "codeAlpha3": "BFA",
     "flag": "🇧🇫",
     "population": 22102838,
     "area": 274222,
@@ -351,8 +351,8 @@
     "fullName": "Burkina Faso"
   },
   {
-    "code2": "BI",
-    "code3": "BDI",
+    "code": "BI",
+    "codeAlpha3": "BDI",
     "flag": "🇧🇮",
     "population": 12574571,
     "area": 27834,
@@ -364,8 +364,8 @@
     "fullName": "Republic of Burundi"
   },
   {
-    "code2": "CV",
-    "code3": "CPV",
+    "code": "CV",
+    "codeAlpha3": "CPV",
     "flag": "🇨🇻",
     "population": 593149,
     "area": 4033,
@@ -377,8 +377,8 @@
     "fullName": "Republic of Cabo Verde"
   },
   {
-    "code2": "KH",
-    "code3": "KHM",
+    "code": "KH",
+    "codeAlpha3": "KHM",
     "flag": "🇰🇭",
     "population": 16589023,
     "area": 181035,
@@ -390,8 +390,8 @@
     "fullName": "Kingdom of Cambodia"
   },
   {
-    "code2": "CM",
-    "code3": "CMR",
+    "code": "CM",
+    "codeAlpha3": "CMR",
     "flag": "🇨🇲",
     "population": 27914536,
     "area": 475442,
@@ -403,8 +403,8 @@
     "fullName": "Republic of Cameroon"
   },
   {
-    "code2": "CA",
-    "code3": "CAN",
+    "code": "CA",
+    "codeAlpha3": "CAN",
     "flag": "🇨🇦",
     "population": 38246108,
     "area": 9984670,
@@ -416,8 +416,8 @@
     "fullName": "Canada"
   },
   {
-    "code2": "CF",
-    "code3": "CAF",
+    "code": "CF",
+    "codeAlpha3": "CAF",
     "flag": "🇨🇫",
     "population": 5579144,
     "area": 622984,
@@ -429,8 +429,8 @@
     "fullName": "Central African Republic"
   },
   {
-    "code2": "TD",
-    "code3": "TCD",
+    "code": "TD",
+    "codeAlpha3": "TCD",
     "flag": "🇹🇩",
     "population": 17413580,
     "area": 1284000,
@@ -442,8 +442,8 @@
     "fullName": "Republic of Chad"
   },
   {
-    "code2": "CL",
-    "code3": "CHL",
+    "code": "CL",
+    "codeAlpha3": "CHL",
     "flag": "🇨🇱",
     "population": 19116201,
     "area": 756102,
@@ -455,8 +455,8 @@
     "fullName": "Republic of Chile"
   },
   {
-    "code2": "CN",
-    "code3": "CHN",
+    "code": "CN",
+    "codeAlpha3": "CHN",
     "flag": "🇨🇳",
     "population": 1413400000,
     "area": 9596961,
@@ -468,8 +468,8 @@
     "fullName": "People's Republic of China"
   },
   {
-    "code2": "CO",
-    "code3": "COL",
+    "code": "CO",
+    "codeAlpha3": "COL",
     "flag": "🇨🇴",
     "population": 51874024,
     "area": 1141748,
@@ -481,8 +481,8 @@
     "fullName": "Republic of Colombia"
   },
   {
-    "code2": "KM",
-    "code3": "COM",
+    "code": "KM",
+    "codeAlpha3": "COM",
     "flag": "🇰🇲",
     "population": 888451,
     "area": 2235,
@@ -494,8 +494,8 @@
     "fullName": "Union of the Comoros"
   },
   {
-    "code2": "CG",
-    "code3": "COG",
+    "code": "CG",
+    "codeAlpha3": "COG",
     "flag": "🇨🇬",
     "population": 5797805,
     "area": 342000,
@@ -507,8 +507,8 @@
     "fullName": "Republic of the Congo"
   },
   {
-    "code2": "CD",
-    "code3": "COD",
+    "code": "CD",
+    "codeAlpha3": "COD",
     "flag": "🇨🇩",
     "population": 102262808,
     "area": 2344858,
@@ -520,8 +520,8 @@
     "fullName": "Democratic Republic of the Congo"
   },
   {
-    "code2": "CR",
-    "code3": "CRI",
+    "code": "CR",
+    "codeAlpha3": "CRI",
     "flag": "🇨🇷",
     "population": 5153957,
     "area": 51100,
@@ -533,8 +533,8 @@
     "fullName": "Republic of Costa Rica"
   },
   {
-    "code2": "CI",
-    "code3": "CIV",
+    "code": "CI",
+    "codeAlpha3": "CIV",
     "flag": "🇨🇮",
     "population": 27478249,
     "area": 322463,
@@ -546,8 +546,8 @@
     "fullName": "Republic of Côte d'Ivoire"
   },
   {
-    "code2": "HR",
-    "code3": "HRV",
+    "code": "HR",
+    "codeAlpha3": "HRV",
     "flag": "🇭🇷",
     "population": 3899000,
     "area": 56594,
@@ -559,8 +559,8 @@
     "fullName": "Republic of Croatia"
   },
   {
-    "code2": "CU",
-    "code3": "CUB",
+    "code": "CU",
+    "codeAlpha3": "CUB",
     "flag": "🇨🇺",
     "population": 11317505,
     "area": 109884,
@@ -572,8 +572,8 @@
     "fullName": "Republic of Cuba"
   },
   {
-    "code2": "CY",
-    "code3": "CYP",
+    "code": "CY",
+    "codeAlpha3": "CYP",
     "flag": "🇨🇾",
     "population": 1207359,
     "area": 9251,
@@ -585,8 +585,8 @@
     "fullName": "Republic of Cyprus"
   },
   {
-    "code2": "CZ",
-    "code3": "CZE",
+    "code": "CZ",
+    "codeAlpha3": "CZE",
     "flag": "🇨🇿",
     "population": 10900555,
     "area": 78867,
@@ -598,8 +598,8 @@
     "fullName": "Czech Republic"
   },
   {
-    "code2": "DK",
-    "code3": "DNK",
+    "code": "DK",
+    "codeAlpha3": "DNK",
     "flag": "🇩🇰",
     "population": 5873000,
     "area": 43094,
@@ -611,8 +611,8 @@
     "fullName": "Kingdom of Denmark"
   },
   {
-    "code2": "DJ",
-    "code3": "DJI",
+    "code": "DJ",
+    "codeAlpha3": "DJI",
     "flag": "🇩🇯",
     "population": 1000000,
     "area": 23200,
@@ -624,8 +624,8 @@
     "fullName": "Republic of Djibouti"
   },
   {
-    "code2": "DM",
-    "code3": "DMA",
+    "code": "DM",
+    "codeAlpha3": "DMA",
     "flag": "🇩🇲",
     "population": 71986,
     "area": 751,
@@ -637,8 +637,8 @@
     "fullName": "Commonwealth of Dominica"
   },
   {
-    "code2": "DO",
-    "code3": "DOM",
+    "code": "DO",
+    "codeAlpha3": "DOM",
     "flag": "🇩🇴",
     "population": 10953703,
     "area": 48671,
@@ -650,8 +650,8 @@
     "fullName": "Dominican Republic"
   },
   {
-    "code2": "EC",
-    "code3": "ECU",
+    "code": "EC",
+    "codeAlpha3": "ECU",
     "flag": "🇪🇨",
     "population": 18001000,
     "area": 283561,
@@ -663,8 +663,8 @@
     "fullName": "Republic of Ecuador"
   },
   {
-    "code2": "EG",
-    "code3": "EGY",
+    "code": "EG",
+    "codeAlpha3": "EGY",
     "flag": "🇪🇬",
     "population": 104258327,
     "area": 1002450,
@@ -676,8 +676,8 @@
     "fullName": "Arab Republic of Egypt"
   },
   {
-    "code2": "SV",
-    "code3": "SLV",
+    "code": "SV",
+    "codeAlpha3": "SLV",
     "flag": "🇸🇻",
     "population": 6486201,
     "area": 21041,
@@ -689,8 +689,8 @@
     "fullName": "Republic of El Salvador"
   },
   {
-    "code2": "GQ",
-    "code3": "GNQ",
+    "code": "GQ",
+    "codeAlpha3": "GNQ",
     "flag": "🇬🇶",
     "population": 1496662,
     "area": 28051,
@@ -702,8 +702,8 @@
     "fullName": "Republic of Equatorial Guinea"
   },
   {
-    "code2": "ER",
-    "code3": "ERI",
+    "code": "ER",
+    "codeAlpha3": "ERI",
     "flag": "🇪🇷",
     "population": 3601000,
     "area": 117600,
@@ -715,8 +715,8 @@
     "fullName": "State of Eritrea"
   },
   {
-    "code2": "EE",
-    "code3": "EST",
+    "code": "EE",
+    "codeAlpha3": "EST",
     "flag": "🇪🇪",
     "population": 1330068,
     "area": 45228,
@@ -728,8 +728,8 @@
     "fullName": "Republic of Estonia"
   },
   {
-    "code2": "SZ",
-    "code3": "SWZ",
+    "code": "SZ",
+    "codeAlpha3": "SWZ",
     "flag": "🇸🇿",
     "population": 1172000,
     "area": 17364,
@@ -741,8 +741,8 @@
     "fullName": "Kingdom of Eswatini"
   },
   {
-    "code2": "ET",
-    "code3": "ETH",
+    "code": "ET",
+    "codeAlpha3": "ETH",
     "flag": "🇪🇹",
     "population": 120283026,
     "area": 1104300,
@@ -754,8 +754,8 @@
     "fullName": "Federal Democratic Republic of Ethiopia"
   },
   {
-    "code2": "FJ",
-    "code3": "FJI",
+    "code": "FJ",
+    "codeAlpha3": "FJI",
     "flag": "🇫🇯",
     "population": 930748,
     "area": 18274,
@@ -767,8 +767,8 @@
     "fullName": "Republic of Fiji"
   },
   {
-    "code2": "FI",
-    "code3": "FIN",
+    "code": "FI",
+    "codeAlpha3": "FIN",
     "flag": "🇫🇮",
     "population": 5528000,
     "area": 338424,
@@ -780,8 +780,8 @@
     "fullName": "Republic of Finland"
   },
   {
-    "code2": "FR",
-    "code3": "FRA",
+    "code": "FR",
+    "codeAlpha3": "FRA",
     "flag": "🇫🇷",
     "population": 67897000,
     "area": 643801,
@@ -793,8 +793,8 @@
     "fullName": "French Republic"
   },
   {
-    "code2": "GA",
-    "code3": "GAB",
+    "code": "GA",
+    "codeAlpha3": "GAB",
     "flag": "🇬🇦",
     "population": 2278825,
     "area": 267668,
@@ -806,8 +806,8 @@
     "fullName": "Gabonese Republic"
   },
   {
-    "code2": "GM",
-    "code3": "GMB",
+    "code": "GM",
+    "codeAlpha3": "GMB",
     "flag": "🇬🇲",
     "population": 2486945,
     "area": 11295,
@@ -819,8 +819,8 @@
     "fullName": "Republic of the Gambia"
   },
   {
-    "code2": "GE",
-    "code3": "GEO",
+    "code": "GE",
+    "codeAlpha3": "GEO",
     "flag": "🇬🇪",
     "population": 3713804,
     "area": 69700,
@@ -832,8 +832,8 @@
     "fullName": "Georgia"
   },
   {
-    "code2": "DE",
-    "code3": "DEU",
+    "code": "DE",
+    "codeAlpha3": "DEU",
     "flag": "🇩🇪",
     "population": 84270625,
     "area": 357114,
@@ -845,8 +845,8 @@
     "fullName": "Federal Republic of Germany"
   },
   {
-    "code2": "GH",
-    "code3": "GHA",
+    "code": "GH",
+    "codeAlpha3": "GHA",
     "flag": "🇬🇭",
     "population": 33475870,
     "area": 238533,
@@ -858,8 +858,8 @@
     "fullName": "Republic of Ghana"
   },
   {
-    "code2": "GR",
-    "code3": "GRC",
+    "code": "GR",
+    "codeAlpha3": "GRC",
     "flag": "🇬🇷",
     "population": 10678632,
     "area": 131957,
@@ -871,8 +871,8 @@
     "fullName": "Hellenic Republic"
   },
   {
-    "code2": "GD",
-    "code3": "GRD",
+    "code": "GD",
+    "codeAlpha3": "GRD",
     "flag": "🇬🇩",
     "population": 124610,
     "area": 344,
@@ -884,8 +884,8 @@
     "fullName": "Grenada"
   },
   {
-    "code2": "GT",
-    "code3": "GTM",
+    "code": "GT",
+    "codeAlpha3": "GTM",
     "flag": "🇬🇹",
     "population": 17109746,
     "area": 108889,
@@ -897,8 +897,8 @@
     "fullName": "Republic of Guatemala"
   },
   {
-    "code2": "GN",
-    "code3": "GIN",
+    "code": "GN",
+    "codeAlpha3": "GIN",
     "flag": "🇬🇳",
     "population": 13497244,
     "area": 245857,
@@ -910,8 +910,8 @@
     "fullName": "Republic of Guinea"
   },
   {
-    "code2": "GW",
-    "code3": "GNB",
+    "code": "GW",
+    "codeAlpha3": "GNB",
     "flag": "🇬🇼",
     "population": 2060721,
     "area": 36125,
@@ -923,8 +923,8 @@
     "fullName": "Republic of Guinea-Bissau"
   },
   {
-    "code2": "GY",
-    "code3": "GUY",
+    "code": "GY",
+    "codeAlpha3": "GUY",
     "flag": "🇬🇾",
     "population": 787971,
     "area": 214969,
@@ -936,8 +936,8 @@
     "fullName": "Co-operative Republic of Guyana"
   },
   {
-    "code2": "HT",
-    "code3": "HTI",
+    "code": "HT",
+    "codeAlpha3": "HTI",
     "flag": "🇭🇹",
     "population": 11447569,
     "area": 27750,
@@ -949,8 +949,8 @@
     "fullName": "Republic of Haiti"
   },
   {
-    "code2": "HN",
-    "code3": "HND",
+    "code": "HN",
+    "codeAlpha3": "HND",
     "flag": "🇭🇳",
     "population": 10280345,
     "area": 112492,
@@ -962,8 +962,8 @@
     "fullName": "Republic of Honduras"
   },
   {
-    "code2": "HU",
-    "code3": "HUN",
+    "code": "HU",
+    "codeAlpha3": "HUN",
     "flag": "🇭🇺",
     "population": 9730000,
     "area": 93028,
@@ -975,8 +975,8 @@
     "fullName": "Hungary"
   },
   {
-    "code2": "IS",
-    "code3": "ISL",
+    "code": "IS",
+    "codeAlpha3": "ISL",
     "flag": "🇮🇸",
     "population": 376248,
     "area": 103000,
@@ -988,8 +988,8 @@
     "fullName": "Republic of Iceland"
   },
   {
-    "code2": "IN",
-    "code3": "IND",
+    "code": "IN",
+    "codeAlpha3": "IND",
     "flag": "🇮🇳",
     "population": 1392000000,
     "area": 3287263,
@@ -1001,8 +1001,8 @@
     "fullName": "Republic of India"
   },
   {
-    "code2": "ID",
-    "code3": "IDN",
+    "code": "ID",
+    "codeAlpha3": "IDN",
     "flag": "🇮🇩",
     "population": 275501000,
     "area": 1910931,
@@ -1014,8 +1014,8 @@
     "fullName": "Republic of Indonesia"
   },
   {
-    "code2": "IR",
-    "code3": "IRN",
+    "code": "IR",
+    "codeAlpha3": "IRN",
     "flag": "🇮🇷",
     "population": 86758304,
     "area": 1648195,
@@ -1027,8 +1027,8 @@
     "fullName": "Islamic Republic of Iran"
   },
   {
-    "code2": "IQ",
-    "code3": "IRQ",
+    "code": "IQ",
+    "codeAlpha3": "IRQ",
     "flag": "🇮🇶",
     "population": 42164965,
     "area": 438317,
@@ -1040,8 +1040,8 @@
     "fullName": "Republic of Iraq"
   },
   {
-    "code2": "IE",
-    "code3": "IRL",
+    "code": "IE",
+    "codeAlpha3": "IRL",
     "flag": "🇮🇪",
     "population": 5123536,
     "area": 70273,
@@ -1053,8 +1053,8 @@
     "fullName": "Republic of Ireland"
   },
   {
-    "code2": "IL",
-    "code3": "ISR",
+    "code": "IL",
+    "codeAlpha3": "ISR",
     "flag": "🇮🇱",
     "population": 9364000,
     "area": 20770,
@@ -1066,8 +1066,8 @@
     "fullName": "State of Israel"
   },
   {
-    "code2": "IT",
-    "code3": "ITA",
+    "code": "IT",
+    "codeAlpha3": "ITA",
     "flag": "🇮🇹",
     "population": 59257566,
     "area": 301340,
@@ -1079,8 +1079,8 @@
     "fullName": "Italian Republic"
   },
   {
-    "code2": "JM",
-    "code3": "JAM",
+    "code": "JM",
+    "codeAlpha3": "JAM",
     "flag": "🇯🇲",
     "population": 2961167,
     "area": 10991,
@@ -1092,8 +1092,8 @@
     "fullName": "Jamaica"
   },
   {
-    "code2": "JP",
-    "code3": "JPN",
+    "code": "JP",
+    "codeAlpha3": "JPN",
     "flag": "🇯🇵",
     "population": 125700000,
     "area": 377975,
@@ -1105,8 +1105,8 @@
     "fullName": "State of Japan"
   },
   {
-    "code2": "JO",
-    "code3": "JOR",
+    "code": "JO",
+    "codeAlpha3": "JOR",
     "flag": "🇯🇴",
     "population": 10203140,
     "area": 89342,
@@ -1118,8 +1118,8 @@
     "fullName": "Hashemite Kingdom of Jordan"
   },
   {
-    "code2": "KZ",
-    "code3": "KAZ",
+    "code": "KZ",
+    "codeAlpha3": "KAZ",
     "flag": "🇰🇿",
     "population": 19397998,
     "area": 2724900,
@@ -1131,8 +1131,8 @@
     "fullName": "Republic of Kazakhstan"
   },
   {
-    "code2": "KE",
-    "code3": "KEN",
+    "code": "KE",
+    "codeAlpha3": "KEN",
     "flag": "🇰🇪",
     "population": 55864655,
     "area": 580367,
@@ -1144,8 +1144,8 @@
     "fullName": "Republic of Kenya"
   },
   {
-    "code2": "KI",
-    "code3": "KIR",
+    "code": "KI",
+    "codeAlpha3": "KIR",
     "flag": "🇰🇮",
     "population": 121388,
     "area": 811,
@@ -1157,8 +1157,8 @@
     "fullName": "Republic of Kiribati"
   },
   {
-    "code2": "KP",
-    "code3": "PRK",
+    "code": "KP",
+    "codeAlpha3": "PRK",
     "flag": "🇰🇵",
     "population": 25971909,
     "area": 120538,
@@ -1170,8 +1170,8 @@
     "fullName": "Democratic People's Republic of Korea"
   },
   {
-    "code2": "KR",
-    "code3": "KOR",
+    "code": "KR",
+    "codeAlpha3": "KOR",
     "flag": "🇰🇷",
     "population": 51744876,
     "area": 100210,
@@ -1183,8 +1183,8 @@
     "fullName": "Republic of Korea"
   },
   {
-    "code2": "KW",
-    "code3": "KWT",
+    "code": "KW",
+    "codeAlpha3": "KWT",
     "flag": "🇰🇼",
     "population": 4670713,
     "area": 17818,
@@ -1196,8 +1196,8 @@
     "fullName": "State of Kuwait"
   },
   {
-    "code2": "KG",
-    "code3": "KGZ",
+    "code": "KG",
+    "codeAlpha3": "KGZ",
     "flag": "🇰🇬",
     "population": 6663000,
     "area": 199951,
@@ -1209,8 +1209,8 @@
     "fullName": "Kyrgyz Republic"
   },
   {
-    "code2": "LA",
-    "code3": "LAO",
+    "code": "LA",
+    "codeAlpha3": "LAO",
     "flag": "🇱🇦",
     "population": 7379358,
     "area": 236800,
@@ -1222,8 +1222,8 @@
     "fullName": "Lao People's Democratic Republic"
   },
   {
-    "code2": "LV",
-    "code3": "LVA",
+    "code": "LV",
+    "codeAlpha3": "LVA",
     "flag": "🇱🇻",
     "population": 1830211,
     "area": 64589,
@@ -1235,8 +1235,8 @@
     "fullName": "Republic of Latvia"
   },
   {
-    "code2": "LB",
-    "code3": "LBN",
+    "code": "LB",
+    "codeAlpha3": "LBN",
     "flag": "🇱🇧",
     "population": 5592631,
     "area": 10452,
@@ -1248,8 +1248,8 @@
     "fullName": "Lebanese Republic"
   },
   {
-    "code2": "LS",
-    "code3": "LSO",
+    "code": "LS",
+    "codeAlpha3": "LSO",
     "flag": "🇱🇸",
     "population": 2159000,
     "area": 30355,
@@ -1261,8 +1261,8 @@
     "fullName": "Kingdom of Lesotho"
   },
   {
-    "code2": "LR",
-    "code3": "LBR",
+    "code": "LR",
+    "codeAlpha3": "LBR",
     "flag": "🇱🇷",
     "population": 5358483,
     "area": 111369,
@@ -1274,8 +1274,8 @@
     "fullName": "Republic of Liberia"
   },
   {
-    "code2": "LY",
-    "code3": "LBY",
+    "code": "LY",
+    "codeAlpha3": "LBY",
     "flag": "🇱🇾",
     "population": 7054490,
     "area": 1759541,
@@ -1287,8 +1287,8 @@
     "fullName": "State of Libya"
   },
   {
-    "code2": "LI",
-    "code3": "LIE",
+    "code": "LI",
+    "codeAlpha3": "LIE",
     "flag": "🇱🇮",
     "population": 38557,
     "area": 160,
@@ -1300,8 +1300,8 @@
     "fullName": "Principality of Liechtenstein"
   },
   {
-    "code2": "LT",
-    "code3": "LTU",
+    "code": "LT",
+    "codeAlpha3": "LTU",
     "flag": "🇱🇹",
     "population": 2831000,
     "area": 65300,
@@ -1313,8 +1313,8 @@
     "fullName": "Republic of Lithuania"
   },
   {
-    "code2": "LU",
-    "code3": "LUX",
+    "code": "LU",
+    "codeAlpha3": "LUX",
     "flag": "🇱🇺",
     "population": 660809,
     "area": 2586,
@@ -1326,8 +1326,8 @@
     "fullName": "Grand Duchy of Luxembourg"
   },
   {
-    "code2": "MG",
-    "code3": "MDG",
+    "code": "MG",
+    "codeAlpha3": "MDG",
     "flag": "🇲🇬",
     "population": 28915400,
     "area": 587041,
@@ -1339,8 +1339,8 @@
     "fullName": "Republic of Madagascar"
   },
   {
-    "code2": "MW",
-    "code3": "MWI",
+    "code": "MW",
+    "codeAlpha3": "MWI",
     "flag": "🇲🇼",
     "population": 20405317,
     "area": 118484,
@@ -1352,8 +1352,8 @@
     "fullName": "Republic of Malawi"
   },
   {
-    "code2": "MY",
-    "code3": "MYS",
+    "code": "MY",
+    "codeAlpha3": "MYS",
     "flag": "🇲🇾",
     "population": 33573874,
     "area": 329847,
@@ -1365,8 +1365,8 @@
     "fullName": "Malaysia"
   },
   {
-    "code2": "MV",
-    "code3": "MDV",
+    "code": "MV",
+    "codeAlpha3": "MDV",
     "flag": "🇲🇻",
     "population": 521457,
     "area": 298,
@@ -1378,8 +1378,8 @@
     "fullName": "Republic of Maldives"
   },
   {
-    "code2": "ML",
-    "code3": "MLI",
+    "code": "ML",
+    "codeAlpha3": "MLI",
     "flag": "🇲🇱",
     "population": 22414000,
     "area": 1240192,
@@ -1391,8 +1391,8 @@
     "fullName": "Republic of Mali"
   },
   {
-    "code2": "MT",
-    "code3": "MLT",
+    "code": "MT",
+    "codeAlpha3": "MLT",
     "flag": "🇲🇹",
     "population": 519562,
     "area": 316,
@@ -1404,8 +1404,8 @@
     "fullName": "Republic of Malta"
   },
   {
-    "code2": "MH",
-    "code3": "MHL",
+    "code": "MH",
+    "codeAlpha3": "MHL",
     "flag": "🇲🇭",
     "population": 42050,
     "area": 181,
@@ -1417,8 +1417,8 @@
     "fullName": "Republic of the Marshall Islands"
   },
   {
-    "code2": "MR",
-    "code3": "MRT",
+    "code": "MR",
+    "codeAlpha3": "MRT",
     "flag": "🇲🇷",
     "population": 4649658,
     "area": 1030700,
@@ -1430,8 +1430,8 @@
     "fullName": "Islamic Republic of Mauritania"
   },
   {
-    "code2": "MU",
-    "code3": "MUS",
+    "code": "MU",
+    "codeAlpha3": "MUS",
     "flag": "🇲🇺",
     "population": 1266334,
     "area": 2040,
@@ -1443,8 +1443,8 @@
     "fullName": "Republic of Mauritius"
   },
   {
-    "code2": "MX",
-    "code3": "MEX",
+    "code": "MX",
+    "codeAlpha3": "MEX",
     "flag": "🇲🇽",
     "population": 128455567,
     "area": 1964375,
@@ -1456,8 +1456,8 @@
     "fullName": "United Mexican States"
   },
   {
-    "code2": "FM",
-    "code3": "FSM",
+    "code": "FM",
+    "codeAlpha3": "FSM",
     "flag": "🇫🇲",
     "population": 115023,
     "area": 702,
@@ -1469,8 +1469,8 @@
     "fullName": "Federated States of Micronesia"
   },
   {
-    "code2": "MD",
-    "code3": "MDA",
+    "code": "MD",
+    "codeAlpha3": "MDA",
     "flag": "🇲🇩",
     "population": 2617820,
     "area": 33846,
@@ -1482,8 +1482,8 @@
     "fullName": "Republic of Moldova"
   },
   {
-    "code2": "MC",
-    "code3": "MCO",
+    "code": "MC",
+    "codeAlpha3": "MCO",
     "flag": "🇲🇨",
     "population": 39244,
     "area": 2,
@@ -1495,8 +1495,8 @@
     "fullName": "Principality of Monaco"
   },
   {
-    "code2": "MN",
-    "code3": "MNG",
+    "code": "MN",
+    "codeAlpha3": "MNG",
     "flag": "🇲🇳",
     "population": 3398366,
     "area": 1564116,
@@ -1508,8 +1508,8 @@
     "fullName": "Mongolia"
   },
   {
-    "code2": "ME",
-    "code3": "MNE",
+    "code": "ME",
+    "codeAlpha3": "MNE",
     "flag": "🇲🇪",
     "population": 619211,
     "area": 13812,
@@ -1521,8 +1521,8 @@
     "fullName": "Montenegro"
   },
   {
-    "code2": "MA",
-    "code3": "MAR",
+    "code": "MA",
+    "codeAlpha3": "MAR",
     "flag": "🇲🇦",
     "population": 37840044,
     "area": 446550,
@@ -1534,8 +1534,8 @@
     "fullName": "Kingdom of Morocco"
   },
   {
-    "code2": "MZ",
-    "code3": "MOZ",
+    "code": "MZ",
+    "codeAlpha3": "MOZ",
     "flag": "🇲🇿",
     "population": 32790338,
     "area": 801590,
@@ -1547,8 +1547,8 @@
     "fullName": "Republic of Mozambique"
   },
   {
-    "code2": "MM",
-    "code3": "MMR",
+    "code": "MM",
+    "codeAlpha3": "MMR",
     "flag": "🇲🇲",
     "population": 54409800,
     "area": 676578,
@@ -1560,8 +1560,8 @@
     "fullName": "Republic of the Union of Myanmar"
   },
   {
-    "code2": "NA",
-    "code3": "NAM",
+    "code": "NA",
+    "codeAlpha3": "NAM",
     "flag": "🇳🇦",
     "population": 2587801,
     "area": 825615,
@@ -1573,8 +1573,8 @@
     "fullName": "Republic of Namibia"
   },
   {
-    "code2": "NR",
-    "code3": "NRU",
+    "code": "NR",
+    "codeAlpha3": "NRU",
     "flag": "🇳🇷",
     "population": 10876,
     "area": 21,
@@ -1586,8 +1586,8 @@
     "fullName": "Republic of Nauru"
   },
   {
-    "code2": "NP",
-    "code3": "NPL",
+    "code": "NP",
+    "codeAlpha3": "NPL",
     "flag": "🇳🇵",
     "population": 30034989,
     "area": 147181,
@@ -1599,8 +1599,8 @@
     "fullName": "Federal Democratic Republic of Nepal"
   },
   {
-    "code2": "NL",
-    "code3": "NLD",
+    "code": "NL",
+    "codeAlpha3": "NLD",
     "flag": "🇳🇱",
     "population": 17744406,
     "area": 41543,
@@ -1612,8 +1612,8 @@
     "fullName": "Kingdom of the Netherlands"
   },
   {
-    "code2": "NZ",
-    "code3": "NZL",
+    "code": "NZ",
+    "codeAlpha3": "NZL",
     "flag": "🇳🇿",
     "population": 5084300,
     "area": 268838,
@@ -1625,8 +1625,8 @@
     "fullName": "New Zealand"
   },
   {
-    "code2": "NI",
-    "code3": "NIC",
+    "code": "NI",
+    "codeAlpha3": "NIC",
     "flag": "🇳🇮",
     "population": 6850540,
     "area": 130370,
@@ -1638,8 +1638,8 @@
     "fullName": "Republic of Nicaragua"
   },
   {
-    "code2": "NE",
-    "code3": "NER",
+    "code": "NE",
+    "codeAlpha3": "NER",
     "flag": "🇳🇪",
     "population": 25252723,
     "area": 1267000,
@@ -1651,8 +1651,8 @@
     "fullName": "Republic of Niger"
   },
   {
-    "code2": "NG",
-    "code3": "NGA",
+    "code": "NG",
+    "codeAlpha3": "NGA",
     "flag": "🇳🇬",
     "population": 218541212,
     "area": 923768,
@@ -1664,8 +1664,8 @@
     "fullName": "Federal Republic of Nigeria"
   },
   {
-    "code2": "MK",
-    "code3": "MKD",
+    "code": "MK",
+    "codeAlpha3": "MKD",
     "flag": "🇲🇰",
     "population": 2068451,
     "area": 25713,
@@ -1677,8 +1677,8 @@
     "fullName": "Republic of North Macedonia"
   },
   {
-    "code2": "NO",
-    "code3": "NOR",
+    "code": "NO",
+    "codeAlpha3": "NOR",
     "flag": "🇳🇴",
     "population": 5425270,
     "area": 323802,
@@ -1690,8 +1690,8 @@
     "fullName": "Kingdom of Norway"
   },
   {
-    "code2": "OM",
-    "code3": "OMN",
+    "code": "OM",
+    "codeAlpha3": "OMN",
     "flag": "🇴🇲",
     "population": 4974986,
     "area": 309500,
@@ -1703,8 +1703,8 @@
     "fullName": "Sultanate of Oman"
   },
   {
-    "code2": "PK",
-    "code3": "PAK",
+    "code": "PK",
+    "codeAlpha3": "PAK",
     "flag": "🇵🇰",
     "population": 231402117,
     "area": 881913,
@@ -1716,8 +1716,8 @@
     "fullName": "Islamic Republic of Pakistan"
   },
   {
-    "code2": "PW",
-    "code3": "PLW",
+    "code": "PW",
+    "codeAlpha3": "PLW",
     "flag": "🇵🇼",
     "population": 18092,
     "area": 459,
@@ -1729,8 +1729,8 @@
     "fullName": "Republic of Palau"
   },
   {
-    "code2": "PA",
-    "code3": "PAN",
+    "code": "PA",
+    "codeAlpha3": "PAN",
     "flag": "🇵🇦",
     "population": 4351267,
     "area": 75417,
@@ -1742,8 +1742,8 @@
     "fullName": "Republic of Panama"
   },
   {
-    "code2": "PG",
-    "code3": "PNG",
+    "code": "PG",
+    "codeAlpha3": "PNG",
     "flag": "🇵🇬",
     "population": 10142619,
     "area": 462840,
@@ -1755,8 +1755,8 @@
     "fullName": "Independent State of Papua New Guinea"
   },
   {
-    "code2": "PY",
-    "code3": "PRY",
+    "code": "PY",
+    "codeAlpha3": "PRY",
     "flag": "🇵🇾",
     "population": 7353038,
     "area": 406752,
@@ -1768,8 +1768,8 @@
     "fullName": "Republic of Paraguay"
   },
   {
-    "code2": "PE",
-    "code3": "PER",
+    "code": "PE",
+    "codeAlpha3": "PER",
     "flag": "🇵🇪",
     "population": 33396698,
     "area": 1285216,
@@ -1781,8 +1781,8 @@
     "fullName": "Republic of Peru"
   },
   {
-    "code2": "PH",
-    "code3": "PHL",
+    "code": "PH",
+    "codeAlpha3": "PHL",
     "flag": "🇵🇭",
     "population": 114163719,
     "area": 343448,
@@ -1794,8 +1794,8 @@
     "fullName": "Republic of the Philippines"
   },
   {
-    "code2": "PL",
-    "code3": "POL",
+    "code": "PL",
+    "codeAlpha3": "POL",
     "flag": "🇵🇱",
     "population": 38036118,
     "area": 312696,
@@ -1807,8 +1807,8 @@
     "fullName": "Republic of Poland"
   },
   {
-    "code2": "PT",
-    "code3": "PRT",
+    "code": "PT",
+    "codeAlpha3": "PRT",
     "flag": "🇵🇹",
     "population": 10298252,
     "area": 92212,
@@ -1820,8 +1820,8 @@
     "fullName": "Portuguese Republic"
   },
   {
-    "code2": "QA",
-    "code3": "QAT",
+    "code": "QA",
+    "codeAlpha3": "QAT",
     "flag": "🇶🇦",
     "population": 2695122,
     "area": 11586,
@@ -1833,8 +1833,8 @@
     "fullName": "State of Qatar"
   },
   {
-    "code2": "RO",
-    "code3": "ROU",
+    "code": "RO",
+    "codeAlpha3": "ROU",
     "flag": "🇷🇴",
     "population": 19286123,
     "area": 238397,
@@ -1846,8 +1846,8 @@
     "fullName": "Romania"
   },
   {
-    "code2": "RU",
-    "code3": "RUS",
+    "code": "RU",
+    "codeAlpha3": "RUS",
     "flag": "🇷🇺",
     "population": 145100000,
     "area": 17098242,
@@ -1859,8 +1859,8 @@
     "fullName": "Russian Federation"
   },
   {
-    "code2": "RW",
-    "code3": "RWA",
+    "code": "RW",
+    "codeAlpha3": "RWA",
     "flag": "🇷🇼",
     "population": 13776698,
     "area": 26338,
@@ -1872,8 +1872,8 @@
     "fullName": "Republic of Rwanda"
   },
   {
-    "code2": "KN",
-    "code3": "KNA",
+    "code": "KN",
+    "codeAlpha3": "KNA",
     "flag": "🇰🇳",
     "population": 47606,
     "area": 261,
@@ -1885,8 +1885,8 @@
     "fullName": "Federation of Saint Kitts and Nevis"
   },
   {
-    "code2": "LC",
-    "code3": "LCA",
+    "code": "LC",
+    "codeAlpha3": "LCA",
     "flag": "🇱🇨",
     "population": 184401,
     "area": 616,
@@ -1898,8 +1898,8 @@
     "fullName": "Saint Lucia"
   },
   {
-    "code2": "VC",
-    "code3": "VCT",
+    "code": "VC",
+    "codeAlpha3": "VCT",
     "flag": "🇻🇨",
     "population": 110694,
     "area": 389,
@@ -1911,8 +1911,8 @@
     "fullName": "Saint Vincent and the Grenadines"
   },
   {
-    "code2": "WS",
-    "code3": "WSM",
+    "code": "WS",
+    "codeAlpha3": "WSM",
     "flag": "🇼🇸",
     "population": 218764,
     "area": 2842,
@@ -1924,8 +1924,8 @@
     "fullName": "Independent State of Samoa"
   },
   {
-    "code2": "SM",
-    "code3": "SMR",
+    "code": "SM",
+    "codeAlpha3": "SMR",
     "flag": "🇸🇲",
     "population": 33931,
     "area": 61,
@@ -1937,8 +1937,8 @@
     "fullName": "Republic of San Marino"
   },
   {
-    "code2": "ST",
-    "code3": "STP",
+    "code": "ST",
+    "codeAlpha3": "STP",
     "flag": "🇸🇹",
     "population": 223107,
     "area": 964,
@@ -1950,8 +1950,8 @@
     "fullName": "Democratic Republic of São Tomé and Príncipe"
   },
   {
-    "code2": "SA",
-    "code3": "SAU",
+    "code": "SA",
+    "codeAlpha3": "SAU",
     "flag": "🇸🇦",
     "population": 36408820,
     "area": 2149690,
@@ -1963,8 +1963,8 @@
     "fullName": "Kingdom of Saudi Arabia"
   },
   {
-    "code2": "SN",
-    "code3": "SEN",
+    "code": "SN",
+    "codeAlpha3": "SEN",
     "flag": "🇸🇳",
     "population": 17196301,
     "area": 196722,
@@ -1976,8 +1976,8 @@
     "fullName": "Republic of Senegal"
   },
   {
-    "code2": "RS",
-    "code3": "SRB",
+    "code": "RS",
+    "codeAlpha3": "SRB",
     "flag": "🇷🇸",
     "population": 6804596,
     "area": 77474,
@@ -1989,8 +1989,8 @@
     "fullName": "Republic of Serbia"
   },
   {
-    "code2": "SC",
-    "code3": "SYC",
+    "code": "SC",
+    "codeAlpha3": "SYC",
     "flag": "🇸🇨",
     "population": 98347,
     "area": 455,
@@ -2002,8 +2002,8 @@
     "fullName": "Republic of Seychelles"
   },
   {
-    "code2": "SL",
-    "code3": "SLE",
+    "code": "SL",
+    "codeAlpha3": "SLE",
     "flag": "🇸🇱",
     "population": 8420641,
     "area": 71740,
@@ -2015,8 +2015,8 @@
     "fullName": "Republic of Sierra Leone"
   },
   {
-    "code2": "SG",
-    "code3": "SGP",
+    "code": "SG",
+    "codeAlpha3": "SGP",
     "flag": "🇸🇬",
     "population": 5850342,
     "area": 719,
@@ -2028,8 +2028,8 @@
     "fullName": "Republic of Singapore"
   },
   {
-    "code2": "SK",
-    "code3": "SVK",
+    "code": "SK",
+    "codeAlpha3": "SVK",
     "flag": "🇸🇰",
     "population": 5460185,
     "area": 49035,
@@ -2041,8 +2041,8 @@
     "fullName": "Slovak Republic"
   },
   {
-    "code2": "SI",
-    "code3": "SVN",
+    "code": "SI",
+    "codeAlpha3": "SVN",
     "flag": "🇸🇮",
     "population": 2108977,
     "area": 20273,
@@ -2054,8 +2054,8 @@
     "fullName": "Republic of Slovenia"
   },
   {
-    "code2": "SB",
-    "code3": "SLB",
+    "code": "SB",
+    "codeAlpha3": "SLB",
     "flag": "🇸🇧",
     "population": 720390,
     "area": 28896,
@@ -2067,8 +2067,8 @@
     "fullName": "Solomon Islands"
   },
   {
-    "code2": "SO",
-    "code3": "SOM",
+    "code": "SO",
+    "codeAlpha3": "SOM",
     "flag": "🇸🇴",
     "population": 17065581,
     "area": 637657,
@@ -2080,8 +2080,8 @@
     "fullName": "Federal Republic of Somalia"
   },
   {
-    "code2": "ZA",
-    "code3": "ZAF",
+    "code": "ZA",
+    "codeAlpha3": "ZAF",
     "flag": "🇿🇦",
     "population": 59893885,
     "area": 1221037,
@@ -2093,8 +2093,8 @@
     "fullName": "Republic of South Africa"
   },
   {
-    "code2": "SS",
-    "code3": "SSD",
+    "code": "SS",
+    "codeAlpha3": "SSD",
     "flag": "🇸🇸",
     "population": 11088796,
     "area": 619745,
@@ -2106,8 +2106,8 @@
     "fullName": "Republic of South Sudan"
   },
   {
-    "code2": "ES",
-    "code3": "ESP",
+    "code": "ES",
+    "codeAlpha3": "ESP",
     "flag": "🇪🇸",
     "population": 47415750,
     "area": 505990,
@@ -2119,8 +2119,8 @@
     "fullName": "Kingdom of Spain"
   },
   {
-    "code2": "LK",
-    "code3": "LKA",
+    "code": "LK",
+    "codeAlpha3": "LKA",
     "flag": "🇱🇰",
     "population": 22156000,
     "area": 65610,
@@ -2132,8 +2132,8 @@
     "fullName": "Democratic Socialist Republic of Sri Lanka"
   },
   {
-    "code2": "SD",
-    "code3": "SDN",
+    "code": "SD",
+    "codeAlpha3": "SDN",
     "flag": "🇸🇩",
     "population": 44909353,
     "area": 1861484,
@@ -2145,8 +2145,8 @@
     "fullName": "Republic of Sudan"
   },
   {
-    "code2": "SR",
-    "code3": "SUR",
+    "code": "SR",
+    "codeAlpha3": "SUR",
     "flag": "🇸🇷",
     "population": 623236,
     "area": 163820,
@@ -2158,8 +2158,8 @@
     "fullName": "Republic of Suriname"
   },
   {
-    "code2": "SE",
-    "code3": "SWE",
+    "code": "SE",
+    "codeAlpha3": "SWE",
     "flag": "🇸🇪",
     "population": 10481937,
     "area": 450295,
@@ -2171,8 +2171,8 @@
     "fullName": "Kingdom of Sweden"
   },
   {
-    "code2": "CH",
-    "code3": "CHE",
+    "code": "CH",
+    "codeAlpha3": "CHE",
     "flag": "🇨🇭",
     "population": 8738791,
     "area": 41285,
@@ -2184,8 +2184,8 @@
     "fullName": "Swiss Confederation"
   },
   {
-    "code2": "SY",
-    "code3": "SYR",
+    "code": "SY",
+    "codeAlpha3": "SYR",
     "flag": "🇸🇾",
     "population": 22125249,
     "area": 185180,
@@ -2197,8 +2197,8 @@
     "fullName": "Syrian Arab Republic"
   },
   {
-    "code2": "TJ",
-    "code3": "TJK",
+    "code": "TJ",
+    "codeAlpha3": "TJK",
     "flag": "🇹🇯",
     "population": 10143543,
     "area": 143100,
@@ -2210,8 +2210,8 @@
     "fullName": "Republic of Tajikistan"
   },
   {
-    "code2": "TZ",
-    "code3": "TZA",
+    "code": "TZ",
+    "codeAlpha3": "TZA",
     "flag": "🇹🇿",
     "population": 63298550,
     "area": 945087,
@@ -2223,8 +2223,8 @@
     "fullName": "United Republic of Tanzania"
   },
   {
-    "code2": "TH",
-    "code3": "THA",
+    "code": "TH",
+    "codeAlpha3": "THA",
     "flag": "🇹🇭",
     "population": 71697030,
     "area": 513120,
@@ -2236,8 +2236,8 @@
     "fullName": "Kingdom of Thailand"
   },
   {
-    "code2": "TL",
-    "code3": "TLS",
+    "code": "TL",
+    "codeAlpha3": "TLS",
     "flag": "🇹🇱",
     "population": 1341296,
     "area": 14874,
@@ -2249,8 +2249,8 @@
     "fullName": "Democratic Republic of Timor-Leste"
   },
   {
-    "code2": "TG",
-    "code3": "TGO",
+    "code": "TG",
+    "codeAlpha3": "TGO",
     "flag": "🇹🇬",
     "population": 8644829,
     "area": 56785,
@@ -2262,8 +2262,8 @@
     "fullName": "Togolese Republic"
   },
   {
-    "code2": "TO",
-    "code3": "TON",
+    "code": "TO",
+    "codeAlpha3": "TON",
     "flag": "🇹🇴",
     "population": 100651,
     "area": 747,
@@ -2275,8 +2275,8 @@
     "fullName": "Kingdom of Tonga"
   },
   {
-    "code2": "TT",
-    "code3": "TTO",
+    "code": "TT",
+    "codeAlpha3": "TTO",
     "flag": "🇹🇹",
     "population": 1399491,
     "area": 5128,
@@ -2288,8 +2288,8 @@
     "fullName": "Republic of Trinidad and Tobago"
   },
   {
-    "code2": "TN",
-    "code3": "TUN",
+    "code": "TN",
+    "codeAlpha3": "TUN",
     "flag": "🇹🇳",
     "population": 12046656,
     "area": 163610,
@@ -2301,8 +2301,8 @@
     "fullName": "Republic of Tunisia"
   },
   {
-    "code2": "TR",
-    "code3": "TUR",
+    "code": "TR",
+    "codeAlpha3": "TUR",
     "flag": "🇹🇷",
     "population": 85279553,
     "area": 783562,
@@ -2314,8 +2314,8 @@
     "fullName": "Republic of Türkiye"
   },
   {
-    "code2": "TM",
-    "code3": "TKM",
+    "code": "TM",
+    "codeAlpha3": "TKM",
     "flag": "🇹🇲",
     "population": 6118000,
     "area": 488100,
@@ -2327,8 +2327,8 @@
     "fullName": "Turkmenistan"
   },
   {
-    "code2": "TV",
-    "code3": "TUV",
+    "code": "TV",
+    "codeAlpha3": "TUV",
     "flag": "🇹🇻",
     "population": 11792,
     "area": 26,
@@ -2340,8 +2340,8 @@
     "fullName": "Tuvalu"
   },
   {
-    "code2": "UG",
-    "code3": "UGA",
+    "code": "UG",
+    "codeAlpha3": "UGA",
     "flag": "🇺🇬",
     "population": 47123531,
     "area": 241038,
@@ -2353,8 +2353,8 @@
     "fullName": "Republic of Uganda"
   },
   {
-    "code2": "UA",
-    "code3": "UKR",
+    "code": "UA",
+    "codeAlpha3": "UKR",
     "flag": "🇺🇦",
     "population": 43531422,
     "area": 603550,
@@ -2366,8 +2366,8 @@
     "fullName": "Ukraine"
   },
   {
-    "code2": "AE",
-    "code3": "ARE",
+    "code": "AE",
+    "codeAlpha3": "ARE",
     "flag": "🇦🇪",
     "population": 9890402,
     "area": 83600,
@@ -2379,8 +2379,8 @@
     "fullName": "United Arab Emirates"
   },
   {
-    "code2": "GB",
-    "code3": "GBR",
+    "code": "GB",
+    "codeAlpha3": "GBR",
     "flag": "🇬🇧",
     "population": 67326569,
     "area": 242495,
@@ -2392,8 +2392,8 @@
     "fullName": "United Kingdom of Great Britain and Northern Ireland"
   },
   {
-    "code2": "US",
-    "code3": "USA",
+    "code": "US",
+    "codeAlpha3": "USA",
     "flag": "🇺🇸",
     "population": 334233854,
     "area": 9372610,
@@ -2405,8 +2405,8 @@
     "fullName": "United States of America"
   },
   {
-    "code2": "UY",
-    "code3": "URY",
+    "code": "UY",
+    "codeAlpha3": "URY",
     "flag": "🇺🇾",
     "population": 3473730,
     "area": 176215,
@@ -2418,8 +2418,8 @@
     "fullName": "Eastern Republic of Uruguay"
   },
   {
-    "code2": "UZ",
-    "code3": "UZB",
+    "code": "UZ",
+    "codeAlpha3": "UZB",
     "flag": "🇺🇿",
     "population": 36601000,
     "area": 448978,
@@ -2431,8 +2431,8 @@
     "fullName": "Republic of Uzbekistan"
   },
   {
-    "code2": "VU",
-    "code3": "VUT",
+    "code": "VU",
+    "codeAlpha3": "VUT",
     "flag": "🇻🇺",
     "population": 332212,
     "area": 12189,
@@ -2444,8 +2444,8 @@
     "fullName": "Republic of Vanuatu"
   },
   {
-    "code2": "VE",
-    "code3": "VEN",
+    "code": "VE",
+    "codeAlpha3": "VEN",
     "flag": "🇻🇪",
     "population": 33721168,
     "area": 916445,
@@ -2457,8 +2457,8 @@
     "fullName": "Bolivarian Republic of Venezuela"
   },
   {
-    "code2": "VN",
-    "code3": "VNM",
+    "code": "VN",
+    "codeAlpha3": "VNM",
     "flag": "🇻🇳",
     "population": 97468029,
     "area": 331212,
@@ -2470,8 +2470,8 @@
     "fullName": "Socialist Republic of Vietnam"
   },
   {
-    "code2": "YE",
-    "code3": "YEM",
+    "code": "YE",
+    "codeAlpha3": "YEM",
     "flag": "🇾🇪",
     "population": 34449825,
     "area": 527968,
@@ -2483,8 +2483,8 @@
     "fullName": "Republic of Yemen"
   },
   {
-    "code2": "ZM",
-    "code3": "ZMB",
+    "code": "ZM",
+    "codeAlpha3": "ZMB",
     "flag": "🇿🇲",
     "population": 19473125,
     "area": 752618,
@@ -2496,8 +2496,8 @@
     "fullName": "Republic of Zambia"
   },
   {
-    "code2": "ZW",
-    "code3": "ZWE",
+    "code": "ZW",
+    "codeAlpha3": "ZWE",
     "flag": "🇿🇼",
     "population": 15092171,
     "area": 390757,
@@ -2509,8 +2509,8 @@
     "fullName": "Republic of Zimbabwe"
   },
   {
-    "code2": "HK",
-    "code3": "HKG",
+    "code": "HK",
+    "codeAlpha3": "HKG",
     "flag": "🇭🇰",
     "population": 7413100,
     "area": 1104,
@@ -2522,8 +2522,8 @@
     "fullName": "Hong Kong Special Administrative Region"
   },
   {
-    "code2": "MO",
-    "code3": "MAC",
+    "code": "MO",
+    "codeAlpha3": "MAC",
     "flag": "🇲🇴",
     "population": 683218,
     "area": 30,
@@ -2535,8 +2535,8 @@
     "fullName": "Macao Special Administrative Region"
   },
   {
-    "code2": "TW",
-    "code3": "TWN",
+    "code": "TW",
+    "codeAlpha3": "TWN",
     "flag": "🇹🇼",
     "population": 23570000,
     "area": 36193,
@@ -2548,8 +2548,8 @@
     "fullName": "Taiwan, Province of China"
   },
   {
-    "code2": "PS",
-    "code3": "PSE",
+    "code": "PS",
+    "codeAlpha3": "PSE",
     "flag": "🇵🇸",
     "population": 5227193,
     "area": 6220,
@@ -2561,8 +2561,8 @@
     "fullName": "State of Palestine"
   },
   {
-    "code2": "XK",
-    "code3": "XKX",
+    "code": "XK",
+    "codeAlpha3": "XKX",
     "flag": "🇽🇰",
     "population": 1775378,
     "area": 10908,
@@ -2574,8 +2574,8 @@
     "fullName": "Republic of Kosovo"
   },
   {
-    "code2": "VA",
-    "code3": "VAT",
+    "code": "VA",
+    "codeAlpha3": "VAT",
     "flag": "🇻🇦",
     "population": 800,
     "area": 1,
@@ -2587,8 +2587,8 @@
     "fullName": "Vatican City State"
   },
   {
-    "code2": "PR",
-    "code3": "PRI",
+    "code": "PR",
+    "codeAlpha3": "PRI",
     "flag": "🇵🇷",
     "population": 3285874,
     "area": 9104,
@@ -2600,8 +2600,8 @@
     "fullName": "Commonwealth of Puerto Rico"
   },
   {
-    "code2": "GU",
-    "code3": "GUM",
+    "code": "GU",
+    "codeAlpha3": "GUM",
     "flag": "🇬🇺",
     "population": 168775,
     "area": 544,
@@ -2613,8 +2613,8 @@
     "fullName": "Guam"
   },
   {
-    "code2": "GL",
-    "code3": "GRL",
+    "code": "GL",
+    "codeAlpha3": "GRL",
     "flag": "🇬🇱",
     "population": 56367,
     "area": 2166086,
@@ -2626,8 +2626,8 @@
     "fullName": "Greenland"
   },
   {
-    "code2": "FO",
-    "code3": "FRO",
+    "code": "FO",
+    "codeAlpha3": "FRO",
     "flag": "🇫🇴",
     "population": 53117,
     "area": 1393,
@@ -2639,8 +2639,8 @@
     "fullName": "Faroe Islands"
   },
   {
-    "code2": "NC",
-    "code3": "NCL",
+    "code": "NC",
+    "codeAlpha3": "NCL",
     "flag": "🇳🇨",
     "population": 271407,
     "area": 18575,
@@ -2652,8 +2652,8 @@
     "fullName": "New Caledonia"
   },
   {
-    "code2": "PF",
-    "code3": "PYF",
+    "code": "PF",
+    "codeAlpha3": "PYF",
     "flag": "🇵🇫",
     "population": 283007,
     "area": 4167,
@@ -2665,8 +2665,8 @@
     "fullName": "French Polynesia"
   },
   {
-    "code2": "BM",
-    "code3": "BMU",
+    "code": "BM",
+    "codeAlpha3": "BMU",
     "flag": "🇧🇲",
     "population": 64055,
     "area": 54,
@@ -2678,8 +2678,8 @@
     "fullName": "Bermuda"
   },
   {
-    "code2": "KY",
-    "code3": "CYM",
+    "code": "KY",
+    "codeAlpha3": "CYM",
     "flag": "🇰🇾",
     "population": 68706,
     "area": 264,
@@ -2691,8 +2691,8 @@
     "fullName": "Cayman Islands"
   },
   {
-    "code2": "VI",
-    "code3": "VIR",
+    "code": "VI",
+    "codeAlpha3": "VIR",
     "flag": "🇻🇮",
     "population": 100000,
     "area": 347,
@@ -2704,8 +2704,8 @@
     "fullName": "United States Virgin Islands"
   },
   {
-    "code2": "CW",
-    "code3": "CUW",
+    "code": "CW",
+    "codeAlpha3": "CUW",
     "flag": "🇨🇼",
     "population": 192000,
     "area": 444,
@@ -2717,8 +2717,8 @@
     "fullName": "Curaçao"
   },
   {
-    "code2": "AW",
-    "code3": "ABW",
+    "code": "AW",
+    "codeAlpha3": "ABW",
     "flag": "🇦🇼",
     "population": 112309,
     "area": 180,
@@ -2730,8 +2730,8 @@
     "fullName": "Aruba"
   },
   {
-    "code2": "GI",
-    "code3": "GIB",
+    "code": "GI",
+    "codeAlpha3": "GIB",
     "flag": "🇬🇮",
     "population": 34571,
     "area": 7,
@@ -2743,8 +2743,8 @@
     "fullName": "Gibraltar"
   },
   {
-    "code2": "JE",
-    "code3": "JEY",
+    "code": "JE",
+    "codeAlpha3": "JEY",
     "flag": "🇯🇪",
     "population": 106800,
     "area": 116,
@@ -2756,8 +2756,8 @@
     "fullName": "Bailiwick of Jersey"
   },
   {
-    "code2": "GG",
-    "code3": "GGY",
+    "code": "GG",
+    "codeAlpha3": "GGY",
     "flag": "🇬🇬",
     "population": 67334,
     "area": 78,
@@ -2769,8 +2769,8 @@
     "fullName": "Bailiwick of Guernsey"
   },
   {
-    "code2": "IM",
-    "code3": "IMN",
+    "code": "IM",
+    "codeAlpha3": "IMN",
     "flag": "🇮🇲",
     "population": 84584,
     "area": 572,
@@ -2782,8 +2782,8 @@
     "fullName": "Isle of Man"
   },
   {
-    "code2": "TC",
-    "code3": "TCA",
+    "code": "TC",
+    "codeAlpha3": "TCA",
     "flag": "🇹🇨",
     "population": 45703,
     "area": 948,
@@ -2795,8 +2795,8 @@
     "fullName": "Turks and Caicos Islands"
   },
   {
-    "code2": "VG",
-    "code3": "VGB",
+    "code": "VG",
+    "codeAlpha3": "VGB",
     "flag": "🇻🇬",
     "population": 30423,
     "area": 151,
@@ -2808,8 +2808,8 @@
     "fullName": "Virgin Islands"
   },
   {
-    "code2": "AI",
-    "code3": "AIA",
+    "code": "AI",
+    "codeAlpha3": "AIA",
     "flag": "🇦🇮",
     "population": 18090,
     "area": 91,
@@ -2821,8 +2821,8 @@
     "fullName": "Anguilla"
   },
   {
-    "code2": "MS",
-    "code3": "MSR",
+    "code": "MS",
+    "codeAlpha3": "MSR",
     "flag": "🇲🇸",
     "population": 4390,
     "area": 102,
@@ -2834,8 +2834,8 @@
     "fullName": "Montserrat"
   },
   {
-    "code2": "SH",
-    "code3": "SHN",
+    "code": "SH",
+    "codeAlpha3": "SHN",
     "flag": "🇸🇭",
     "population": 5633,
     "area": 394,
@@ -2847,8 +2847,8 @@
     "fullName": "Saint Helena, Ascension and Tristan da Cunha"
   },
   {
-    "code2": "FK",
-    "code3": "FLK",
+    "code": "FK",
+    "codeAlpha3": "FLK",
     "flag": "🇫🇰",
     "population": 2840,
     "area": 12173,
@@ -2860,8 +2860,8 @@
     "fullName": "Falkland Islands"
   },
   {
-    "code2": "GF",
-    "code3": "GUF",
+    "code": "GF",
+    "codeAlpha3": "GUF",
     "flag": "🇬🇫",
     "population": 294071,
     "area": 83534,
@@ -2873,8 +2873,8 @@
     "fullName": "French Guiana"
   },
   {
-    "code2": "GP",
-    "code3": "GLP",
+    "code": "GP",
+    "codeAlpha3": "GLP",
     "flag": "🇬🇵",
     "population": 400000,
     "area": 1628,
@@ -2886,8 +2886,8 @@
     "fullName": "Guadeloupe"
   },
   {
-    "code2": "MQ",
-    "code3": "MTQ",
+    "code": "MQ",
+    "codeAlpha3": "MTQ",
     "flag": "🇲🇶",
     "population": 350000,
     "area": 1128,
@@ -2899,8 +2899,8 @@
     "fullName": "Martinique"
   },
   {
-    "code2": "RE",
-    "code3": "REU",
+    "code": "RE",
+    "codeAlpha3": "REU",
     "flag": "🇷🇪",
     "population": 895000,
     "area": 2511,
@@ -2912,8 +2912,8 @@
     "fullName": "Réunion"
   },
   {
-    "code2": "MF",
-    "code3": "MAF",
+    "code": "MF",
+    "codeAlpha3": "MAF",
     "flag": "🇲🇫",
     "population": 38002,
     "area": 53,
@@ -2925,8 +2925,8 @@
     "fullName": "Collectivity of Saint Martin"
   },
   {
-    "code2": "PM",
-    "code3": "SPM",
+    "code": "PM",
+    "codeAlpha3": "SPM",
     "flag": "🇵🇲",
     "population": 5794,
     "area": 242,
@@ -2938,8 +2938,8 @@
     "fullName": "Saint Pierre and Miquelon"
   },
   {
-    "code2": "WF",
-    "code3": "WLF",
+    "code": "WF",
+    "codeAlpha3": "WLF",
     "flag": "🇼🇫",
     "population": 11369,
     "area": 142,
@@ -2951,8 +2951,8 @@
     "fullName": "Wallis and Futuna"
   },
   {
-    "code2": "YT",
-    "code3": "MYT",
+    "code": "YT",
+    "codeAlpha3": "MYT",
     "flag": "🇾🇹",
     "population": 256518,
     "area": 374,
@@ -2964,8 +2964,8 @@
     "fullName": "Mayotte"
   },
   {
-    "code2": "AS",
-    "code3": "ASM",
+    "code": "AS",
+    "codeAlpha3": "ASM",
     "flag": "🇦🇸",
     "population": 55312,
     "area": 199,
@@ -2977,8 +2977,8 @@
     "fullName": "American Samoa"
   },
   {
-    "code2": "MP",
-    "code3": "MNP",
+    "code": "MP",
+    "codeAlpha3": "MNP",
     "flag": "🇲🇵",
     "population": 57216,
     "area": 464,
@@ -2990,8 +2990,8 @@
     "fullName": "Commonwealth of the Northern Mariana Islands"
   },
   {
-    "code2": "CX",
-    "code3": "CXR",
+    "code": "CX",
+    "codeAlpha3": "CXR",
     "flag": "🇨🇽",
     "population": 2072,
     "area": 135,
@@ -3003,8 +3003,8 @@
     "fullName": "Territory of Christmas Island"
   },
   {
-    "code2": "CC",
-    "code3": "CCK",
+    "code": "CC",
+    "codeAlpha3": "CCK",
     "flag": "🇨🇨",
     "population": 544,
     "area": 14,
@@ -3016,8 +3016,8 @@
     "fullName": "Cocos (Keeling) Islands"
   },
   {
-    "code2": "NF",
-    "code3": "NFK",
+    "code": "NF",
+    "codeAlpha3": "NFK",
     "flag": "🇳🇫",
     "population": 1748,
     "area": 36,
@@ -3029,8 +3029,8 @@
     "fullName": "Territory of Norfolk Island"
   },
   {
-    "code2": "PN",
-    "code3": "PCN",
+    "code": "PN",
+    "codeAlpha3": "PCN",
     "flag": "🇵🇳",
     "population": 50,
     "area": 47,
@@ -3042,8 +3042,8 @@
     "fullName": "Pitcairn, Henderson, Ducie and Oeno Islands"
   },
   {
-    "code2": "TK",
-    "code3": "TKL",
+    "code": "TK",
+    "codeAlpha3": "TKL",
     "flag": "🇹🇰",
     "population": 1647,
     "area": 12,
@@ -3055,8 +3055,8 @@
     "fullName": "Tokelau"
   },
   {
-    "code2": "NU",
-    "code3": "NIU",
+    "code": "NU",
+    "codeAlpha3": "NIU",
     "flag": "🇳🇺",
     "population": 1549,
     "area": 260,
@@ -3068,8 +3068,8 @@
     "fullName": "Niue"
   },
   {
-    "code2": "CK",
-    "code3": "COK",
+    "code": "CK",
+    "codeAlpha3": "COK",
     "flag": "🇨🇰",
     "population": 17459,
     "area": 236,
@@ -3081,8 +3081,8 @@
     "fullName": "Cook Islands"
   },
   {
-    "code2": "EH",
-    "code3": "ESH",
+    "code": "EH",
+    "codeAlpha3": "ESH",
     "flag": "🇪🇭",
     "population": 612000,
     "area": 266000,
@@ -3094,8 +3094,8 @@
     "fullName": "Western Sahara"
   },
   {
-    "code2": "AX",
-    "code3": "ALA",
+    "code": "AX",
+    "codeAlpha3": "ALA",
     "flag": "🇦🇽",
     "population": 30129,
     "area": 1580,
@@ -3107,8 +3107,8 @@
     "fullName": "Åland Islands"
   },
   {
-    "code2": "BL",
-    "code3": "BLM",
+    "code": "BL",
+    "codeAlpha3": "BLM",
     "flag": "🇧🇱",
     "population": 9131,
     "area": 21,
@@ -3120,8 +3120,8 @@
     "fullName": "Collectivity of Saint Barthélemy"
   },
   {
-    "code2": "IO",
-    "code3": "IOT",
+    "code": "IO",
+    "codeAlpha3": "IOT",
     "flag": "🇮🇴",
     "population": 3000,
     "area": 60,
@@ -3133,8 +3133,8 @@
     "fullName": "British Indian Ocean Territory"
   },
   {
-    "code2": "SX",
-    "code3": "SXM",
+    "code": "SX",
+    "codeAlpha3": "SXM",
     "flag": "🇸🇽",
     "population": 42876,
     "area": 34,
@@ -3146,8 +3146,8 @@
     "fullName": "Sint Maarten"
   },
   {
-    "code2": "BQ",
-    "code3": "BES",
+    "code": "BQ",
+    "codeAlpha3": "BES",
     "flag": "🇧🇶",
     "population": 26223,
     "area": 328,
@@ -3159,8 +3159,8 @@
     "fullName": "Bonaire, Sint Eustatius and Saba"
   },
   {
-    "code2": "TF",
-    "code3": "ATF",
+    "code": "TF",
+    "codeAlpha3": "ATF",
     "flag": "🇹🇫",
     "population": 140,
     "area": 7747,
@@ -3172,8 +3172,8 @@
     "fullName": "French Southern and Antarctic Lands"
   },
   {
-    "code2": "GS",
-    "code3": "SGS",
+    "code": "GS",
+    "codeAlpha3": "SGS",
     "flag": "🇬🇸",
     "population": 30,
     "area": 3903,
@@ -3185,8 +3185,8 @@
     "fullName": "South Georgia and the South Sandwich Islands"
   },
   {
-    "code2": "HM",
-    "code3": "HMD",
+    "code": "HM",
+    "codeAlpha3": "HMD",
     "flag": "🇭🇲",
     "population": 0,
     "area": 412,
@@ -3198,8 +3198,8 @@
     "fullName": "Territory of Heard Island and McDonald Islands"
   },
   {
-    "code2": "AQ",
-    "code3": "ATA",
+    "code": "AQ",
+    "codeAlpha3": "ATA",
     "flag": "🇦🇶",
     "population": 1000,
     "area": 14000000,

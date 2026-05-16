@@ -21,8 +21,8 @@ Other localized translations are split into `/translations/<locale>.json` (one l
 ```json
 [
   {
-    "code2": "CN",
-    "code3": "CHN",
+    "code": "CN",
+    "codeAlpha3": "CHN",
     "flag": "🇨🇳",
     "name": "China",
     "fullName": "People's Republic of China",
@@ -38,8 +38,8 @@ Other localized translations are split into `/translations/<locale>.json` (one l
 
 | Field            | Type       | Required | Description                                                                           |
 | ---------------- | ---------- | -------- | ------------------------------------------------------------------------------------- |
-| `code2`          | `string`   | Yes      | ISO 3166-1 alpha-2 country/region code (2 uppercase letters), e.g. `CN`.              |
-| `code3`          | `string`   | Yes      | ISO 3166-1 alpha-3 country/region code (3 uppercase letters), e.g. `CHN`.             |
+| `code`          | `string`   | Yes      | ISO 3166-1 alpha-2 country/region code (2 uppercase letters), e.g. `CN`.              |
+| `codeAlpha3`          | `string`   | Yes      | ISO 3166-1 alpha-3 country/region code (3 uppercase letters), e.g. `CHN`.             |
 | `flag`           | `string`   | Yes      | Unicode flag emoji for the country/region, e.g. `🇨🇳`.                                 |
 | `name`           | `string`   | Yes      | English short/common country name.                                                    |
 | `fullName`       | `string`   | Yes      | English official/formal country name.                                                 |
