@@ -1,5 +1,8 @@
 # Countries Open Base Data
 
+[![npm version](https://img.shields.io/npm/v/%40openbasedata%2Fcountries)](https://www.npmjs.com/package/@openbasedata/countries)
+[![npm downloads](https://img.shields.io/npm/dm/%40openbasedata%2Fcountries)](https://www.npmjs.com/package/@openbasedata/countries)
+
 ## How To Use
 
 ```bash
