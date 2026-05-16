@@ -10,6 +10,7 @@
 - Renamed country code fields for clarity:
   - `code2` -> `code`
   - `code3` -> `codeAlpha3`
+- Added `codeNumeric` to `data.json` for ISO 3166-1 numeric codes (3-digit string values).
 
 ## 1.0.0 - 2026-05-16
 
