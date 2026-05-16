@@ -140,8 +140,8 @@
     "fullName": "An tSile"
   },
   "CN": {
-    "name": ["Poblacht na Síne", "An tSín"],
-    "fullName": ["Poblacht na Síne", "An tSín"]
+    "name": "Poblacht na Síne",
+    "fullName": "Poblacht na Síne"
   },
   "CO": {
     "name": "An Cholóim",
@@ -152,20 +152,20 @@
     "fullName": "Oileáin Chomóra"
   },
   "CG": {
-    "name": ["Poblacht an Chongó", "An Congó"],
-    "fullName": ["Poblacht an Chongó", "An Congó"]
+    "name": "Poblacht an Chongó",
+    "fullName": "Poblacht an Chongó"
   },
   "CD": {
-    "name": ["Poblacht Dhaonlathach an Chongó", "An Congó"],
-    "fullName": ["Poblacht Dhaonlathach an Chongó", "An Congó"]
+    "name": "Poblacht Dhaonlathach an Chongó",
+    "fullName": "Poblacht Dhaonlathach an Chongó"
   },
   "CR": {
     "name": "Cósta Ríce",
     "fullName": "Cósta Ríce"
   },
   "CI": {
-    "name": ["Cósta Eabhair", "An Cósta Eabhair", "Côte d'Ivoire"],
-    "fullName": ["Cósta Eabhair", "An Cósta Eabhair", "Côte d'Ivoire"]
+    "name": "Cósta Eabhair",
+    "fullName": "Cósta Eabhair"
   },
   "HR": {
     "name": "An Chróit",
@@ -180,8 +180,8 @@
     "fullName": "An Chipir"
   },
   "CZ": {
-    "name": ["Poblacht na Seice", "An tSeicia"],
-    "fullName": ["Poblacht na Seice", "An tSeicia"]
+    "name": "Poblacht na Seice",
+    "fullName": "Poblacht na Seice"
   },
   "DK": {
     "name": "An Danmhairg",
@@ -248,8 +248,8 @@
     "fullName": "An Ghabúin"
   },
   "GM": {
-    "name": ["Poblacht na Gaimbia", "An Ghaimbia"],
-    "fullName": ["Poblacht na Gaimbia", "An Ghaimbia"]
+    "name": "Poblacht na Gaimbia",
+    "fullName": "Poblacht na Gaimbia"
   },
   "GE": {
     "name": "An tSeoirsia",
@@ -312,8 +312,8 @@
     "fullName": "An Indinéis"
   },
   "IR": {
-    "name": ["Poblacht Ioslamach na hIaráine", "An Iaráin"],
-    "fullName": ["Poblacht Ioslamach na hIaráine", "An Iaráin"]
+    "name": "Poblacht Ioslamach na hIaráine",
+    "fullName": "Poblacht Ioslamach na hIaráine"
   },
   "IQ": {
     "name": "An Iaráic",
@@ -360,8 +360,8 @@
     "fullName": "An Chóiré Thuaidh"
   },
   "KR": {
-    "name": ["An Chóiré Theas", "Poblacht na Cóiré", "An Chóiré"],
-    "fullName": ["An Chóiré Theas", "Poblacht na Cóiré", "An Chóiré"]
+    "name": "An Chóiré Theas",
+    "fullName": "An Chóiré Theas"
   },
   "KW": {
     "name": "Cuáit",
@@ -512,8 +512,8 @@
     "fullName": "An Nigéir"
   },
   "MK": {
-    "name": ["Poblacht Iarthar na Macadóine", "An Mhacadóin Thuaidh"],
-    "fullName": ["Poblacht Iarthar na Macadóine", "An Mhacadóin Thuaidh"]
+    "name": "Poblacht Iarthar na Macadóine",
+    "fullName": "Poblacht Iarthar na Macadóine"
   },
   "NO": {
     "name": "An Iorua",
@@ -568,8 +568,8 @@
     "fullName": "An Rómáin"
   },
   "RU": {
-    "name": ["An Rúis", "Cónaidhm na Rúise"],
-    "fullName": ["An Rúis", "Cónaidhm na Rúise"]
+    "name": "An Rúis",
+    "fullName": "An Rúis"
   },
   "RW": {
     "name": "Ruanda",
@@ -680,8 +680,8 @@
     "fullName": "An Táidsíceastáin"
   },
   "TZ": {
-    "name": ["Poblacht Aontaithe na Tansáine", "An Tansáin"],
-    "fullName": ["Poblacht Aontaithe na Tansáine", "An Tansáin"]
+    "name": "Poblacht Aontaithe na Tansáine",
+    "fullName": "Poblacht Aontaithe na Tansáine"
   },
   "TH": {
     "name": "An Téalainn",
@@ -708,8 +708,8 @@
     "fullName": "An Túinéis"
   },
   "TR": {
-    "name": ["An Tuirc", "Tuirc"],
-    "fullName": ["An Tuirc", "Tuirc"]
+    "name": "An Tuirc",
+    "fullName": "An Tuirc"
   },
   "TM": {
     "name": "An Tuircméanastáin",
@@ -732,12 +732,12 @@
     "fullName": "Aontas na nÉimíríochtaí Arabacha"
   },
   "GB": {
-    "name": ["An Ríocht Aontaithe", "An Bhreatain Mhór", "An Ríocht Aontaithe"],
-    "fullName": ["An Ríocht Aontaithe", "An Bhreatain Mhór", "An Ríocht Aontaithe"]
+    "name": "An Ríocht Aontaithe",
+    "fullName": "An Ríocht Aontaithe"
   },
   "US": {
-    "name": ["Stáit Aontaithe Mheiriceá", "Stáit Aontaithe", "SAM", "S.A.M.", "US", "S.A."],
-    "fullName": ["Stáit Aontaithe Mheiriceá", "Stáit Aontaithe", "SAM", "S.A.M.", "US", "S.A."]
+    "name": "Stáit Aontaithe Mheiriceá",
+    "fullName": "Stáit Aontaithe Mheiriceá"
   },
   "UY": {
     "name": "Uragua",
@@ -780,12 +780,12 @@
     "fullName": "Macao"
   },
   "TW": {
-    "name": ["Taiwan, Cúige na Síne", "Taiwan"],
-    "fullName": ["Taiwan, Cúige na Síne", "Taiwan"]
+    "name": "Taiwan, Cúige na Síne",
+    "fullName": "Taiwan, Cúige na Síne"
   },
   "PS": {
-    "name": ["Stát na Palaistíne", "An Phalaistín"],
-    "fullName": ["Stát na Palaistíne", "An Phalaistín"]
+    "name": "Stát na Palaistíne",
+    "fullName": "Stát na Palaistíne"
   },
   "XK": {
     "name": "An Chosaiv",
@@ -932,8 +932,8 @@
     "fullName": "Oileán Norfolk"
   },
   "PN": {
-    "name": ["Oileáin Pitcairn", "Pitcairn"],
-    "fullName": ["Oileáin Pitcairn", "Pitcairn"]
+    "name": "Oileáin Pitcairn",
+    "fullName": "Oileáin Pitcairn"
   },
   "TK": {
     "name": "Tokelau",
@@ -952,8 +952,8 @@
     "fullName": "An Sahára Thiar"
   },
   "AX": {
-    "name": ["Oileáin Åland", "Oileáin Aland"],
-    "fullName": ["Oileáin Åland", "Oileáin Aland"]
+    "name": "Oileáin Åland",
+    "fullName": "Oileáin Åland"
   },
   "BL": {
     "name": "Saint Barthélemy",
